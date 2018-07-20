@@ -1,0 +1,12 @@
+{
+  "name": "postcodejs",
+  "version": "0.0.1",
+  "description": "A worldwide postcode discription lib",
+  "main": "index.js",
+  "repository": "git@github.com:storehubnet/postcodejs.git",
+  "author": "Fan Long <cctv1237@live.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+  }
+}

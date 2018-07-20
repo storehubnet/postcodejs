@@ -1,0 +1,8 @@
+{
+    "MY": {
+        "state": true,
+        "district": true,
+        "city": true,
+        "area": true
+    }
+}
