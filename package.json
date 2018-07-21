@@ -8,5 +8,19 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "jest": "^23.4.1"
+  },
+  "jest": {
+    "bail": false,
+    "verbose": true,
+    "moduleFileExtensions": [ 
+      "js"
+    ],
+    "testMatch": [
+      "<rootDir>/src/__tests__/(*.)(spec|test).js?(x)"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
