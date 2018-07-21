@@ -7,6 +7,10 @@
   "author": "Fan Long <cctv1237@live.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.4.1"
   }
 }
