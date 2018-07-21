@@ -1,6 +1,6 @@
 {
   "name": "postcodejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A worldwide postcode description library",
   "main": "src/index.js",
   "repository": "git@github.com:storehubnet/postcodejs.git",
