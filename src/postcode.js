@@ -2,6 +2,25 @@ const error = require('./error')
 const postcodes = require('./countries').postcodes;
 const supportedCountries = require('./countries').features;
 
+const search = (countryCode, prefixPostcode) => {
+    if (!supportedCountries[countryCode]) {
+        throw error.countryNotSupport(countryCode);
+    }
+
+    if (typeof prefixPostcode === 'number') {
+        prefixPostcode = postcode.toString();
+    }
+
+    const theCountryPostcodeList = postcodes[countryCode];
+
+    return Object.keys(theCountryPostcodeList)
+        .filter(code => new RegExp(`^${prefixPostcode}`).test(code))
+        .map(code => ({
+            ...theCountryPostcodeList[code],
+            postcode: code,
+        }));
+};
+
 const postcode = (countryCode, postcode) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
@@ -82,6 +101,7 @@ const districtPostcodes = (countryCode, district) => {
 }
 
 module.exports = {
+    search,
     postcode,
     statePostcodes,
     cityPostcodes,
