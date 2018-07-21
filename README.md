@@ -16,6 +16,9 @@
 ## Usage
 
 ```js
+  postcode.search('MY', '96')
+  postcode.search('MY', 96)
+
   postcode.postcode('MY', '96507')
   postcode.postcode('MY', 96507)
 
@@ -23,6 +26,9 @@
   postcode.districtPostcodes('MY', 'Padang Terap')
   postcode.cityPostcodes('MY', 'Kangar')
 ```
+
+## Version
+0.0.3
 
 ## License
 
