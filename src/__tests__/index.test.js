@@ -18,6 +18,11 @@ describe('postcodejs:jest', () => {
         expect(res).toMatchSnapshot();
     });
 
+    test('Func:statePostcodes withInfo', () => {
+        const res = postcode.statePostcodes('MY', 'Selangor', true, false);
+        expect(res).toMatchSnapshot();
+    });
+
     test('Func:districtPostcodes', () => {
         const res = postcode.districtPostcodes('MY', 'Padang Terap');
         expect(res).toMatchSnapshot();

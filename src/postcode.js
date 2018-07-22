@@ -2,6 +2,22 @@ const error = require('./error')
 const postcodes = require('./countries').postcodes;
 const supportedCountries = require('./countries').features;
 
+const postcode = (countryCode, postcode) => {
+    if (!supportedCountries[countryCode]) {
+        throw error.countryNotSupport(countryCode);
+    }
+
+    if (typeof postcode == 'number') {
+        postcode = postcode.toString();
+    }
+
+    if (!postcodes[countryCode][postcode]) {
+        throw error.cannotFindPostcode(countryCode, postcode);
+    }
+
+    return postcodes[countryCode][postcode];
+}
+
 const search = (countryCode, prefixPostcode) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
@@ -21,23 +37,7 @@ const search = (countryCode, prefixPostcode) => {
         }));
 };
 
-const postcode = (countryCode, postcode) => {
-    if (!supportedCountries[countryCode]) {
-        throw error.countryNotSupport(countryCode);
-    }
-
-    if (typeof postcode == 'number') {
-        postcode = postcode.toString();
-    }
-
-    if (!postcodes[countryCode][postcode]) {
-        throw error.cannotFindPostcode(countryCode, postcode);
-    }
-
-    return postcodes[countryCode][postcode];
-}
-
-const statePostcodes = (countryCode, state) => {
+const statePostcodes = (countryCode, state, hasInfo, infoIncludesArea) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
     }
@@ -46,19 +46,10 @@ const statePostcodes = (countryCode, state) => {
         throw error.countryNotSupportState(countryCode);
     }
 
-    const statePostcodes = [];
-    for (const postcode in postcodes[countryCode]) {
-        if (postcodes[countryCode].hasOwnProperty(postcode)) {
-            const postcodeInfo = postcodes[countryCode][postcode];
-            if (postcodeInfo.state === state) {
-                statePostcodes.push(postcode);
-            }
-        }
-    }
-    return statePostcodes;
+    return postcodesByFilter(countryCode, `state`, state, hasInfo, infoIncludesArea);
 }
 
-const cityPostcodes = (countryCode, city) => {
+const cityPostcodes = (countryCode, city, hasInfo, infoIncludesArea) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
     }
@@ -67,19 +58,10 @@ const cityPostcodes = (countryCode, city) => {
         throw error.countryNotSupportCity(countryCode);
     }
 
-    const cityPostcodes = [];
-    for (const postcode in postcodes[countryCode]) {
-        if (postcodes[countryCode].hasOwnProperty(postcode)) {
-            const postcodeInfo = postcodes[countryCode][postcode];
-            if (postcodeInfo.city === city) {
-                cityPostcodes.push(postcode);
-            }
-        }
-    }
-    return cityPostcodes;
+    return postcodesByFilter(countryCode, `city`, city, hasInfo, infoIncludesArea);
 }
 
-const districtPostcodes = (countryCode, district) => {
+const districtPostcodes = (countryCode, district, hasInfo, infoIncludesArea) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
     }
@@ -88,21 +70,32 @@ const districtPostcodes = (countryCode, district) => {
         throw error.countryNotSupportDistrict(countryCode);
     }
 
-    const districtPostcodes = [];
+    return postcodesByFilter(countryCode, `district`, district, hasInfo, infoIncludesArea);
+}
+
+function postcodesByFilter(countryCode, filterType, filter, hasInfo, infoIncludesArea) {
+    const filteredPostcodes = [];
     for (const postcode in postcodes[countryCode]) {
         if (postcodes[countryCode].hasOwnProperty(postcode)) {
             const postcodeInfo = postcodes[countryCode][postcode];
-            if (postcodeInfo.district === district) {
-                districtPostcodes.push(postcode);
+            if (postcodeInfo[filterType] === filter) {
+                if (!infoIncludesArea) {
+                    delete postcodeInfo.area;
+                }
+                if (hasInfo) {
+                    filteredPostcodes.push({...postcodeInfo, ...{ postcode: postcode }});
+                } else {
+                    filteredPostcodes.push(postcode);
+                }
             }
         }
     }
-    return districtPostcodes;
+    return filteredPostcodes;
 }
 
 module.exports = {
-    search,
     postcode,
+    search,
     statePostcodes,
     cityPostcodes,
     districtPostcodes,
