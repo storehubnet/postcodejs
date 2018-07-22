@@ -1,6 +1,8 @@
 # postcodejs
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
+![npm](https://img.shields.io/npm/v/npm.svg)
+
 
 `postcodejs` is a nodejs library for query worldwide postcode descriptions
 
@@ -16,6 +18,8 @@
 ## Usage
 
 ```js
+  const postcode = require('postcodejs')
+
   postcode.search('MY', '96')
   postcode.search('MY', 96)
 
@@ -23,12 +27,14 @@
   postcode.postcode('MY', 96507)
 
   postcode.statePostcodes ('MY', 'Sarawak')
+  postcode.statePostcodes ('MY', 'Sarawak', true, false)
+
   postcode.districtPostcodes('MY', 'Padang Terap')
   postcode.cityPostcodes('MY', 'Kangar')
 ```
 
 ## Version
-0.0.3
+0.0.4
 
 ## License
 
