@@ -59,4 +59,18 @@ describe('postcodejs:jest', () => {
         const result = postcode.search('MY', "12");
         expect(result.length).toBe(8);
     });
+
+    test('get postcode array', () => {
+        const result = postcode.postcode('MY', [12000, 13009]);
+        expect(result.length).toBe(2);
+        expect(result[1].postcode).toBe('13009');
+        expect(result[1].city).toBe('Butterworth');
+        expect(result[1].state).toBe('Penang');
+    });
+
+    test('get postcode empty array', () => {
+        const result = postcode.postcode('MY', []);
+        expect(result.length).toBe(0);
+        expect(Array.isArray(result)).toBe(true);
+    });
 });

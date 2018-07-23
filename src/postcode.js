@@ -7,8 +7,11 @@ const postcode = (countryCode, postcode) => {
         throw error.countryNotSupport(countryCode);
     }
 
-    if (typeof postcode == 'number') {
-        postcode = postcode.toString();
+    if (Array.isArray(postcode)) {
+        return postcode.map(postcode => ({
+            ...postcodes[countryCode][postcode],
+            postcode: `${postcode}`,
+        }));
     }
 
     if (!postcodes[countryCode][postcode]) {
