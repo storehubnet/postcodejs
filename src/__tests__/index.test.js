@@ -18,6 +18,16 @@ describe('postcodejs:jest', () => {
         expect(res).toMatchSnapshot();
     });
 
+    test('Func:statePostcodes - state array', () => {
+        const res = postcode.statePostcodes('MY', ['Sarawak', 'Kelantan']);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes withInfo - state array', () => {
+        const res = postcode.statePostcodes('MY', ['Sarawak', 'Kelantan'], true, false);
+        expect(res).toMatchSnapshot();
+    });
+
     test('Func:statePostcodes withInfo', () => {
         const res = postcode.statePostcodes('MY', 'Selangor', true, false);
         expect(res).toMatchSnapshot();
