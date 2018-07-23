@@ -36,6 +36,9 @@
 ## Version
 0.0.4
 
+## Not Support Your Country?
+We welcome pull requests and if you have data of your country we are happy for you to jion us~
+
 ## License
 
 This code is distributed under the terms and conditions of the [MIT license](LICENSE).
