@@ -27,7 +27,9 @@
   postcode.postcode('MY', 96507)
 
   postcode.statePostcodes ('MY', 'Sarawak')
+  postcode.statePostcodes ('MY', ['Sarawak', 'Kelantan'])
   postcode.statePostcodes ('MY', 'Sarawak', true, false)
+  postcode.statePostcodes ('MY', ['Sarawak', 'Kelantan'], true, false)
 
   postcode.districtPostcodes('MY', 'Padang Terap')
   postcode.cityPostcodes('MY', 'Kangar')
