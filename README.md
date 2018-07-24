@@ -38,7 +38,7 @@
 ```
 
 ## Version
-0.0.6
+0.0.7
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~
