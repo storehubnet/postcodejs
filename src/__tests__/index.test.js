@@ -13,6 +13,11 @@ describe('postcodejs:jest', () => {
         expect(res).toMatchSnapshot();
     });
 
+    test('Func:states', () => {
+        const res = postcode.states('MY');
+        expect(res).toMatchSnapshot();
+    });
+
     test('Func:statePostcodes', () => {
         const res = postcode.statePostcodes('MY', 'Sarawak');
         expect(res).toMatchSnapshot();

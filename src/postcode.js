@@ -37,6 +37,27 @@ const search = (countryCode, prefixPostcode) => {
         }));
 };
 
+const states = (countryCode) => {
+    if (!supportedCountries[countryCode]) {
+        throw error.countryNotSupport(countryCode);
+    }
+
+    if (!supportedCountries[countryCode].state) {
+        throw error.countryNotSupportState(countryCode);
+    }
+
+    const states = [];
+    for (const postcode in postcodes[countryCode]) {
+        if (postcodes[countryCode].hasOwnProperty(postcode)) {
+            const postcodeInfo = postcodes[countryCode][postcode];
+            if (states.indexOf(postcodeInfo.state) == -1) {
+                states.push(postcodeInfo.state);
+            }
+        }
+    }
+    return states;
+};
+
 const statePostcodes = (countryCode, state, hasInfo, infoIncludesArea) => {
     if (!supportedCountries[countryCode]) {
         throw error.countryNotSupport(countryCode);
@@ -99,6 +120,7 @@ function postcodesByFilter(countryCode, filterType, filter, hasInfo, infoInclude
 module.exports = {
     postcode,
     search,
+    states,
     statePostcodes,
     cityPostcodes,
     districtPostcodes,

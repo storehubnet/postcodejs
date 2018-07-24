@@ -26,6 +26,8 @@
   postcode.postcode('MY', '96507')
   postcode.postcode('MY', 96507)
 
+  postcode.states('MY')
+
   postcode.statePostcodes ('MY', 'Sarawak')
   postcode.statePostcodes ('MY', ['Sarawak', 'Kelantan'])
   postcode.statePostcodes ('MY', 'Sarawak', true, false)
@@ -36,7 +38,7 @@
 ```
 
 ## Version
-0.0.5
+0.0.6
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~

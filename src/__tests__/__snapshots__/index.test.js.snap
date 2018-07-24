@@ -4027,3 +4027,23 @@ Array [
   },
 ]
 `;
+
+exports[`postcodejs:jest Func:states 1`] = `
+Array [
+  "Perlis",
+  "Kedah",
+  "Penang",
+  "Kelantan",
+  "Terengganu",
+  "Pahang",
+  "Perak",
+  "Selangor",
+  "Kuala Lumpur",
+  "Putrajaya",
+  "Negeri Sembilan",
+  "Melaka",
+  "Johor",
+  "Sabah ",
+  "Sarawak",
+]
+`;
