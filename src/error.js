@@ -7,7 +7,7 @@ const countryNotSupport = (countryCode) => {
 }
 
 const countryNotSupportState = (countryCode) => {
-    return Error(`${countryCode} did not support state`);
+    return Error(`${countryCode} did not support state or province`);
 }
 
 const countryNotSupportCity = (countryCode) => {

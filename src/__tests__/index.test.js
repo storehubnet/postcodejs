@@ -2,7 +2,7 @@
 
 const postcode = require('../index');
 
-describe('postcodejs:jest', () => {
+describe('postcodejs:MY:jest', () => {
     test('Func:postcode:String', () => {
         const res = postcode.postcode('MY', '96507');
         expect(res).toMatchSnapshot();
@@ -73,5 +73,54 @@ describe('postcodejs:jest', () => {
     test('search postcode to match multiple', () => {
         const result = postcode.search('MY', "12");
         expect(result.length).toBe(8);
+    });
+});
+
+describe('postcodejs:TH:jest', () => {
+    test('Func:postcode:String', () => {
+        const res = postcode.postcode('TH', '15120');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:postcode:Number', () => {
+        const res = postcode.postcode('TH', 15120);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:states', () => {
+        const res = postcode.states('TH');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes', () => {
+        const res = postcode.statePostcodes('TH', 'Bangkok');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes - state array', () => {
+        const res = postcode.statePostcodes('TH', ['Bangkok', 'Saraburi']);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes withInfo - state array', () => {
+        const res = postcode.statePostcodes('TH', ['Bangkok', 'Saraburi'], true, false);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes withInfo', () => {
+        const res = postcode.statePostcodes('TH', 'Chachoengsao', true, false);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:districtPostcodes', () => {
+        const res = postcode.districtPostcodes('TH', 'Wattana');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('search full postcode to match only one', () => {
+        const result = postcode.search('TH', "31210");
+        expect(result.length).toBe(1);
+        expect(result[0].state).toBe('Burirum');
+        expect(result[0].postcode).toBe('31210');
     });
 });

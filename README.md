@@ -15,6 +15,10 @@
 ### npm
 `npm install postcodejs -s`
 
+## Suportted Countries
+Malaysia: `MY`
+Thailand: `TH`
+
 ## Usage
 
 ```js
@@ -26,6 +30,7 @@
   postcode.postcode('MY', '96507')
   postcode.postcode('MY', 96507)
 
+  //get states or province
   postcode.states('MY')
 
   postcode.statePostcodes ('MY', 'Sarawak')
@@ -38,7 +43,7 @@
 ```
 
 ## Version
-0.0.7
+0.0.8
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~

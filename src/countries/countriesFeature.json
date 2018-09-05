@@ -4,5 +4,9 @@
         "district": true,
         "city": true,
         "area": true
+    },
+    "TH": {
+        "state": true,
+        "district": true
     }
 }
