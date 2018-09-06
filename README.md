@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 ![npm](https://img.shields.io/npm/v/npm.svg)
+[![NPM](https://nodei.co/npm/postcodejs.png?compact=true)](https://nodei.co/npm/postcodejs/)
 
 
 `postcodejs` is a nodejs library for query worldwide postcode descriptions
@@ -43,7 +44,7 @@ Thailand: `TH`
 ```
 
 ## Version
-0.0.9
+1.0.0
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~
