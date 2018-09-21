@@ -43,7 +43,7 @@ Thailand: `TH`
 ```
 
 ## Version
-0.1.0
+0.1.1
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~
