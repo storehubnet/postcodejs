@@ -4574,6 +4574,557 @@ Array [
 ]
 `;
 
+exports[`postcodejs:PH:jest Func:cityPostcodes 1`] = `
+Array [
+  "8701",
+]
+`;
+
+exports[`postcodejs:PH:jest Func:postcode:Number 1`] = `
+Object {
+  "city": "Buli/Cupang",
+  "state": "Muntinlupa City",
+}
+`;
+
+exports[`postcodejs:PH:jest Func:postcode:String 1`] = `
+Object {
+  "city": "Buli/Cupang",
+  "state": "Muntinlupa City",
+}
+`;
+
+exports[`postcodejs:PH:jest Func:statePostcodes - state array 1`] = `
+Array [
+  "3000",
+  "3001",
+  "3002",
+  "3003",
+  "3004",
+  "3005",
+  "3006",
+  "3007",
+  "3008",
+  "3009",
+  "3010",
+  "3011",
+  "3012",
+  "3013",
+  "3014",
+  "3015",
+  "3016",
+  "3017",
+  "3018",
+  "3019",
+  "3020",
+  "3021",
+  "3022",
+  "3023",
+  "3024",
+  "8300",
+  "8301",
+  "8302",
+  "8303",
+  "8304",
+  "8305",
+  "8306",
+  "8307",
+  "8308",
+  "8309",
+  "8310",
+  "8311",
+  "8312",
+  "8313",
+  "8314",
+  "8315",
+  "8316",
+  "8317",
+  "8318",
+]
+`;
+
+exports[`postcodejs:PH:jest Func:statePostcodes 1`] = `
+Array [
+  "3000",
+  "3001",
+  "3002",
+  "3003",
+  "3004",
+  "3005",
+  "3006",
+  "3007",
+  "3008",
+  "3009",
+  "3010",
+  "3011",
+  "3012",
+  "3013",
+  "3014",
+  "3015",
+  "3016",
+  "3017",
+  "3018",
+  "3019",
+  "3020",
+  "3021",
+  "3022",
+  "3023",
+  "3024",
+]
+`;
+
+exports[`postcodejs:PH:jest Func:statePostcodes withInfo - state array 1`] = `
+Array [
+  Object {
+    "city": "Malolos City",
+    "postcode": "3000",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Paombong",
+    "postcode": "3001",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Hagonoy",
+    "postcode": "3002",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Calumpit",
+    "postcode": "3003",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Plaridel",
+    "postcode": "3004",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Pulilan",
+    "postcode": "3005",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Baliuag",
+    "postcode": "3006",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Bustos",
+    "postcode": "3007",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "San Rafael",
+    "postcode": "3008",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Dona Remedios Trinidad",
+    "postcode": "3009",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "San Ildefonso",
+    "postcode": "3010",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "San Miguel",
+    "postcode": "3011",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Angat",
+    "postcode": "3012",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Norzagaray",
+    "postcode": "3013",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Pandi",
+    "postcode": "3014",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Guiguinto",
+    "postcode": "3015",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Balagtas (Bigaa)",
+    "postcode": "3016",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Bulacan",
+    "postcode": "3017",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Bocaue",
+    "postcode": "3018",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Marilao",
+    "postcode": "3019",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Meycauayan City",
+    "postcode": "3020",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Obando",
+    "postcode": "3021",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Santa Maria",
+    "postcode": "3022",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "San Jose del Monte City",
+    "postcode": "3023",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Sapang Palay, San Jose del Monte City",
+    "postcode": "3024",
+    "state": "Bulacan",
+  },
+  Object {
+    "city": "Tandag",
+    "postcode": "8300",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "San Miguel",
+    "postcode": "8301",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Tago",
+    "postcode": "8302",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Bayabas",
+    "postcode": "8303",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Cagwait",
+    "postcode": "8304",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "San Agustin",
+    "postcode": "8305",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Marihatag",
+    "postcode": "8306",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Lianga",
+    "postcode": "8307",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Tagbina",
+    "postcode": "8308",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Barobo",
+    "postcode": "8309",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Hinatuan",
+    "postcode": "8310",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Bislig",
+    "postcode": "8311",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Lingig",
+    "postcode": "8312",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Cortez",
+    "postcode": "8313",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Lanuza",
+    "postcode": "8314",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Carmen",
+    "postcode": "8315",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Madrid",
+    "postcode": "8316",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Cantillan",
+    "postcode": "8317",
+    "state": "Surigao del Sur",
+  },
+  Object {
+    "city": "Carrascal",
+    "postcode": "8318",
+    "state": "Surigao del Sur",
+  },
+]
+`;
+
+exports[`postcodejs:PH:jest Func:statePostcodes withInfo 1`] = `
+Array [
+  Object {
+    "city": "Malaybalay City",
+    "postcode": "8700",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Sumilao",
+    "postcode": "8701",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Impasugong",
+    "postcode": "8702",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Manolo Fortich",
+    "postcode": "8703",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Malitbog",
+    "postcode": "8704",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Phillips",
+    "postcode": "8705",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Libona",
+    "postcode": "8706",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Baungon",
+    "postcode": "8707",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Talakag",
+    "postcode": "8708",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Valencia City",
+    "postcode": "8709",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Musuan",
+    "postcode": "8710",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "San Fernando",
+    "postcode": "8711",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Don Carlos",
+    "postcode": "8712",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Kadingilan",
+    "postcode": "8713",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Maramag",
+    "postcode": "8714",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Quezon",
+    "postcode": "8715",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Kitaotao",
+    "postcode": "8716",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Pangantucan",
+    "postcode": "8717",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Kalilangan",
+    "postcode": "8718",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Dangcagan",
+    "postcode": "8719",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Kibawe",
+    "postcode": "8720",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Damulog",
+    "postcode": "8721",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Lantapan",
+    "postcode": "8722",
+    "state": "Bukidnon",
+  },
+  Object {
+    "city": "Cabanglasan",
+    "postcode": "8723",
+    "state": "Bukidnon",
+  },
+]
+`;
+
+exports[`postcodejs:PH:jest Func:states 1`] = `
+Array [
+  "San Juan City",
+  "Valenzuela City",
+  "Makati City",
+  "Quezon City",
+  "Manila",
+  "Pasay City",
+  "Parañaque City",
+  "Caloocan City",
+  "Navotas City",
+  "Malabon City",
+  "Mandaluyong City",
+  "Pasig City",
+  "Pateros",
+  "Taguig City",
+  "Las Piñas City",
+  "Muntinlupa City",
+  "Marikina City",
+  "Rizal",
+  "Pampanga",
+  "Bataan",
+  "Zambales",
+  "Tarlac",
+  "Pangasinan",
+  "La Union",
+  "Benguet",
+  "Mountain Province",
+  "Ilocos Sur",
+  "Abra",
+  "Ilocos Norte",
+  "Bulacan",
+  "Nueva Ecija",
+  "Aurora",
+  "Isabela",
+  "Quirino",
+  "Cagayan",
+  "Ifugao",
+  "Nueva Vizcaya",
+  "Kalinga",
+  "Apayao",
+  "Batanes",
+  "Laguna",
+  "Cavite",
+  "Batangas",
+  "Quezon",
+  "Camarines Sur",
+  "Albay",
+  "Camarines Norte",
+  "Sorsogon",
+  "Catanduanes",
+  "Marinduque",
+  "Iloilo",
+  "Guimaras",
+  "Occidental Mindoro",
+  "Oriental Mindoro",
+  "Palawan",
+  "Masbate",
+  "Romblon",
+  "Aklan",
+  "Antique",
+  "Capiz",
+  "Cebu",
+  "Negros Occidental",
+  "Negros Oriental",
+  "Siquijor",
+  "Bohol",
+  "Northern Samar",
+  "Leyte",
+  "Biliran",
+  "Southern Leyte",
+  "Western Samar",
+  "Eastern Samar",
+  "Zamboanga del Sur",
+  "Zamboanga Sibugay",
+  "Zamboanga del Norte",
+  "Misamis Occidental",
+  "Basilan",
+  "Sulu",
+  "Davao del Sur",
+  "Davao del Norte",
+  "Compostela Valley",
+  "Surigao del Sur",
+  "Surigao del Norte",
+  "Dinagat Islands",
+  "Agusan del Sur",
+  "Agusan del Norte",
+  "Bukidnon",
+  "Misamis Oriental",
+  "Camiguin",
+  "Lanao del Norte",
+  "Lanao del Sur",
+  "Cotabato",
+  "South Cotabato",
+  "Sarangani",
+  "Maguindanao",
+  "Shariff Kabunsuan",
+  "Sultan Kudarat",
+  "province",
+]
+`;
+
 exports[`postcodejs:TH:jest Func:districtPostcodes 1`] = `
 Array [
   "10110",

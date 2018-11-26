@@ -124,3 +124,52 @@ describe('postcodejs:TH:jest', () => {
         expect(result[0].postcode).toBe('31210');
     });
 });
+
+describe('postcodejs:PH:jest', () => {
+    test('Func:postcode:String', () => {
+        const res = postcode.postcode('PH', '1771');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:postcode:Number', () => {
+        const res = postcode.postcode('PH', 1771);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:states', () => {
+        const res = postcode.states('PH');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes', () => {
+        const res = postcode.statePostcodes('PH', 'Bulacan');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes - state array', () => {
+        const res = postcode.statePostcodes('PH', ['Bulacan', 'Surigao del Sur']);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes withInfo - state array', () => {
+        const res = postcode.statePostcodes('PH', ['Bulacan', 'Surigao del Sur'], true, false);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:statePostcodes withInfo', () => {
+        const res = postcode.statePostcodes('PH', 'Bukidnon', true, false);
+        expect(res).toMatchSnapshot();
+    });
+
+    test('Func:cityPostcodes', () => {
+        const res = postcode.cityPostcodes('PH', 'Sumilao');
+        expect(res).toMatchSnapshot();
+    });
+
+    test('search full postcode to match only one', () => {
+        const result = postcode.search('PH', "2013");
+        expect(result.length).toBe(1);
+        expect(result[0].state).toBe('Pampanga');
+        expect(result[0].postcode).toBe('2013');
+    });
+});
