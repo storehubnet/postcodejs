@@ -8,5 +8,9 @@
     "TH": {
         "state": true,
         "district": true
+    },
+    "PH": {
+        "state": true,
+        "city": true
     }
 }

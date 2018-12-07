@@ -17,8 +17,9 @@
 `npm install postcodejs -s`
 
 ## Suportted Countries
-Malaysia: `MY`
-Thailand: `TH`
+`MY`: Malaysia
+`TH`: Thailand
+`PH`: Philippines
 
 ## Usage
 
@@ -45,6 +46,9 @@ Thailand: `TH`
 
 ## Version
 1.0.0
+
+## What's new?
+Added Philippines zipcodes!
 
 ## Not Support Your Country?
 We welcome pull requests and if you have data of your country we are happy for you to jion us~

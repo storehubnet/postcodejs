@@ -1,0 +1,8514 @@
+{
+    "400": {
+        "city": "International Correspondence School",
+        "state": "San Juan City"
+    },
+    "401": {
+        "city": "Asian Development Bank",
+        "state": "San Juan City"
+    },
+    "410": {
+        "city": "Radio Bible Class",
+        "state": "San Juan City"
+    },
+    "420": {
+        "city": "Bible School on the Air",
+        "state": "San Juan City"
+    },
+    "550": {
+        "city": "Febias College of Bible",
+        "state": "Valenzuela City"
+    },
+    "560": {
+        "city": "Far East Broadcasting Corporation",
+        "state": "Valenzuela City"
+    },
+    "700": {
+        "city": "Plain-Truth",
+        "state": "Makati City"
+    },
+    "701": {
+        "city": "Colgate Palmolive Philippines",
+        "state": "Makati City"
+    },
+    "702": {
+        "city": "Citibank",
+        "state": "Makati City"
+    },
+    "703": {
+        "city": "Sarmiento Enterprises",
+        "state": "Makati City"
+    },
+    "704": {
+        "city": "Producers Bank",
+        "state": "Makati City"
+    },
+    "705": {
+        "city": "Union Ajinomoto",
+        "state": "Makati City"
+    },
+    "706": {
+        "city": "Faith Embassy",
+        "state": "Makati City"
+    },
+    "707": {
+        "city": "Canadian Embassy",
+        "state": "Makati City"
+    },
+    "708": {
+        "city": "Philippine National Oil Company",
+        "state": "Makati City"
+    },
+    "709": {
+        "city": "A-Z Direct Marketing",
+        "state": "Makati City"
+    },
+    "710": {
+        "city": "American Express",
+        "state": "Makati City"
+    },
+    "711": {
+        "city": "Land Bank of the Philippines",
+        "state": "Makati City"
+    },
+    "712": {
+        "city": "Prudential Bank",
+        "state": "Makati City"
+    },
+    "713": {
+        "city": "BPI Family Savings Bank",
+        "state": "Makati City"
+    },
+    "714": {
+        "city": "Philippine Manila Mission",
+        "state": "Makati City"
+    },
+    "715": {
+        "city": "Marcopper Mining Corporation",
+        "state": "Makati City"
+    },
+    "716": {
+        "city": "Allied Bank",
+        "state": "Makati City"
+    },
+    "717": {
+        "city": "Diners Club",
+        "state": "Makati City"
+    },
+    "718": {
+        "city": "International Center for Aquatic Resources",
+        "state": "Makati City"
+    },
+    "719": {
+        "city": "Security Bank",
+        "state": "Makati City"
+    },
+    "720": {
+        "city": "Bank of the Philippine Islands",
+        "state": "Makati City"
+    },
+    "721": {
+        "city": "Philippine Long Distance Telephone Company",
+        "state": "Makati City"
+    },
+    "722": {
+        "city": "World Executive Digest",
+        "state": "Makati City"
+    },
+    "723": {
+        "city": "Japanese Embassy",
+        "state": "Makati City"
+    },
+    "724": {
+        "city": "Sun Life Financial",
+        "state": "Makati City"
+    },
+    "725": {
+        "city": "Insular Life Assurance Company",
+        "state": "Makati City"
+    },
+    "726": {
+        "city": "Equitable PCI Bank",
+        "state": "Makati City"
+    },
+    "727": {
+        "city": "Rizal Commercial Banking Corporation",
+        "state": "Makati City"
+    },
+    "728": {
+        "city": "United Coconut Planters Bank",
+        "state": "Makati City"
+    },
+    "729": {
+        "city": "Not used",
+        "state": "Makati City"
+    },
+    "730": {
+        "city": "Zuellig Pharma",
+        "state": "Makati City"
+    },
+    "731": {
+        "city": "BCD Direct Marketing",
+        "state": "Makati City"
+    },
+    "732": {
+        "city": "Export and Industry Bank",
+        "state": "Makati City"
+    },
+    "740": {
+        "city": "Sycip, Gorres and Velayo",
+        "state": "Makati City"
+    },
+    "750": {
+        "city": "Philippine Airlines",
+        "state": "Makati City"
+    },
+    "760": {
+        "city": "Pilipinas Shell (subsidiary of Royal Dutch Shell)",
+        "state": "Makati City"
+    },
+    "770": {
+        "city": "ACCRA Law Offices",
+        "state": "Makati City"
+    },
+    "780": {
+        "city": "Mead Johnson Philippines",
+        "state": "Makati City"
+    },
+    "788": {
+        "city": "Directories Pilipinas Corporation",
+        "state": "Makati City"
+    },
+    "790": {
+        "city": "Atlantic, Gulf and Pacific",
+        "state": "Makati City"
+    },
+    "800": {
+        "city": "Social Security System",
+        "state": "Quezon City"
+    },
+    "801": {
+        "city": "Camp Crame",
+        "state": "Quezon City"
+    },
+    "802": {
+        "city": "Camp Aguinaldo",
+        "state": "Quezon City"
+    },
+    "810": {
+        "city": "Araneta Center",
+        "state": "Quezon City"
+    },
+    "820": {
+        "city": "Bureau of Internal Revenue",
+        "state": "Quezon City"
+    },
+    "830": {
+        "city": "National Irrigation Administration",
+        "state": "Quezon City"
+    },
+    "840": {
+        "city": "V. Luna Hospital",
+        "state": "Quezon City"
+    },
+    "850": {
+        "city": "Philippine Heart Center",
+        "state": "Quezon City"
+    },
+    "860": {
+        "city": "Quezon City Hall",
+        "state": "Quezon City"
+    },
+    "870": {
+        "city": "Veterans Hospital",
+        "state": "Quezon City"
+    },
+    "880": {
+        "city": "Commission on Audit",
+        "state": "Quezon City"
+    },
+    "900": {
+        "city": "Manila Bulletin",
+        "state": "Manila"
+    },
+    "901": {
+        "city": "Adventist University of the Philippines",
+        "state": "Manila"
+    },
+    "902": {
+        "city": "Far East Broadcasting Corporation",
+        "state": "Manila"
+    },
+    "903": {
+        "city": "Manila Hilton",
+        "state": "Manila"
+    },
+    "904": {
+        "city": "Midland Hotel",
+        "state": "Manila"
+    },
+    "905": {
+        "city": "The Philippine Star",
+        "state": "Manila"
+    },
+    "906": {
+        "city": "Manila Medical Center",
+        "state": "Manila"
+    },
+    "907": {
+        "city": "San Miguel Corporation",
+        "state": "Manila"
+    },
+    "908": {
+        "city": "Pan-Filipino Shipping",
+        "state": "Manila"
+    },
+    "909": {
+        "city": "Summer Institute of Linguistics",
+        "state": "Manila"
+    },
+    "910": {
+        "city": "Department of Labor and Employment",
+        "state": "Manila"
+    },
+    "911": {
+        "city": "National Statistics Office",
+        "state": "Manila"
+    },
+    "912": {
+        "city": "Bureau of Plant Industry",
+        "state": "Manila"
+    },
+    "913": {
+        "city": "Manila Hotel",
+        "state": "Manila"
+    },
+    "914": {
+        "city": "Philippine Refining Company and Unilever Philippines",
+        "state": "Manila"
+    },
+    "915": {
+        "city": "International Correspondence Institute",
+        "state": "Manila"
+    },
+    "916": {
+        "city": "Radio Veritas",
+        "state": "Manila"
+    },
+    "917": {
+        "city": "Ateneo de Manila University",
+        "state": "Manila"
+    },
+    "918": {
+        "city": "Fil-Japan Shipping Company",
+        "state": "Manila"
+    },
+    "919": {
+        "city": "Manila Police District",
+        "state": "Manila"
+    },
+    "920": {
+        "city": "Sunbursts Publications",
+        "state": "Manila"
+    },
+    "921": {
+        "city": "Philippine Plaza Hotel",
+        "state": "Manila"
+    },
+    "922": {
+        "city": "De La Salle University",
+        "state": "Manila"
+    },
+    "923": {
+        "city": "Don Stewart Evangelistic Association",
+        "state": "Manila"
+    },
+    "924": {
+        "city": "World Map",
+        "state": "Manila"
+    },
+    "925": {
+        "city": "Chinabank",
+        "state": "Manila"
+    },
+    "926": {
+        "city": "Caltex Philippines",
+        "state": "Manila"
+    },
+    "927": {
+        "city": "Philippine Veterans Affairs Office",
+        "state": "Manila"
+    },
+    "928": {
+        "city": "Philippine Campus Crusade",
+        "state": "Manila"
+    },
+    "929": {
+        "city": "Not used",
+        "state": "Manila"
+    },
+    "930": {
+        "city": "United States Embassy",
+        "state": "Manila"
+    },
+    "940": {
+        "city": "Philippine National Bank",
+        "state": "Manila"
+    },
+    "950": {
+        "city": "Manila Midtown Hotel",
+        "state": "Manila"
+    },
+    "960": {
+        "city": "International Rice Research Institute",
+        "state": "Manila"
+    },
+    "970": {
+        "city": "Department of Justice",
+        "state": "Manila"
+    },
+    "980": {
+        "city": "Asian Development Bank",
+        "state": "Manila"
+    },
+    "990": {
+        "city": "Philamlife",
+        "state": "Manila"
+    },
+    "1000": {
+        "city": "Manila Central Post Office",
+        "state": "Manila"
+    },
+    "1001": {
+        "city": "Quiapo",
+        "state": "Manila"
+    },
+    "1002": {
+        "city": "Intramuros",
+        "state": "Manila"
+    },
+    "1003": {
+        "city": "Santa Cruz South",
+        "state": "Manila"
+    },
+    "1004": {
+        "city": "Malate",
+        "state": "Manila"
+    },
+    "1005": {
+        "city": "San Miguel",
+        "state": "Manila"
+    },
+    "1006": {
+        "city": "Binondo",
+        "state": "Manila"
+    },
+    "1007": {
+        "city": "Paco",
+        "state": "Manila"
+    },
+    "1008": {
+        "city": "Sampaloc East",
+        "state": "Manila"
+    },
+    "1009": {
+        "city": "Santa Ana",
+        "state": "Manila"
+    },
+    "1010": {
+        "city": "San Nicolas",
+        "state": "Manila"
+    },
+    "1011": {
+        "city": "Pandacan",
+        "state": "Manila"
+    },
+    "1012": {
+        "city": "Tondo South",
+        "state": "Manila"
+    },
+    "1013": {
+        "city": "Tondo North",
+        "state": "Manila"
+    },
+    "1014": {
+        "city": "Santa Cruz North",
+        "state": "Manila"
+    },
+    "1015": {
+        "city": "Sampaloc West",
+        "state": "Manila"
+    },
+    "1016": {
+        "city": "Santa Mesa",
+        "state": "Manila"
+    },
+    "1017": {
+        "city": "San Andres",
+        "state": "Manila"
+    },
+    "1018": {
+        "city": "Port Area South",
+        "state": "Manila"
+    },
+    "1035": {
+        "city": "Santa Mesa P.O. Box",
+        "state": "Manila"
+    },
+    "1040": {
+        "city": "Santa Cruz P.O. Box",
+        "state": "Manila"
+    },
+    "1045": {
+        "city": "Ermita P.O. Box",
+        "state": "Manila"
+    },
+    "1050": {
+        "city": "Manila CPO-PO Box# 1000 to 1099",
+        "state": "Manila"
+    },
+    "1051": {
+        "city": "Manila CPO-PO Box# 1100 to 1199",
+        "state": "Manila"
+    },
+    "1052": {
+        "city": "Manila CPO-PO Box# 1200 to 1299",
+        "state": "Manila"
+    },
+    "1053": {
+        "city": "Manila CPO-PO Box# 1300 to 1399",
+        "state": "Manila"
+    },
+    "1054": {
+        "city": "Manila CPO-PO Box# 1400 to 1499",
+        "state": "Manila"
+    },
+    "1055": {
+        "city": "Manila CPO-PO Box# 1500 to 1599",
+        "state": "Manila"
+    },
+    "1056": {
+        "city": "Manila CPO-PO Box# 1600 to 1699",
+        "state": "Manila"
+    },
+    "1057": {
+        "city": "Manila CPO-PO Box# 1700 to 1799",
+        "state": "Manila"
+    },
+    "1058": {
+        "city": "Manila CPO-PO Box# 1800 to 1899",
+        "state": "Manila"
+    },
+    "1059": {
+        "city": "Manila CPO-PO Box# 1900 to 1999",
+        "state": "Manila"
+    },
+    "1060": {
+        "city": "Manila CPO-PO Box# 2000 to 2099",
+        "state": "Manila"
+    },
+    "1061": {
+        "city": "Manila CPO-PO Box# 2100 to 2199",
+        "state": "Manila"
+    },
+    "1062": {
+        "city": "Manila CPO-PO Box# 2200 to 2299",
+        "state": "Manila"
+    },
+    "1063": {
+        "city": "Manila CPO-PO Box# 2300 to 2399",
+        "state": "Manila"
+    },
+    "1064": {
+        "city": "Manila CPO-PO Box# 2400 to 2499",
+        "state": "Manila"
+    },
+    "1065": {
+        "city": "Manila CPO-PO Box# 2500 to 2599",
+        "state": "Manila"
+    },
+    "1066": {
+        "city": "Manila CPO-PO Box# 2600 to 2699",
+        "state": "Manila"
+    },
+    "1067": {
+        "city": "Manila CPO-PO Box# 2700 to 2799",
+        "state": "Manila"
+    },
+    "1068": {
+        "city": "Manila CPO-PO Box# 2800 to 2899",
+        "state": "Manila"
+    },
+    "1069": {
+        "city": "Manila CPO-PO Box# 2900 to 2999",
+        "state": "Manila"
+    },
+    "1070": {
+        "city": "Manila CPO-PO Box# 3000 to 3099",
+        "state": "Manila"
+    },
+    "1071": {
+        "city": "Manila CPO-PO Box# 3100 to 3199",
+        "state": "Manila"
+    },
+    "1072": {
+        "city": "Manila CPO-PO Box# 3200 to 3299",
+        "state": "Manila"
+    },
+    "1073": {
+        "city": "Manila CPO-PO Box# 3300 to 3399",
+        "state": "Manila"
+    },
+    "1074": {
+        "city": "Manila CPO-PO Box# 3400 to 3499",
+        "state": "Manila"
+    },
+    "1075": {
+        "city": "Manila CPO-PO Box# 3500 to 3599",
+        "state": "Manila"
+    },
+    "1076": {
+        "city": "Manila CPO-PO Box# 3600 to 3699",
+        "state": "Manila"
+    },
+    "1077": {
+        "city": "Manila CPO-PO Box# 3700 to 3799",
+        "state": "Manila"
+    },
+    "1078": {
+        "city": "Manila CPO-PO Box# 3800 to 3899",
+        "state": "Manila"
+    },
+    "1079": {
+        "city": "Manila CPO-PO Box# 3900 to 3999",
+        "state": "Manila"
+    },
+    "1080": {
+        "city": "Manila CPO-PO Box# 4000 to 4099",
+        "state": "Manila"
+    },
+    "1081": {
+        "city": "Manila CPO-PO Box# 4100 to 4199",
+        "state": "Manila"
+    },
+    "1082": {
+        "city": "Manila CPO-PO Box# 4200 to 4299",
+        "state": "Manila"
+    },
+    "1083": {
+        "city": "Manila CPO-PO Box# 4300 to 4399",
+        "state": "Manila"
+    },
+    "1084": {
+        "city": "Manila CPO-PO Box# 4400 to 4499",
+        "state": "Manila"
+    },
+    "1085": {
+        "city": "Manila CPO-PO Box# 4500 to 4599",
+        "state": "Manila"
+    },
+    "1086": {
+        "city": "Manila CPO-PO Box# 4600 to 4699",
+        "state": "Manila"
+    },
+    "1087": {
+        "city": "Manila CPO-PO Box# 4700 to 4799",
+        "state": "Manila"
+    },
+    "1088": {
+        "city": "Manila CPO-PO Box# 4800 to 4899",
+        "state": "Manila"
+    },
+    "1089": {
+        "city": "Manila CPO-PO Box# 4900 to 4999",
+        "state": "Manila"
+    },
+    "1090": {
+        "city": "Manila CPO-PO Box# 5000 to 5099",
+        "state": "Manila"
+    },
+    "1091": {
+        "city": "Manila CPO-PO Box# 5100 to 5199",
+        "state": "Manila"
+    },
+    "1092": {
+        "city": "Manila CPO-PO Box# 5200 to 5299",
+        "state": "Manila"
+    },
+    "1093": {
+        "city": "Manila CPO-PO Box# 5300 to 5399",
+        "state": "Manila"
+    },
+    "1094": {
+        "city": "Manila CPO-PO Box# 5400 to 5499",
+        "state": "Manila"
+    },
+    "1095": {
+        "city": "Manila CPO-PO Box# 5500 to 5599",
+        "state": "Manila"
+    },
+    "1096": {
+        "city": "Manila CPO-PO Box# 5600 to 5699",
+        "state": "Manila"
+    },
+    "1100": {
+        "city": "Quezon City CPO",
+        "state": "Quezon City"
+    },
+    "1101": {
+        "city": "University of the Philippines Village",
+        "state": "Quezon City"
+    },
+    "1102": {
+        "city": "Silangan",
+        "state": "Quezon City"
+    },
+    "1103": {
+        "city": "South Triangle",
+        "state": "Quezon City"
+    },
+    "1104": {
+        "city": "West Triangle",
+        "state": "Quezon City"
+    },
+    "1105": {
+        "city": "Veterans Village",
+        "state": "Quezon City"
+    },
+    "1106": {
+        "city": "Unang Sigaw",
+        "state": "Quezon City"
+    },
+    "1107": {
+        "city": "Pasong Tamo",
+        "state": "Quezon City"
+    },
+    "1108": {
+        "city": "Pansol",
+        "state": "Quezon City"
+    },
+    "1109": {
+        "city": "Villa Maria Clara",
+        "state": "Quezon City"
+    },
+    "1110": {
+        "city": "White Plains",
+        "state": "Quezon City"
+    },
+    "1111": {
+        "city": "St. Martin de Porres",
+        "state": "Quezon City"
+    },
+    "1112": {
+        "city": "Valencia",
+        "state": "Quezon City"
+    },
+    "1113": {
+        "city": "Tatalon",
+        "state": "Quezon City"
+    },
+    "1114": {
+        "city": "St. Peter",
+        "state": "Quezon City"
+    },
+    "1115": {
+        "city": "San Jose",
+        "state": "Quezon City"
+    },
+    "1116": {
+        "city": "Tandang Sora",
+        "state": "Quezon City"
+    },
+    "1117": {
+        "city": "Santa Monica",
+        "state": "Quezon City"
+    },
+    "1118": {
+        "city": "Pasong Putik",
+        "state": "Quezon City"
+    },
+    "1119": {
+        "city": "Payatas",
+        "state": "Quezon City"
+    },
+    "1120": {
+        "city": "Violago Homes",
+        "state": "Quezon City"
+    },
+    "1121": {
+        "city": "Fairview [North]",
+        "state": "Quezon City"
+    },
+    "1122": {
+        "city": "Fairview [South]",
+        "state": "Quezon City"
+    },
+    "1123": {
+        "city": "Novaliches Proper",
+        "state": "Quezon City"
+    },
+    "1124": {
+        "city": "Kaligayahan",
+        "state": "Quezon City"
+    },
+    "1125": {
+        "city": "Nagkaisang Nayon",
+        "state": "Quezon City"
+    },
+    "1126": {
+        "city": "Capitol Hills/Park",
+        "state": "Quezon City"
+    },
+    "1127": {
+        "city": "Holy Spirit",
+        "state": "Quezon City"
+    },
+    "1128": {
+        "city": "Vasra",
+        "state": "Quezon City"
+    },
+    "1135": {
+        "city": "Araneta Center P.O. Boxes",
+        "state": "Quezon City"
+    },
+    "1138": {
+        "city": "Murphy District P.O. Boxes",
+        "state": "Quezon City"
+    },
+    "1141": {
+        "city": "Broadway Center P.O. Boxes",
+        "state": "Quezon City"
+    },
+    "1144": {
+        "city": "University of the Philippines P.O. Boxes",
+        "state": "Quezon City"
+    },
+    "1147": {
+        "city": "Novaliches P.O. Boxes",
+        "state": "Quezon City"
+    },
+    "1150": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1000 to 1099",
+        "state": "Quezon City"
+    },
+    "1151": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1100 to 1199",
+        "state": "Quezon City"
+    },
+    "1152": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1200 to 1299",
+        "state": "Quezon City"
+    },
+    "1153": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1300 to 1399",
+        "state": "Quezon City"
+    },
+    "1154": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1400 to 1499",
+        "state": "Quezon City"
+    },
+    "1155": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1500 to 1599",
+        "state": "Quezon City"
+    },
+    "1156": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1600 to 1699",
+        "state": "Quezon City"
+    },
+    "1157": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1700 to 1799",
+        "state": "Quezon City"
+    },
+    "1158": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1800 to 1899",
+        "state": "Quezon City"
+    },
+    "1159": {
+        "city": "Quezon City CPO - P.O. Box Nos. 1900 to 1999",
+        "state": "Quezon City"
+    },
+    "1160": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2000 to 2099",
+        "state": "Quezon City"
+    },
+    "1161": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2100 to 2199",
+        "state": "Quezon City"
+    },
+    "1162": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2200 to 2299",
+        "state": "Quezon City"
+    },
+    "1163": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2300 to 2399",
+        "state": "Quezon City"
+    },
+    "1164": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2400 to 2499",
+        "state": "Quezon City"
+    },
+    "1165": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2500 to 2599",
+        "state": "Quezon City"
+    },
+    "1166": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2600 to 2699",
+        "state": "Quezon City"
+    },
+    "1167": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2700 to 2799",
+        "state": "Quezon City"
+    },
+    "1168": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2800 to 2899",
+        "state": "Quezon City"
+    },
+    "1169": {
+        "city": "Quezon City CPO - P.O. Box Nos. 2900 to 2999",
+        "state": "Quezon City"
+    },
+    "1170": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3000 to 3099",
+        "state": "Quezon City"
+    },
+    "1171": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3100 to 3199",
+        "state": "Quezon City"
+    },
+    "1172": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3200 to 3299",
+        "state": "Quezon City"
+    },
+    "1173": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3300 to 3399",
+        "state": "Quezon City"
+    },
+    "1174": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3400 to 3499",
+        "state": "Quezon City"
+    },
+    "1175": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3500 to 3599",
+        "state": "Quezon City"
+    },
+    "1176": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3600 to 3699",
+        "state": "Quezon City"
+    },
+    "1177": {
+        "city": "Quezon City CPO - P.O. Box Nos. 3700 to 3799",
+        "state": "Quezon City"
+    },
+    "1200": {
+        "city": "Makati Central Post Office",
+        "state": "Makati City"
+    },
+    "1201": {
+        "city": "Fort Bonifacio (now part of Taguig City)",
+        "state": "Makati City"
+    },
+    "1202": {
+        "city": "Fort Bonifacio Naval Station",
+        "state": "Makati City"
+    },
+    "1203": {
+        "city": "San Antonio Village",
+        "state": "Makati City"
+    },
+    "1204": {
+        "city": "La Paz, Singkamas, and Tejeros",
+        "state": "Makati City"
+    },
+    "1205": {
+        "city": "Santa Cruz",
+        "state": "Makati City"
+    },
+    "1206": {
+        "city": "Kasilawan",
+        "state": "Makati City"
+    },
+    "1207": {
+        "city": "Carmona and Olympia",
+        "state": "Makati City"
+    },
+    "1208": {
+        "city": "Valenzuela (includes Rizal, San Miguel, and Santiago Villages)",
+        "state": "Makati City"
+    },
+    "1209": {
+        "city": "Bel-Air",
+        "state": "Makati City"
+    },
+    "1210": {
+        "city": "Poblacion",
+        "state": "Makati City"
+    },
+    "1211": {
+        "city": "Guadalupe Viejo (includes Palm Village)",
+        "state": "Makati City"
+    },
+    "1212": {
+        "city": "Guadalupe Nuevo (includes Visayan Village)",
+        "state": "Makati City"
+    },
+    "1213": {
+        "city": "Pinagkaisahan - Pitogo",
+        "state": "Makati City"
+    },
+    "1214": {
+        "city": "Cembo",
+        "state": "Makati City"
+    },
+    "1215": {
+        "city": "West Rembo",
+        "state": "Makati City"
+    },
+    "1216": {
+        "city": "East Rembo and Malapad na Bato",
+        "state": "Makati City"
+    },
+    "1217": {
+        "city": "Comembo",
+        "state": "Makati City"
+    },
+    "1218": {
+        "city": "Pembo",
+        "state": "Makati City"
+    },
+    "1219": {
+        "city": "Forbes Park North",
+        "state": "Makati City"
+    },
+    "1220": {
+        "city": "Forbes Park South",
+        "state": "Makati City"
+    },
+    "1221": {
+        "city": "Dasmariñas Village North",
+        "state": "Makati City"
+    },
+    "1222": {
+        "city": "Dasmariñas Village South",
+        "state": "Makati City"
+    },
+    "1223": {
+        "city": "San Lorenzo Village",
+        "state": "Makati City"
+    },
+    "1224": {
+        "city": "Makati Commercial Center",
+        "state": "Makati City"
+    },
+    "1225": {
+        "city": "Urdaneta Village",
+        "state": "Makati City"
+    },
+    "1226": {
+        "city": "Ayala Avenue-Paseo de Roxas",
+        "state": "Makati City"
+    },
+    "1227": {
+        "city": "Salcedo Village",
+        "state": "Makati City"
+    },
+    "1228": {
+        "city": "Greenbelt",
+        "state": "Makati City"
+    },
+    "1229": {
+        "city": "Legaspi Village",
+        "state": "Makati City"
+    },
+    "1230": {
+        "city": "Pio del Pilar",
+        "state": "Makati City"
+    },
+    "1231": {
+        "city": "Pasong Tamo and Ecology Village",
+        "state": "Makati City"
+    },
+    "1232": {
+        "city": "Magallanes Village",
+        "state": "Makati City"
+    },
+    "1233": {
+        "city": "Bangkal",
+        "state": "Makati City"
+    },
+    "1234": {
+        "city": "San Isidro",
+        "state": "Makati City"
+    },
+    "1235": {
+        "city": "Palanan",
+        "state": "Makati City"
+    },
+    "1250": {
+        "city": "Makati CPO-PO Box# 1000 to 1099",
+        "state": "Makati City"
+    },
+    "1251": {
+        "city": "Makati CPO-PO Box# 1100 to 1199",
+        "state": "Makati City"
+    },
+    "1252": {
+        "city": "Makati CPO-PO Box# 1200 to 1299",
+        "state": "Makati City"
+    },
+    "1253": {
+        "city": "Makati CPO-PO Box# 1300 to 1399",
+        "state": "Makati City"
+    },
+    "1254": {
+        "city": "Makati CPO-PO Box# 1400 to 1499",
+        "state": "Makati City"
+    },
+    "1255": {
+        "city": "Makati CPO-PO Box# 1500 to 1599",
+        "state": "Makati City"
+    },
+    "1256": {
+        "city": "Makati CPO-PO Box# 1600 to 1699",
+        "state": "Makati City"
+    },
+    "1257": {
+        "city": "Makati CPO-PO Box# 1700 to 1799",
+        "state": "Makati City"
+    },
+    "1258": {
+        "city": "Makati CPO-PO Box# 1800 to 1899",
+        "state": "Makati City"
+    },
+    "1259": {
+        "city": "Makati CPO-PO Box# 1900 to 1999",
+        "state": "Makati City"
+    },
+    "1260": {
+        "city": "Makati CPO-PO Box# 2000 to 2099",
+        "state": "Makati City"
+    },
+    "1261": {
+        "city": "Makati CPO-PO Box# 2100 to 2199",
+        "state": "Makati City"
+    },
+    "1262": {
+        "city": "Makati CPO-PO Box# 2200 to 2299",
+        "state": "Makati City"
+    },
+    "1263": {
+        "city": "Makati CPO-PO Box# 2300 to 2399",
+        "state": "Makati City"
+    },
+    "1264": {
+        "city": "Makati CPO-PO Box# 2400 to 2499",
+        "state": "Makati City"
+    },
+    "1265": {
+        "city": "Makati CPO-PO Box# 2500 to 2599",
+        "state": "Makati City"
+    },
+    "1266": {
+        "city": "Makati CPO-PO Box# 2600 to 2699",
+        "state": "Makati City"
+    },
+    "1267": {
+        "city": "Makati CPO-PO Box# 2700 to 2799",
+        "state": "Makati City"
+    },
+    "1268": {
+        "city": "Makati CPO-PO Box# 2800 to 2899",
+        "state": "Makati City"
+    },
+    "1269": {
+        "city": "Makati CPO-PO Box# 2900 to 2999",
+        "state": "Makati City"
+    },
+    "1270": {
+        "city": "Makati CPO-PO Box# 3000 to 3099",
+        "state": "Makati City"
+    },
+    "1271": {
+        "city": "Makati CPO-PO Box# 3100 to 3199",
+        "state": "Makati City"
+    },
+    "1272": {
+        "city": "Makati CPO-PO Box# 3200 to 3299",
+        "state": "Makati City"
+    },
+    "1273": {
+        "city": "Makati CPO-PO Box# 3300 to 3399",
+        "state": "Makati City"
+    },
+    "1274": {
+        "city": "Makati CPO-PO Box# 3400 to 3499",
+        "state": "Makati City"
+    },
+    "1275": {
+        "city": "Makati CPO-PO Box# 3500 to 3599",
+        "state": "Makati City"
+    },
+    "1276": {
+        "city": "Makati CPO-PO Box# 3600 to 3699",
+        "state": "Makati City"
+    },
+    "1277": {
+        "city": "Makati CPO-PO Box# 3700 to 3799",
+        "state": "Makati City"
+    },
+    "1278": {
+        "city": "Makati CPO-PO Box# 3800 to 3899",
+        "state": "Makati City"
+    },
+    "1279": {
+        "city": "Makati CPO-PO Box# 3900 to 3999",
+        "state": "Makati City"
+    },
+    "1280": {
+        "city": "Makati CPO-PO Box# 4000 to 4099",
+        "state": "Makati City"
+    },
+    "1281": {
+        "city": "Makati CPO-PO Box# 4100 to 4199",
+        "state": "Makati City"
+    },
+    "1282": {
+        "city": "Makati CPO-PO Box# 4200 to 4299",
+        "state": "Makati City"
+    },
+    "1283": {
+        "city": "Makati CPO-PO Box# 4300 to 4399",
+        "state": "Makati City"
+    },
+    "1284": {
+        "city": "Makati CPO-PO Box# 4400 to 4499",
+        "state": "Makati City"
+    },
+    "1285": {
+        "city": "Makati CPO-PO Box# 4500 to 4599",
+        "state": "Makati City"
+    },
+    "1286": {
+        "city": "Makati CPO-PO Box# 4600 to 4699",
+        "state": "Makati City"
+    },
+    "1287": {
+        "city": "Makati CPO-PO Box# 4700 to 4799",
+        "state": "Makati City"
+    },
+    "1288": {
+        "city": "Makati CPO-PO Box# 4800 to 4899",
+        "state": "Makati City"
+    },
+    "1289": {
+        "city": "Makati CPO-PO Box# 4900 to 4999",
+        "state": "Makati City"
+    },
+    "1290": {
+        "city": "Makati CPO-PO Box# 5000 to 5099",
+        "state": "Makati City"
+    },
+    "1291": {
+        "city": "Makati CPO-PO Box# 5100 to 5199",
+        "state": "Makati City"
+    },
+    "1292": {
+        "city": "Makati CPO-PO Box# 5200 to 5299",
+        "state": "Makati City"
+    },
+    "1293": {
+        "city": "Makati CPO-PO Box# 5300 to 5399",
+        "state": "Makati City"
+    },
+    "1294": {
+        "city": "Makati CPO-PO Box# 5400 to 5499",
+        "state": "Makati City"
+    },
+    "1295": {
+        "city": "Makati CPO-PO Box# 5500 to 5599",
+        "state": "Makati City"
+    },
+    "1296": {
+        "city": "Makati CPO-PO Box# 5600 to 5699",
+        "state": "Makati City"
+    },
+    "1297": {
+        "city": "Makati CPO-PO Box# 5700 to 5799",
+        "state": "Makati City"
+    },
+    "1298": {
+        "city": "Makati CPO-PO Box# 5800 to 5899",
+        "state": "Makati City"
+    },
+    "1299": {
+        "city": "Makati CPO-PO Box# 5900 to 5999",
+        "state": "Makati City"
+    },
+    "1300": {
+        "city": "Pasay City Central Post Office",
+        "state": "Pasay City"
+    },
+    "1301": {
+        "city": "Domestic Airport P.O.",
+        "state": "Pasay City"
+    },
+    "1302": {
+        "city": "San Rafael",
+        "state": "Pasay City"
+    },
+    "1303": {
+        "city": "San Roque",
+        "state": "Pasay City"
+    },
+    "1304": {
+        "city": "Santa Clara",
+        "state": "Pasay City"
+    },
+    "1305": {
+        "city": "San Jose",
+        "state": "Pasay City"
+    },
+    "1306": {
+        "city": "San Isidro",
+        "state": "Pasay City"
+    },
+    "1307": {
+        "city": "Philippine International Convention Center",
+        "state": "Pasay City"
+    },
+    "1308": {
+        "city": "Bay City",
+        "state": "Pasay City"
+    },
+    "1309": {
+        "city": "Villamor Airbase",
+        "state": "Pasay City"
+    },
+    "1350": {
+        "city": "Pasay City CPO - P.O. Box Nos. 1000 to 1099",
+        "state": "Pasay City"
+    },
+    "1351": {
+        "city": "Pasay City CPO - P.O. Box Nos. 1100 to 1199",
+        "state": "Pasay City"
+    },
+    "1352": {
+        "city": "Pasay City CPO - P.O. Box Nos. 1200 to 1299",
+        "state": "Pasay City"
+    },
+    "1353": {
+        "city": "Pasay City CPO - P.O. Box Nos. 1300 to 1399",
+        "state": "Pasay City"
+    },
+    "1354": {
+        "city": "Pasay City CPO - P.O. Box Nos. 1400 to 1499",
+        "state": "Pasay City"
+    },
+    "1375": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1000 to 1099",
+        "state": "Parañaque City"
+    },
+    "1376": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1100 to 1199",
+        "state": "Parañaque City"
+    },
+    "1377": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1200 to 1299",
+        "state": "Parañaque City"
+    },
+    "1378": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1300 to 1399",
+        "state": "Parañaque City"
+    },
+    "1379": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1400 to 1499",
+        "state": "Parañaque City"
+    },
+    "1380": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1500 to 1599",
+        "state": "Parañaque City"
+    },
+    "1381": {
+        "city": "Domestic Airport P.O. - P.O. Box Nos. 1600 to 1699",
+        "state": "Parañaque City"
+    },
+    "1400": {
+        "city": "Caloocan City Central Post Office",
+        "state": "Caloocan City"
+    },
+    "1401": {
+        "city": "Baesa",
+        "state": "Caloocan City"
+    },
+    "1402": {
+        "city": "Santa Quiteria",
+        "state": "Caloocan City"
+    },
+    "1403": {
+        "city": "Grace Park East",
+        "state": "Caloocan City"
+    },
+    "1404": {
+        "city": "San Jose",
+        "state": "Caloocan City"
+    },
+    "1405": {
+        "city": "First Avenue to Seventh Avenue West",
+        "state": "Caloocan City"
+    },
+    "1406": {
+        "city": "Grace Park West",
+        "state": "Caloocan City"
+    },
+    "1407": {
+        "city": "University Hills",
+        "state": "Caloocan City"
+    },
+    "1408": {
+        "city": "Sangandaan",
+        "state": "Caloocan City"
+    },
+    "1409": {
+        "city": "Kaunlaran Village",
+        "state": "Navotas City"
+    },
+    "1410": {
+        "city": "Maypajo",
+        "state": "Caloocan City"
+    },
+    "1411": {
+        "city": "Fish Market",
+        "state": "Navotas City"
+    },
+    "1412": {
+        "city": "Isla de Cocomo",
+        "state": "Navotas City"
+    },
+    "1413": {
+        "city": "Kapitbahayan [East]",
+        "state": "Navotas City"
+    },
+    "1420": {
+        "city": "Kaybiga/Deparo",
+        "state": "Caloocan City"
+    },
+    "1421": {
+        "city": "Bagumbong/Pag-asa",
+        "state": "Caloocan City"
+    },
+    "1422": {
+        "city": "Novaliches North",
+        "state": "Caloocan City"
+    },
+    "1423": {
+        "city": "Lilles Ville Subdivision",
+        "state": "Caloocan City"
+    },
+    "1424": {
+        "city": "Captol Parkland Subdivision",
+        "state": "Caloocan City"
+    },
+    "1425": {
+        "city": "Amparo Subdivision",
+        "state": "Caloocan City"
+    },
+    "1426": {
+        "city": "Bankers Village",
+        "state": "Caloocan City"
+    },
+    "1427": {
+        "city": "Tala Leprosarium and Victory Heights",
+        "state": "Caloocan City"
+    },
+    "1428": {
+        "city": "Bagong Silang",
+        "state": "Caloocan City"
+    },
+    "1440": {
+        "city": "Valenzuela Central Post Office - Malinta",
+        "state": "Valenzuela City"
+    },
+    "1441": {
+        "city": "Karuhatan",
+        "state": "Valenzuela City"
+    },
+    "1442": {
+        "city": "Paso de Blas",
+        "state": "Valenzuela City"
+    },
+    "1443": {
+        "city": "Dalandanan - West Canumay",
+        "state": "Valenzuela City"
+    },
+    "1444": {
+        "city": "Rincon",
+        "state": "Valenzuela City"
+    },
+    "1445": {
+        "city": "Balangkas - Caloong",
+        "state": "Valenzuela City"
+    },
+    "1446": {
+        "city": "Lingunan",
+        "state": "Valenzuela City"
+    },
+    "1447": {
+        "city": "East Canumay - Lawang Bato Punturin",
+        "state": "Valenzuela City"
+    },
+    "1448": {
+        "city": "Mapulang Lupa",
+        "state": "Valenzuela City"
+    },
+    "1469": {
+        "city": "Valenzuela P.O. Boxes",
+        "state": "Valenzuela City"
+    },
+    "1470": {
+        "city": "Tinajeros",
+        "state": "Malabon City"
+    },
+    "1471": {
+        "city": "Flores",
+        "state": "Malabon City"
+    },
+    "1472": {
+        "city": "Longos",
+        "state": "Malabon City"
+    },
+    "1473": {
+        "city": "Tonsuya",
+        "state": "Malabon City"
+    },
+    "1474": {
+        "city": "Acacia",
+        "state": "Malabon City"
+    },
+    "1475": {
+        "city": "Potrero",
+        "state": "Malabon City"
+    },
+    "1476": {
+        "city": "Araneta Subdivision",
+        "state": "Malabon City"
+    },
+    "1477": {
+        "city": "Maysilo",
+        "state": "Malabon City"
+    },
+    "1478": {
+        "city": "Santolan",
+        "state": "Malabon City"
+    },
+    "1479": {
+        "city": "Muzon",
+        "state": "Malabon City"
+    },
+    "1480": {
+        "city": "Dampalit",
+        "state": "Malabon City"
+    },
+    "1485": {
+        "city": "Navotas",
+        "state": "Navotas City"
+    },
+    "1489": {
+        "city": "Tangos",
+        "state": "Navotas City"
+    },
+    "1490": {
+        "city": "Tanza",
+        "state": "Navotas City"
+    },
+    "1500": {
+        "city": "San Juan Central Post Office",
+        "state": "San Juan City"
+    },
+    "1502": {
+        "city": "Greenhills Post Office",
+        "state": "San Juan City"
+    },
+    "1503": {
+        "city": "Greenhills [North]",
+        "state": "San Juan City"
+    },
+    "1504": {
+        "city": "Eisenhower - Crame",
+        "state": "San Juan City"
+    },
+    "1530": {
+        "city": "Greenhills P.O. Box Nos. 1000 to 1099",
+        "state": "San Juan City"
+    },
+    "1531": {
+        "city": "Greenhills P.O. Box Nos. 1100 to 1199",
+        "state": "San Juan City"
+    },
+    "1532": {
+        "city": "Greenhills P.O. Box Nos. 1200 to 1299",
+        "state": "San Juan City"
+    },
+    "1533": {
+        "city": "Greenhills P.O. Box Nos. 1300 to 1399",
+        "state": "San Juan City"
+    },
+    "1534": {
+        "city": "Greenhills P.O. Box Nos. 1400 to 1499",
+        "state": "San Juan City"
+    },
+    "1535": {
+        "city": "Greenhills P.O. Box Nos. 1500 to 1599",
+        "state": "San Juan City"
+    },
+    "1536": {
+        "city": "Greenhills P.O. Box Nos. 1600 to 1699",
+        "state": "San Juan City"
+    },
+    "1550": {
+        "city": "Mandaluyong Central Post Office",
+        "state": "Mandaluyong City"
+    },
+    "1551": {
+        "city": "Vergara",
+        "state": "Mandaluyong City"
+    },
+    "1552": {
+        "city": "Shaw Boulevard",
+        "state": "Mandaluyong City"
+    },
+    "1553": {
+        "city": "National Center for Mental Health",
+        "state": "Mandaluyong City"
+    },
+    "1554": {
+        "city": "East EDSA",
+        "state": "Mandaluyong City"
+    },
+    "1555": {
+        "city": "Wack Wack",
+        "state": "Mandaluyong City"
+    },
+    "1556": {
+        "city": "Greenhills South",
+        "state": "Mandaluyong City"
+    },
+    "1600": {
+        "city": "Pasig Central Post Office",
+        "state": "Pasig City"
+    },
+    "1601": {
+        "city": "San Joaquin",
+        "state": "Pasig City"
+    },
+    "1602": {
+        "city": "Pinagbuhatan",
+        "state": "Pasig City"
+    },
+    "1603": {
+        "city": "Kapitolyo",
+        "state": "Pasig City"
+    },
+    "1604": {
+        "city": "Ugong",
+        "state": "Pasig City"
+    },
+    "1605": {
+        "city": "Ortigas Post Office",
+        "state": "Pasig City"
+    },
+    "1606": {
+        "city": "Caniogan",
+        "state": "Pasig City"
+    },
+    "1607": {
+        "city": "Maybunga",
+        "state": "Pasig City"
+    },
+    "1608": {
+        "city": "Santa Lucia",
+        "state": "Pasig City"
+    },
+    "1609": {
+        "city": "Rosario",
+        "state": "Pasig City"
+    },
+    "1610": {
+        "city": "Santolan",
+        "state": "Pasig City"
+    },
+    "1611": {
+        "city": "Manggahan",
+        "state": "Pasig City"
+    },
+    "1612": {
+        "city": "Green Park",
+        "state": "Pasig City"
+    },
+    "1620": {
+        "city": "Aguho",
+        "state": "Pateros"
+    },
+    "1621": {
+        "city": "Santa Ana",
+        "state": "Pateros"
+    },
+    "1630": {
+        "city": "Western Bicutan (including Food Terminal, Inc. complex)",
+        "state": "Taguig City"
+    },
+    "1631": {
+        "city": "Bicutan",
+        "state": "Taguig City"
+    },
+    "1632": {
+        "city": "ususan",
+        "state": "Taguig City"
+    },
+    "1633": {
+        "city": "Upper Bicutan",
+        "state": "Taguig City"
+    },
+    "1634": {
+        "city": "Nichols - McKinley",
+        "state": "Taguig City"
+    },
+    "1636": {
+        "city": "Bay Breeze Executive Village",
+        "state": "Taguig City"
+    },
+    "1637": {
+        "city": "Tuktukan",
+        "state": "Taguig City"
+    },
+    "1638": {
+        "city": "Ligid",
+        "state": "Taguig City"
+    },
+    "1650": {
+        "city": "Pasig Ortigas CTR-PO Box# 1000 to 1099",
+        "state": "Pasig City"
+    },
+    "1651": {
+        "city": "Pasig Ortigas CTR-PO Box# 1100 to 1199",
+        "state": "Pasig City"
+    },
+    "1652": {
+        "city": "Pasig Ortigas CTR-PO Box# 1200 to 1299",
+        "state": "Pasig City"
+    },
+    "1653": {
+        "city": "Pasig Ortigas CTR-PO Box# 1300 to 1399",
+        "state": "Pasig City"
+    },
+    "1654": {
+        "city": "Pasig Ortigas CTR-PO Box# 1400 to 1499",
+        "state": "Pasig City"
+    },
+    "1655": {
+        "city": "Pasig Ortigas CTR-PO Box# 1500 to 1599",
+        "state": "Pasig City"
+    },
+    "1656": {
+        "city": "Pasig Ortigas CTR-PO Box# 1600 to 1699",
+        "state": "Pasig City"
+    },
+    "1657": {
+        "city": "Pasig Ortigas CTR-PO Box# 1700 to 1799",
+        "state": "Pasig City"
+    },
+    "1658": {
+        "city": "Pasig Ortigas CTR-PO Box# 1800 to 1899",
+        "state": "Pasig City"
+    },
+    "1659": {
+        "city": "Pasig Ortigas CTR-PO Box# 1900 to 1999",
+        "state": "Pasig City"
+    },
+    "1660": {
+        "city": "Pasig Ortigas CTR-PO Box# 2000 to 2099",
+        "state": "Pasig City"
+    },
+    "1661": {
+        "city": "Pasig Ortigas CTR-PO Box# 2100 to 2199",
+        "state": "Pasig City"
+    },
+    "1662": {
+        "city": "Pasig Ortigas CTR-PO Box# 2200 to 2299",
+        "state": "Pasig City"
+    },
+    "1663": {
+        "city": "Pasig Ortigas CTR-PO Box# 2300 to 2399",
+        "state": "Pasig City"
+    },
+    "1664": {
+        "city": "Pasig Ortigas CTR-PO Box# 2400 to 2499",
+        "state": "Pasig City"
+    },
+    "1665": {
+        "city": "Pasig Ortigas CTR-PO Box# 2500 to 2599",
+        "state": "Pasig City"
+    },
+    "1666": {
+        "city": "Pasig Ortigas CTR-PO Box# 2600 to 2699",
+        "state": "Pasig City"
+    },
+    "1667": {
+        "city": "Pasig Ortigas CTR-PO Box# 2700 to 2799",
+        "state": "Pasig City"
+    },
+    "1668": {
+        "city": "Pasig Ortigas CTR-PO Box# 2800 to 2899",
+        "state": "Pasig City"
+    },
+    "1669": {
+        "city": "Pasig Ortigas CTR-PO Box# 2900 to 2999",
+        "state": "Pasig City"
+    },
+    "1670": {
+        "city": "Pasig Ortigas CTR-PO Box# 3000 to 3099",
+        "state": "Pasig City"
+    },
+    "1671": {
+        "city": "Pasig Ortigas CTR-PO Box# 3100 to 3199",
+        "state": "Pasig City"
+    },
+    "1672": {
+        "city": "Pasig Ortigas CTR-PO Box# 3200 to 3299",
+        "state": "Pasig City"
+    },
+    "1673": {
+        "city": "Pasig Ortigas CTR-PO Box# 3300 to 3399",
+        "state": "Pasig City"
+    },
+    "1674": {
+        "city": "Pasig Ortigas CTR-PO Box# 3400 to 3499",
+        "state": "Pasig City"
+    },
+    "1675": {
+        "city": "Pasig Ortigas CTR-PO Box# 3500 to 3599",
+        "state": "Pasig City"
+    },
+    "1676": {
+        "city": "Pasig Ortigas CTR-PO Box# 3600 to 3699",
+        "state": "Pasig City"
+    },
+    "1677": {
+        "city": "Pasig Ortigas CTR-PO Box# 3700 to 3799",
+        "state": "Pasig City"
+    },
+    "1678": {
+        "city": "Pasig Ortigas CTR-PO Box# 3800 to 3899",
+        "state": "Pasig City"
+    },
+    "1679": {
+        "city": "Pasig Ortigas CTR-PO Box# 3900 to 3999",
+        "state": "Pasig City"
+    },
+    "1680": {
+        "city": "Pasig Ortigas CTR-PO Box# 4000 to 4099",
+        "state": "Pasig City"
+    },
+    "1681": {
+        "city": "Pasig Ortigas CTR-PO Box# 4100 to 4199",
+        "state": "Pasig City"
+    },
+    "1682": {
+        "city": "Pasig Ortigas CTR-PO Box# 4200 to 4299",
+        "state": "Pasig City"
+    },
+    "1683": {
+        "city": "Pasig Ortigas CTR-PO Box# 4300 to 4399",
+        "state": "Pasig City"
+    },
+    "1684": {
+        "city": "Pasig Ortigas CTR-PO Box# 4400 to 4499",
+        "state": "Pasig City"
+    },
+    "1685": {
+        "city": "Pasig Ortigas CTR-PO Box# 4500 to 4599",
+        "state": "Pasig City"
+    },
+    "1686": {
+        "city": "Pasig Ortigas CTR-PO Box# 4600 to 4699",
+        "state": "Pasig City"
+    },
+    "1687": {
+        "city": "Pasig Ortigas CTR-PO Box# 4700 to 4799",
+        "state": "Pasig City"
+    },
+    "1688": {
+        "city": "Pasig Ortigas CTR-PO Box# 4800 to 4899",
+        "state": "Pasig City"
+    },
+    "1689": {
+        "city": "Pasig Ortigas CTR-PO Box# 4900 to 4999",
+        "state": "Pasig City"
+    },
+    "1690": {
+        "city": "Pasig Ortigas CTR-PO Box# 5000 to 5099",
+        "state": "Pasig City"
+    },
+    "1691": {
+        "city": "Pasig Ortigas CTR-PO Box# 5100 to 5199",
+        "state": "Pasig City"
+    },
+    "1692": {
+        "city": "Pasig Ortigas CTR-PO Box# 5200 to 5299",
+        "state": "Pasig City"
+    },
+    "1693": {
+        "city": "Pasig Ortigas CTR-PO Box# 5300 to 5399",
+        "state": "Pasig City"
+    },
+    "1694": {
+        "city": "Pasig Ortigas CTR-PO Box# 5400 to 5499",
+        "state": "Pasig City"
+    },
+    "1695": {
+        "city": "Pasig Ortigas CTR-PO Box# 5500 to 5599",
+        "state": "Pasig City"
+    },
+    "1696": {
+        "city": "Pasig Ortigas CTR-PO Box# 5600 to 5699",
+        "state": "Pasig City"
+    },
+    "1697": {
+        "city": "Pasig Ortigas CTR-PO Box# 5700 to 5799",
+        "state": "Pasig City"
+    },
+    "1698": {
+        "city": "Pasig Ortigas CTR-PO Box# 5800 to 5899",
+        "state": "Pasig City"
+    },
+    "1699": {
+        "city": "Pasig Ortigas CTR-PO Box# 5900 to 5999",
+        "state": "Pasig City"
+    },
+    "1700": {
+        "city": "Parañaque CPO",
+        "state": "Parañaque City"
+    },
+    "1701": {
+        "city": "Tambo",
+        "state": "Parañaque City"
+    },
+    "1702": {
+        "city": "Baclaran",
+        "state": "Parañaque City"
+    },
+    "1703": {
+        "city": "Marina Subdivision (Reclamation)",
+        "state": "Parañaque City"
+    },
+    "1704": {
+        "city": "Santo Niño",
+        "state": "Parañaque City"
+    },
+    "1705": {
+        "city": "Ninoy Aquino International Airport",
+        "state": "Parañaque City"
+    },
+    "1706": {
+        "city": "Pulo",
+        "state": "Parañaque City"
+    },
+    "1707": {
+        "city": "San Antonio Valley 11 & 12",
+        "state": "Parañaque City"
+    },
+    "1708": {
+        "city": "Multinational Village",
+        "state": "Parañaque City"
+    },
+    "1709": {
+        "city": "South Admiral Village, Merville Park & Moonwalk Subdivision",
+        "state": "Parañaque City"
+    },
+    "1710": {
+        "city": "Executive Heights Subdivision",
+        "state": "Parañaque City"
+    },
+    "1711": {
+        "city": "Better Living Subdivision",
+        "state": "Parañaque City"
+    },
+    "1712": {
+        "city": "Miramar Subdivision",
+        "state": "Parañaque City"
+    },
+    "1713": {
+        "city": "United Parañaque Subdivision",
+        "state": "Parañaque City"
+    },
+    "1714": {
+        "city": "Ireneville Subdivision II",
+        "state": "Parañaque City"
+    },
+    "1715": {
+        "city": "San Antonio Valley 1",
+        "state": "Parañaque City"
+    },
+    "1716": {
+        "city": "Maywood Village II",
+        "state": "Parañaque City"
+    },
+    "1717": {
+        "city": "Manila Memorial Park",
+        "state": "Parañaque City"
+    },
+    "1718": {
+        "city": "BF Homes 2",
+        "state": "Parañaque City"
+    },
+    "1719": {
+        "city": "Maywood Village I",
+        "state": "Parañaque City"
+    },
+    "1720": {
+        "city": "BF Homes 1",
+        "state": "Parañaque City"
+    },
+    "1740": {
+        "city": "Las Piñas Central Post Office",
+        "state": "Las Piñas City"
+    },
+    "1741": {
+        "city": "Greymarville Subdivision",
+        "state": "Las Piñas City"
+    },
+    "1742": {
+        "city": "Pulang Lupa and Zapote",
+        "state": "Las Piñas City"
+    },
+    "1743": {
+        "city": "Cut-cut",
+        "state": "Las Piñas City"
+    },
+    "1744": {
+        "city": "Manuyo",
+        "state": "Las Piñas City"
+    },
+    "1745": {
+        "city": "Gatchalian Subdivision",
+        "state": "Las Piñas City"
+    },
+    "1746": {
+        "city": "Verdant Acres Subdivision",
+        "state": "Las Piñas City"
+    },
+    "1747": {
+        "city": "Moonwalk Subdivision and Talon",
+        "state": "Las Piñas City"
+    },
+    "1748": {
+        "city": "Manila Doctors Village",
+        "state": "Las Piñas City"
+    },
+    "1749": {
+        "city": "Angela Village",
+        "state": "Las Piñas City"
+    },
+    "1750": {
+        "city": "Almanza",
+        "state": "Las Piñas City"
+    },
+    "1751": {
+        "city": "T.S. Cruz Subdivision",
+        "state": "Las Piñas City"
+    },
+    "1752": {
+        "city": "Soldiers Hills Subdivision",
+        "state": "Las Piñas City"
+    },
+    "1770": {
+        "city": "Muntinlupa Central Post Office",
+        "state": "Muntinlupa City"
+    },
+    "1771": {
+        "city": "Buli/Cupang",
+        "state": "Muntinlupa City"
+    },
+    "1772": {
+        "city": "Soldiers' Hills",
+        "state": "Muntinlupa City"
+    },
+    "1773": {
+        "city": "Tunasan",
+        "state": "Muntinlupa City"
+    },
+    "1774": {
+        "city": "Susana Heights",
+        "state": "Muntinlupa City"
+    },
+    "1775": {
+        "city": "Pearl Heights",
+        "state": "Muntinlupa City"
+    },
+    "1776": {
+        "city": "Poblacion",
+        "state": "Muntinlupa City"
+    },
+    "1777": {
+        "city": "Pleasant Village",
+        "state": "Muntinlupa City"
+    },
+    "1780": {
+        "city": "Ayala Alabang Subdivision",
+        "state": "Muntinlupa City"
+    },
+    "1799": {
+        "city": "Ayala Alabang P.O. Boxes",
+        "state": "Muntinlupa City"
+    },
+    "1800": {
+        "city": "Marikina Central Post Office",
+        "state": "Marikina City"
+    },
+    "1801": {
+        "city": "San Roque-Calumpang",
+        "state": "Marikina City"
+    },
+    "1802": {
+        "city": "Industrial Valley",
+        "state": "Marikina City"
+    },
+    "1803": {
+        "city": "Barangka and Tañong",
+        "state": "Marikina City"
+    },
+    "1804": {
+        "city": "J. De La Peña",
+        "state": "Marikina City"
+    },
+    "1805": {
+        "city": "Malanday",
+        "state": "Marikina City"
+    },
+    "1806": {
+        "city": "Northern and Western Marikina River",
+        "state": "Marikina City"
+    },
+    "1807": {
+        "city": "Concepcion tarlac",
+        "state": "Marikina City"
+    },
+    "1808": {
+        "city": "Nangka",
+        "state": "Marikina City"
+    },
+    "1809": {
+        "city": "Parang",
+        "state": "Marikina City"
+    },
+    "1810": {
+        "city": "Marikina Heights",
+        "state": "Marikina City"
+    },
+    "1811": {
+        "city": "Concepcion 2",
+        "state": "Marikina City"
+    },
+    "1820": {
+        "city": "Bagong Nayon, Cupang, Mambagat, and Mayamot",
+        "state": "Marikina City"
+    },
+    "1850": {
+        "city": "San Mateo",
+        "state": "Rizal"
+    },
+    "1860": {
+        "city": "Rodriguez",
+        "state": "Rizal"
+    },
+    "1870": {
+        "city": "Antipolo City",
+        "state": "Rizal"
+    },
+    "1880": {
+        "city": "Teresa",
+        "state": "Rizal"
+    },
+    "1900": {
+        "city": "Jalajala",
+        "state": "Rizal"
+    },
+    "1910": {
+        "city": "Pililla",
+        "state": "Rizal"
+    },
+    "1920": {
+        "city": "Taytay",
+        "state": "Rizal"
+    },
+    "1930": {
+        "city": "Angono",
+        "state": "Rizal"
+    },
+    "1940": {
+        "city": "Binangonan",
+        "state": "Rizal"
+    },
+    "1950": {
+        "city": "Cardona",
+        "state": "Rizal"
+    },
+    "1960": {
+        "city": "Morong",
+        "state": "Rizal"
+    },
+    "1970": {
+        "city": "Baras",
+        "state": "Rizal"
+    },
+    "1980": {
+        "city": "Tanay",
+        "state": "Rizal"
+    },
+    "2000": {
+        "city": "City of San Fernando",
+        "state": "Pampanga"
+    },
+    "2001": {
+        "city": "Bacolor",
+        "state": "Pampanga"
+    },
+    "2002": {
+        "city": "Santa Rita",
+        "state": "Pampanga"
+    },
+    "2003": {
+        "city": "Guagua",
+        "state": "Pampanga"
+    },
+    "2004": {
+        "city": "Sasmuan (Sexmoan)",
+        "state": "Pampanga"
+    },
+    "2005": {
+        "city": "Lubao",
+        "state": "Pampanga"
+    },
+    "2006": {
+        "city": "Floridablanca",
+        "state": "Pampanga"
+    },
+    "2007": {
+        "city": "Basa Airbase",
+        "state": "Pampanga"
+    },
+    "2008": {
+        "city": "Porac",
+        "state": "Pampanga"
+    },
+    "2009": {
+        "city": "Angeles City/Clark Special Economic ZoneBalibago a Barangay in Angeles city has its own zip code 2024",
+        "state": "Pampanga"
+    },
+    "2010": {
+        "city": "Mabalacat",
+        "state": "Pampanga"
+    },
+    "2011": {
+        "city": "Magalang",
+        "state": "Pampanga"
+    },
+    "2012": {
+        "city": "Arayat",
+        "state": "Pampanga"
+    },
+    "2013": {
+        "city": "Candaba",
+        "state": "Pampanga"
+    },
+    "2014": {
+        "city": "San Luis",
+        "state": "Pampanga"
+    },
+    "2015": {
+        "city": "San Simon",
+        "state": "Pampanga"
+    },
+    "2016": {
+        "city": "Apalit",
+        "state": "Pampanga"
+    },
+    "2017": {
+        "city": "Masantol",
+        "state": "Pampanga"
+    },
+    "2018": {
+        "city": "Macabebe",
+        "state": "Pampanga"
+    },
+    "2019": {
+        "city": "Minalin",
+        "state": "Pampanga"
+    },
+    "2020": {
+        "city": "Santo Tomas",
+        "state": "Pampanga"
+    },
+    "2021": {
+        "city": "Mexico",
+        "state": "Pampanga"
+    },
+    "2022": {
+        "city": "Santa Ana",
+        "state": "Pampanga"
+    },
+    "2100": {
+        "city": "Balanga City",
+        "state": "Bataan"
+    },
+    "2101": {
+        "city": "Pilar",
+        "state": "Bataan"
+    },
+    "2102": {
+        "city": "Orion",
+        "state": "Bataan"
+    },
+    "2103": {
+        "city": "Limay",
+        "state": "Bataan"
+    },
+    "2104": {
+        "city": "Lamao",
+        "state": "Bataan"
+    },
+    "2105": {
+        "city": "Mariveles",
+        "state": "Bataan"
+    },
+    "2106": {
+        "city": "Mariveles (Bataan Export Processing Zone)",
+        "state": "Bataan"
+    },
+    "2107": {
+        "city": "Bagac",
+        "state": "Bataan"
+    },
+    "2108": {
+        "city": "Morong",
+        "state": "Bataan"
+    },
+    "2109": {
+        "city": "Morong (Refugee Processing Center)",
+        "state": "Bataan"
+    },
+    "2110": {
+        "city": "Dinalupihan",
+        "state": "Bataan"
+    },
+    "2111": {
+        "city": "Hermosa",
+        "state": "Bataan"
+    },
+    "2112": {
+        "city": "Orani",
+        "state": "Bataan"
+    },
+    "2113": {
+        "city": "Samal",
+        "state": "Bataan"
+    },
+    "2114": {
+        "city": "Abucay",
+        "state": "Bataan"
+    },
+    "2200": {
+        "city": "Olongapo City",
+        "state": "Zambales"
+    },
+    "2201": {
+        "city": "Iba",
+        "state": "Zambales"
+    },
+    "2202": {
+        "city": "Botolan",
+        "state": "Zambales"
+    },
+    "2203": {
+        "city": "Cabangan",
+        "state": "Zambales"
+    },
+    "2204": {
+        "city": "San Felipe",
+        "state": "Zambales"
+    },
+    "2205": {
+        "city": "San Narciso",
+        "state": "Zambales"
+    },
+    "2206": {
+        "city": "San Antonio",
+        "state": "Zambales"
+    },
+    "2207": {
+        "city": "San Marcelino",
+        "state": "Zambales"
+    },
+    "2208": {
+        "city": "Castillejos",
+        "state": "Zambales"
+    },
+    "2209": {
+        "city": "Subic",
+        "state": "Zambales"
+    },
+    "2210": {
+        "city": "Palauig & Scarborough Shoal",
+        "state": "Zambales"
+    },
+    "2211": {
+        "city": "Masinloc",
+        "state": "Zambales"
+    },
+    "2212": {
+        "city": "Candelaria",
+        "state": "Zambales"
+    },
+    "2213": {
+        "city": "Santa Cruz",
+        "state": "Zambales"
+    },
+    "2222": {
+        "city": "Subic Bay Freeport Zone (Metro Subic)",
+        "state": "Zambales"
+    },
+    "2300": {
+        "city": "Tarlac City",
+        "state": "Tarlac"
+    },
+    "2301": {
+        "city": "San Jose",
+        "state": "Tarlac"
+    },
+    "2302": {
+        "city": "Gerona",
+        "state": "Tarlac"
+    },
+    "2303": {
+        "city": "Santa Ignacia",
+        "state": "Tarlac"
+    },
+    "2304": {
+        "city": "Mayantoc",
+        "state": "Tarlac"
+    },
+    "2305": {
+        "city": "San Clemente",
+        "state": "Tarlac"
+    },
+    "2306": {
+        "city": "Camiling",
+        "state": "Tarlac"
+    },
+    "2307": {
+        "city": "[Paniqui]",
+        "state": "Tarlac"
+    },
+    "2309": {
+        "city": "San Manuel",
+        "state": "Tarlac"
+    },
+    "2310": {
+        "city": "Anao",
+        "state": "Tarlac"
+    },
+    "2311": {
+        "city": "Ramos",
+        "state": "Tarlac"
+    },
+    "2312": {
+        "city": "Pura",
+        "state": "Tarlac"
+    },
+    "2313": {
+        "city": "Victoria",
+        "state": "Tarlac"
+    },
+    "2314": {
+        "city": "La Paz",
+        "state": "Tarlac"
+    },
+    "2316": {
+        "city": "Concepcion",
+        "state": "Tarlac"
+    },
+    "2317": {
+        "city": "Bamban",
+        "state": "Tarlac"
+    },
+    "2333": {
+        "city": "Capas",
+        "state": "Tarlac"
+    },
+    "2334": {
+        "city": "Moncada",
+        "state": "Tarlac"
+    },
+    "2400": {
+        "city": "Dagupan City",
+        "state": "Pangasinan"
+    },
+    "2401": {
+        "city": "Lingayen",
+        "state": "Pangasinan"
+    },
+    "2402": {
+        "city": "Labrador",
+        "state": "Pangasinan"
+    },
+    "2403": {
+        "city": "Sual",
+        "state": "Pangasinan"
+    },
+    "2404": {
+        "city": "Alaminos",
+        "state": "Pangasinan"
+    },
+    "2405": {
+        "city": "Anda",
+        "state": "Pangasinan"
+    },
+    "2406": {
+        "city": "Bolinao",
+        "state": "Pangasinan"
+    },
+    "2407": {
+        "city": "Bani",
+        "state": "Pangasinan"
+    },
+    "2408": {
+        "city": "Agno",
+        "state": "Pangasinan"
+    },
+    "2409": {
+        "city": "Mabini",
+        "state": "Pangasinan"
+    },
+    "2410": {
+        "city": "Burgos",
+        "state": "Pangasinan"
+    },
+    "2411": {
+        "city": "Dasol",
+        "state": "Pangasinan"
+    },
+    "2412": {
+        "city": "Infanta",
+        "state": "Pangasinan"
+    },
+    "2413": {
+        "city": "Mangatarem",
+        "state": "Pangasinan"
+    },
+    "2414": {
+        "city": "Urbiztondo",
+        "state": "Pangasinan"
+    },
+    "2415": {
+        "city": "Aguilar",
+        "state": "Pangasinan"
+    },
+    "2416": {
+        "city": "Bugallon",
+        "state": "Pangasinan"
+    },
+    "2417": {
+        "city": "Binmaley",
+        "state": "Pangasinan"
+    },
+    "2418": {
+        "city": "Calasiao",
+        "state": "Pangasinan"
+    },
+    "2419": {
+        "city": "Santa Barbara",
+        "state": "Pangasinan"
+    },
+    "2420": {
+        "city": "San Carlos City",
+        "state": "Pangasinan"
+    },
+    "2421": {
+        "city": "Malasiqui",
+        "state": "Pangasinan"
+    },
+    "2422": {
+        "city": "Basista",
+        "state": "Pangasinan"
+    },
+    "2423": {
+        "city": "Bayambang",
+        "state": "Pangasinan"
+    },
+    "2424": {
+        "city": "Bautista",
+        "state": "Pangasinan"
+    },
+    "2425": {
+        "city": "Alcala",
+        "state": "Pangasinan"
+    },
+    "2426": {
+        "city": "Santo Tomas",
+        "state": "Pangasinan"
+    },
+    "2427": {
+        "city": "Villasis",
+        "state": "Pangasinan"
+    },
+    "2428": {
+        "city": "Urdaneta",
+        "state": "Pangasinan"
+    },
+    "2429": {
+        "city": "Mapandan",
+        "state": "Pangasinan"
+    },
+    "2430": {
+        "city": "Manaoag",
+        "state": "Pangasinan"
+    },
+    "2431": {
+        "city": "San Jacinto",
+        "state": "Pangasinan"
+    },
+    "2432": {
+        "city": "Mangaldan",
+        "state": "Pangasinan"
+    },
+    "2433": {
+        "city": "San Fabian",
+        "state": "Pangasinan"
+    },
+    "2434": {
+        "city": "Sison",
+        "state": "Pangasinan"
+    },
+    "2435": {
+        "city": "Pozorrubio",
+        "state": "Pangasinan"
+    },
+    "2436": {
+        "city": "Binalonan",
+        "state": "Pangasinan"
+    },
+    "2437": {
+        "city": "Laoac",
+        "state": "Pangasinan"
+    },
+    "2438": {
+        "city": "San Manuel",
+        "state": "Pangasinan"
+    },
+    "2439": {
+        "city": "Asingan",
+        "state": "Pangasinan"
+    },
+    "2440": {
+        "city": "Santa Maria",
+        "state": "Pangasinan"
+    },
+    "2441": {
+        "city": "Rosales",
+        "state": "Pangasinan"
+    },
+    "2442": {
+        "city": "Balungao",
+        "state": "Pangasinan"
+    },
+    "2443": {
+        "city": "Umingan",
+        "state": "Pangasinan"
+    },
+    "2444": {
+        "city": "San Quintin",
+        "state": "Pangasinan"
+    },
+    "2445": {
+        "city": "Tayug",
+        "state": "Pangasinan"
+    },
+    "2446": {
+        "city": "Natividad",
+        "state": "Pangasinan"
+    },
+    "2447": {
+        "city": "San Nicolas",
+        "state": "Pangasinan"
+    },
+    "2500": {
+        "city": "San Fernando City",
+        "state": "La Union"
+    },
+    "2501": {
+        "city": "Bauang",
+        "state": "La Union"
+    },
+    "2502": {
+        "city": "Caba",
+        "state": "La Union"
+    },
+    "2503": {
+        "city": "Aringay",
+        "state": "La Union"
+    },
+    "2504": {
+        "city": "Agoo",
+        "state": "La Union"
+    },
+    "2505": {
+        "city": "Santo Tomas",
+        "state": "La Union"
+    },
+    "2506": {
+        "city": "Rosario",
+        "state": "La Union"
+    },
+    "2507": {
+        "city": "Damortis",
+        "state": "La Union"
+    },
+    "2508": {
+        "city": "Pugo",
+        "state": "La Union"
+    },
+    "2509": {
+        "city": "Tubao",
+        "state": "La Union"
+    },
+    "2510": {
+        "city": "Burgos",
+        "state": "La Union"
+    },
+    "2511": {
+        "city": "Naguillan",
+        "state": "La Union"
+    },
+    "2512": {
+        "city": "Bagulin",
+        "state": "La Union"
+    },
+    "2513": {
+        "city": "San Gabriel",
+        "state": "La Union"
+    },
+    "2514": {
+        "city": "San Juan",
+        "state": "La Union"
+    },
+    "2515": {
+        "city": "Bacnotan",
+        "state": "La Union"
+    },
+    "2516": {
+        "city": "Santol",
+        "state": "La Union"
+    },
+    "2517": {
+        "city": "Balaoan",
+        "state": "La Union"
+    },
+    "2518": {
+        "city": "Luna",
+        "state": "La Union"
+    },
+    "2519": {
+        "city": "Bangar",
+        "state": "La Union"
+    },
+    "2520": {
+        "city": "Sudepen",
+        "state": "La Union"
+    },
+    "2600": {
+        "city": "Baguio City",
+        "state": "Benguet"
+    },
+    "2601": {
+        "city": "La Trinidad, including Pico",
+        "state": "Benguet"
+    },
+    "2602": {
+        "city": "Philippine Military Academy",
+        "state": "Benguet"
+    },
+    "2603": {
+        "city": "Tuba, including Marcos Highway and Kennon Road",
+        "state": "Benguet"
+    },
+    "2604": {
+        "city": "Itogon",
+        "state": "Benguet"
+    },
+    "2605": {
+        "city": "Bokod",
+        "state": "Benguet"
+    },
+    "2606": {
+        "city": "Kabayan",
+        "state": "Benguet"
+    },
+    "2607": {
+        "city": "Buguias",
+        "state": "Benguet"
+    },
+    "2608": {
+        "city": "Mankayan",
+        "state": "Benguet"
+    },
+    "2609": {
+        "city": "Lepanto, Mankayan",
+        "state": "Benguet"
+    },
+    "2610": {
+        "city": "Bakun",
+        "state": "Benguet"
+    },
+    "2611": {
+        "city": "Kibungan",
+        "state": "Benguet"
+    },
+    "2612": {
+        "city": "Atok",
+        "state": "Benguet"
+    },
+    "2613": {
+        "city": "Kapangan",
+        "state": "Benguet"
+    },
+    "2614": {
+        "city": "Sablan",
+        "state": "Benguet"
+    },
+    "2615": {
+        "city": "Tublay",
+        "state": "Benguet"
+    },
+    "2616": {
+        "city": "Bontoc",
+        "state": "Mountain Province"
+    },
+    "2617": {
+        "city": "Sadanga",
+        "state": "Mountain Province"
+    },
+    "2618": {
+        "city": "Besao",
+        "state": "Mountain Province"
+    },
+    "2619": {
+        "city": "Sagada",
+        "state": "Mountain Province"
+    },
+    "2620": {
+        "city": "Tadian",
+        "state": "Mountain Province"
+    },
+    "2621": {
+        "city": "Bauko",
+        "state": "Mountain Province"
+    },
+    "2622": {
+        "city": "Sabangan",
+        "state": "Mountain Province"
+    },
+    "2623": {
+        "city": "Barlig",
+        "state": "Mountain Province"
+    },
+    "2624": {
+        "city": "Natonin",
+        "state": "Mountain Province"
+    },
+    "2625": {
+        "city": "Paracelis",
+        "state": "Mountain Province"
+    },
+    "2700": {
+        "city": "Vigan City",
+        "state": "Ilocos Sur"
+    },
+    "2701": {
+        "city": "Santa Catalina",
+        "state": "Ilocos Sur"
+    },
+    "2702": {
+        "city": "Caoayan",
+        "state": "Ilocos Sur"
+    },
+    "2703": {
+        "city": "Santa",
+        "state": "Ilocos Sur"
+    },
+    "2704": {
+        "city": "Narvacan",
+        "state": "Ilocos Sur"
+    },
+    "2705": {
+        "city": "Santa Maria",
+        "state": "Ilocos Sur"
+    },
+    "2706": {
+        "city": "San Esteban",
+        "state": "Ilocos Sur"
+    },
+    "2707": {
+        "city": "Santiago",
+        "state": "Ilocos Sur"
+    },
+    "2708": {
+        "city": "Banayoyo",
+        "state": "Ilocos Sur"
+    },
+    "2709": {
+        "city": "Galimuyod",
+        "state": "Ilocos Sur"
+    },
+    "2710": {
+        "city": "Candon City",
+        "state": "Ilocos Sur"
+    },
+    "2711": {
+        "city": "Salcedo (Baugen)",
+        "state": "Ilocos Sur"
+    },
+    "2712": {
+        "city": "Santa Lucia",
+        "state": "Ilocos Sur"
+    },
+    "2713": {
+        "city": "Santa Cruz",
+        "state": "Ilocos Sur"
+    },
+    "2714": {
+        "city": "Tagudin",
+        "state": "Ilocos Sur"
+    },
+    "2715": {
+        "city": "Suyo",
+        "state": "Ilocos Sur"
+    },
+    "2716": {
+        "city": "Alilem",
+        "state": "Ilocos Sur"
+    },
+    "2717": {
+        "city": "Sugpon",
+        "state": "Ilocos Sur"
+    },
+    "2718": {
+        "city": "Cervantes",
+        "state": "Ilocos Sur"
+    },
+    "2719": {
+        "city": "Sigay",
+        "state": "Ilocos Sur"
+    },
+    "2720": {
+        "city": "Gregorio del Pilar",
+        "state": "Ilocos Sur"
+    },
+    "2721": {
+        "city": "Quirino (Angkaki)",
+        "state": "Ilocos Sur"
+    },
+    "2722": {
+        "city": "San Emilio",
+        "state": "Ilocos Sur"
+    },
+    "2723": {
+        "city": "Lidlidda",
+        "state": "Ilocos Sur"
+    },
+    "2724": {
+        "city": "Burgos",
+        "state": "Ilocos Sur"
+    },
+    "2725": {
+        "city": "Nagbukel",
+        "state": "Ilocos Sur"
+    },
+    "2726": {
+        "city": "San Vicente",
+        "state": "Ilocos Sur"
+    },
+    "2727": {
+        "city": "Bantay",
+        "state": "Ilocos Sur"
+    },
+    "2728": {
+        "city": "San Ildefonso",
+        "state": "Ilocos Sur"
+    },
+    "2729": {
+        "city": "Santo Domingo",
+        "state": "Ilocos Sur"
+    },
+    "2730": {
+        "city": "Magsingal",
+        "state": "Ilocos Sur"
+    },
+    "2731": {
+        "city": "San Juan (Lapog)",
+        "state": "Ilocos Sur"
+    },
+    "2732": {
+        "city": "Cabugao",
+        "state": "Ilocos Sur"
+    },
+    "2733": {
+        "city": "Sinait",
+        "state": "Ilocos Sur"
+    },
+    "2800": {
+        "city": "Bangued",
+        "state": "Abra"
+    },
+    "2801": {
+        "city": "Dolores",
+        "state": "Abra"
+    },
+    "2802": {
+        "city": "Lagangilang",
+        "state": "Abra"
+    },
+    "2803": {
+        "city": "Tayum",
+        "state": "Abra"
+    },
+    "2804": {
+        "city": "Peñarrubia",
+        "state": "Abra"
+    },
+    "2805": {
+        "city": "Bucay",
+        "state": "Abra"
+    },
+    "2806": {
+        "city": "Pidigan",
+        "state": "Abra"
+    },
+    "2807": {
+        "city": "Langiden",
+        "state": "Abra"
+    },
+    "2808": {
+        "city": "San Quintin",
+        "state": "Abra"
+    },
+    "2809": {
+        "city": "San Isidro",
+        "state": "Abra"
+    },
+    "2810": {
+        "city": "Manabo",
+        "state": "Abra"
+    },
+    "2811": {
+        "city": "Villaviciosa",
+        "state": "Abra"
+    },
+    "2812": {
+        "city": "Pilar",
+        "state": "Abra"
+    },
+    "2813": {
+        "city": "Luba",
+        "state": "Abra"
+    },
+    "2814": {
+        "city": "Tubo",
+        "state": "Abra"
+    },
+    "2815": {
+        "city": "Boliney",
+        "state": "Abra"
+    },
+    "2816": {
+        "city": "Daguioman",
+        "state": "Abra"
+    },
+    "2817": {
+        "city": "Bucloc",
+        "state": "Abra"
+    },
+    "2818": {
+        "city": "Sallapadan",
+        "state": "Abra"
+    },
+    "2819": {
+        "city": "Licuan (Baay)",
+        "state": "Abra"
+    },
+    "2820": {
+        "city": "Malibcong",
+        "state": "Abra"
+    },
+    "2821": {
+        "city": "Lacub",
+        "state": "Abra"
+    },
+    "2822": {
+        "city": "Tineg",
+        "state": "Abra"
+    },
+    "2823": {
+        "city": "San Juan",
+        "state": "Abra"
+    },
+    "2824": {
+        "city": "Lagayan",
+        "state": "Abra"
+    },
+    "2825": {
+        "city": "Danglas",
+        "state": "Abra"
+    },
+    "2826": {
+        "city": "La Paz",
+        "state": "Abra"
+    },
+    "2900": {
+        "city": "Laoag City",
+        "state": "Ilocos Norte"
+    },
+    "2901": {
+        "city": "San Nicolas",
+        "state": "Ilocos Norte"
+    },
+    "2902": {
+        "city": "Paoay",
+        "state": "Ilocos Norte"
+    },
+    "2903": {
+        "city": "Currimao",
+        "state": "Ilocos Norte"
+    },
+    "2904": {
+        "city": "Badoc",
+        "state": "Ilocos Norte"
+    },
+    "2905": {
+        "city": "Pinili",
+        "state": "Ilocos Norte"
+    },
+    "2906": {
+        "city": "Batac",
+        "state": "Ilocos Norte"
+    },
+    "2907": {
+        "city": "Marcos",
+        "state": "Ilocos Norte"
+    },
+    "2908": {
+        "city": "Banna (Espiritu)",
+        "state": "Ilocos Norte"
+    },
+    "2909": {
+        "city": "Nueva Era",
+        "state": "Ilocos Norte"
+    },
+    "2910": {
+        "city": "Solsona",
+        "state": "Ilocos Norte"
+    },
+    "2911": {
+        "city": "Carasi",
+        "state": "Ilocos Norte"
+    },
+    "2912": {
+        "city": "Piddig",
+        "state": "Ilocos Norte"
+    },
+    "2913": {
+        "city": "Dingras",
+        "state": "Ilocos Norte"
+    },
+    "2914": {
+        "city": "Sarrat",
+        "state": "Ilocos Norte"
+    },
+    "2915": {
+        "city": "Vintar",
+        "state": "Ilocos Norte"
+    },
+    "2916": {
+        "city": "Bacarra",
+        "state": "Ilocos Norte"
+    },
+    "2917": {
+        "city": "Pasuquin",
+        "state": "Ilocos Norte"
+    },
+    "2918": {
+        "city": "Burgos",
+        "state": "Ilocos Norte"
+    },
+    "2919": {
+        "city": "Pagudpud",
+        "state": "Ilocos Norte"
+    },
+    "2920": {
+        "city": "Bangui",
+        "state": "Ilocos Norte"
+    },
+    "2921": {
+        "city": "Dumalneg",
+        "state": "Ilocos Norte"
+    },
+    "2922": {
+        "city": "Adams",
+        "state": "Ilocos Norte"
+    },
+    "3000": {
+        "city": "Malolos City",
+        "state": "Bulacan"
+    },
+    "3001": {
+        "city": "Paombong",
+        "state": "Bulacan"
+    },
+    "3002": {
+        "city": "Hagonoy",
+        "state": "Bulacan"
+    },
+    "3003": {
+        "city": "Calumpit",
+        "state": "Bulacan"
+    },
+    "3004": {
+        "city": "Plaridel",
+        "state": "Bulacan"
+    },
+    "3005": {
+        "city": "Pulilan",
+        "state": "Bulacan"
+    },
+    "3006": {
+        "city": "Baliuag",
+        "state": "Bulacan"
+    },
+    "3007": {
+        "city": "Bustos",
+        "state": "Bulacan"
+    },
+    "3008": {
+        "city": "San Rafael",
+        "state": "Bulacan"
+    },
+    "3009": {
+        "city": "Dona Remedios Trinidad",
+        "state": "Bulacan"
+    },
+    "3010": {
+        "city": "San Ildefonso",
+        "state": "Bulacan"
+    },
+    "3011": {
+        "city": "San Miguel",
+        "state": "Bulacan"
+    },
+    "3012": {
+        "city": "Angat",
+        "state": "Bulacan"
+    },
+    "3013": {
+        "city": "Norzagaray",
+        "state": "Bulacan"
+    },
+    "3014": {
+        "city": "Pandi",
+        "state": "Bulacan"
+    },
+    "3015": {
+        "city": "Guiguinto",
+        "state": "Bulacan"
+    },
+    "3016": {
+        "city": "Balagtas (Bigaa)",
+        "state": "Bulacan"
+    },
+    "3017": {
+        "city": "Bulacan",
+        "state": "Bulacan"
+    },
+    "3018": {
+        "city": "Bocaue",
+        "state": "Bulacan"
+    },
+    "3019": {
+        "city": "Marilao",
+        "state": "Bulacan"
+    },
+    "3020": {
+        "city": "Meycauayan City",
+        "state": "Bulacan"
+    },
+    "3021": {
+        "city": "Obando",
+        "state": "Bulacan"
+    },
+    "3022": {
+        "city": "Santa Maria",
+        "state": "Bulacan"
+    },
+    "3023": {
+        "city": "San Jose del Monte City",
+        "state": "Bulacan"
+    },
+    "3024": {
+        "city": "Sapang Palay, San Jose del Monte City",
+        "state": "Bulacan"
+    },
+    "3100": {
+        "city": "Cabanatuan City",
+        "state": "Nueva Ecija"
+    },
+    "3101": {
+        "city": "Santa Rosa",
+        "state": "Nueva Ecija"
+    },
+    "3102": {
+        "city": "San Leonardo",
+        "state": "Nueva Ecija"
+    },
+    "3103": {
+        "city": "Peñaranda",
+        "state": "Nueva Ecija"
+    },
+    "3104": {
+        "city": "General Tinio",
+        "state": "Nueva Ecija"
+    },
+    "3105": {
+        "city": "Gapan City",
+        "state": "Nueva Ecija"
+    },
+    "3106": {
+        "city": "San Isidro",
+        "state": "Nueva Ecija"
+    },
+    "3107": {
+        "city": "Cabiao",
+        "state": "Nueva Ecija"
+    },
+    "3108": {
+        "city": "San Antonio",
+        "state": "Nueva Ecija"
+    },
+    "3109": {
+        "city": "Jaen",
+        "state": "Nueva Ecija"
+    },
+    "3110": {
+        "city": "Zaragoza",
+        "state": "Nueva Ecija"
+    },
+    "3111": {
+        "city": "Aliaga",
+        "state": "Nueva Ecija"
+    },
+    "3112": {
+        "city": "Licab",
+        "state": "Nueva Ecija"
+    },
+    "3113": {
+        "city": "Quezon",
+        "state": "Nueva Ecija"
+    },
+    "3114": {
+        "city": "Talavera",
+        "state": "Nueva Ecija"
+    },
+    "3115": {
+        "city": "Guimba",
+        "state": "Nueva Ecija"
+    },
+    "3116": {
+        "city": "Nampicuan",
+        "state": "Nueva Ecija"
+    },
+    "3117": {
+        "city": "Cuyapo",
+        "state": "Nueva Ecija"
+    },
+    "3118": {
+        "city": "Talugtog",
+        "state": "Nueva Ecija"
+    },
+    "3119": {
+        "city": "Science City of Muñoz",
+        "state": "Nueva Ecija"
+    },
+    "3120": {
+        "city": "Central Luzon State University",
+        "state": "Nueva Ecija"
+    },
+    "3121": {
+        "city": "San Jose City",
+        "state": "Nueva Ecija"
+    },
+    "3122": {
+        "city": "Lupao",
+        "state": "Nueva Ecija"
+    },
+    "3123": {
+        "city": "Carranglan",
+        "state": "Nueva Ecija"
+    },
+    "3124": {
+        "city": "Pantabangan",
+        "state": "Nueva Ecija"
+    },
+    "3125": {
+        "city": "General M. Natividad",
+        "state": "Nueva Ecija"
+    },
+    "3126": {
+        "city": "Llanera",
+        "state": "Nueva Ecija"
+    },
+    "3127": {
+        "city": "Rizal",
+        "state": "Nueva Ecija"
+    },
+    "3128": {
+        "city": "Bongabon",
+        "state": "Nueva Ecija"
+    },
+    "3129": {
+        "city": "Laur",
+        "state": "Nueva Ecija"
+    },
+    "3130": {
+        "city": "Fort Magsaysay",
+        "state": "Nueva Ecija"
+    },
+    "3131": {
+        "city": "Gabaldon",
+        "state": "Nueva Ecija"
+    },
+    "3132": {
+        "city": "Palayan City",
+        "state": "Nueva Ecija"
+    },
+    "3133": {
+        "city": "Santo Domingo",
+        "state": "Nueva Ecija"
+    },
+    "3200": {
+        "city": "Baler",
+        "state": "Aurora"
+    },
+    "3201": {
+        "city": "San Luis",
+        "state": "Aurora"
+    },
+    "3202": {
+        "city": "Maria Aurora",
+        "state": "Aurora"
+    },
+    "3203": {
+        "city": "Dipaculao",
+        "state": "Aurora"
+    },
+    "3204": {
+        "city": "Casiguran",
+        "state": "Aurora"
+    },
+    "3205": {
+        "city": "Dilasag",
+        "state": "Aurora"
+    },
+    "3206": {
+        "city": "Dinalungan",
+        "state": "Aurora"
+    },
+    "3207": {
+        "city": "Dingalan",
+        "state": "Aurora"
+    },
+    "3300": {
+        "city": "Ilagan",
+        "state": "Isabela"
+    },
+    "3301": {
+        "city": "Gamu",
+        "state": "Isabela"
+    },
+    "3302": {
+        "city": "Naguillan",
+        "state": "Isabela"
+    },
+    "3303": {
+        "city": "Reina Mercedes",
+        "state": "Isabela"
+    },
+    "3304": {
+        "city": "Luna",
+        "state": "Isabela"
+    },
+    "3305": {
+        "city": "Cauayan City",
+        "state": "Isabela"
+    },
+    "3306": {
+        "city": "Alicia",
+        "state": "Isabela"
+    },
+    "3307": {
+        "city": "Angadanan",
+        "state": "Isabela"
+    },
+    "3308": {
+        "city": "San Guillermo",
+        "state": "Isabela"
+    },
+    "3309": {
+        "city": "Echague",
+        "state": "Isabela"
+    },
+    "3310": {
+        "city": "San Isidro",
+        "state": "Isabela"
+    },
+    "3311": {
+        "city": "Santiago City",
+        "state": "Isabela"
+    },
+    "3312": {
+        "city": "Cordon",
+        "state": "Isabela"
+    },
+    "3313": {
+        "city": "Jones",
+        "state": "Isabela"
+    },
+    "3314": {
+        "city": "San Agustin",
+        "state": "Isabela"
+    },
+    "3315": {
+        "city": "Cabatuan",
+        "state": "Isabela"
+    },
+    "3316": {
+        "city": "Aurora",
+        "state": "Isabela"
+    },
+    "3317": {
+        "city": "San Manuel (Callang)",
+        "state": "Isabela"
+    },
+    "3318": {
+        "city": "San Mateo",
+        "state": "Isabela"
+    },
+    "3319": {
+        "city": "Ramon",
+        "state": "Isabela"
+    },
+    "3320": {
+        "city": "Roxas",
+        "state": "Isabela"
+    },
+    "3321": {
+        "city": "Quirino",
+        "state": "Isabela"
+    },
+    "3322": {
+        "city": "Burgos",
+        "state": "Isabela"
+    },
+    "3323": {
+        "city": "Mallig",
+        "state": "Isabela"
+    },
+    "3324": {
+        "city": "Quezon",
+        "state": "Isabela"
+    },
+    "3325": {
+        "city": "Tumauini",
+        "state": "Isabela"
+    },
+    "3326": {
+        "city": "Delfin Albano",
+        "state": "Isabela"
+    },
+    "3327": {
+        "city": "Santo Tomas",
+        "state": "Isabela"
+    },
+    "3328": {
+        "city": "Cabagan",
+        "state": "Isabela"
+    },
+    "3329": {
+        "city": "San Pablo",
+        "state": "Isabela"
+    },
+    "3330": {
+        "city": "Santa Maria",
+        "state": "Isabela"
+    },
+    "3331": {
+        "city": "Benito Soliven",
+        "state": "Isabela"
+    },
+    "3332": {
+        "city": "San Mariano",
+        "state": "Isabela"
+    },
+    "3333": {
+        "city": "Maconacon",
+        "state": "Isabela"
+    },
+    "3334": {
+        "city": "Palanan",
+        "state": "Isabela"
+    },
+    "3335": {
+        "city": "Divilacan",
+        "state": "Isabela"
+    },
+    "3336": {
+        "city": "Dinapigui",
+        "state": "Isabela"
+    },
+    "3400": {
+        "city": "Cabarroguis",
+        "state": "Quirino"
+    },
+    "3401": {
+        "city": "Diffun",
+        "state": "Quirino"
+    },
+    "3402": {
+        "city": "Saguday",
+        "state": "Quirino"
+    },
+    "3403": {
+        "city": "Aglipay",
+        "state": "Quirino"
+    },
+    "3404": {
+        "city": "Maddela",
+        "state": "Quirino"
+    },
+    "3405": {
+        "city": "Nagtipunan (Abbag)",
+        "state": "Quirino"
+    },
+    "3500": {
+        "city": "Tuguegarao City",
+        "state": "Cagayan"
+    },
+    "3501": {
+        "city": "Enrile",
+        "state": "Cagayan"
+    },
+    "3502": {
+        "city": "Peñablanca",
+        "state": "Cagayan"
+    },
+    "3503": {
+        "city": "Solana",
+        "state": "Cagayan"
+    },
+    "3504": {
+        "city": "Iguig",
+        "state": "Cagayan"
+    },
+    "3505": {
+        "city": "Amulung",
+        "state": "Cagayan"
+    },
+    "3506": {
+        "city": "Baggao",
+        "state": "Cagayan"
+    },
+    "3507": {
+        "city": "Alcala",
+        "state": "Cagayan"
+    },
+    "3508": {
+        "city": "Gattaran",
+        "state": "Cagayan"
+    },
+    "3509": {
+        "city": "Lal-Lo",
+        "state": "Cagayan"
+    },
+    "3510": {
+        "city": "Camalaniugan",
+        "state": "Cagayan"
+    },
+    "3511": {
+        "city": "Buguey",
+        "state": "Cagayan"
+    },
+    "3512": {
+        "city": "Santa Teresita",
+        "state": "Cagayan"
+    },
+    "3513": {
+        "city": "Gonzaga",
+        "state": "Cagayan"
+    },
+    "3514": {
+        "city": "Santa Ana",
+        "state": "Cagayan"
+    },
+    "3515": {
+        "city": "Aparri",
+        "state": "Cagayan"
+    },
+    "3516": {
+        "city": "Ballesteros",
+        "state": "Cagayan"
+    },
+    "3517": {
+        "city": "Abulug",
+        "state": "Cagayan"
+    },
+    "3518": {
+        "city": "Sanchez-Mira",
+        "state": "Cagayan"
+    },
+    "3519": {
+        "city": "Claveria",
+        "state": "Cagayan"
+    },
+    "3520": {
+        "city": "Calayan",
+        "state": "Cagayan"
+    },
+    "3521": {
+        "city": "Santa Praxedes",
+        "state": "Cagayan"
+    },
+    "3522": {
+        "city": "Pamplona",
+        "state": "Cagayan"
+    },
+    "3523": {
+        "city": "Allacapan",
+        "state": "Cagayan"
+    },
+    "3524": {
+        "city": "Lasam",
+        "state": "Cagayan"
+    },
+    "3525": {
+        "city": "Santo Niño",
+        "state": "Cagayan"
+    },
+    "3526": {
+        "city": "Rizal",
+        "state": "Cagayan"
+    },
+    "3527": {
+        "city": "Piat",
+        "state": "Cagayan"
+    },
+    "3528": {
+        "city": "Tuao",
+        "state": "Cagayan"
+    },
+    "3600": {
+        "city": "Lagawe",
+        "state": "Ifugao"
+    },
+    "3601": {
+        "city": "Banaue",
+        "state": "Ifugao"
+    },
+    "3602": {
+        "city": "Mayoyao (Mayaoyao)",
+        "state": "Ifugao"
+    },
+    "3603": {
+        "city": "Hungduan",
+        "state": "Ifugao"
+    },
+    "3604": {
+        "city": "Kiangan",
+        "state": "Ifugao"
+    },
+    "3605": {
+        "city": "Lamut",
+        "state": "Ifugao"
+    },
+    "3606": {
+        "city": "Aguinaldo",
+        "state": "Ifugao"
+    },
+    "3607": {
+        "city": "Hingyon",
+        "state": "Ifugao"
+    },
+    "3608": {
+        "city": "Alfonso Lista (Potia)",
+        "state": "Ifugao"
+    },
+    "3609": {
+        "city": "Tinoc",
+        "state": "Ifugao"
+    },
+    "3610": {
+        "city": "Asipulo",
+        "state": "Ifugao"
+    },
+    "3700": {
+        "city": "Bayombong",
+        "state": "Nueva Vizcaya"
+    },
+    "3701": {
+        "city": "Ambaguio",
+        "state": "Nueva Vizcaya"
+    },
+    "3702": {
+        "city": "Bambang",
+        "state": "Nueva Vizcaya"
+    },
+    "3703": {
+        "city": "Kasibu",
+        "state": "Nueva Vizcaya"
+    },
+    "3704": {
+        "city": "Aritao",
+        "state": "Nueva Vizcaya"
+    },
+    "3705": {
+        "city": "Santa Fe (Imugan)",
+        "state": "Nueva Vizcaya"
+    },
+    "3706": {
+        "city": "Dupax del Norte",
+        "state": "Nueva Vizcaya"
+    },
+    "3707": {
+        "city": "Dupax del Sur",
+        "state": "Nueva Vizcaya"
+    },
+    "3708": {
+        "city": "Kayapa",
+        "state": "Nueva Vizcaya"
+    },
+    "3709": {
+        "city": "Solano",
+        "state": "Nueva Vizcaya"
+    },
+    "3710": {
+        "city": "Villa Verde (Ibung)",
+        "state": "Nueva Vizcaya"
+    },
+    "3711": {
+        "city": "Bagabag",
+        "state": "Nueva Vizcaya"
+    },
+    "3712": {
+        "city": "Diadi",
+        "state": "Nueva Vizcaya"
+    },
+    "3714": {
+        "city": "Quezon",
+        "state": "Nueva Vizcaya"
+    },
+    "3800": {
+        "city": "Tabuk City",
+        "state": "Kalinga"
+    },
+    "3801": {
+        "city": "Balbalan",
+        "state": "Kalinga"
+    },
+    "3802": {
+        "city": "Lubuagan",
+        "state": "Kalinga"
+    },
+    "3803": {
+        "city": "Pasil",
+        "state": "Kalinga"
+    },
+    "3804": {
+        "city": "Tinglayan",
+        "state": "Kalinga"
+    },
+    "3805": {
+        "city": "Tanudan",
+        "state": "Kalinga"
+    },
+    "3806": {
+        "city": "Pinukpuk",
+        "state": "Kalinga"
+    },
+    "3807": {
+        "city": "Conner",
+        "state": "Apayao"
+    },
+    "3808": {
+        "city": "Liwan (Rizal)",
+        "state": "Kalinga"
+    },
+    "3809": {
+        "city": "Kabugao",
+        "state": "Apayao"
+    },
+    "3810": {
+        "city": "Flora",
+        "state": "Apayao"
+    },
+    "3811": {
+        "city": "Santa Marcela",
+        "state": "Apayao"
+    },
+    "3812": {
+        "city": "Pudtol",
+        "state": "Apayao"
+    },
+    "3813": {
+        "city": "Luna",
+        "state": "Apayao"
+    },
+    "3814": {
+        "city": "Calanasan (Bayag)",
+        "state": "Apayao"
+    },
+    "3900": {
+        "city": "Basco",
+        "state": "Batanes"
+    },
+    "3901": {
+        "city": "Mahatao",
+        "state": "Batanes"
+    },
+    "3902": {
+        "city": "Ivana",
+        "state": "Batanes"
+    },
+    "3903": {
+        "city": "Uyugan",
+        "state": "Batanes"
+    },
+    "3904": {
+        "city": "Sabtang",
+        "state": "Batanes"
+    },
+    "3905": {
+        "city": "Itbayat",
+        "state": "Batanes"
+    },
+    "4000": {
+        "city": "San Pablo City",
+        "state": "Laguna"
+    },
+    "4001": {
+        "city": "Alaminos",
+        "state": "Laguna"
+    },
+    "4002": {
+        "city": "Nagcarlan",
+        "state": "Laguna"
+    },
+    "4003": {
+        "city": "Rizal",
+        "state": "Laguna"
+    },
+    "4004": {
+        "city": "Liliw",
+        "state": "Laguna"
+    },
+    "4005": {
+        "city": "Majayjay",
+        "state": "Laguna"
+    },
+    "4006": {
+        "city": "Botocan, Magdalena",
+        "state": "Laguna"
+    },
+    "4007": {
+        "city": "Magdalena",
+        "state": "Laguna"
+    },
+    "4008": {
+        "city": "Pagsanjan",
+        "state": "Laguna"
+    },
+    "4009": {
+        "city": "Santa Cruz",
+        "state": "Laguna"
+    },
+    "4010": {
+        "city": "Pila",
+        "state": "Laguna"
+    },
+    "4011": {
+        "city": "Victoria",
+        "state": "Laguna"
+    },
+    "4012": {
+        "city": "Calauan",
+        "state": "Laguna"
+    },
+    "4013": {
+        "city": "Cavinti",
+        "state": "Laguna"
+    },
+    "4014": {
+        "city": "Lumban",
+        "state": "Laguna"
+    },
+    "4015": {
+        "city": "Kalayaan",
+        "state": "Laguna"
+    },
+    "4016": {
+        "city": "Paete",
+        "state": "Laguna"
+    },
+    "4017": {
+        "city": "Pakil",
+        "state": "Laguna"
+    },
+    "4018": {
+        "city": "Pangil",
+        "state": "Laguna"
+    },
+    "4019": {
+        "city": "Siniloan",
+        "state": "Laguna"
+    },
+    "4020": {
+        "city": "Mabitac",
+        "state": "Laguna"
+    },
+    "4021": {
+        "city": "Famy",
+        "state": "Laguna"
+    },
+    "4022": {
+        "city": "Santa Maria",
+        "state": "Laguna"
+    },
+    "4023": {
+        "city": "San Pedro",
+        "state": "Laguna"
+    },
+    "4024": {
+        "city": "Biñan",
+        "state": "Laguna"
+    },
+    "4025": {
+        "city": "Cabuyao",
+        "state": "Laguna"
+    },
+    "4026": {
+        "city": "Santa Rosa City",
+        "state": "Laguna"
+    },
+    "4027": {
+        "city": "Calamba City",
+        "state": "Laguna"
+    },
+    "4028": {
+        "city": "Canlubang, Calamba City",
+        "state": "Laguna"
+    },
+    "4029": {
+        "city": "Camp Vicente Lim",
+        "state": "Laguna"
+    },
+    "4030": {
+        "city": "Los Baños",
+        "state": "Laguna"
+    },
+    "4031": {
+        "city": "University of the Philippines, Los Baños",
+        "state": "Laguna"
+    },
+    "4032": {
+        "city": "Luisiana",
+        "state": "Laguna"
+    },
+    "4033": {
+        "city": "Bay",
+        "state": "Laguna"
+    },
+    "4100": {
+        "city": "Cavite City",
+        "state": "Cavite"
+    },
+    "4101": {
+        "city": "Sangley Point Naval Base",
+        "state": "Cavite"
+    },
+    "4102": {
+        "city": "Bacoor",
+        "state": "Cavite"
+    },
+    "4103": {
+        "city": "Imus",
+        "state": "Cavite"
+    },
+    "4104": {
+        "city": "Kawit",
+        "state": "Cavite"
+    },
+    "4105": {
+        "city": "Noveleta",
+        "state": "Cavite"
+    },
+    "4106": {
+        "city": "Rosario",
+        "state": "Cavite"
+    },
+    "4107": {
+        "city": "General Trias",
+        "state": "Cavite"
+    },
+    "4108": {
+        "city": "Tanza",
+        "state": "Cavite"
+    },
+    "4109": {
+        "city": "Trece Martires City",
+        "state": "Cavite"
+    },
+    "4110": {
+        "city": "Naic",
+        "state": "Cavite"
+    },
+    "4111": {
+        "city": "Ternate incl. Caylabne Bay & Puerto Azul",
+        "state": "Cavite"
+    },
+    "4112": {
+        "city": "Maragondon",
+        "state": "Cavite"
+    },
+    "4113": {
+        "city": "Magallanes",
+        "state": "Cavite"
+    },
+    "4114": {
+        "city": "Dasmariñas",
+        "state": "Cavite"
+    },
+    "4115": {
+        "city": "Dasmarinas Resettlement Area",
+        "state": "Cavite"
+    },
+    "4116": {
+        "city": "Carmona",
+        "state": "Cavite"
+    },
+    "4117": {
+        "city": "General Mariano Alvarez",
+        "state": "Cavite"
+    },
+    "4118": {
+        "city": "Silang",
+        "state": "Cavite"
+    },
+    "4119": {
+        "city": "Amadeo",
+        "state": "Cavite"
+    },
+    "4120": {
+        "city": "Tagaytay City",
+        "state": "Cavite"
+    },
+    "4121": {
+        "city": "Mendez (Mendez-Nuñez)",
+        "state": "Cavite"
+    },
+    "4122": {
+        "city": "Indang",
+        "state": "Cavite"
+    },
+    "4123": {
+        "city": "Alfonso",
+        "state": "Cavite"
+    },
+    "4124": {
+        "city": "General Emilio Aguinaldo (Bailen)",
+        "state": "Cavite"
+    },
+    "4125": {
+        "city": "Corregidor Island",
+        "state": "Cavite"
+    },
+    "4133": {
+        "city": "Bailen",
+        "state": "Cavite"
+    },
+    "4200": {
+        "city": "Batangas City",
+        "state": "Batangas"
+    },
+    "4201": {
+        "city": "Bauan",
+        "state": "Batangas"
+    },
+    "4202": {
+        "city": "Mabini",
+        "state": "Batangas"
+    },
+    "4203": {
+        "city": "Tingloy",
+        "state": "Batangas"
+    },
+    "4204": {
+        "city": "San Pascual",
+        "state": "Batangas"
+    },
+    "4205": {
+        "city": "Alitagtag",
+        "state": "Batangas"
+    },
+    "4206": {
+        "city": "Santa Teresita",
+        "state": "Batangas"
+    },
+    "4207": {
+        "city": "San Nicolas",
+        "state": "Batangas"
+    },
+    "4208": {
+        "city": "Taal",
+        "state": "Batangas"
+    },
+    "4209": {
+        "city": "Lemery",
+        "state": "Batangas"
+    },
+    "4210": {
+        "city": "San Luis",
+        "state": "Batangas"
+    },
+    "4211": {
+        "city": "Agoncillo",
+        "state": "Batangas"
+    },
+    "4212": {
+        "city": "Calaca",
+        "state": "Batangas"
+    },
+    "4213": {
+        "city": "Balayan",
+        "state": "Batangas"
+    },
+    "4214": {
+        "city": "Tuy",
+        "state": "Batangas"
+    },
+    "4215": {
+        "city": "Calatagan, incl. Punta Baluarte",
+        "state": "Batangas"
+    },
+    "4216": {
+        "city": "Lian, incl. Matabungkay",
+        "state": "Batangas"
+    },
+    "4217": {
+        "city": "Lipa City",
+        "state": "Batangas"
+    },
+    "4218": {
+        "city": "Fernando Airbase",
+        "state": "Batangas"
+    },
+    "4219": {
+        "city": "Balete",
+        "state": "Batangas"
+    },
+    "4220": {
+        "city": "Talisay",
+        "state": "Batangas"
+    },
+    "4221": {
+        "city": "Laurel, incl. Diokno Highway",
+        "state": "Batangas"
+    },
+    "4222": {
+        "city": "Cuenca",
+        "state": "Batangas"
+    },
+    "4223": {
+        "city": "Mataas na Kahoy",
+        "state": "Batangas"
+    },
+    "4224": {
+        "city": "Padre Garcia",
+        "state": "Batangas"
+    },
+    "4225": {
+        "city": "Rosario",
+        "state": "Batangas"
+    },
+    "4226": {
+        "city": "San Juan",
+        "state": "Batangas"
+    },
+    "4227": {
+        "city": "San Jose",
+        "state": "Batangas"
+    },
+    "4228": {
+        "city": "Taysan",
+        "state": "Batangas"
+    },
+    "4229": {
+        "city": "Lobo, incl. Laiya",
+        "state": "Batangas"
+    },
+    "4230": {
+        "city": "Ibaan",
+        "state": "Batangas"
+    },
+    "4231": {
+        "city": "Nasugbu, incl. Punta Fuego and Calaruega",
+        "state": "Batangas"
+    },
+    "4232": {
+        "city": "Tanauan City",
+        "state": "Batangas"
+    },
+    "4233": {
+        "city": "Malvar",
+        "state": "Batangas"
+    },
+    "4234": {
+        "city": "Santo Tomas",
+        "state": "Batangas"
+    },
+    "4300": {
+        "city": "Provincial Capitol, Lucena City",
+        "state": "Quezon"
+    },
+    "4301": {
+        "city": "Lucena City",
+        "state": "Quezon"
+    },
+    "4302": {
+        "city": "Pagbilao",
+        "state": "Quezon"
+    },
+    "4303": {
+        "city": "Padre Burgos",
+        "state": "Quezon"
+    },
+    "4304": {
+        "city": "Agdangan",
+        "state": "Quezon"
+    },
+    "4305": {
+        "city": "Unisan",
+        "state": "Quezon"
+    },
+    "4306": {
+        "city": "Plaridel",
+        "state": "Quezon"
+    },
+    "4307": {
+        "city": "Gumaca",
+        "state": "Quezon"
+    },
+    "4308": {
+        "city": "Pitogo",
+        "state": "Quezon"
+    },
+    "4309": {
+        "city": "Macalelon",
+        "state": "Quezon"
+    },
+    "4310": {
+        "city": "General Antonio Luna",
+        "state": "Quezon"
+    },
+    "4311": {
+        "city": "Catanauan",
+        "state": "Quezon"
+    },
+    "4312": {
+        "city": "Mulanay",
+        "state": "Quezon"
+    },
+    "4313": {
+        "city": "San Narciso",
+        "state": "Quezon"
+    },
+    "4314": {
+        "city": "San Andres",
+        "state": "Quezon"
+    },
+    "4315": {
+        "city": "San Francisco (Aurora)",
+        "state": "Quezon"
+    },
+    "4316": {
+        "city": "Lopez",
+        "state": "Quezon"
+    },
+    "4317": {
+        "city": "Hondagua",
+        "state": "Quezon"
+    },
+    "4318": {
+        "city": "Calauag",
+        "state": "Quezon"
+    },
+    "4319": {
+        "city": "Guinayangan",
+        "state": "Quezon"
+    },
+    "4320": {
+        "city": "Buenavista",
+        "state": "Quezon"
+    },
+    "4321": {
+        "city": "Tagkawayan",
+        "state": "Quezon"
+    },
+    "4322": {
+        "city": "Sariaya",
+        "state": "Quezon"
+    },
+    "4323": {
+        "city": "Candelaria",
+        "state": "Quezon"
+    },
+    "4324": {
+        "city": "San Antonio",
+        "state": "Quezon"
+    },
+    "4325": {
+        "city": "Tiaong",
+        "state": "Quezon"
+    },
+    "4326": {
+        "city": "Dolores",
+        "state": "Quezon"
+    },
+    "4327": {
+        "city": "Tayabas",
+        "state": "Quezon"
+    },
+    "4328": {
+        "city": "Lucban",
+        "state": "Quezon"
+    },
+    "4329": {
+        "city": "Sampaloc",
+        "state": "Quezon"
+    },
+    "4330": {
+        "city": "Mauban",
+        "state": "Quezon"
+    },
+    "4331": {
+        "city": "Atimonan",
+        "state": "Quezon"
+    },
+    "4332": {
+        "city": "Quezon",
+        "state": "Quezon"
+    },
+    "4333": {
+        "city": "Alabat",
+        "state": "Quezon"
+    },
+    "4334": {
+        "city": "Perez",
+        "state": "Quezon"
+    },
+    "4335": {
+        "city": "Real",
+        "state": "Quezon"
+    },
+    "4336": {
+        "city": "Infanta",
+        "state": "Quezon"
+    },
+    "4337": {
+        "city": "Panukulan",
+        "state": "Quezon"
+    },
+    "4338": {
+        "city": "General Nakar",
+        "state": "Quezon"
+    },
+    "4339": {
+        "city": "Polilio",
+        "state": "Quezon"
+    },
+    "4340": {
+        "city": "Burdeos",
+        "state": "Quezon"
+    },
+    "4341": {
+        "city": "Patnanungan",
+        "state": "Quezon"
+    },
+    "4342": {
+        "city": "Jomalig",
+        "state": "Quezon"
+    },
+    "4400": {
+        "city": "Naga City",
+        "state": "Camarines Sur"
+    },
+    "4401": {
+        "city": "Camaligan",
+        "state": "Camarines Sur"
+    },
+    "4402": {
+        "city": "Canaman",
+        "state": "Camarines Sur"
+    },
+    "4403": {
+        "city": "Magarao",
+        "state": "Camarines Sur"
+    },
+    "4404": {
+        "city": "Bombon",
+        "state": "Camarines Sur"
+    },
+    "4405": {
+        "city": "Calabanga",
+        "state": "Camarines Sur"
+    },
+    "4406": {
+        "city": "Cabusao",
+        "state": "Camarines Sur"
+    },
+    "4407": {
+        "city": "Libmanan",
+        "state": "Camarines Sur"
+    },
+    "4408": {
+        "city": "Sipocot",
+        "state": "Camarines Sur"
+    },
+    "4409": {
+        "city": "Lupi",
+        "state": "Camarines Sur"
+    },
+    "4410": {
+        "city": "Ragay",
+        "state": "Camarines Sur"
+    },
+    "4411": {
+        "city": "Del Gallego",
+        "state": "Camarines Sur"
+    },
+    "4412": {
+        "city": "Gainza",
+        "state": "Camarines Sur"
+    },
+    "4413": {
+        "city": "Milaor",
+        "state": "Camarines Sur"
+    },
+    "4414": {
+        "city": "Minalabac",
+        "state": "Camarines Sur"
+    },
+    "4415": {
+        "city": "San Fernando",
+        "state": "Camarines Sur"
+    },
+    "4416": {
+        "city": "Pamplona",
+        "state": "Camarines Sur"
+    },
+    "4417": {
+        "city": "Pasacao",
+        "state": "Camarines Sur"
+    },
+    "4418": {
+        "city": "Pili",
+        "state": "Camarines Sur"
+    },
+    "4419": {
+        "city": "Ocampo",
+        "state": "Camarines Sur"
+    },
+    "4420": {
+        "city": "Tigaon",
+        "state": "Camarines Sur"
+    },
+    "4421": {
+        "city": "Sagnay",
+        "state": "Camarines Sur"
+    },
+    "4422": {
+        "city": "Goa",
+        "state": "Camarines Sur"
+    },
+    "4423": {
+        "city": "San Jose",
+        "state": "Camarines Sur"
+    },
+    "4424": {
+        "city": "Presentacion",
+        "state": "Camarines Sur"
+    },
+    "4425": {
+        "city": "Lagonoy",
+        "state": "Camarines Sur"
+    },
+    "4426": {
+        "city": "Tinambac",
+        "state": "Camarines Sur"
+    },
+    "4427": {
+        "city": "Siruma",
+        "state": "Camarines Sur"
+    },
+    "4428": {
+        "city": "Garchitorena",
+        "state": "Camarines Sur"
+    },
+    "4429": {
+        "city": "Caramoan",
+        "state": "Camarines Sur"
+    },
+    "4430": {
+        "city": "Bula",
+        "state": "Camarines Sur"
+    },
+    "4431": {
+        "city": "Iriga City",
+        "state": "Camarines Sur"
+    },
+    "4432": {
+        "city": "Baao",
+        "state": "Camarines Sur"
+    },
+    "4433": {
+        "city": "Buhi",
+        "state": "Camarines Sur"
+    },
+    "4434": {
+        "city": "Nabua",
+        "state": "Camarines Sur"
+    },
+    "4435": {
+        "city": "Bato",
+        "state": "Camarines Sur"
+    },
+    "4436": {
+        "city": "Balatan",
+        "state": "Camarines Sur"
+    },
+    "4500": {
+        "city": "Legazpi City",
+        "state": "Albay"
+    },
+    "4501": {
+        "city": "Daraga (Locsin)",
+        "state": "Albay"
+    },
+    "4502": {
+        "city": "Camalig",
+        "state": "Albay"
+    },
+    "4503": {
+        "city": "Guinobatan",
+        "state": "Albay"
+    },
+    "4504": {
+        "city": "Ligao City",
+        "state": "Albay"
+    },
+    "4505": {
+        "city": "Oas",
+        "state": "Albay"
+    },
+    "4506": {
+        "city": "Polangui",
+        "state": "Albay"
+    },
+    "4507": {
+        "city": "Libon",
+        "state": "Albay"
+    },
+    "4508": {
+        "city": "Santo Domingo",
+        "state": "Albay"
+    },
+    "4509": {
+        "city": "Bacacay",
+        "state": "Albay"
+    },
+    "4510": {
+        "city": "Malilipot",
+        "state": "Albay"
+    },
+    "4511": {
+        "city": "Tabaco City",
+        "state": "Albay"
+    },
+    "4512": {
+        "city": "Malinao",
+        "state": "Albay"
+    },
+    "4513": {
+        "city": "Tiwi",
+        "state": "Albay"
+    },
+    "4514": {
+        "city": "Manito",
+        "state": "Albay"
+    },
+    "4515": {
+        "city": "Jovellar",
+        "state": "Albay"
+    },
+    "4516": {
+        "city": "Pio Duran (Malacbalac)",
+        "state": "Albay"
+    },
+    "4517": {
+        "city": "Rapu-Rapu",
+        "state": "Albay"
+    },
+    "4600": {
+        "city": "Daet",
+        "state": "Camarines Norte"
+    },
+    "4601": {
+        "city": "Mercedes",
+        "state": "Camarines Norte"
+    },
+    "4602": {
+        "city": "Talisay",
+        "state": "Camarines Norte"
+    },
+    "4603": {
+        "city": "Vinzons",
+        "state": "Camarines Norte"
+    },
+    "4604": {
+        "city": "Labo",
+        "state": "Camarines Norte"
+    },
+    "4605": {
+        "city": "Paracale",
+        "state": "Camarines Norte"
+    },
+    "4606": {
+        "city": "Jose Panganiban",
+        "state": "Camarines Norte"
+    },
+    "4607": {
+        "city": "Capalonga",
+        "state": "Camarines Norte"
+    },
+    "4608": {
+        "city": "Basud",
+        "state": "Camarines Norte"
+    },
+    "4609": {
+        "city": "San Vicente",
+        "state": "Camarines Norte"
+    },
+    "4610": {
+        "city": "Imelda / San Lorenzo Ruiz",
+        "state": "Camarines Norte"
+    },
+    "4611": {
+        "city": "Santa Elena",
+        "state": "Camarines Norte"
+    },
+    "4612": {
+        "city": "Tulay-na-Lupa",
+        "state": "Camarines Norte"
+    },
+    "4700": {
+        "city": "Sorsogon",
+        "state": "Sorsogon"
+    },
+    "4701": {
+        "city": "Bacon",
+        "state": "Sorsogon"
+    },
+    "4702": {
+        "city": "Casiguran",
+        "state": "Sorsogon"
+    },
+    "4703": {
+        "city": "Juban",
+        "state": "Sorsogon"
+    },
+    "4704": {
+        "city": "Bulusan",
+        "state": "Sorsogon"
+    },
+    "4705": {
+        "city": "Magallanes",
+        "state": "Sorsogon"
+    },
+    "4706": {
+        "city": "Bulan",
+        "state": "Sorsogon"
+    },
+    "4707": {
+        "city": "Irosin",
+        "state": "Sorsogon"
+    },
+    "4708": {
+        "city": "Matnog",
+        "state": "Sorsogon"
+    },
+    "4709": {
+        "city": "Santa Magdalena",
+        "state": "Sorsogon"
+    },
+    "4710": {
+        "city": "Gubat",
+        "state": "Sorsogon"
+    },
+    "4711": {
+        "city": "Prieto Diaz",
+        "state": "Sorsogon"
+    },
+    "4712": {
+        "city": "Barcelona",
+        "state": "Sorsogon"
+    },
+    "4713": {
+        "city": "Castilla",
+        "state": "Sorsogon"
+    },
+    "4714": {
+        "city": "Pilar",
+        "state": "Sorsogon"
+    },
+    "4715": {
+        "city": "Donsol",
+        "state": "Sorsogon"
+    },
+    "4800": {
+        "city": "Virac",
+        "state": "Catanduanes"
+    },
+    "4801": {
+        "city": "Bato",
+        "state": "Catanduanes"
+    },
+    "4802": {
+        "city": "San Miguel",
+        "state": "Catanduanes"
+    },
+    "4803": {
+        "city": "Baras",
+        "state": "Catanduanes"
+    },
+    "4804": {
+        "city": "Gigmoto",
+        "state": "Catanduanes"
+    },
+    "4805": {
+        "city": "Viga",
+        "state": "Catanduanes"
+    },
+    "4806": {
+        "city": "Panganiban",
+        "state": "Catanduanes"
+    },
+    "4807": {
+        "city": "Bagamanoc",
+        "state": "Catanduanes"
+    },
+    "4808": {
+        "city": "Caramoran",
+        "state": "Catanduanes"
+    },
+    "4809": {
+        "city": "Pandan",
+        "state": "Catanduanes"
+    },
+    "4810": {
+        "city": "San Andres",
+        "state": "Catanduanes"
+    },
+    "4900": {
+        "city": "Boac",
+        "state": "Marinduque"
+    },
+    "4901": {
+        "city": "Mogpog",
+        "state": "Marinduque"
+    },
+    "4902": {
+        "city": "Santa Cruz",
+        "state": "Marinduque"
+    },
+    "4903": {
+        "city": "Torrijos",
+        "state": "Marinduque"
+    },
+    "4904": {
+        "city": "Buenavista",
+        "state": "Marinduque"
+    },
+    "4905": {
+        "city": "Gasan",
+        "state": "Marinduque"
+    },
+    "5000": {
+        "city": "Iloilo City",
+        "state": "Iloilo"
+    },
+    "5001": {
+        "city": "Pavia",
+        "state": "Iloilo"
+    },
+    "5002": {
+        "city": "Santa Barbara",
+        "state": "Iloilo"
+    },
+    "5003": {
+        "city": "Leganes",
+        "state": "Iloilo"
+    },
+    "5004": {
+        "city": "Zarraga",
+        "state": "Iloilo"
+    },
+    "5005": {
+        "city": "New Lucena",
+        "state": "Iloilo"
+    },
+    "5006": {
+        "city": "Dumangas",
+        "state": "Iloilo"
+    },
+    "5007": {
+        "city": "Barotoc Nuevo",
+        "state": "Iloilo"
+    },
+    "5008": {
+        "city": "Pototan",
+        "state": "Iloilo"
+    },
+    "5009": {
+        "city": "Anilao",
+        "state": "Iloilo"
+    },
+    "5010": {
+        "city": "Banate",
+        "state": "Iloilo"
+    },
+    "5011": {
+        "city": "Barotoc Viejo",
+        "state": "Iloilo"
+    },
+    "5012": {
+        "city": "Ajuy",
+        "state": "Iloilo"
+    },
+    "5013": {
+        "city": "Concepcion",
+        "state": "Iloilo"
+    },
+    "5014": {
+        "city": "Sara",
+        "state": "Iloilo"
+    },
+    "5015": {
+        "city": "San Dionisio",
+        "state": "Iloilo"
+    },
+    "5016": {
+        "city": "Batad",
+        "state": "Iloilo"
+    },
+    "5017": {
+        "city": "Estancia",
+        "state": "Iloilo"
+    },
+    "5018": {
+        "city": "Balasan",
+        "state": "Iloilo"
+    },
+    "5019": {
+        "city": "Carles",
+        "state": "Iloilo"
+    },
+    "5020": {
+        "city": "Oton",
+        "state": "Iloilo"
+    },
+    "5021": {
+        "city": "Tigbauan",
+        "state": "Iloilo"
+    },
+    "5022": {
+        "city": "Guimbal",
+        "state": "Iloilo"
+    },
+    "5023": {
+        "city": "Miagao",
+        "state": "Iloilo"
+    },
+    "5024": {
+        "city": "San Joaquin",
+        "state": "Iloilo"
+    },
+    "5025": {
+        "city": "San Miguel",
+        "state": "Iloilo"
+    },
+    "5026": {
+        "city": "Leon",
+        "state": "Iloilo"
+    },
+    "5027": {
+        "city": "Tubungan",
+        "state": "Iloilo"
+    },
+    "5028": {
+        "city": "Alimodian",
+        "state": "Iloilo"
+    },
+    "5029": {
+        "city": "Igbaras",
+        "state": "Iloilo"
+    },
+    "5030": {
+        "city": "Maasin",
+        "state": "Iloilo"
+    },
+    "5031": {
+        "city": "Cabatuan",
+        "state": "Iloilo"
+    },
+    "5032": {
+        "city": "Mina",
+        "state": "Iloilo"
+    },
+    "5033": {
+        "city": "Badiangan",
+        "state": "Iloilo"
+    },
+    "5034": {
+        "city": "Janiuay",
+        "state": "Iloilo"
+    },
+    "5035": {
+        "city": "Dingle",
+        "state": "Iloilo"
+    },
+    "5036": {
+        "city": "San Enrique",
+        "state": "Iloilo"
+    },
+    "5037": {
+        "city": "Passi City",
+        "state": "Iloilo"
+    },
+    "5038": {
+        "city": "Duenas",
+        "state": "Iloilo"
+    },
+    "5039": {
+        "city": "San Rafael",
+        "state": "Iloilo"
+    },
+    "5040": {
+        "city": "Calinog",
+        "state": "Iloilo"
+    },
+    "5041": {
+        "city": "Bingawan",
+        "state": "Iloilo"
+    },
+    "5042": {
+        "city": "Lambunao",
+        "state": "Iloilo"
+    },
+    "5043": {
+        "city": "Lemery",
+        "state": "Iloilo"
+    },
+    "5044": {
+        "city": "Buenavista",
+        "state": "Guimaras"
+    },
+    "5045": {
+        "city": "Jordan",
+        "state": "Guimaras"
+    },
+    "5046": {
+        "city": "Nueva Valencia",
+        "state": "Guimaras"
+    },
+    "5047": {
+        "city": "San Lorenzo",
+        "state": "Guimaras"
+    },
+    "5048": {
+        "city": "Sibunag",
+        "state": "Guimaras"
+    },
+    "5100": {
+        "city": "San Jose",
+        "state": "Occidental Mindoro"
+    },
+    "5101": {
+        "city": "Magsaysay",
+        "state": "Occidental Mindoro"
+    },
+    "5102": {
+        "city": "Calintaan",
+        "state": "Occidental Mindoro"
+    },
+    "5103": {
+        "city": "Rizal",
+        "state": "Occidental Mindoro"
+    },
+    "5104": {
+        "city": "Sablayan",
+        "state": "Occidental Mindoro"
+    },
+    "5105": {
+        "city": "Santa Cruz",
+        "state": "Occidental Mindoro"
+    },
+    "5106": {
+        "city": "Mamburao",
+        "state": "Occidental Mindoro"
+    },
+    "5107": {
+        "city": "Paluan",
+        "state": "Occidental Mindoro"
+    },
+    "5108": {
+        "city": "Abra de Ilog",
+        "state": "Occidental Mindoro"
+    },
+    "5109": {
+        "city": "Lubang",
+        "state": "Occidental Mindoro"
+    },
+    "5110": {
+        "city": "Tilik",
+        "state": "Occidental Mindoro"
+    },
+    "5111": {
+        "city": "Looc",
+        "state": "Occidental Mindoro"
+    },
+    "5200": {
+        "city": "Calapan",
+        "state": "Oriental Mindoro"
+    },
+    "5201": {
+        "city": "Baco",
+        "state": "Oriental Mindoro"
+    },
+    "5202": {
+        "city": "San Teodoro",
+        "state": "Oriental Mindoro"
+    },
+    "5203": {
+        "city": "Puerto Galera",
+        "state": "Oriental Mindoro"
+    },
+    "5204": {
+        "city": "Naujan",
+        "state": "Oriental Mindoro"
+    },
+    "5205": {
+        "city": "Victoria",
+        "state": "Oriental Mindoro"
+    },
+    "5206": {
+        "city": "Pola",
+        "state": "Oriental Mindoro"
+    },
+    "5207": {
+        "city": "Socorro",
+        "state": "Oriental Mindoro"
+    },
+    "5208": {
+        "city": "Pinamalayan",
+        "state": "Oriental Mindoro"
+    },
+    "5209": {
+        "city": "Gloria",
+        "state": "Oriental Mindoro"
+    },
+    "5210": {
+        "city": "Bansud",
+        "state": "Oriental Mindoro"
+    },
+    "5211": {
+        "city": "Bongabon",
+        "state": "Oriental Mindoro"
+    },
+    "5212": {
+        "city": "Roxas",
+        "state": "Oriental Mindoro"
+    },
+    "5213": {
+        "city": "Mansalay",
+        "state": "Oriental Mindoro"
+    },
+    "5214": {
+        "city": "Bulalacao",
+        "state": "Oriental Mindoro"
+    },
+    "5300": {
+        "city": "Puerto Princesa",
+        "state": "Palawan"
+    },
+    "5301": {
+        "city": "Iwahig Penal Colony",
+        "state": "Palawan"
+    },
+    "5302": {
+        "city": "Aborlan",
+        "state": "Palawan"
+    },
+    "5303": {
+        "city": "Narra (Panacan)",
+        "state": "Palawan"
+    },
+    "5304": {
+        "city": "Quezon",
+        "state": "Palawan"
+    },
+    "5305": {
+        "city": "Brooke's Point",
+        "state": "Palawan"
+    },
+    "5306": {
+        "city": "Bataraza",
+        "state": "Palawan"
+    },
+    "5307": {
+        "city": "Balabac",
+        "state": "Palawan"
+    },
+    "5308": {
+        "city": "Roxas",
+        "state": "Palawan"
+    },
+    "5309": {
+        "city": "San Vicente",
+        "state": "Palawan"
+    },
+    "5310": {
+        "city": "Dumaran",
+        "state": "Palawan"
+    },
+    "5311": {
+        "city": "Araceli",
+        "state": "Palawan"
+    },
+    "5312": {
+        "city": "Taytay",
+        "state": "Palawan"
+    },
+    "5313": {
+        "city": "El Nido (Bacuit)",
+        "state": "Palawan"
+    },
+    "5314": {
+        "city": "Linapacan",
+        "state": "Palawan"
+    },
+    "5315": {
+        "city": "Culion",
+        "state": "Palawan"
+    },
+    "5316": {
+        "city": "Coron",
+        "state": "Palawan"
+    },
+    "5317": {
+        "city": "Busuanga",
+        "state": "Palawan"
+    },
+    "5318": {
+        "city": "Cuyo",
+        "state": "Palawan"
+    },
+    "5319": {
+        "city": "Magsaysay",
+        "state": "Palawan"
+    },
+    "5320": {
+        "city": "Agutaya",
+        "state": "Palawan"
+    },
+    "5321": {
+        "city": "Cagayancillo",
+        "state": "Palawan"
+    },
+    "5322": {
+        "city": "Kalayaan",
+        "state": "Palawan"
+    },
+    "5400": {
+        "city": "Masbate City",
+        "state": "Masbate"
+    },
+    "5401": {
+        "city": "Mobo",
+        "state": "Masbate"
+    },
+    "5402": {
+        "city": "Uson",
+        "state": "Masbate"
+    },
+    "5403": {
+        "city": "Dimasalang",
+        "state": "Masbate"
+    },
+    "5404": {
+        "city": "Palanas",
+        "state": "Masbate"
+    },
+    "5405": {
+        "city": "Cataingan",
+        "state": "Masbate"
+    },
+    "5406": {
+        "city": "Pio V. Corpuz",
+        "state": "Masbate"
+    },
+    "5407": {
+        "city": "Esperanza",
+        "state": "Masbate"
+    },
+    "5408": {
+        "city": "Placer",
+        "state": "Masbate"
+    },
+    "5409": {
+        "city": "Cawayan",
+        "state": "Masbate"
+    },
+    "5410": {
+        "city": "Milagros",
+        "state": "Masbate"
+    },
+    "5411": {
+        "city": "Mandaon",
+        "state": "Masbate"
+    },
+    "5412": {
+        "city": "Balud",
+        "state": "Masbate"
+    },
+    "5413": {
+        "city": "Baleno",
+        "state": "Masbate"
+    },
+    "5414": {
+        "city": "Aroroy",
+        "state": "Masbate"
+    },
+    "5415": {
+        "city": "Batuan",
+        "state": "Masbate"
+    },
+    "5416": {
+        "city": "San Fernando",
+        "state": "Masbate"
+    },
+    "5417": {
+        "city": "San Jacinto",
+        "state": "Masbate"
+    },
+    "5418": {
+        "city": "Monreal",
+        "state": "Masbate"
+    },
+    "5419": {
+        "city": "Claveria",
+        "state": "Masbate"
+    },
+    "5420": {
+        "city": "San Pascual",
+        "state": "Masbate"
+    },
+    "5421": {
+        "city": "Buenavista",
+        "state": "Masbate"
+    },
+    "5500": {
+        "city": "Romblon",
+        "state": "Romblon"
+    },
+    "5501": {
+        "city": "San Agustin",
+        "state": "Romblon"
+    },
+    "5502": {
+        "city": "Imelda",
+        "state": "Romblon"
+    },
+    "5503": {
+        "city": "Calatrava",
+        "state": "Romblon"
+    },
+    "5504": {
+        "city": "San Andres",
+        "state": "Romblon"
+    },
+    "5505": {
+        "city": "Odiongan",
+        "state": "Romblon"
+    },
+    "5506": {
+        "city": "Ferrol",
+        "state": "Romblon"
+    },
+    "5507": {
+        "city": "Looc",
+        "state": "Romblon"
+    },
+    "5508": {
+        "city": "Santa Fe",
+        "state": "Romblon"
+    },
+    "5509": {
+        "city": "Alcantara",
+        "state": "Romblon"
+    },
+    "5510": {
+        "city": "San Jose",
+        "state": "Romblon"
+    },
+    "5511": {
+        "city": "Magdiwang",
+        "state": "Romblon"
+    },
+    "5512": {
+        "city": "Cajidiocan",
+        "state": "Romblon"
+    },
+    "5513": {
+        "city": "San Fernando",
+        "state": "Romblon"
+    },
+    "5514": {
+        "city": "Corcuera",
+        "state": "Romblon"
+    },
+    "5515": {
+        "city": "Banton (Jones)",
+        "state": "Romblon"
+    },
+    "5516": {
+        "city": "Concepcion",
+        "state": "Romblon"
+    },
+    "5600": {
+        "city": "Kalibo",
+        "state": "Aklan"
+    },
+    "5601": {
+        "city": "Banga",
+        "state": "Aklan"
+    },
+    "5602": {
+        "city": "Libacao",
+        "state": "Aklan"
+    },
+    "5603": {
+        "city": "Madalag",
+        "state": "Aklan"
+    },
+    "5604": {
+        "city": "Numancia",
+        "state": "Aklan"
+    },
+    "5605": {
+        "city": "Lezo",
+        "state": "Aklan"
+    },
+    "5606": {
+        "city": "Malinao",
+        "state": "Aklan"
+    },
+    "5607": {
+        "city": "Nabas",
+        "state": "Aklan"
+    },
+    "5608": {
+        "city": "Malay",
+        "state": "Aklan"
+    },
+    "5609": {
+        "city": "Buruanga",
+        "state": "Aklan"
+    },
+    "5610": {
+        "city": "New Washington",
+        "state": "Aklan"
+    },
+    "5611": {
+        "city": "Makato",
+        "state": "Aklan"
+    },
+    "5612": {
+        "city": "Tangalan",
+        "state": "Aklan"
+    },
+    "5613": {
+        "city": "Ibajay",
+        "state": "Aklan"
+    },
+    "5614": {
+        "city": "Balete",
+        "state": "Aklan"
+    },
+    "5615": {
+        "city": "Batan",
+        "state": "Aklan"
+    },
+    "5616": {
+        "city": "Altavas",
+        "state": "Aklan"
+    },
+    "5700": {
+        "city": "San Jose",
+        "state": "Antique"
+    },
+    "5701": {
+        "city": "Belison",
+        "state": "Antique"
+    },
+    "5702": {
+        "city": "Patnongon",
+        "state": "Antique"
+    },
+    "5703": {
+        "city": "Valderrama",
+        "state": "Antique"
+    },
+    "5704": {
+        "city": "Bugasong",
+        "state": "Antique"
+    },
+    "5705": {
+        "city": "Laua-an",
+        "state": "Antique"
+    },
+    "5706": {
+        "city": "Barbaza",
+        "state": "Antique"
+    },
+    "5707": {
+        "city": "Tibiao",
+        "state": "Antique"
+    },
+    "5708": {
+        "city": "Culasi",
+        "state": "Antique"
+    },
+    "5709": {
+        "city": "Sebaste",
+        "state": "Antique"
+    },
+    "5710": {
+        "city": "Libertad",
+        "state": "Antique"
+    },
+    "5711": {
+        "city": "Caluya",
+        "state": "Antique"
+    },
+    "5712": {
+        "city": "Pandan",
+        "state": "Antique"
+    },
+    "5713": {
+        "city": "Sibalom",
+        "state": "Antique"
+    },
+    "5714": {
+        "city": "San Remigio",
+        "state": "Antique"
+    },
+    "5715": {
+        "city": "Hamtic",
+        "state": "Antique"
+    },
+    "5716": {
+        "city": "Tobias Fornier (Dao)",
+        "state": "Antique"
+    },
+    "5717": {
+        "city": "Anini-y",
+        "state": "Antique"
+    },
+    "5800": {
+        "city": "Roxas City",
+        "state": "Capiz"
+    },
+    "5801": {
+        "city": "Panay",
+        "state": "Capiz"
+    },
+    "5802": {
+        "city": "Pontevedra",
+        "state": "Capiz"
+    },
+    "5803": {
+        "city": "President Roxas",
+        "state": "Capiz"
+    },
+    "5804": {
+        "city": "Pilar",
+        "state": "Capiz"
+    },
+    "5805": {
+        "city": "Ivisan",
+        "state": "Capiz"
+    },
+    "5806": {
+        "city": "Sapian",
+        "state": "Capiz"
+    },
+    "5807": {
+        "city": "Mambusao",
+        "state": "Capiz"
+    },
+    "5808": {
+        "city": "Jamindan",
+        "state": "Capiz"
+    },
+    "5809": {
+        "city": "Ma-ayon",
+        "state": "Capiz"
+    },
+    "5810": {
+        "city": "Dao",
+        "state": "Capiz"
+    },
+    "5811": {
+        "city": "Cuartero",
+        "state": "Capiz"
+    },
+    "5812": {
+        "city": "Dumarao",
+        "state": "Capiz"
+    },
+    "5813": {
+        "city": "Dumalag",
+        "state": "Capiz"
+    },
+    "5814": {
+        "city": "Tapaz",
+        "state": "Capiz"
+    },
+    "5815": {
+        "city": "Panitan",
+        "state": "Capiz"
+    },
+    "5816": {
+        "city": "Sigma",
+        "state": "Capiz"
+    },
+    "6000": {
+        "city": "Cebu City",
+        "state": "Cebu"
+    },
+    "6001": {
+        "city": "Consolacion",
+        "state": "Cebu"
+    },
+    "6002": {
+        "city": "Liloan",
+        "state": "Cebu"
+    },
+    "6003": {
+        "city": "Compostela",
+        "state": "Cebu"
+    },
+    "6004": {
+        "city": "Danao City",
+        "state": "Cebu"
+    },
+    "6005": {
+        "city": "Carmen",
+        "state": "Cebu"
+    },
+    "6006": {
+        "city": "Catmon",
+        "state": "Cebu"
+    },
+    "6007": {
+        "city": "Sogod",
+        "state": "Cebu"
+    },
+    "6008": {
+        "city": "Borbon",
+        "state": "Cebu"
+    },
+    "6009": {
+        "city": "Tabogon",
+        "state": "Cebu"
+    },
+    "6010": {
+        "city": "Bogo City",
+        "state": "Cebu"
+    },
+    "6011": {
+        "city": "San Remigio",
+        "state": "Cebu"
+    },
+    "6012": {
+        "city": "Medellin",
+        "state": "Cebu"
+    },
+    "6013": {
+        "city": "Daanbantayan",
+        "state": "Cebu"
+    },
+    "6014": {
+        "city": "Mandaue City",
+        "state": "Cebu"
+    },
+    "6015": {
+        "city": "Lapu-Lapu City (Opon)",
+        "state": "Cebu"
+    },
+    "6016": {
+        "city": "Mactan Airport",
+        "state": "Cebu"
+    },
+    "6017": {
+        "city": "Cordova",
+        "state": "Cebu"
+    },
+    "6018": {
+        "city": "San Fernando",
+        "state": "Cebu"
+    },
+    "6019": {
+        "city": "Carcar City",
+        "state": "Cebu"
+    },
+    "6020": {
+        "city": "Sibonga",
+        "state": "Cebu"
+    },
+    "6022": {
+        "city": "Dalaguete",
+        "state": "Cebu"
+    },
+    "6024": {
+        "city": "Boljoon",
+        "state": "Cebu"
+    },
+    "6025": {
+        "city": "Oslob",
+        "state": "Cebu"
+    },
+    "6026": {
+        "city": "Santander",
+        "state": "Cebu"
+    },
+    "6027": {
+        "city": "Samboan",
+        "state": "Cebu"
+    },
+    "6028": {
+        "city": "Ginatilan",
+        "state": "Cebu"
+    },
+    "6029": {
+        "city": "Malabuyoc",
+        "state": "Cebu"
+    },
+    "6032": {
+        "city": "Moalboal",
+        "state": "Cebu"
+    },
+    "6034": {
+        "city": "Ronda",
+        "state": "Cebu"
+    },
+    "6035": {
+        "city": "Dumanjug",
+        "state": "Cebu"
+    },
+    "6036": {
+        "city": "Barili",
+        "state": "Cebu"
+    },
+    "6037": {
+        "city": "Naga",
+        "state": "Cebu"
+    },
+    "6038": {
+        "city": "Toledo City",
+        "state": "Cebu"
+    },
+    "6039": {
+        "city": "Pinamungahan",
+        "state": "Cebu"
+    },
+    "6041": {
+        "city": "Balamban",
+        "state": "Cebu"
+    },
+    "6043": {
+        "city": "Tuburan",
+        "state": "Cebu"
+    },
+    "6044": {
+        "city": "Tabuelan",
+        "state": "Cebu"
+    },
+    "6045": {
+        "city": "Talisay City",
+        "state": "Cebu"
+    },
+    "6046": {
+        "city": "Minglanilla",
+        "state": "Cebu"
+    },
+    "6047": {
+        "city": "Santa Fe",
+        "state": "Cebu"
+    },
+    "6048": {
+        "city": "Pilar",
+        "state": "Cebu"
+    },
+    "6049": {
+        "city": "Poro",
+        "state": "Cebu"
+    },
+    "6050": {
+        "city": "San Francisco",
+        "state": "Cebu"
+    },
+    "6051": {
+        "city": "Tudela",
+        "state": "Cebu"
+    },
+    "6052": {
+        "city": "Bantayan",
+        "state": "Cebu"
+    },
+    "6053": {
+        "city": "Madridejos",
+        "state": "Cebu"
+    },
+    "6055": {
+        "city": "Alcantara",
+        "state": "Cebu"
+    },
+    "6066": {
+        "city": "Alcoy",
+        "state": "Cebu"
+    },
+    "6077": {
+        "city": "Alegria",
+        "state": "Cebu"
+    },
+    "6088": {
+        "city": "Aloguinsan",
+        "state": "Cebu"
+    },
+    "6099": {
+        "city": "Argao",
+        "state": "Cebu"
+    },
+    "6100": {
+        "city": "Bacolod City",
+        "state": "Negros Occidental"
+    },
+    "6101": {
+        "city": "Bago City",
+        "state": "Negros Occidental"
+    },
+    "6102": {
+        "city": "Pulupandan",
+        "state": "Negros Occidental"
+    },
+    "6103": {
+        "city": "Valladolid",
+        "state": "Negros Occidental"
+    },
+    "6104": {
+        "city": "San Enrique",
+        "state": "Negros Occidental"
+    },
+    "6105": {
+        "city": "Pontevedra",
+        "state": "Negros Occidental"
+    },
+    "6106": {
+        "city": "Hinigaran City",
+        "state": "Negros Occidental"
+    },
+    "6107": {
+        "city": "Binalbagan City",
+        "state": "Negros Occidental"
+    },
+    "6108": {
+        "city": "Himamaylan City",
+        "state": "Negros Occidental"
+    },
+    "6109": {
+        "city": "Ilog",
+        "state": "Negros Occidental"
+    },
+    "6110": {
+        "city": "Candoni",
+        "state": "Negros Occidental"
+    },
+    "6111": {
+        "city": "Kabankalan City",
+        "state": "Negros Occidental"
+    },
+    "6112": {
+        "city": "Cauayan",
+        "state": "Negros Occidental"
+    },
+    "6113": {
+        "city": "Sipalay City",
+        "state": "Negros Occidental"
+    },
+    "6114": {
+        "city": "Hinoba-an",
+        "state": "Negros Occidental"
+    },
+    "6115": {
+        "city": "Talisay City",
+        "state": "Negros Occidental"
+    },
+    "6116": {
+        "city": "Silay City",
+        "state": "Negros Occidental"
+    },
+    "6117": {
+        "city": "Silay Hawaiian Central",
+        "state": "Negros Occidental"
+    },
+    "6118": {
+        "city": "Enrique Magalona",
+        "state": "Negros Occidental"
+    },
+    "6119": {
+        "city": "Victorias City",
+        "state": "Negros Occidental"
+    },
+    "6120": {
+        "city": "Manapla",
+        "state": "Negros Occidental"
+    },
+    "6121": {
+        "city": "Cadiz City",
+        "state": "Negros Occidental"
+    },
+    "6122": {
+        "city": "Sagay City",
+        "state": "Negros Occidental"
+    },
+    "6123": {
+        "city": "Paraiso (Fabrica)",
+        "state": "Negros Occidental"
+    },
+    "6124": {
+        "city": "Escalante City",
+        "state": "Negros Occidental"
+    },
+    "6125": {
+        "city": "Toboso",
+        "state": "Negros Occidental"
+    },
+    "6126": {
+        "city": "Calatrava",
+        "state": "Negros Occidental"
+    },
+    "6127": {
+        "city": "San Carlos City",
+        "state": "Negros Occidental"
+    },
+    "6128": {
+        "city": "Isabela",
+        "state": "Negros Occidental"
+    },
+    "6129": {
+        "city": "Murcia",
+        "state": "Negros Occidental"
+    },
+    "6130": {
+        "city": "La Carlota City",
+        "state": "Negros Occidental"
+    },
+    "6131": {
+        "city": "La Castillana",
+        "state": "Negros Occidental"
+    },
+    "6132": {
+        "city": "Moises Padilla",
+        "state": "Negros Occidental"
+    },
+    "6200": {
+        "city": "Dumaguete City",
+        "state": "Negros Oriental"
+    },
+    "6201": {
+        "city": "Sibulan",
+        "state": "Negros Oriental"
+    },
+    "6202": {
+        "city": "San Jose",
+        "state": "Negros Oriental"
+    },
+    "6203": {
+        "city": "Amlan",
+        "state": "Negros Oriental"
+    },
+    "6204": {
+        "city": "Tanjay City",
+        "state": "Negros Oriental"
+    },
+    "6205": {
+        "city": "Pamplona",
+        "state": "Negros Oriental"
+    },
+    "6206": {
+        "city": "Bais City",
+        "state": "Negros Oriental"
+    },
+    "6207": {
+        "city": "Mabinay",
+        "state": "Negros Oriental"
+    },
+    "6208": {
+        "city": "Manjuyod",
+        "state": "Negros Oriental"
+    },
+    "6209": {
+        "city": "Bindoy",
+        "state": "Negros Oriental"
+    },
+    "6210": {
+        "city": "Ayungon",
+        "state": "Negros Oriental"
+    },
+    "6211": {
+        "city": "Tayasan",
+        "state": "Negros Oriental"
+    },
+    "6212": {
+        "city": "Jimalalud",
+        "state": "Negros Oriental"
+    },
+    "6213": {
+        "city": "La Libertad",
+        "state": "Negros Oriental"
+    },
+    "6214": {
+        "city": "Guihulngan",
+        "state": "Negros Oriental"
+    },
+    "6215": {
+        "city": "Valencia",
+        "state": "Negros Oriental"
+    },
+    "6216": {
+        "city": "Bacong",
+        "state": "Negros Oriental"
+    },
+    "6217": {
+        "city": "Dauin",
+        "state": "Negros Oriental"
+    },
+    "6218": {
+        "city": "Zamboanguita",
+        "state": "Negros Oriental"
+    },
+    "6219": {
+        "city": "Siaton",
+        "state": "Negros Oriental"
+    },
+    "6220": {
+        "city": "Sta. Catalina",
+        "state": "Negros Oriental"
+    },
+    "6221": {
+        "city": "Bayawan City",
+        "state": "Negros Oriental"
+    },
+    "6222": {
+        "city": "Basay",
+        "state": "Negros Oriental"
+    },
+    "6223": {
+        "city": "Canlaon City",
+        "state": "Negros Oriental"
+    },
+    "6224": {
+        "city": "Valle Hermoso",
+        "state": "Negros Oriental"
+    },
+    "6225": {
+        "city": "Siquij",
+        "state": "Siquijor"
+    },
+    "6226": {
+        "city": "Larena",
+        "state": "Siquijor"
+    },
+    "6227": {
+        "city": "San Juan",
+        "state": "Siquijor"
+    },
+    "6228": {
+        "city": "Lazi",
+        "state": "Siquijor"
+    },
+    "6229": {
+        "city": "Maria",
+        "state": "Siquijor"
+    },
+    "6230": {
+        "city": "Enrique Villanueva",
+        "state": "Siquijor"
+    },
+    "6300": {
+        "city": "Tagbilaran City",
+        "state": "Bohol"
+    },
+    "6301": {
+        "city": "Baclayon",
+        "state": "Bohol"
+    },
+    "6302": {
+        "city": "Alburquerque",
+        "state": "Bohol"
+    },
+    "6304": {
+        "city": "Lila",
+        "state": "Bohol"
+    },
+    "6305": {
+        "city": "Dimiao",
+        "state": "Bohol"
+    },
+    "6306": {
+        "city": "Valencia",
+        "state": "Bohol"
+    },
+    "6307": {
+        "city": "Garcia Hernandez",
+        "state": "Bohol"
+    },
+    "6308": {
+        "city": "Jagna",
+        "state": "Bohol"
+    },
+    "6309": {
+        "city": "Duero",
+        "state": "Bohol"
+    },
+    "6310": {
+        "city": "Guindulman",
+        "state": "Bohol"
+    },
+    "6311": {
+        "city": "Anda",
+        "state": "Bohol"
+    },
+    "6312": {
+        "city": "Candijay",
+        "state": "Bohol"
+    },
+    "6313": {
+        "city": "Mabini",
+        "state": "Bohol"
+    },
+    "6314": {
+        "city": "Alicia",
+        "state": "Bohol"
+    },
+    "6315": {
+        "city": "Ubay",
+        "state": "Bohol"
+    },
+    "6316": {
+        "city": "Loboc",
+        "state": "Bohol"
+    },
+    "6317": {
+        "city": "Bilar",
+        "state": "Bohol"
+    },
+    "6318": {
+        "city": "Batuan",
+        "state": "Bohol"
+    },
+    "6319": {
+        "city": "Carmen",
+        "state": "Bohol"
+    },
+    "6320": {
+        "city": "Sierra Bullones",
+        "state": "Bohol"
+    },
+    "6321": {
+        "city": "Pilar",
+        "state": "Bohol"
+    },
+    "6322": {
+        "city": "Dagohoy",
+        "state": "Bohol"
+    },
+    "6323": {
+        "city": "San Miguel",
+        "state": "Bohol"
+    },
+    "6324": {
+        "city": "Trinidad",
+        "state": "Bohol"
+    },
+    "6325": {
+        "city": "Talibon",
+        "state": "Bohol"
+    },
+    "6326": {
+        "city": "Bien Unido",
+        "state": "Bohol"
+    },
+    "6327": {
+        "city": "Loon",
+        "state": "Bohol"
+    },
+    "6328": {
+        "city": "Calape",
+        "state": "Bohol"
+    },
+    "6329": {
+        "city": "Tubigon",
+        "state": "Bohol"
+    },
+    "6330": {
+        "city": "Clarin",
+        "state": "Bohol"
+    },
+    "6331": {
+        "city": "Sagbayan",
+        "state": "Bohol"
+    },
+    "6332": {
+        "city": "Inabanga",
+        "state": "Bohol"
+    },
+    "6333": {
+        "city": "Buenavista",
+        "state": "Bohol"
+    },
+    "6334": {
+        "city": "Jetafe",
+        "state": "Bohol"
+    },
+    "6335": {
+        "city": "Antequera",
+        "state": "Bohol"
+    },
+    "6336": {
+        "city": "Maribojoc",
+        "state": "Bohol"
+    },
+    "6337": {
+        "city": "Corella",
+        "state": "Bohol"
+    },
+    "6338": {
+        "city": "Sikatuna",
+        "state": "Bohol"
+    },
+    "6339": {
+        "city": "Dauis",
+        "state": "Bohol"
+    },
+    "6340": {
+        "city": "Panglao",
+        "state": "Bohol"
+    },
+    "6341": {
+        "city": "Cortes",
+        "state": "Bohol"
+    },
+    "6342": {
+        "city": "Balilihan",
+        "state": "Bohol"
+    },
+    "6343": {
+        "city": "Catigbian",
+        "state": "Bohol"
+    },
+    "6344": {
+        "city": "Danao",
+        "state": "Bohol"
+    },
+    "6345": {
+        "city": "San Isidro",
+        "state": "Bohol"
+    },
+    "6346": {
+        "city": "Pres. Carlos P. Garcia (Pitogo)",
+        "state": "Bohol"
+    },
+    "6347": {
+        "city": "Sevilla",
+        "state": "Bohol"
+    },
+    "6400": {
+        "city": "Catarman",
+        "state": "Northern Samar"
+    },
+    "6401": {
+        "city": "Bobon",
+        "state": "Northern Samar"
+    },
+    "6402": {
+        "city": "San Jose",
+        "state": "Northern Samar"
+    },
+    "6403": {
+        "city": "Lope de Vega",
+        "state": "Northern Samar"
+    },
+    "6404": {
+        "city": "Lavezares",
+        "state": "Northern Samar"
+    },
+    "6405": {
+        "city": "Allen",
+        "state": "Northern Samar"
+    },
+    "6406": {
+        "city": "Victoria",
+        "state": "Northern Samar"
+    },
+    "6407": {
+        "city": "San Antonio",
+        "state": "Northern Samar"
+    },
+    "6408": {
+        "city": "Capul",
+        "state": "Northern Samar"
+    },
+    "6409": {
+        "city": "San Isidro",
+        "state": "Northern Samar"
+    },
+    "6410": {
+        "city": "Biri",
+        "state": "Northern Samar"
+    },
+    "6411": {
+        "city": "Laoang",
+        "state": "Northern Samar"
+    },
+    "6412": {
+        "city": "Mapanas",
+        "state": "Northern Samar"
+    },
+    "6413": {
+        "city": "Pambujan",
+        "state": "Northern Samar"
+    },
+    "6414": {
+        "city": "Silvino Lobos",
+        "state": "Northern Samar"
+    },
+    "6415": {
+        "city": "San Roque",
+        "state": "Northern Samar"
+    },
+    "6416": {
+        "city": "Rosario",
+        "state": "Northern Samar"
+    },
+    "6417": {
+        "city": "Mondragon",
+        "state": "Northern Samar"
+    },
+    "6418": {
+        "city": "Catubig",
+        "state": "Northern Samar"
+    },
+    "6419": {
+        "city": "San Vicente",
+        "state": "Northern Samar"
+    },
+    "6420": {
+        "city": "Las Navas",
+        "state": "Northern Samar"
+    },
+    "6421": {
+        "city": "Palapag",
+        "state": "Northern Samar"
+    },
+    "6422": {
+        "city": "Gamay",
+        "state": "Northern Samar"
+    },
+    "6423": {
+        "city": "Lapinig",
+        "state": "Northern Samar"
+    },
+    "6500": {
+        "city": "Tacloban City",
+        "state": "Leyte"
+    },
+    "6501": {
+        "city": "Palo",
+        "state": "Leyte"
+    },
+    "6502": {
+        "city": "Tanuan",
+        "state": "Leyte"
+    },
+    "6503": {
+        "city": "Tolosa",
+        "state": "Leyte"
+    },
+    "6504": {
+        "city": "Tabontabon",
+        "state": "Leyte"
+    },
+    "6505": {
+        "city": "Dulag",
+        "state": "Leyte"
+    },
+    "6506": {
+        "city": "Julita",
+        "state": "Leyte"
+    },
+    "6507": {
+        "city": "Mayorga",
+        "state": "Leyte"
+    },
+    "6508": {
+        "city": "La Paz",
+        "state": "Leyte"
+    },
+    "6509": {
+        "city": "Macarthur",
+        "state": "Leyte"
+    },
+    "6510": {
+        "city": "Abuyog",
+        "state": "Leyte"
+    },
+    "6511": {
+        "city": "Javier",
+        "state": "Leyte"
+    },
+    "6512": {
+        "city": "Mahaplag",
+        "state": "Leyte"
+    },
+    "6513": {
+        "city": "Santa Fe",
+        "state": "Leyte"
+    },
+    "6514": {
+        "city": "Pastrana",
+        "state": "Leyte"
+    },
+    "6515": {
+        "city": "Dagami",
+        "state": "Leyte"
+    },
+    "6516": {
+        "city": "Burauen",
+        "state": "Leyte"
+    },
+    "6517": {
+        "city": "Alangalang",
+        "state": "Leyte"
+    },
+    "6518": {
+        "city": "San Miguel",
+        "state": "Leyte"
+    },
+    "6519": {
+        "city": "Barugo",
+        "state": "Leyte"
+    },
+    "6520": {
+        "city": "Babatngon",
+        "state": "Leyte"
+    },
+    "6521": {
+        "city": "Baybay",
+        "state": "Leyte"
+    },
+    "6522": {
+        "city": "Inopacan",
+        "state": "Leyte"
+    },
+    "6523": {
+        "city": "Hindang",
+        "state": "Leyte"
+    },
+    "6524": {
+        "city": "Hilongos",
+        "state": "Leyte"
+    },
+    "6525": {
+        "city": "Bato",
+        "state": "Leyte"
+    },
+    "6526": {
+        "city": "Matalom",
+        "state": "Leyte"
+    },
+    "6527": {
+        "city": "Jaro",
+        "state": "Leyte"
+    },
+    "6528": {
+        "city": "Tunga",
+        "state": "Leyte"
+    },
+    "6529": {
+        "city": "Carigara",
+        "state": "Leyte"
+    },
+    "6530": {
+        "city": "Capoocan",
+        "state": "Leyte"
+    },
+    "6531": {
+        "city": "Kananga",
+        "state": "Leyte"
+    },
+    "6532": {
+        "city": "Matag-ob",
+        "state": "Leyte"
+    },
+    "6533": {
+        "city": "Leyte",
+        "state": "Leyte"
+    },
+    "6534": {
+        "city": "Calubian",
+        "state": "Leyte"
+    },
+    "6535": {
+        "city": "San Isidro",
+        "state": "Leyte"
+    },
+    "6536": {
+        "city": "Tabango",
+        "state": "Leyte"
+    },
+    "6537": {
+        "city": "Villaba",
+        "state": "Leyte"
+    },
+    "6538": {
+        "city": "Palompon",
+        "state": "Leyte"
+    },
+    "6539": {
+        "city": "Isabel",
+        "state": "Leyte"
+    },
+    "6540": {
+        "city": "Merida",
+        "state": "Leyte"
+    },
+    "6541": {
+        "city": "Ormoc City",
+        "state": "Leyte"
+    },
+    "6542": {
+        "city": "Albuera",
+        "state": "Leyte"
+    },
+    "6543": {
+        "city": "Naval",
+        "state": "Biliran"
+    },
+    "6544": {
+        "city": "Almeria",
+        "state": "Biliran"
+    },
+    "6545": {
+        "city": "Kawayan",
+        "state": "Biliran"
+    },
+    "6546": {
+        "city": "Maripipi",
+        "state": "Biliran"
+    },
+    "6547": {
+        "city": "Culaba",
+        "state": "Biliran"
+    },
+    "6548": {
+        "city": "Caibiran",
+        "state": "Biliran"
+    },
+    "6549": {
+        "city": "Biliran",
+        "state": "Biliran"
+    },
+    "6550": {
+        "city": "Cabucgayan",
+        "state": "Biliran"
+    },
+    "6600": {
+        "city": "Maasin",
+        "state": "Southern Leyte"
+    },
+    "6601": {
+        "city": "Macrohon",
+        "state": "Southern Leyte"
+    },
+    "6602": {
+        "city": "Padre Burgos",
+        "state": "Southern Leyte"
+    },
+    "6603": {
+        "city": "Malitbog",
+        "state": "Southern Leyte"
+    },
+    "6604": {
+        "city": "Bontoc",
+        "state": "Southern Leyte"
+    },
+    "6605": {
+        "city": "Tomas Oppus",
+        "state": "Southern Leyte"
+    },
+    "6606": {
+        "city": "Sogod",
+        "state": "Southern Leyte"
+    },
+    "6607": {
+        "city": "Silago",
+        "state": "Southern Leyte"
+    },
+    "6608": {
+        "city": "Hinunangan",
+        "state": "Southern Leyte"
+    },
+    "6609": {
+        "city": "Hinundayan",
+        "state": "Southern Leyte"
+    },
+    "6610": {
+        "city": "Anahawan",
+        "state": "Southern Leyte"
+    },
+    "6611": {
+        "city": "San Juan (Cabalian)",
+        "state": "Southern Leyte"
+    },
+    "6612": {
+        "city": "Liloan",
+        "state": "Southern Leyte"
+    },
+    "6613": {
+        "city": "San Francisco",
+        "state": "Southern Leyte"
+    },
+    "6614": {
+        "city": "Pintuyan",
+        "state": "Southern Leyte"
+    },
+    "6615": {
+        "city": "Libagon",
+        "state": "Southern Leyte"
+    },
+    "6616": {
+        "city": "St. Bernard",
+        "state": "Southern Leyte"
+    },
+    "6617": {
+        "city": "San Ricardo",
+        "state": "Southern Leyte"
+    },
+    "6700": {
+        "city": "Catbalogan",
+        "state": "Western Samar"
+    },
+    "6701": {
+        "city": "Jiabong",
+        "state": "Western Samar"
+    },
+    "6702": {
+        "city": "Motiong",
+        "state": "Western Samar"
+    },
+    "6703": {
+        "city": "Paranas (Wright)",
+        "state": "Western Samar"
+    },
+    "6704": {
+        "city": "Tarangnan",
+        "state": "Western Samar"
+    },
+    "6705": {
+        "city": "Pagsanghan",
+        "state": "Western Samar"
+    },
+    "6706": {
+        "city": "Gandara",
+        "state": "Western Samar"
+    },
+    "6707": {
+        "city": "San Jorge",
+        "state": "Western Samar"
+    },
+    "6708": {
+        "city": "Matuguinao",
+        "state": "Western Samar"
+    },
+    "6709": {
+        "city": "Santa Margarita",
+        "state": "Western Samar"
+    },
+    "6710": {
+        "city": "Calbayog City",
+        "state": "Western Samar"
+    },
+    "6711": {
+        "city": "Santo Niño",
+        "state": "Western Samar"
+    },
+    "6712": {
+        "city": "Tagapul-an",
+        "state": "Western Samar"
+    },
+    "6713": {
+        "city": "Hinabangan",
+        "state": "Western Samar"
+    },
+    "6714": {
+        "city": "San Sebastian",
+        "state": "Western Samar"
+    },
+    "6715": {
+        "city": "Calbiga",
+        "state": "Western Samar"
+    },
+    "6716": {
+        "city": "Pinabacdao",
+        "state": "Western Samar"
+    },
+    "6717": {
+        "city": "Villareal",
+        "state": "Western Samar"
+    },
+    "6718": {
+        "city": "Santa Rita",
+        "state": "Western Samar"
+    },
+    "6719": {
+        "city": "Talalora",
+        "state": "Western Samar"
+    },
+    "6720": {
+        "city": "Basey",
+        "state": "Western Samar"
+    },
+    "6721": {
+        "city": "Marabut",
+        "state": "Western Samar"
+    },
+    "6722": {
+        "city": "Daram",
+        "state": "Western Samar"
+    },
+    "6723": {
+        "city": "San Jose De Buan",
+        "state": "Western Samar"
+    },
+    "6724": {
+        "city": "Almagro",
+        "state": "Western Samar"
+    },
+    "6725": {
+        "city": "Zumarraga",
+        "state": "Western Samar"
+    },
+    "6800": {
+        "city": "Borongan",
+        "state": "Eastern Samar"
+    },
+    "6801": {
+        "city": "Balangkayan",
+        "state": "Eastern Samar"
+    },
+    "6802": {
+        "city": "Maydolong",
+        "state": "Eastern Samar"
+    },
+    "6803": {
+        "city": "Llorente",
+        "state": "Eastern Samar"
+    },
+    "6804": {
+        "city": "Hernani",
+        "state": "Eastern Samar"
+    },
+    "6805": {
+        "city": "General MacArthur",
+        "state": "Eastern Samar"
+    },
+    "6806": {
+        "city": "Can-avid",
+        "state": "Eastern Samar"
+    },
+    "6807": {
+        "city": "Salcedo",
+        "state": "Eastern Samar"
+    },
+    "6808": {
+        "city": "Mercedes",
+        "state": "Eastern Samar"
+    },
+    "6809": {
+        "city": "Guiuan",
+        "state": "Eastern Samar"
+    },
+    "6810": {
+        "city": "Quinapondan",
+        "state": "Eastern Samar"
+    },
+    "6811": {
+        "city": "Giporlos",
+        "state": "Eastern Samar"
+    },
+    "6812": {
+        "city": "Balangiga",
+        "state": "Eastern Samar"
+    },
+    "6813": {
+        "city": "Lawaan",
+        "state": "Eastern Samar"
+    },
+    "6814": {
+        "city": "San Julian",
+        "state": "Eastern Samar"
+    },
+    "6815": {
+        "city": "Sulat",
+        "state": "Eastern Samar"
+    },
+    "6816": {
+        "city": "Taft",
+        "state": "Eastern Samar"
+    },
+    "6817": {
+        "city": "Dolores",
+        "state": "Eastern Samar"
+    },
+    "6818": {
+        "city": "Oras",
+        "state": "Eastern Samar"
+    },
+    "6819": {
+        "city": "Jipapad",
+        "state": "Eastern Samar"
+    },
+    "6820": {
+        "city": "Maslog",
+        "state": "Eastern Samar"
+    },
+    "6821": {
+        "city": "San Policarpo",
+        "state": "Eastern Samar"
+    },
+    "6822": {
+        "city": "Arteche",
+        "state": "Eastern Samar"
+    },
+    "7000": {
+        "city": "Zamboanga City",
+        "state": "Zamboanga del Sur"
+    },
+    "7001": {
+        "city": "Ipil",
+        "state": "Zamboanga Sibugay"
+    },
+    "7002": {
+        "city": "Roseller T. Lim",
+        "state": "Zamboanga Sibugay"
+    },
+    "7003": {
+        "city": "Titay",
+        "state": "Zamboanga Sibugay"
+    },
+    "7004": {
+        "city": "Naga",
+        "state": "Zamboanga Sibugay"
+    },
+    "7005": {
+        "city": "Kabasalan",
+        "state": "Zamboanga Sibugay"
+    },
+    "7006": {
+        "city": "Siay",
+        "state": "Zamboanga Sibugay"
+    },
+    "7007": {
+        "city": "Imelda",
+        "state": "Zamboanga Sibugay"
+    },
+    "7008": {
+        "city": "Payao",
+        "state": "Zamboanga Sibugay"
+    },
+    "7009": {
+        "city": "Buug",
+        "state": "Zamboanga Sibugay"
+    },
+    "7010": {
+        "city": "Mabuhay",
+        "state": "Zamboanga Sibugay"
+    },
+    "7011": {
+        "city": "Bayog",
+        "state": "Zamboanga del Sur"
+    },
+    "7012": {
+        "city": "Talusan",
+        "state": "Zamboanga Sibugay"
+    },
+    "7014": {
+        "city": "Lakewood",
+        "state": "Zamboanga del Sur"
+    },
+    "7015": {
+        "city": "Dumalinao",
+        "state": "Zamboanga del Sur"
+    },
+    "7016": {
+        "city": "Pagadian City",
+        "state": "Zamboanga del Sur"
+    },
+    "7017": {
+        "city": "Labangan",
+        "state": "Zamboanga del Sur"
+    },
+    "7019": {
+        "city": "Tukuran",
+        "state": "Zamboanga del Sur"
+    },
+    "7020": {
+        "city": "Aurora",
+        "state": "Zamboanga del Sur"
+    },
+    "7021": {
+        "city": "Midsalip",
+        "state": "Zamboanga del Sur"
+    },
+    "7022": {
+        "city": "Sominot (Don Mariano Marcos)",
+        "state": "Zamboanga del Sur"
+    },
+    "7023": {
+        "city": "Molave",
+        "state": "Zamboanga del Sur"
+    },
+    "7024": {
+        "city": "Ramon Magsaysay (Liargo)",
+        "state": "Zamboanga del Sur"
+    },
+    "7025": {
+        "city": "Tambulig",
+        "state": "Zamboanga del Sur"
+    },
+    "7026": {
+        "city": "Mahayag",
+        "state": "Zamboanga del Sur"
+    },
+    "7027": {
+        "city": "Josefina",
+        "state": "Zamboanga del Sur"
+    },
+    "7028": {
+        "city": "Dumingag",
+        "state": "Zamboanga del Sur"
+    },
+    "7029": {
+        "city": "San Miguel",
+        "state": "Zamboanga del Sur"
+    },
+    "7030": {
+        "city": "Dinas",
+        "state": "Zamboanga del Sur"
+    },
+    "7031": {
+        "city": "San Pablo",
+        "state": "Zamboanga del Sur"
+    },
+    "7032": {
+        "city": "Dimataling",
+        "state": "Zamboanga del Sur"
+    },
+    "7033": {
+        "city": "Pitogo",
+        "state": "Zamboanga del Sur"
+    },
+    "7034": {
+        "city": "Tabina",
+        "state": "Zamboanga del Sur"
+    },
+    "7035": {
+        "city": "Margosatubig",
+        "state": "Zamboanga del Sur"
+    },
+    "7036": {
+        "city": "Vincenzo A. Sagun",
+        "state": "Zamboanga del Sur"
+    },
+    "7037": {
+        "city": "Lapuyan",
+        "state": "Zamboanga del Sur"
+    },
+    "7038": {
+        "city": "Malangas",
+        "state": "Zamboanga Sibugay"
+    },
+    "7039": {
+        "city": "Diplahan",
+        "state": "Zamboanga Sibugay"
+    },
+    "7040": {
+        "city": "Alicia",
+        "state": "Zamboanga Sibugay"
+    },
+    "7041": {
+        "city": "Olutanga",
+        "state": "Zamboanga Sibugay"
+    },
+    "7042": {
+        "city": "Guipos",
+        "state": "Zamboanga del Sur"
+    },
+    "7043": {
+        "city": "Tigbao",
+        "state": "Zamboanga del Sur"
+    },
+    "7100": {
+        "city": "Dipolog City",
+        "state": "Zamboanga del Norte"
+    },
+    "7101": {
+        "city": "Dapitan City",
+        "state": "Zamboanga del Norte"
+    },
+    "7102": {
+        "city": "Roxas",
+        "state": "Zamboanga del Norte"
+    },
+    "7103": {
+        "city": "Sibutad",
+        "state": "Zamboanga del Norte"
+    },
+    "7104": {
+        "city": "Rizal",
+        "state": "Zamboanga del Norte"
+    },
+    "7105": {
+        "city": "Pinan",
+        "state": "Zamboanga del Norte"
+    },
+    "7106": {
+        "city": "Polanco",
+        "state": "Zamboanga del Norte"
+    },
+    "7107": {
+        "city": "Mutia",
+        "state": "Zamboanga del Norte"
+    },
+    "7108": {
+        "city": "Sergio Osmeña",
+        "state": "Zamboanga del Norte"
+    },
+    "7109": {
+        "city": "Katipunan",
+        "state": "Zamboanga del Norte"
+    },
+    "7110": {
+        "city": "Manukan",
+        "state": "Zamboanga del Norte"
+    },
+    "7111": {
+        "city": "Jose Dalman (Ponot)",
+        "state": "Zamboanga del Norte"
+    },
+    "7112": {
+        "city": "Sindangan (Leon B. Postigo)",
+        "state": "Zamboanga del Norte"
+    },
+    "7113": {
+        "city": "Siayan",
+        "state": "Zamboanga del Norte"
+    },
+    "7114": {
+        "city": "Salug",
+        "state": "Zamboanga del Norte"
+    },
+    "7115": {
+        "city": "Liloy",
+        "state": "Zamboanga del Norte"
+    },
+    "7116": {
+        "city": "Tampilisan",
+        "state": "Zamboanga del Norte"
+    },
+    "7117": {
+        "city": "Labason",
+        "state": "Zamboanga del Norte"
+    },
+    "7118": {
+        "city": "Gutalac",
+        "state": "Zamboanga del Norte"
+    },
+    "7119": {
+        "city": "La Libertad",
+        "state": "Zamboanga del Norte"
+    },
+    "7120": {
+        "city": "Siocon",
+        "state": "Zamboanga del Norte"
+    },
+    "7121": {
+        "city": "Siraway",
+        "state": "Zamboanga del Norte"
+    },
+    "7122": {
+        "city": "Sibuco",
+        "state": "Zamboanga del Norte"
+    },
+    "7123": {
+        "city": "Baliguian",
+        "state": "Zamboanga del Norte"
+    },
+    "7124": {
+        "city": "Kalawit",
+        "state": "Zamboanga del Norte"
+    },
+    "7200": {
+        "city": "Ozamis City",
+        "state": "Misamis Occidental"
+    },
+    "7201": {
+        "city": "Clarin",
+        "state": "Misamis Occidental"
+    },
+    "7202": {
+        "city": "Tudela",
+        "state": "Misamis Occidental"
+    },
+    "7203": {
+        "city": "Sinacaban",
+        "state": "Misamis Occidental"
+    },
+    "7204": {
+        "city": "Jimenez",
+        "state": "Misamis Occidental"
+    },
+    "7205": {
+        "city": "Panaon",
+        "state": "Misamis Occidental"
+    },
+    "7206": {
+        "city": "Aloran",
+        "state": "Misamis Occidental"
+    },
+    "7207": {
+        "city": "Oroquieta City",
+        "state": "Misamis Occidental"
+    },
+    "7208": {
+        "city": "Lopez Jaena",
+        "state": "Misamis Occidental"
+    },
+    "7209": {
+        "city": "Plaridel",
+        "state": "Misamis Occidental"
+    },
+    "7210": {
+        "city": "Calamba",
+        "state": "Misamis Occidental"
+    },
+    "7211": {
+        "city": "Baliangao",
+        "state": "Misamis Occidental"
+    },
+    "7212": {
+        "city": "Sapang Dalaga",
+        "state": "Misamis Occidental"
+    },
+    "7213": {
+        "city": "Concepcion",
+        "state": "Misamis Occidental"
+    },
+    "7214": {
+        "city": "Tangub City",
+        "state": "Misamis Occidental"
+    },
+    "7215": {
+        "city": "Bonifacio",
+        "state": "Misamis Occidental"
+    },
+    "7300": {
+        "city": "Isabela City",
+        "state": "Basilan"
+    },
+    "7301": {
+        "city": "Lantawan",
+        "state": "Basilan"
+    },
+    "7302": {
+        "city": "Lamitan City",
+        "state": "Basilan"
+    },
+    "7303": {
+        "city": "Maluso",
+        "state": "Basilan"
+    },
+    "7304": {
+        "city": "Tipo-Tipo",
+        "state": "Basilan"
+    },
+    "7305": {
+        "city": "Sumisip",
+        "state": "Basilan"
+    },
+    "7306": {
+        "city": "Tuburan",
+        "state": "Basilan"
+    },
+    "7308": {
+        "city": "Froilie",
+        "state": "Basilan"
+    },
+    "7400": {
+        "city": "Jolo",
+        "state": "Sulu"
+    },
+    "7401": {
+        "city": "Patikul",
+        "state": "Sulu"
+    },
+    "7402": {
+        "city": "Panamao",
+        "state": "Sulu"
+    },
+    "7403": {
+        "city": "Talipao",
+        "state": "Sulu"
+    },
+    "7404": {
+        "city": "Luuk",
+        "state": "Sulu"
+    },
+    "7405": {
+        "city": "Pata",
+        "state": "Sulu"
+    },
+    "7406": {
+        "city": "Tongkil",
+        "state": "Sulu"
+    },
+    "7407": {
+        "city": "Indanan",
+        "state": "Sulu"
+    },
+    "7408": {
+        "city": "Parang",
+        "state": "Sulu"
+    },
+    "7409": {
+        "city": "Maimbung",
+        "state": "Sulu"
+    },
+    "7410": {
+        "city": "Tapul",
+        "state": "Sulu"
+    },
+    "7411": {
+        "city": "Lugus",
+        "state": "Sulu"
+    },
+    "7412": {
+        "city": "Siasi",
+        "state": "Sulu"
+    },
+    "7413": {
+        "city": "Marungas",
+        "state": "Sulu"
+    },
+    "7414": {
+        "city": "Panguntaran",
+        "state": "Sulu"
+    },
+    "7415": {
+        "city": "Panglima Estino",
+        "state": "Sulu"
+    },
+    "7416": {
+        "city": "Kalingalan Kalauang",
+        "state": "Sulu"
+    },
+    "7500": {
+        "city": "Bongao",
+        "state": "Tarlac"
+    },
+    "7501": {
+        "city": "Panglima Sugala (Balimbing)",
+        "state": "Tarlac"
+    },
+    "7502": {
+        "city": "Tandubas",
+        "state": "Tarlac"
+    },
+    "7503": {
+        "city": "Sapa-Sapa",
+        "state": "Tarlac"
+    },
+    "7504": {
+        "city": "South Ubian",
+        "state": "Tarlac"
+    },
+    "7505": {
+        "city": "Simunul",
+        "state": "Tarlac"
+    },
+    "7506": {
+        "city": "Sitangkai",
+        "state": "Tarlac"
+    },
+    "7507": {
+        "city": "Turtle Island (Taganak)",
+        "state": "Tarlac"
+    },
+    "7508": {
+        "city": "Mapun (Cagayan de Sulu)",
+        "state": "Tarlac"
+    },
+    "7509": {
+        "city": "Languyan",
+        "state": "Tarlac"
+    },
+    "8000": {
+        "city": "Davao City",
+        "state": "Davao del Sur"
+    },
+    "8001": {
+        "city": "Santa Cruz",
+        "state": "Davao del Sur"
+    },
+    "8002": {
+        "city": "Digos City",
+        "state": "Davao del Sur"
+    },
+    "8003": {
+        "city": "Matanao",
+        "state": "Davao del Sur"
+    },
+    "8004": {
+        "city": "Magsaysay",
+        "state": "Davao del Sur"
+    },
+    "8005": {
+        "city": "Bansalan",
+        "state": "Davao del Sur"
+    },
+    "8006": {
+        "city": "Hagonoy",
+        "state": "Davao del Sur"
+    },
+    "8007": {
+        "city": "Padada",
+        "state": "Davao del Sur"
+    },
+    "8008": {
+        "city": "Kiblawan",
+        "state": "Davao del Sur"
+    },
+    "8009": {
+        "city": "Sulop",
+        "state": "Davao del Sur"
+    },
+    "8010": {
+        "city": "Malalag",
+        "state": "Davao del Sur"
+    },
+    "8011": {
+        "city": "Santa Maria",
+        "state": "Davao del Sur"
+    },
+    "8012": {
+        "city": "Malita",
+        "state": "Davao del Sur"
+    },
+    "8013": {
+        "city": "Don Marcelino",
+        "state": "Davao del Sur"
+    },
+    "8014": {
+        "city": "Jose Abad Santos",
+        "state": "Davao del Sur"
+    },
+    "8015": {
+        "city": "Sarangani",
+        "state": "Davao del Sur"
+    },
+    "8016": {
+        "city": "Ateneo de Davao University",
+        "state": "Davao del Sur"
+    },
+    "8100": {
+        "city": "Tagum City",
+        "state": "Davao del Norte"
+    },
+    "8101": {
+        "city": "Carmen",
+        "state": "Davao del Norte"
+    },
+    "8102": {
+        "city": "Asuncion",
+        "state": "Davao del Norte"
+    },
+    "8103": {
+        "city": "Laak (San Vicente)",
+        "state": "Compostela Valley"
+    },
+    "8104": {
+        "city": "New Corella",
+        "state": "Davao del Norte"
+    },
+    "8105": {
+        "city": "Panabo City",
+        "state": "Davao del Norte"
+    },
+    "8106": {
+        "city": "Nabunturan",
+        "state": "Compostela Valley"
+    },
+    "8107": {
+        "city": "Montevista",
+        "state": "Compostela Valley"
+    },
+    "8108": {
+        "city": "Mawab",
+        "state": "Compostela Valley"
+    },
+    "8109": {
+        "city": "Compostela",
+        "state": "Compostela Valley"
+    },
+    "8110": {
+        "city": "New Bataan",
+        "state": "Compostela Valley"
+    },
+    "8111": {
+        "city": "Monkayo",
+        "state": "Compostela Valley"
+    },
+    "8112": {
+        "city": "Santo Tomas",
+        "state": "Davao del Norte"
+    },
+    "8113": {
+        "city": "Kapalong",
+        "state": "Davao del Norte"
+    },
+    "8114": {
+        "city": "Maco",
+        "state": "Compostela Valley"
+    },
+    "8115": {
+        "city": "Mabini (Doña Alicia)",
+        "state": "Compostela Valley"
+    },
+    "8116": {
+        "city": "Maragusan (San Mariano)",
+        "state": "Compostela Valley"
+    },
+    "8117": {
+        "city": "Pantukan",
+        "state": "Compostela Valley"
+    },
+    "8118": {
+        "city": "Babak",
+        "state": "Davao del Norte"
+    },
+    "8119": {
+        "city": "Island Garden City of Samal",
+        "state": "Davao del Norte"
+    },
+    "8120": {
+        "city": "Kaputian",
+        "state": "Davao del Norte"
+    },
+    "8200": {
+        "city": "Mati",
+        "state": "Davao del Sur"
+    },
+    "8201": {
+        "city": "Tarragona",
+        "state": "Davao del Sur"
+    },
+    "8209": {
+        "city": "San Isidro",
+        "state": "Davao del Sur"
+    },
+    "8300": {
+        "city": "Tandag",
+        "state": "Surigao del Sur"
+    },
+    "8301": {
+        "city": "San Miguel",
+        "state": "Surigao del Sur"
+    },
+    "8302": {
+        "city": "Tago",
+        "state": "Surigao del Sur"
+    },
+    "8303": {
+        "city": "Bayabas",
+        "state": "Surigao del Sur"
+    },
+    "8304": {
+        "city": "Cagwait",
+        "state": "Surigao del Sur"
+    },
+    "8305": {
+        "city": "San Agustin",
+        "state": "Surigao del Sur"
+    },
+    "8306": {
+        "city": "Marihatag",
+        "state": "Surigao del Sur"
+    },
+    "8307": {
+        "city": "Lianga",
+        "state": "Surigao del Sur"
+    },
+    "8308": {
+        "city": "Tagbina",
+        "state": "Surigao del Sur"
+    },
+    "8309": {
+        "city": "Barobo",
+        "state": "Surigao del Sur"
+    },
+    "8310": {
+        "city": "Hinatuan",
+        "state": "Surigao del Sur"
+    },
+    "8311": {
+        "city": "Bislig",
+        "state": "Surigao del Sur"
+    },
+    "8312": {
+        "city": "Lingig",
+        "state": "Surigao del Sur"
+    },
+    "8313": {
+        "city": "Cortez",
+        "state": "Surigao del Sur"
+    },
+    "8314": {
+        "city": "Lanuza",
+        "state": "Surigao del Sur"
+    },
+    "8315": {
+        "city": "Carmen",
+        "state": "Surigao del Sur"
+    },
+    "8316": {
+        "city": "Madrid",
+        "state": "Surigao del Sur"
+    },
+    "8317": {
+        "city": "Cantillan",
+        "state": "Surigao del Sur"
+    },
+    "8318": {
+        "city": "Carrascal",
+        "state": "Surigao del Sur"
+    },
+    "8400": {
+        "city": "Surigao City",
+        "state": "Surigao del Norte"
+    },
+    "8401": {
+        "city": "San Francisco",
+        "state": "Surigao del Norte"
+    },
+    "8402": {
+        "city": "Malimano",
+        "state": "Surigao del Norte"
+    },
+    "8403": {
+        "city": "Tagana-an",
+        "state": "Surigao del Norte"
+    },
+    "8404": {
+        "city": "Sison",
+        "state": "Surigao del Norte"
+    },
+    "8405": {
+        "city": "Placer",
+        "state": "Surigao del Norte"
+    },
+    "8406": {
+        "city": "Tubod",
+        "state": "Surigao del Norte"
+    },
+    "8407": {
+        "city": "Mainit",
+        "state": "Surigao del Norte"
+    },
+    "8408": {
+        "city": "Bacuag",
+        "state": "Surigao del Norte"
+    },
+    "8409": {
+        "city": "Gigaquit",
+        "state": "Surigao del Norte"
+    },
+    "8410": {
+        "city": "Claver",
+        "state": "Surigao del Norte"
+    },
+    "8411": {
+        "city": "Cagdianao",
+        "state": "Dinagat Islands"
+    },
+    "8412": {
+        "city": "Dinagat",
+        "state": "Dinagat Islands"
+    },
+    "8413": {
+        "city": "Basilisa (Rizal)",
+        "state": "Dinagat Islands"
+    },
+    "8414": {
+        "city": "Libjo (Albor)",
+        "state": "Dinagat Islands"
+    },
+    "8415": {
+        "city": "Loreto",
+        "state": "Dinagat Islands"
+    },
+    "8416": {
+        "city": "Socorro",
+        "state": "Surigao del Norte"
+    },
+    "8417": {
+        "city": "Dapa",
+        "state": "Surigao del Norte"
+    },
+    "8418": {
+        "city": "Del Carmen",
+        "state": "Surigao del Norte"
+    },
+    "8419": {
+        "city": "Gen. Luna",
+        "state": "Surigao del Norte"
+    },
+    "8420": {
+        "city": "Pilar",
+        "state": "Surigao del Norte"
+    },
+    "8421": {
+        "city": "San Isidro",
+        "state": "Surigao del Norte"
+    },
+    "8422": {
+        "city": "Santa Monica",
+        "state": "Surigao del Norte"
+    },
+    "8423": {
+        "city": "San Benito",
+        "state": "Surigao del Norte"
+    },
+    "8424": {
+        "city": "Burgos",
+        "state": "Surigao del Norte"
+    },
+    "8425": {
+        "city": "Alegria",
+        "state": "Surigao del Norte"
+    },
+    "8426": {
+        "city": "Tubajon",
+        "state": "Dinagat Islands"
+    },
+    "8427": {
+        "city": "San Jose",
+        "state": "Dinagat Islands"
+    },
+    "8500": {
+        "city": "Prosperidad",
+        "state": "Agusan del Sur"
+    },
+    "8501": {
+        "city": "San Francisco",
+        "state": "Agusan del Sur"
+    },
+    "8502": {
+        "city": "Bayugan",
+        "state": "Agusan del Sur"
+    },
+    "8503": {
+        "city": "Sibagat",
+        "state": "Agusan del Sur"
+    },
+    "8504": {
+        "city": "Rosario",
+        "state": "Agusan del Sur"
+    },
+    "8505": {
+        "city": "Trento",
+        "state": "Agusan del Sur"
+    },
+    "8506": {
+        "city": "Bunawan",
+        "state": "Agusan del Sur"
+    },
+    "8507": {
+        "city": "Loreto",
+        "state": "Agusan del Sur"
+    },
+    "8508": {
+        "city": "La Paz",
+        "state": "Agusan del Sur"
+    },
+    "8509": {
+        "city": "Veruela",
+        "state": "Agusan del Sur"
+    },
+    "8510": {
+        "city": "Talacogon",
+        "state": "Agusan del Sur"
+    },
+    "8511": {
+        "city": "San Luis",
+        "state": "Agusan del Sur"
+    },
+    "8512": {
+        "city": "Santa Josefa",
+        "state": "Agusan del Sur"
+    },
+    "8513": {
+        "city": "Esperanza",
+        "state": "Agusan del Sur"
+    },
+    "8600": {
+        "city": "Butuan City",
+        "state": "Agusan del Norte"
+    },
+    "8601": {
+        "city": "Buenavista",
+        "state": "Agusan del Norte"
+    },
+    "8602": {
+        "city": "Nasipit",
+        "state": "Agusan del Norte"
+    },
+    "8603": {
+        "city": "Carmen",
+        "state": "Agusan del Norte"
+    },
+    "8604": {
+        "city": "Magallanes",
+        "state": "Agusan del Norte"
+    },
+    "8605": {
+        "city": "Cabadbaran City",
+        "state": "Agusan del Norte"
+    },
+    "8606": {
+        "city": "Tubay",
+        "state": "Agusan del Norte"
+    },
+    "8607": {
+        "city": "Jabonga",
+        "state": "Agusan del Norte"
+    },
+    "8608": {
+        "city": "Santiago",
+        "state": "Agusan del Norte"
+    },
+    "8609": {
+        "city": "Kitcharao",
+        "state": "Agusan del Norte"
+    },
+    "8610": {
+        "city": "Las Nieves",
+        "state": "Agusan del Norte"
+    },
+    "8611": {
+        "city": "Remedios T. Romualdez",
+        "state": "Agusan del Norte"
+    },
+    "8700": {
+        "city": "Malaybalay City",
+        "state": "Bukidnon"
+    },
+    "8701": {
+        "city": "Sumilao",
+        "state": "Bukidnon"
+    },
+    "8702": {
+        "city": "Impasugong",
+        "state": "Bukidnon"
+    },
+    "8703": {
+        "city": "Manolo Fortich",
+        "state": "Bukidnon"
+    },
+    "8704": {
+        "city": "Malitbog",
+        "state": "Bukidnon"
+    },
+    "8705": {
+        "city": "Phillips",
+        "state": "Bukidnon"
+    },
+    "8706": {
+        "city": "Libona",
+        "state": "Bukidnon"
+    },
+    "8707": {
+        "city": "Baungon",
+        "state": "Bukidnon"
+    },
+    "8708": {
+        "city": "Talakag",
+        "state": "Bukidnon"
+    },
+    "8709": {
+        "city": "Valencia City",
+        "state": "Bukidnon"
+    },
+    "8710": {
+        "city": "Musuan",
+        "state": "Bukidnon"
+    },
+    "8711": {
+        "city": "San Fernando",
+        "state": "Bukidnon"
+    },
+    "8712": {
+        "city": "Don Carlos",
+        "state": "Bukidnon"
+    },
+    "8713": {
+        "city": "Kadingilan",
+        "state": "Bukidnon"
+    },
+    "8714": {
+        "city": "Maramag",
+        "state": "Bukidnon"
+    },
+    "8715": {
+        "city": "Quezon",
+        "state": "Bukidnon"
+    },
+    "8716": {
+        "city": "Kitaotao",
+        "state": "Bukidnon"
+    },
+    "8717": {
+        "city": "Pangantucan",
+        "state": "Bukidnon"
+    },
+    "8718": {
+        "city": "Kalilangan",
+        "state": "Bukidnon"
+    },
+    "8719": {
+        "city": "Dangcagan",
+        "state": "Bukidnon"
+    },
+    "8720": {
+        "city": "Kibawe",
+        "state": "Bukidnon"
+    },
+    "8721": {
+        "city": "Damulog",
+        "state": "Bukidnon"
+    },
+    "8722": {
+        "city": "Lantapan",
+        "state": "Bukidnon"
+    },
+    "8723": {
+        "city": "Cabanglasan",
+        "state": "Bukidnon"
+    },
+    "9000": {
+        "city": "Cagayan de Oro City",
+        "state": "Misamis Oriental"
+    },
+    "9001": {
+        "city": "Tagoloan",
+        "state": "Misamis Oriental"
+    },
+    "9002": {
+        "city": "Villanueva",
+        "state": "Misamis Oriental"
+    },
+    "9003": {
+        "city": "Jasaan",
+        "state": "Misamis Oriental"
+    },
+    "9004": {
+        "city": "Claveria",
+        "state": "Misamis Oriental"
+    },
+    "9005": {
+        "city": "Balingasag",
+        "state": "Misamis Oriental"
+    },
+    "9006": {
+        "city": "Lagonglong",
+        "state": "Misamis Oriental"
+    },
+    "9007": {
+        "city": "Salay",
+        "state": "Misamis Oriental"
+    },
+    "9008": {
+        "city": "Binuangan",
+        "state": "Misamis Oriental"
+    },
+    "9009": {
+        "city": "Sugbungcogon",
+        "state": "Misamis Oriental"
+    },
+    "9010": {
+        "city": "Kinogitan",
+        "state": "Misamis Oriental"
+    },
+    "9011": {
+        "city": "Balinguan",
+        "state": "Misamis Oriental"
+    },
+    "9012": {
+        "city": "Talisayan",
+        "state": "Misamis Oriental"
+    },
+    "9013": {
+        "city": "Medina",
+        "state": "Misamis Oriental"
+    },
+    "9014": {
+        "city": "Gingoog City",
+        "state": "Misamis Oriental"
+    },
+    "9015": {
+        "city": "Magsaysay",
+        "state": "Misamis Oriental"
+    },
+    "9016": {
+        "city": "Opol",
+        "state": "Misamis Oriental"
+    },
+    "9017": {
+        "city": "El Salvador",
+        "state": "Misamis Oriental"
+    },
+    "9018": {
+        "city": "Alubijid",
+        "state": "Misamis Oriental"
+    },
+    "9019": {
+        "city": "Laguindingan",
+        "state": "Misamis Oriental"
+    },
+    "9020": {
+        "city": "Gitagum",
+        "state": "Misamis Oriental"
+    },
+    "9021": {
+        "city": "Libertad",
+        "state": "Misamis Oriental"
+    },
+    "9022": {
+        "city": "Initao",
+        "state": "Misamis Oriental"
+    },
+    "9023": {
+        "city": "Naawan",
+        "state": "Misamis Oriental"
+    },
+    "9024": {
+        "city": "Manticao",
+        "state": "Misamis Oriental"
+    },
+    "9025": {
+        "city": "Lugait",
+        "state": "Misamis Oriental"
+    },
+    "9100": {
+        "city": "Mambajao",
+        "state": "Camiguin"
+    },
+    "9101": {
+        "city": "Mahinog",
+        "state": "Camiguin"
+    },
+    "9102": {
+        "city": "Guinsiliban",
+        "state": "Camiguin"
+    },
+    "9103": {
+        "city": "Sagay",
+        "state": "Camiguin"
+    },
+    "9104": {
+        "city": "Catarman",
+        "state": "Camiguin"
+    },
+    "9200": {
+        "city": "Iligan City",
+        "state": "Lanao del Norte"
+    },
+    "9201": {
+        "city": "Linamon",
+        "state": "Lanao del Norte"
+    },
+    "9202": {
+        "city": "Kauswagan",
+        "state": "Lanao del Norte"
+    },
+    "9203": {
+        "city": "Matungao",
+        "state": "Lanao del Norte"
+    },
+    "9204": {
+        "city": "Poona Piagapo",
+        "state": "Lanao del Norte"
+    },
+    "9205": {
+        "city": "Bacolod",
+        "state": "Lanao del Norte"
+    },
+    "9206": {
+        "city": "Maigo",
+        "state": "Lanao del Norte"
+    },
+    "9207": {
+        "city": "Kolambogan",
+        "state": "Lanao del Norte"
+    },
+    "9208": {
+        "city": "Pantao Ragat",
+        "state": "Lanao del Norte"
+    },
+    "9209": {
+        "city": "Tubod",
+        "state": "Lanao del Norte"
+    },
+    "9210": {
+        "city": "Baroy",
+        "state": "Lanao del Norte"
+    },
+    "9211": {
+        "city": "Lala",
+        "state": "Lanao del Norte"
+    },
+    "9212": {
+        "city": "Salvador",
+        "state": "Lanao del Norte"
+    },
+    "9213": {
+        "city": "Sapad",
+        "state": "Lanao del Norte"
+    },
+    "9214": {
+        "city": "Kapatagan",
+        "state": "Lanao del Norte"
+    },
+    "9215": {
+        "city": "Karomatan",
+        "state": "Lanao del Norte"
+    },
+    "9216": {
+        "city": "Nunungan",
+        "state": "Lanao del Norte"
+    },
+    "9217": {
+        "city": "Baloi",
+        "state": "Lanao del Norte"
+    },
+    "9218": {
+        "city": "Pantar",
+        "state": "Lanao del Norte"
+    },
+    "9219": {
+        "city": "Munai",
+        "state": "Lanao del Norte"
+    },
+    "9220": {
+        "city": "Tangkal",
+        "state": "Lanao del Norte"
+    },
+    "9221": {
+        "city": "Magsaysay",
+        "state": "Lanao del Norte"
+    },
+    "9222": {
+        "city": "Tagoloan",
+        "state": "Lanao del Norte"
+    },
+    "9300": {
+        "city": "Malabang",
+        "state": "Lanao del Sur"
+    },
+    "9301": {
+        "city": "Picong(Sultan Gumander)",
+        "state": "Lanao del Sur"
+    },
+    "9302": {
+        "city": "Balabagan",
+        "state": "Lanao del Sur"
+    },
+    "9303": {
+        "city": "Marogong",
+        "state": "Lanao del Sur"
+    },
+    "9304": {
+        "city": "Tubaran",
+        "state": "Lanao del Sur"
+    },
+    "9305": {
+        "city": "Butig",
+        "state": "Lanao del Sur"
+    },
+    "9306": {
+        "city": "Lumbayanague",
+        "state": "Lanao del Sur"
+    },
+    "9307": {
+        "city": "Lumbatan",
+        "state": "Lanao del Sur"
+    },
+    "9308": {
+        "city": "Macadar Andong",
+        "state": "Lanao del Sur"
+    },
+    "9309": {
+        "city": "Bayang",
+        "state": "Lanao del Sur"
+    },
+    "9310": {
+        "city": "Binidayan",
+        "state": "Lanao del Sur"
+    },
+    "9311": {
+        "city": "Ganassi",
+        "state": "Lanao del Sur"
+    },
+    "9312": {
+        "city": "Pagayawan",
+        "state": "Lanao del Sur"
+    },
+    "9313": {
+        "city": "Pualas",
+        "state": "Lanao del Sur"
+    },
+    "9314": {
+        "city": "Madamba",
+        "state": "Lanao del Sur"
+    },
+    "9315": {
+        "city": "Madalum",
+        "state": "Lanao del Sur"
+    },
+    "9316": {
+        "city": "Bacolod Kalawi",
+        "state": "Lanao del Sur"
+    },
+    "9317": {
+        "city": "Tugaya",
+        "state": "Lanao del Sur"
+    },
+    "9318": {
+        "city": "Balindong",
+        "state": "Lanao del Sur"
+    },
+    "9319": {
+        "city": "Calanogas",
+        "state": "Lanao del Sur"
+    },
+    "9320": {
+        "city": "Bumbaran",
+        "state": "Lanao del Sur"
+    },
+    "9321": {
+        "city": "Tagoloan-II",
+        "state": "Lanao del Sur"
+    },
+    "9400": {
+        "city": "Kidapawan City",
+        "state": "Cotabato"
+    },
+    "9401": {
+        "city": "Makilala",
+        "state": "Cotabato"
+    },
+    "9402": {
+        "city": "M'Lang",
+        "state": "Cotabato"
+    },
+    "9403": {
+        "city": "Tulunan",
+        "state": "Cotabato"
+    },
+    "9404": {
+        "city": "Magpet",
+        "state": "Cotabato"
+    },
+    "9405": {
+        "city": "President Roxas",
+        "state": "Cotabato"
+    },
+    "9406": {
+        "city": "Matalam",
+        "state": "Cotabato"
+    },
+    "9407": {
+        "city": "Kabacan",
+        "state": "Cotabato"
+    },
+    "9408": {
+        "city": "Carmen",
+        "state": "Cotabato"
+    },
+    "9409": {
+        "city": "Pikit",
+        "state": "Cotabato"
+    },
+    "9410": {
+        "city": "Midsayap",
+        "state": "Cotabato"
+    },
+    "9411": {
+        "city": "Libungan",
+        "state": "Cotabato"
+    },
+    "9412": {
+        "city": "Pigkawayan",
+        "state": "Cotabato"
+    },
+    "9413": {
+        "city": "Alamada",
+        "state": "Cotabato"
+    },
+    "9414": {
+        "city": "Antipas",
+        "state": "Cotabato"
+    },
+    "9415": {
+        "city": "Aleosan",
+        "state": "Cotabato"
+    },
+    "9416": {
+        "city": "Banisilan",
+        "state": "Cotabato"
+    },
+    "9417": {
+        "city": "Arakan",
+        "state": "Cotabato"
+    },
+    "9500": {
+        "city": "General Santos City (Dadiangas)",
+        "state": "South Cotabato"
+    },
+    "9501": {
+        "city": "Alabel",
+        "state": "Sarangani"
+    },
+    "9502": {
+        "city": "Maasim",
+        "state": "Sarangani"
+    },
+    "9503": {
+        "city": "Malungon",
+        "state": "Sarangani"
+    },
+    "9504": {
+        "city": "Polomolok",
+        "state": "South Cotabato"
+    },
+    "9505": {
+        "city": "Tupi",
+        "state": "South Cotabato"
+    },
+    "9506": {
+        "city": "Koronadal City",
+        "state": "South Cotabato"
+    },
+    "9507": {
+        "city": "Tampakan",
+        "state": "South Cotabato"
+    },
+    "9508": {
+        "city": "Norala",
+        "state": "South Cotabato"
+    },
+    "9509": {
+        "city": "Sto. Niño",
+        "state": "South Cotabato"
+    },
+    "9510": {
+        "city": "Tantangan",
+        "state": "South Cotabato"
+    },
+    "9511": {
+        "city": "Banga",
+        "state": "South Cotabato"
+    },
+    "9512": {
+        "city": "Surallah",
+        "state": "South Cotabato"
+    },
+    "9513": {
+        "city": "T'Boli",
+        "state": "South Cotabato"
+    },
+    "9514": {
+        "city": "Kiamba",
+        "state": "Sarangani"
+    },
+    "9515": {
+        "city": "Maitum",
+        "state": "Sarangani"
+    },
+    "9516": {
+        "city": "Malapatan",
+        "state": "Sarangani"
+    },
+    "9517": {
+        "city": "Glan",
+        "state": "Sarangani"
+    },
+    "9600": {
+        "city": "Cotabato City",
+        "state": "Maguindanao"
+    },
+    "9601": {
+        "city": "Datu Odin Sinsuat (Dinaig)",
+        "state": "Shariff Kabunsuan"
+    },
+    "9602": {
+        "city": "Upi/Datu Blah T. Sinsuat",
+        "state": "Shariff Kabunsuan"
+    },
+    "9603": {
+        "city": "Ampatuan City",
+        "state": "Shariff Kabunsuan"
+    },
+    "9604": {
+        "city": "Parang",
+        "state": "Shariff Kabunsuan"
+    },
+    "9605": {
+        "city": "Sultan Kudarat/Sultan Mastura",
+        "state": "Shariff Kabunsuan"
+    },
+    "9606": {
+        "city": "Kabuntalan/Northern Kabuntalan",
+        "state": "Shariff Kabunsuan"
+    },
+    "9607": {
+        "city": "Datu Piang",
+        "state": "Maguindanao"
+    },
+    "9608": {
+        "city": "Sarip Aguak (Maganoy)",
+        "state": "Maguindanao"
+    },
+    "9609": {
+        "city": "Ampatuan",
+        "state": "Maguindanao"
+    },
+    "9610": {
+        "city": "Pagalungan",
+        "state": "Maguindanao"
+    },
+    "9611": {
+        "city": "Sultan sa Barongis",
+        "state": "Maguindanao"
+    },
+    "9612": {
+        "city": "Talayan",
+        "state": "Maguindanao"
+    },
+    "9613": {
+        "city": "Matanog",
+        "state": "Shariff Kabunsuan"
+    },
+    "9614": {
+        "city": "Barira",
+        "state": "Shariff Kabunsuan"
+    },
+    "9615": {
+        "city": "Buldon",
+        "state": "Shariff Kabunsuan"
+    },
+    "9616": {
+        "city": "Buluan",
+        "state": "Maguindanao"
+    },
+    "9617": {
+        "city": "Datu Paglas",
+        "state": "Maguindanao"
+    },
+    "9618": {
+        "city": "Gen. S.K. Pendatun",
+        "state": "Maguindanao"
+    },
+    "9700": {
+        "city": "Marawi City",
+        "state": "Lanao del Sur"
+    },
+    "9701": {
+        "city": "Saguiaran",
+        "state": "Lanao del Sur"
+    },
+    "9702": {
+        "city": "Mulondo",
+        "state": "Lanao del Sur"
+    },
+    "9703": {
+        "city": "Lumba Bayabao",
+        "state": "Lanao del Sur"
+    },
+    "9704": {
+        "city": "Tamparan",
+        "state": "Lanao del Sur"
+    },
+    "9705": {
+        "city": "Poona Bayabao",
+        "state": "Lanao del Sur"
+    },
+    "9706": {
+        "city": "Masui",
+        "state": "Lanao del Sur"
+    },
+    "9708": {
+        "city": "Bubong",
+        "state": "Lanao del Sur"
+    },
+    "9709": {
+        "city": "Kapai",
+        "state": "Lanao del Sur"
+    },
+    "9710": {
+        "city": "Piagapo",
+        "state": "Lanao del Sur"
+    },
+    "9711": {
+        "city": "Marantao",
+        "state": "Lanao del Sur"
+    },
+    "9712": {
+        "city": "Taraka",
+        "state": "Lanao del Sur"
+    },
+    "9713": {
+        "city": "Ramain-Ditsaan",
+        "state": "Lanao del Sur"
+    },
+    "9714": {
+        "city": "Buadiposo Buntong",
+        "state": "Lanao del Sur"
+    },
+    "9715": {
+        "city": "Maguing",
+        "state": "Lanao del Sur"
+    },
+    "9716": {
+        "city": "Wao",
+        "state": "Lanao del Sur"
+    },
+    "9800": {
+        "city": "Tacurong",
+        "state": "Sultan Kudarat"
+    },
+    "9801": {
+        "city": "Columbio",
+        "state": "Sultan Kudarat"
+    },
+    "9802": {
+        "city": "Mariano Marcos",
+        "state": "Sultan Kudarat"
+    },
+    "9803": {
+        "city": "Lutayan",
+        "state": "Sultan Kudarat"
+    },
+    "9804": {
+        "city": "Pres. Quirino",
+        "state": "Sultan Kudarat"
+    },
+    "9805": {
+        "city": "Isulan",
+        "state": "Sultan Kudarat"
+    },
+    "9806": {
+        "city": "Esperanza (Ampatuan)",
+        "state": "Sultan Kudarat"
+    },
+    "9807": {
+        "city": "Lebak (Salaman)",
+        "state": "Sultan Kudarat"
+    },
+    "9808": {
+        "city": "Kalamansig",
+        "state": "Sultan Kudarat"
+    },
+    "9809": {
+        "city": "Palimbang",
+        "state": "Sultan Kudarat"
+    },
+    "9810": {
+        "city": "Bagumbayan",
+        "state": "Sultan Kudarat"
+    },
+    "9811": {
+        "city": "Sen. Ninoy Aquino",
+        "state": "Sultan Kudarat"
+    },
+    "0733-0739": {
+        "city": "Not used",
+        "state": "Makati City"
+    },
+    "1812-1819": {
+        "city": "Not used",
+        "state": "Marikina City"
+    }
+}
