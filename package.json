@@ -2,8 +2,8 @@
   "name": "postcodejs",
   "version": "1.0.0",
   "description": "A worldwide postcode description library",
-  "main": "src/index.js",
-  "types": "./postcodejs.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "repository": "git@github.com:storehubnet/postcodejs.git",
   "author": "Fan Long <cctv1237@live.com>",
   "license": "MIT",
@@ -22,7 +22,7 @@
       "js"
     ],
     "testMatch": [
-      "<rootDir>/src/__tests__/(*.)(spec|test).js?(x)"
+      "<rootDir>/__tests__/(*.)(spec|test).js?(x)"
     ]
   }
 }

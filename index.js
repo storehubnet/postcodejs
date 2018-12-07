@@ -1,4 +1,4 @@
-const postcode = require('./postcode');
+const postcode = require('./src/postcode');
 
 module.exports = {
     postcode: postcode.postcode,
