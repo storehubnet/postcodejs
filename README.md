@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 ![npm](https://img.shields.io/npm/v/npm.svg)
+[![NPM](https://nodei.co/npm/postcodejs.png?compact=true)](https://nodei.co/npm/postcodejs/)
 
 
 `postcodejs` is a nodejs library for query worldwide postcode descriptions
@@ -44,7 +45,7 @@
 ```
 
 ## Version
-0.2.1
+1.0.0
 
 ## What's new?
 Added Philippines zipcodes!
