@@ -1,1313 +1,1313 @@
 {
-    "1000": {
+    "01000": {
         "area": ["Alor Tok Terang", "Taman Murni", "Taman Orkid", "Taman Seri Putih", "Taman Seri Wawasan", "Taman Teratai (Fasa 1 & Fasa 2)", "Wisma Haji Salleh", "Kampung Bendang Petani", "Kampung Bendang Pulai", "Kampung Bukit Kerek", "Kampung Bukit Tegur", "Kampung Bukit Tok Aji", "Kampung Chelong", "Kampung Cina", "Kampung Hujong Keton", "Kampung Kayu Tiga", "Kampung Kebun 4 Relong", "Kampung Kota", "Kampung Linchan", "Kampung Nam Dam", "Kampung Padang Durian", "Kampung Padang Kabu", "Kampung Padang Tok Sedan", "Kampung Paya Lepai", "Kampung Pokok Asam", "Kampung Pulau Tengah", "Kampung Rasau", "Kampung Sungai Korok", "Kampung Sungai Ma", "Kampung Tanjong Berolah", "Kampung Titi Akar", "Kampung Titi Siam", "Kampung Tok Sek", "Kampung Tong Prok", "Kampung Wan Lah", "Kampung Wat", "Kampung Wat Siam Padang Pelian", "Ladang Bukit Perak", "Ladang Su Poh", "Padang Durian", "Sungai Tiang", "Batu 11- 12 Bukit Besar", "Batu 11 1/2 Jalan Sungai Petani", "Batu 14 Jalan Sungai Petani", "Batu 15 Padang Lumat", "Batu 9", "Bukit Besar", "Jalan Kolam Air (Bukit Besar)", "Jalan Kuala Sala", "Jalan Padang Besar", "Jalan Pengkalan", "Jalan Sekolah", "Jalan Tokong", "Kampung Alor Besar", "Kampung Alor Gelanggang", "Kampung Alor Nan", "Kampung Alor Nibong", "Kampung Alor Pinggu", "Kampung Alor Pudak", "Kampung Alor Serdang", "Kampung Alor Terjun", "Kampung Alor Tok Ya", "Kampung Bakong", "Kampung Banggol Haji Seman", "Kampung Banggol Wan AWang", "Kampung Baru (Jalan Pendang)", "Kampung Batas Baru", "Kampung Bukit Chepat", "Kampung Bukit Choras", "Kampung Bukit Kokbah", "Kampung Bukit Tok Chun", "Kampung Buluh Lima", "Kampung Buluh Lima Dalam", "Kampung Datok Abdullah", "Kampung Gelam Tiga", "Kampung Haji Mehat", "Kampung Jawa", "Kampung Jemerlang", "Kampung Jerang Belanga", "Kampung Kilang Baru", "Kampung Kuala Sala", "Kampung Kuala Sula", "Kampung Kuala Sungai Daun Tengah", "Kampung Kubang Pasu", "Kampung Manggol", "Kampung Padang Besar", "Kampung Padang Peninjau", "Kampung Permatang Bongor", "Kampung Permatang Buluh", "Kampung Permatang Kecil", "Kampung Permatang Tepi Laut", "Kampung Perpat", "Kampung Pisang", "Kampung Pulau Jerat", "Kampung Pulau Mas", "Kampung Pulau Nyiur", "Kampung Sala Kecil", "Kampung Selamat", "Kampung Simpang 3 (Sungai Daun)", "Kampung Simpang 4 (Sungai Daun)", "Kampung Sungai Daun", "Kampung Sungai Daun Atas", "Kampung Sungai Daun Tengah", "Kampung Sungai Dedap", "Kampung Telok", "Kampung Telok Chentang", "Kampung Telok Chentong", "Kampung Tualang", "Kepala 10 Simpang Tiga", "Kepala 10 Sungai Daun", "Kobah", "Kuala Bangka", "Kuala Sala", "Pekan Kota Sarang Semut", "Perumahan Awam Kuala Sala", "Perumahan Baru Kelubi", "Seberang Kuala Sala", "Seberang Tandop", "Simpang 3 (Sungai Limau)", "Simpang Tiga", "Sungai Tiang Luar", "Taman Gemilang", "Taman Impian", "Taman Kota Jaya", "Taman Kota Sarang Semut", "Batu 21 1/4 - 24 3/4 Jalan Yan", "Dulang Kechik", "Jalan Market (Yan)", "Jalan Masjid (Yan)", "Jalan Pantai Murni", "Jalan Pegawai (Yan)", "Kampung Acheh", "Kampung Bakar Bata", "Kampung Batas Ubi", "Kampung Batu 22", "Kampung Batu 22 1/2 (Dulang Kechil)", "Kampung Bukit Belida", "Kampung Bukit Tumbuh", "Kampung Dulang Besar", "Kampung Dulang Kechil", "Kampung Dulang Kechil Tengah", "Kampung Jawa", "Kampung Keda (PPRT Sungai Udang)", "Kampung Kelantan", "Kampung Kepala 10 Sedaka", "Kampung Km 32 (Ulu Sedaka)", "Kampung Kuala Dulang Besar", "Kampung Kuala Dulang Kechil", "Kampung Kuala Raga", "Kampung Kuala Sedaka", "Kampung Kuala Sungai Udang", "Kampung Lubok Boi", "Kampung Lubuk Kasai", "Kampung Pantai Murni", "Kampung Pauh", "Kampung Perigi", "Kampung Permatang Chengai", "Kampung Permatang Keramat", "Kampung Permatang Serantang", "Kampung Permatang Serentang (Sungai Udang)", "Kampung Permatang Tok Alim", "Kampung Perupuk", "Kampung Raga", "Kampung Rendang Pasir", "Kampung Ruat", "Kampung Seberang Pekan Yan", "Kampung Sedaka", "Kampung Sedaka Tengah", "Kampung Serong", "Kampung Setar", "Kampung Seter", "Kampung Setol", "Kampung Simpang Empat Sedaka", "Kampung Simpang Empat Sungai Lintang", "Kampung Sungai Lintang (Sungai Limau Dalam)", "Kampung Sungai Malai", "Kampung Sungai Pagar", "Kampung Sungai Udang", "Kampung Sungai Udang Atas", "Kampung Sungai Yan", "Kampung Telok Mat Acheh", "Kampung Tengah", "Kampung Tengah Yan Kechil", "Kampung Teroi", "Kampung Titi Bakong", "Kampung Titi Raga", "Kampung Tohor", "Kampung Ulu Dulang Besar", "Kampung Ulu Dulang Kechil", "Kampung Ulu Sedaka", "Kuala Sungai Yan", "Permatang Serentang", "Pondok Fauzi", "Rumah Awam Titi Barong", "Sedaka", "Taman Guru", "Taman Pantai Murni", "Taman Perniagaan", "Taman Rumah Murah Pantai Murni", "Taman Samudera Ruat", "Taman Samudera (Yan)", "Taman Setia Jaya", "Taman Yan", "Titi Serong (Jalan Dulang)", "Yan", "Kampung Hutan Gelam", "Kampung Kubu 10", "Kampung Permatang Kecil", "Kampung Pulau Tambun", "Kampung Selat Selengkoh", "Kampung Selengkoh", "Kampung Selengkoh Tengah", "Kampung Sungai Air Hitam", "Kampung Sungai Bujur", "Kampung Sungai Kering", "Kampung Sungai Kuala Sungai Lim", "Kampung Sungai Tongkang", "Kampung Telok Tawar", "Kampung Tengah (Sungai Limau Dalam)", "Kampung Ulu Selengkoh", "Simpang Empat", "Yan Kechil", "Kampung Bagan Asam", "Kampung Bagan Pauh", "Kampung Selat Bagan Asam", "Kampung Selat Bagan Nyior", "Kampung Tanjung Pandan", "Pulau Tuba", "Ayer Hangat", "Bayas", "Bukit Malut", "Desa Kemboja", "Ewa", "Kampung Atas", "Kampung Bakau Kelibang", "Kampung Baru Ewa", "Kampung Baru Ulu Melaka", "Kampung Batu Ara", "Kampung Batu Asah", "Kampung Batu Gajah", "Kampung Bawah", "Kampung Belak", "Kampung Belanga Pecah", "Kampung Belibis", "Kampung Bendang Baru", "Kampung Berjaya", "Kampung Bohor Berendam", "Kampung Bohor Chantek", "Kampung Bohor Chempedak", "Kampung Bohor Darat", "Kampung Bohor Masjid", "Kampung Bohor Merah", "Kampung Bohor Raja", "Kampung Bohor Tempoyak", "Kampung Bubor", "Kampung Bukit Benggali", "Kampung Bukit Cengkuan", "Kampung Bukit Hantu", "Kampung Bukit Kemboja", "Kampung Bukit Lembu", "Kampung Bukit Morang", "Kampung Bukit Nau", "Kampung Bukit Puteh", "Kampung Bukit Puteri", "Kampung Bukit Tekoh", "Kampung Bukit Temin", "Kampung Chenarong", "Kampung Chendek Kura", "Kampung Darat Benta", "Kampung Darat Padang Matsirat", "Kampung Dato Bakar", "Kampung Durian Perangin", "Kampung Dusun", "Kampung Felcra Kok", "Kampung Gelam", "Kampung Geronggang", "Kampung Huma", "Kampung Kelibang", "Kampung Kelubi", "Kampung Kenyum", "Kampung Ketapang Tapang", "Kampung Kilim", "Kampung Kisap", "Kampung Kok", "Kampung Kuah", "Kampung Kuala Chenang", "Kampung Kuala Melaka", "Kampung Kuala Muda", "Kampung Kuala Sungai", "Kampung Kubang Badak", "Kampung Kumpulan", "Kampung Lawer", "Kampung Linchai", "Kampung Lubok Buaya", "Kampung Lubok Cempedak", "Kampung Lubok Etok", "Kampung Lubok Setol", "Kampung Lubuk Cempedak", "Kampung Lubuk Etok", "Kampung Mata Ayer", "Kampung Mawat", "Kampung Nyior Chabang", "Kampung Padang Gaung", "Kampung Padang Kandang", "Kampung Padang Lunas", "Kampung Padang Putih", "Kampung Padang Saga", "Kampung Padang Wahid"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1007": {
+    "01007": {
         "area": ["Bohor Gelam"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1009": {
+    "01009": {
         "area": ["Jalan Abi Tok Hashim"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1500": {
+    "01500": {
         "area": ["Jalan Alor Sena"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1502": {
+    "01502": {
         "area": ["Jalan Arau"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1503": {
+    "01503": {
         "area": ["Jalan Besar Kangar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1504": {
+    "01504": {
         "area": ["Jalan Bohor Guncar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1505": {
+    "01505": {
         "area": ["Jalan Bukit Meranti"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1506": {
+    "01506": {
         "area": ["Jalan Home Guard", "Kampung Pasir Hitam"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1508": {
+    "01508": {
         "area": ["Jalan Hospital"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1512": {
+    "01512": {
         "area": ["Jalan Jubli Perak"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1514": {
+    "01514": {
         "area": ["Jalan Kaki Bukit (Batu 4 1/2)"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1516": {
+    "01516": {
         "area": ["Jalan Kampung Wan Abdullah"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1517": {
+    "01517": {
         "area": ["Jalan Kangar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1518": {
+    "01518": {
         "area": ["Jalan Kurung Batang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1524": {
+    "01524": {
         "area": ["Jalan Masjid Lama"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1529": {
+    "01529": {
         "area": ["Jalan Medan Kangar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1532": {
+    "01532": {
         "area": ["Jalan Padang Bohor"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1538": {
+    "01538": {
         "area": ["Jalan Panglima"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1540": {
+    "01540": {
         "area": ["Jalan Pegawai"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1546": {
+    "01546": {
         "area": ["Jalan Penjara", "Kampung Pasir Ok"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1550": {
+    "01550": {
         "area": ["Jalan Raja Muda"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1551": {
+    "01551": {
         "area": ["Jalan Raja Syed Alwi"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1556": {
+    "01556": {
         "area": ["Jalan Raja Syed Saffi"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1560": {
+    "01560": {
         "area": ["Jalan Santan (Km 5)"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1564": {
+    "01564": {
         "area": ["Jalan Seruling"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1570": {
+    "01570": {
         "area": ["Jalan Syed Omar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1572": {
+    "01572": {
         "area": ["Jalan Taman Bunga Padi"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1576": {
+    "01576": {
         "area": ["Jalan Teluk Kacang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1578": {
+    "01578": {
         "area": ["Jalan Tok Kandang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1582": {
+    "01582": {
         "area": ["Jalan Tun Razak"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1586": {
+    "01586": {
         "area": ["Jejawi"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1590": {
+    "01590": {
         "area": ["Kampung Abi Batas Paip"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1592": {
+    "01592": {
         "area": ["Kampung Abi Padang Machang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1594": {
+    "01594": {
         "area": ["Kampung Abi Pokok Asam"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1596": {
+    "01596": {
         "area": ["Kampung Abi Tok Hashim"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1598": {
+    "01598": {
         "area": ["Kampung Alor"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1600": {
+    "01600": {
         "area": ["Kampung Alor Ara"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1604": {
+    "01604": {
         "area": ["Kampung Alor Dalam"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1606": {
+    "01606": {
         "area": ["Kampung Alor Kabong"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1608": {
+    "01608": {
         "area": ["Kampung Alor Lanchang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1609": {
+    "01609": {
         "area": ["Kampung Alor Marus"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1610": {
+    "01610": {
         "area": ["Kampung Alor Pulai"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1612": {
+    "01612": {
         "area": ["Kampung Alor Redeh"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1614": {
+    "01614": {
         "area": ["Kampung Alor Sena"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1620": {
+    "01620": {
         "area": ["Kampung Aman"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1622": {
+    "01622": {
         "area": ["Kampung Asam 6"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1626": {
+    "01626": {
         "area": ["Kampung Aur"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1628": {
+    "01628": {
         "area": ["Kampung Bakau"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1630": {
+    "01630": {
         "area": ["Kampung Bakong (Jejawi)"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1632": {
+    "01632": {
         "area": ["Kampung Baroh"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1634": {
+    "01634": {
         "area": ["Kampung Baru"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1644": {
+    "01644": {
         "area": ["Kampung Baru Santan"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1646": {
+    "01646": {
         "area": ["Kampung Batu 3.5 (Jalan Kaki Bukit)"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1648": {
+    "01648": {
         "area": ["Kampung Batu Pahat"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1660": {
+    "01660": {
         "area": ["Kampung Behor Cicar"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1664": {
+    "01664": {
         "area": ["Kampung Behor Empiang"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1670": {
+    "01670": {
         "area": ["Kampung Behor Inai"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1672": {
+    "01672": {
         "area": ["Kampung Behor Janggus"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1673": {
+    "01673": {
         "area": ["Kampung Behor Kebal"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1674": {
+    "01674": {
         "area": ["Kampung Behor Pulai"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1676": {
+    "01676": {
         "area": ["Kampung Behor Temak"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1680": {
+    "01680": {
         "area": ["Kampung Belangga Pudak"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "1694": {
+    "01694": {
         "area": ["Kampung Belat Santan"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2000": {
+    "02000": {
         "area": ["Kampung Belukar (Kangar)", "Kampung Paya Jin", "Kampung Paya Kuala Triang", "Kampung Paya Mempelam", "Kampung Paya Mengkuang", "Kampung Paya Padang Mat Sirat", "Kampung Penarak", "Kampung Perana", "Kampung Pokok Asam", "Kampung Raja", "Kampung Ranggut", "Kampung Seberang KedaWang", "Kampung Seberang Kelibang", "Kampung Seberang Ulu Melaka", "Kampung Simpang Empat", "Kampung Sungai Itau", "Kampung Sungai Kedak", "Kampung Sungai Mati Akar", "Kampung Sungai Menghulu", "Kampung Sungai Nahar", "Kampung Tanjong Kedawang", "Kampung Tanjong Mali", "Kampung Tanjong Rhu", "Kampung Telok Apau", "Kampung Telok Berembang", "Kampung Telok Kedak", "Kampung Telok Kisap", "Kampung Telok Kumbar", "Kampung Telok Ulu Melaka", "Kampung Telok Yu", "Kampung Teluk Berembang", "Kampung Teluk Bujur", "Kampung Tengah", "Kampung Tepa", "Kampung Tepi Laut", "Kampung Titi Chanwang", "Kampung Titi Tinggi", "Kampung Wang Tok Rendong", "Kampung Yooi", "Kedawang", "Kelab Desa Langkawi", "Kompleks LADA", "Kompleks Perumahan Guuru", "Kompleks Perumahan Sri Negeri", "Kondi Sri Idaman", "Kuah", "Kuala Teriang", "Langkawi", "Oriental Village", "Padang Matsirat", "Perumahan Kedah Cement", "Port Langkasuka", "Sungai Limau Dalam", "Sungai Raya Estate", "Suria Century Resort", "Taman Ara Jaya", "Taman Bukit Indah (Fasa H & Fasa E)", "Taman Dahlia", "Taman Dayang", "Taman Dayang Berjaya", "Taman Delima", "Taman Desa Permata", "Taman Indah", "Taman Intan", "Taman Kemboja", "Taman Kenari", "Taman Langkawi", "Taman Medan Jaya", "Taman Nilam", "Taman Perdana Quay", "Taman Rimba Hijau", "Taman Selaseh", "Taman Seri Ayu", "Taman Seri Berlian", "Taman Seri Langkawi", "Taman Seri Negeri", "Taman Seri Pelangi", "Taman Seroja", "Taman Sri Aman", "Taman Sri Dayang", "Taman Sri Taman"],
         "city": "Kuala Perlis",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2100": {
+    "02100": {
         "area": ["Kampung Bendang Baru", "Taman Unity", "Taman Vokesional", "Taman Wawasan Baru", "Tanjung Gerak", "Telaga Tujuh", "Temoyong", "Tok Puyuh", "Ulu Melaka", "Langkawi - Peti surat", "Langkawi - Beg berkunci", "Ambangan Height", "Bakar Arang", "Bandar Aman Jaya", "Bandar Aman Jaya Utara", "Bandar Astana A", "Bandar Astana C", "Bandar Laguna Merbok", "Bandar Perdana", "Bandar Perdana 9/1", "Bandar Puteri Jaya", "Batu 9 Lubuk Kawah", "Dataran Semangat", "EstateSungai Tukang", "Flat Paya Nahu", "Jalan Badlishah", "Jalan Bakar Kapor", "Jalan Bakar Sampah", "Jalan Bank", "Jalan Belakang Masjid Bakar Arang", "Jalan Boria (1 - 2)", "Jalan Bukit Lembu", "Jalan Bunga Rampai", "Jalan Dato Syed Osman Idid", "Jalan Dewa", "Jalan Gemelan Kuda Kepang", "Jalan Hospital", "Jalan Ibrahim", "Jalan Inang", "Jalan Kampung Baru", "Jalan Kampung Baru (BAkar Arang)", "Jalan Kampung Tengah", "Jalan Kapal Terbang", "Jalan Kelab Cinta Sayang", "Jalan Kilang Papan Pekan Lama", "Jalan Kolam Air", "Jalan Kuala Ketil (Batu 2)", "Jalan Kuda Kepang", "Jalan Mawar Satu (Bakar Kapor)", "Jalan Merbok"],
         "city": "Padang Besar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2200": {
+    "02200": {
         "area": ["Kampung Binjal", "Jalan Merpati", "Jalan Pegawai", "Jalan Pegawai (1 - 2)", "Jalan Pekaka"],
         "city": "Kaki Bukit",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2400": {
+    "02400": {
         "area": ["Kampung Bintong", "Jalan Penghulu Him", "Jalan Pengkalan", "Jalan Pengkalan Lebai Man", "Jalan Pergam", "Jalan Permatang Gedong", "Jalan Petani", "Jalan Putri", "Jalan Sekerat", "Jalan Sungai Layar", "Jalan Taman Intan", "Jalan Tiong", "Jalan Undan", "Kampung Abbas", "Kampung Air Mendidih", "Kampung Asam", "Kampung Asi", "Kampung Bahagia", "Kampung Bakar Arang", "Kampung Bakar Bata", "Kampung Bakar Kapor", "Kampung Bakar Sampah", "Kampung Bakar Sampah Lima", "Kampung Baru", "Kampung Baru Permatang Berangan", "Kampung Baru Pinang Tunggal", "Kampung Baru Sungai Pasir", "Kampung Baru Sungai Pasir Kecil (Jalan Kuala Ketil)", "Kampung Batu Dua", "Kampung Belakang Kilang Papan", "Kampung Belakang Sekolah Cina", "Kampung Belakang Sekolah Menengah", "Kampung Belakang Taman Sungai Lalang", "Kampung Benggali", "Kampung Blok Hospital", "Kampung Bukit Belah", "Kampung Bukit Pengkalan Lebai Man", "Kampung Bukit Sera", "Kampung Bukit Sungai Pasir", "Kampung Ceruk Kelian", "Kampung Ceruk Kelubi", "Kampung Cik Bema", "Kampung Dakwah", "Kampung Depan Balai", "Kampung Gelugur", "Kampung Gok", "Kampung Gok Arang", "Kampung Haji Din", "Kampung Haji Ibrahim", "Kampung Haji Ismail", "Kampung Haji Rashid", "Kampung Haji Wahab", "Kampung Huda", "Kampung Jalan Kilang Papan", "Kampung Jawa", "Kampung Jerung", "Kampung Jurung", "Kampung Kari", "Kampung Kebun Bunga", "Kampung Keda", "Kampung Kendudong", "Kampung Kepala Bukit", "Kampung Kerbau", "Kampung Kilang Makau", "Kampung Kongsi Enam", "Kampung Kuala Sidim", "Kampung Kuda / Kuil", "Kampung Lubok Kawah", "Kampung Lubok Kiab", "Kampung Masjid Sungai Layar", "Kampung Masjid Sungai Pasir", "Kampung Matang Berangan", "Kampung Matang Dedung", "Kampung Matang Kedundong", "Kampung Nakhoda", "Kampung Padang", "Kampung Padang Regent", "Kampung Padang Sungai Pasir", "Kampung Padang Temusu", "Kampung Pa In", "Kampung Pak Ibrahim (Kampung Raja)", "Kampung Paya", "Kampung Paya Dua", "Kampung Paya Empat", "Kampung Paya Mengkuang", "Kampung Paya Nahu", "Kampung Penggir", "Kampung Penghulu Him", "Kampung Pengkalan", "Kampung Pengkalan Lebai Man", "Kampung Permatang Berangan", "Kampung Permatang Kedondong", "Kampung Pinang Dalam", "Kampung Pinang Luar", "Kampung Pinggir", "Kampung Pokok Limau", "Kampung Pokok Machang", "Kampung Pulau Hawai", "Kampung Pulau Tengah", "Kampung Pulau Tiga", "Kampung Pulau Tok Daud", "Kampung Raja", "Kampung Raja Garden", "Kampung Redang", "Kampung Sebelas", "Kampung Seberang Sungai", "Kampung Seberang Tok Soh", "Kampung Sharif Tukang", "Kampung Sireh", "Kampung Songkia", "Kampung Songkiar", "Kampung Sungai Gelugur", "Kampung Sungai Getah", "Kampung Sungai Jagong", "Kampung Sungai Layar", "Kampung Sungai Tukang", "Kampung Sungai Ujung", "Kampung Sungkup Para", "Kampung Surkam", "Kampung Taman Mandi Lembu", "Kampung Tanah Seribu", "Kampung Tanah Seribu (Jalan Bukit Lembu)"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2450": {
+    "02450": {
         "area": ["Kampung Bohor Chichar", "Kampung Tasek Apong", "Kampung Telok", "Kampung Telok Wan Besar", "Kampung Telok Wang", "Kampung Telok Wang Kecil", "Kampung Tengah", "Kampung Tengah (Padang Tembusu)", "Kampung Tengah (Sungai Pasir)", "Kampung Teroi", "Kampung Titi Mandi Lembu", "Kampung Tok Iman", "Kampung Tok Khamis", "Kampung Tok Munah"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2500": {
+    "02500": {
         "area": ["Kampung Bohor Gandil", "Kampung Tok Soh", "Kampung Wat Siam", "Kawasan Industri Cindai Jaya", "Kawasan Industri Saga", "Kawasan Perindustrian Bakar Arang", "Kawasan Perindustrian Bukit Makmur", "Kawasan Perindustrian Sungai Lalang", "Kawasan Perindustrian Sungai Tukang", "Kawasan Perindustrian Yuland", "Ladang Aman Jaya", "Ladang Bukit Lembu", "Ladang Eupe", "Ladang Ghee Huat", "Ladang Golden", "Ladang Helender", "Ladang Permatang Buluh", "Ladang Pinang Tunggal", "Ladang Rusa", "Ladang Selambau", "Ladang Sin Yu", "Ladang Sungai", "Ladang Sungai Getah", "Ladang Sungai Tukang", "Ladang Sungkup Para", "Ladang Up", "Ladang Up Rusa", "Ladang Up Selambau", "Leboh Zamrud", "Pekan Atap", "Pekan Lama Sungai Petani", "Pekan Sungai Lalang", "Pengkalan Sungai Lalang", "Persiaran Kenanga Aman Jaya", "Pinang Tunggal", "Putrijaya Hillpark", "Rancangan Perumahan Awam 3", "Rumah Kedai Peruda", "Rumah Murah Sungai Lalang", "Simpang Scaboro", "Sungai Layar Hujung", "Sungai Pasir", "Sungai Pasir Kechil", "Sungai Petani", "Taman Akid", "Taman Aman", "Taman Aman Jaya (Anggerik)", "Taman Aman Jaya (Cempaka)", "Taman Aman Jaya (Kenanga)", "Taman Aman Jaya (Mawar)", "Taman Aman Jaya (Melati)", "Taman Aman Jaya (Seroja)", "Taman Angsana", "Taman Baiduri", "Taman Baiduri Indah"],
         "city": "Kangar",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2600": {
+    "02600": {
         "area": ["Kampung Bohor Gelam", "Taman Baiduri (Maju)", "Taman Bakar Arang", "Taman Bandar Baru", "Taman Bandar Perdana", "Taman Bandar Perdana Tasmin", "Taman Bandar Utama", "Taman Baru", "Taman Batek", "Taman Berangan", "Taman Berangan Sri", "Taman Beringin Indah", "Taman Berjaya", "Taman Berjaya Baru", "Taman Berlian", "Taman Bersatu", "Taman Bertam", "Taman Bistari Jaya", "Taman Bukit Bayu Banglo", "Taman Bukit Makmur", "Taman Bunga Raya", "Taman Cahaya Baiduri", "Taman Cemara", "Taman Cempaka", "Taman Cendana", "Taman Cengai Emas", "Taman Cengal Jaya", "Taman Dahalia Indah", "Taman Dahlia", "Taman Delima", "Taman Desa Aman", "Taman Desa Bistari", "Taman Desa Budiman", "Taman Desa Indah", "Taman Desa Jaya", "Taman Desa Menanti", "Taman Desa Meranti Indah", "Taman Desa Permai", "Taman Emas Suria", "Taman Gedong", "Taman Gemilang", "Taman Hillpark", "Taman Indah", "Taman Intan", "Taman Kampung Raja", "Taman Keladi"],
         "city": "Arau",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2607": {
+    "02607": {
         "area": ["Kampung Bohor Goncar"],
         "city": "Arau",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2609": {
+    "02609": {
         "area": ["Kampung Bohor Inai"],
         "city": "Kaki Bukit",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2700": {
+    "02700": {
         "area": ["Kampung Bohor Temak", "Taman Keladi Angsana", "Taman Kelisa", "Taman Kelisa Ria", "Taman Kempas", "Taman Kenari", "Taman Kenari Biru", "Taman Kenari Indah", "Taman Kenari Jaya", "Taman Kenari Merdu", "Taman Keranji", "Taman Keranji Indah", "Taman Kristal", "Taman Kuala Muda", "Taman Legenda Height", "Taman Lembah Permai", "Taman Lincungan Barat", "Taman Maju", "Taman Mas Suria", "Taman Mawar", "Taman Melati", "Taman Melati Indah", "Taman Melati Jaya", "Taman Melati Layar", "Taman Melor", "Taman Melor Indah", "Taman Merpati", "Taman Mewah", "Taman Mewah Indah", "Taman Mewah Jaya", "Taman Muazam Shah", "Taman Muhibbah", "Taman Mulia", "Taman Mutiara", "Taman Mutiara Indah", "Taman Mutiara Jaya", "Taman Nilam"],
         "city": "Simpang Ampat",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2707": {
+    "02707": {
         "area": ["Kampung Bukit Besi Hangit"],
         "city": "Simpang Ampat",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2709": {
+    "02709": {
         "area": ["Kampung Bukit Kecil"],
         "city": "Simpang Ampat",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "2800": {
+    "02800": {
         "area": ["Kampung Bunga Pudak", "Taman Nilam Sari", "Taman Nuri", "Taman Nuri Jaya", "Taman Orkid", "Taman Padi Mas", "Taman Padi Mas Jaya", "Taman Pahlawan"],
         "city": "Simpang Ampat",
         "district": "Kangar",
         "state": "Perlis"
     },
-    "5000": {
+    "05000": {
         "area": ["Kampung Dagang", "Taman Palma", "Taman Pasir Mas", "Taman Pasir Mas Indah", "Taman Pasir Mas Jaya", "Taman Pekan Baru", "Taman Penaga", "Taman Perdana Teja", "Taman Permai", "Taman Permai Beseri Jaya", "Taman Permai Bistari", "Taman Permata", "Taman Permata Hillpark", "Taman Permata Semarak", "Taman Peruda 2", "Taman Peruda Utama", "Taman Perusahaan Ringan Padang Temusu", "Taman Petani Jaya", "Taman Pinang Emas", "Taman Pinang Tunggal", "Taman PKNK Bakar Arang", "Taman PKNK Cahaya", "Taman Ria", "Taman Ria Indah", "Taman Ria Murni", "Taman Ros", "Taman Sejahtera", "Taman Sejati", "Taman Sejati Gold", "Taman Sejati Indah", "Taman Semangat", "Taman Semangat Indah", "Taman Semarak", "Taman Sentosa", "Taman Sepakat", "Taman Seraya"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5050": {
+    "05050": {
         "area": ["Kampung Dasri", "Taman Seri Astana", "Taman Seri Baiduri", "Taman Seri Gadong", "Taman Seri Impian", "Taman Seri Menanti", "Taman Seri Mutiara", "Taman Serindik", "Taman Seri Putera", "Taman Seri Songket", "Taman Seri Tanjung", "Taman Seri Wang", "Taman Seruling", "Taman Seruling Indah", "Taman Setia Jaya", "Taman Siaran Aman Jaya", "Taman Sidam", "Taman Sinar Baiduri", "Taman Sinar Intan", "Taman Sinar Permata", "Taman Songket Indah", "Taman Sri Baiduri", "Taman Sri Bayu", "Taman Sri Bayu 2", "Taman Sri Cendana", "Taman Sri Emas", "Taman Sri Gedong", "Taman Sri Telok Wang", "Taman Sri Wang", "Taman Sri Wangi", "Taman Sungai Lalang (1 - 2)", "Taman Sutera", "Taman Sutera Idaman", "Taman Sutera Jaya", "Taman Sutra Suria", "Taman Telok Baiduri", "Taman Teratai", "Taman Teratai Indah", "Taman Teratai Mekar", "Taman Tiong", "Taman Tuanku Aminah", "Taman Tuanku Hamimah", "Taman Widuri", "Taman Wira", "Taman Wira Jaya", "Taman Aked", "Taman Makmur", "Taman Seroja", "Taman Sri Enggang", "Tikam Batu", "Sungai Petani - Peti surat", "Sungai Petani - Beg berkunci", "Bukit Belachan", "Bukit Selambau", "Bumi Muda Estate", "Kampung Baru Bukit Selambau", "Kampung Batu Belachan", "Kampung Bukit Terabak", "Kampung Haji Hashim", "Kampung Haji Hassan", "Kampung Haji Mangon", "Kampung Haji Mehat", "Kampung Haji Safar", "Kampung Jerai", "Kampung Klinik", "Kampung Kuala Sin", "Kampung Lima Puluh Relong", "Kampung Lubok Batu"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5100": {
+    "05100": {
         "area": ["Kampung Datuk", "Kampung Pegawai", "Kampung Penghulu Tua", "Kampung Perak", "Kampung Serungkup", "Kampung Sin Heng Estate", "Kampung Sungai Anak Ikan", "Kampung Sungai Gajah", "Kampung Sungai Nyior", "Kampung Tengkorak Batu", "Kebun 400", "Kongsi Tiga", "Poh Lim Estate", "Simpang Kuala Sin", "Bedong", "Bujang", "Bukit Merah", "Kampung Bakar Sampah", "Kampung Baru Bedong", "Kampung Batu Hampar", "Kampung Bendang Dalam", "Kampung Haji Ngah", "Kampung Kuala Muda Estate", "Kampung Lebai Ali", "Kampung Matang Samak", "Kampung Pengkalan Bujang", "Kampung Pinang", "Kampung Pisang", "Kampung Semeling", "Kampung Sungai Keluang", "Kampung Sungai Tok Pawang", "Kampung Telaga China", "Kampung Telok", "Kampung Tempoyak", "Kampung Tupah", "Ladang Sungai Bongkok", "Semiling", "Sungai Lalang", "Taman Bandar Baru", "Taman Bersatu Maju", "Taman Desa Budiman", "Taman Harmoni", "Taman Lembah Bujang (Fasa 1 & 2)", "Taman Mesra Indah", "Taman Permai (Fasa 2)", "Taman Permaipura Mesra", "Taman Permaipura Murni", "Taman Sinar Mentari", "Thye Seng Estate", "Kampung Huma", "Kampung Paya", "Kampung Singkir", "Kampung Singkir Darat", "Kampung Singkir Genting", "Kampung Singkir Kedai Keling", "Kampung Singkir Laut"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5150": {
+    "05150": {
         "area": ["Kampung Guar Syed Alwi", "Kampung Sungai Deraka", "Kampung Sungai Pial", "Rancangan Tanah Jilid 1 - 2", "Taman Sri Mesra", "Kampung Balong Ayam", "Kampung Banggol", "Kampung Banggol Dedap", "Kampung Banggol Selayang", "Kampung Batu Lapan", "Kampung Belimbing", "Kampung Bendang Man", "Kampung Bendang Tebal", "Kampung Bendang Temenggiat", "Kampung Charok Kamuning", "Kampung Charok Kelian", "Kampung Charok Kit", "Kampung Charok Kudong", "Kampung Charok Padang", "Kampung Charok Pelandok", "Kampung Charok Rambai", "Kampung Charok Sejok", "Kampung Charok Sireh", "Kampung Chepir", "Kampung Chong", "Kampung Hujong Bechah", "Kampung Hujung Bandar", "Kampung Hujung Tandop", "Kampung Jelutong", "Kampung Jering", "Kampung Joget", "Kampung Kemelong", "Kampung Kerawai", "Kampung Lalang", "Kampung Lubok Besar", "Kampung Namek", "Kampung Paya Terendam", "Kampung Sadu", "Kampung Sedu", "Kampung Sena", "Kampung Sungai Batang", "Kampung Sungai Senam", "Kampung Tanjong", "Kampung Titi Semang", "Nanir", "Tanjung Dawai", "Gulau", "Kampung Baru Nami", "Kampung Batu Seketul", "Kampung Belantek", "Kampung Bukit Batu", "Kampung Bukit Berangan", "Kampung Cerok Pisang", "Kampung Cerok Tenang", "Kampung Charok Sedau", "Kampung Danglau", "Kampung Gubir", "Kampung Gulau", "Kampung Jurong", "Kampung Kota Aur", "Kampung Kuala Beris", "Kampung Kubang Kesom", "Kampung Landai", "Kampung Lubok Jerai", "Kampung Lubok Nami", "Kampung Lutang", "Kampung Perangin", "Kampung Perangkap", "Kampung Pinang", "Kampung Sungai Kap", "Kampung Surau", "Kampung Tanjong Piring", "Sik", "Gurun", "Kampung Baru Gurun", "Kampung Batu 21", "Kampung Belakang Sekolah Gurun", "Kampung Bongkok", "Kampung Gual Nanas", "Kampung Guar Jumaat", "Kampung Jelatang", "Kampung Kilang Papan", "Kampung Masjid Baru", "Kampung Padang Bongkok", "Kampung Pulau Chengai", "Kampung Sungai Badak", "Kampung Sungai Ibor", "Kampung Sungai Kunyit", "Kem Hobart", "Ladang Chin Hong", "Ladang Choon Hong", "Ladang Habsah", "Ladang Hor Soon", "Ladang Lenton", "Ladang Lim Heng Tong", "Ladang Soon Lee", "Ladang Sungai Padu", "Ladang Tai Cheang", "Ladang Thor Boon Tham", "Ladang Thye Lye", "Ladang Tzi Cheang", "Ladang Wong Jee", "Ladang Yeoh Eng", "Ladang Yom Long", "Nami"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5200": {
+    "05200": {
         "area": ["Kampung Guar Ujung Batu", "Taman Berjaya", "Taman Gurun Indah", "Taman Jerai Harmoni", "Taman Jerai Indah", "Taman Jerai Maju", "Taman Jerai Mas", "Taman Lindungan Jerai", "Taman Puteri Lanjeda", "Taman Ria Mesra Fasa 2", "Desa Jaya", "Kampung Banggol", "Kampung Banggol Luar", "Kampung Baru Kura", "Kampung Bentong", "Kampung Bentong Dalam", "Kampung Bukit Hangus", "Kampung Charok Tala", "Kampung Dahaman", "Kampung Dusun Pengapit", "Kampung Gajah Puteh", "Kampung Jeram Buaya", "Kampung Kota Bukit", "Kampung Kuala Berok", "Kampung Kuala Hai", "Kampung Kuala Kerik", "Kampung Kuala Ruman", "Kampung Kubang Yoi", "Kampung Kura", "Kampung Langgok Tanjong", "Kampung Masjid", "Kampung Padang Besar", "Kampung Padang Chichak", "Kampung Padang Pulut", "Kampung Parit", "Kampung Pasir Pokok", "Kampung Pengkalan Raja", "Kampung Pokok Jerai", "Kampung Sungai Semiar", "Kampung Sungai Setar", "Kampung Tala", "Kampung Tanjong", "Kampung Tengah", "Taman Ria Mesra"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5250": {
+    "05250": {
         "area": ["Kampung Gunong", "Kampung Baru Bukit Kuang", "Kampung Baru Paya Mengkuang", "Kampung Chempedak", "Kampung Jalan Kilang Bata", "Kampung Kubur Lama", "Kampung Lubuk Reba", "Kampung Paya Serdang", "Kampung Selamat Air Puteh", "Kampung Tok Aris", "LKTP Bukit Kuang", "LKTP Paya Mengkuang", "Padang Lembu", "Bandar Baru Beris Jaya", "Batu 5 Sik", "Kampung Bandar", "Kampung Baru Seri Dacing", "Kampung Batu Besar", "Kampung Charok Malau", "Kampung Charok Tualang", "Kampung Merbau Kudong", "Kampung Sungai Namek", "Kampung Tanjong Besar", "Kampung Teloi", "Kampung Tupai", "Perumahan Keda Sik", "Perumahan Keda Sik Dalam", "Perumahan Keda Sik Kota A", "Kampung Badong", "Kampung Banggol", "Kampung Baru Merbok", "Kampung Belau", "Kampung Bukit Haji Omar", "Kampung Hilir", "Kampung Jilid", "Kampung Merbok", "Kampung Padang Sora", "Kampung Pasir", "Kampung Singkir Badong", "Merbok", "Simpang Tiga Pasir", "Taman Sepakat"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5300": {
+    "05300": {
         "area": ["Kampung Guru", "Merbok - Peti surat", "Merbok - Beg berkunci", "Alor Nibong", "Batas Ban", "Batu Lintang", "Bukit Kechik", "Kampung Alor Bemban", "Kampung Alor Jawi", "Kampung Bakar Arang", "Kampung Batu 45 (Hutan Gelam)", "Kampung Bukit Berangan", "Kampung Bukit Berapit", "Kampung Bukit Damar", "Kampung Bukit Kecil Simpor", "Kampung Bukit Meriam", "Kampung Bukit Pantai", "Kampung Bukit Perah", "Kampung Bukit Petai", "Kampung Bukit Tukang Jusoh", "Kampung Dusun Tua", "Kampung Haji Kudong", "Kampung Hujong Matang", "Kampung Kepala Jalan", "Kampung Komoi", "Kampung Kubang Jambu", "Kampung Kubang Siam", "Kampung Lembah", "Kampung Masjid", "Kampung Masjid Batu", "Kampung Nangka", "Kampung Padang Binjal", "Kampung Padang Kubu", "Kampung Padang Limau", "Kampung Padang Regent", "Kampung Padang Salim", "Kampung Pantai Merdeka", "Kampung Paya", "Kampung Pengkalan Bukit Kecil", "Kampung Pengkalan Bukit Lintang", "Kampung Perlis", "Kampung Permatang Bagan"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5350": {
+    "05350": {
         "area": ["Kampung Haji Daud", "Kampung Permatang Batu", "Kampung Permatang Bukit Lintang", "Kampung Permatang Kabu", "Kampung Permatang Katong", "Kampung Permatang Kecil", "Kampung Permatang Kelompang", "Kampung Permatang Langsat", "Kampung Permatang Merbau", "Kampung Permatang Nyior", "Kampung Permatang Pasir", "Kampung Permatang Ringan", "Kampung Permatang Tengah", "Kampung Pulau Sayak", "Kampung Rantau Panjang", "Kampung Simpang Tiga Teluk Nipah", "Kampung Sintok Bugis", "Kampung Sireh", "Kampung Sungai Deraka", "Kampung Sungai Emas", "Kampung Sungai Korok", "Kampung Sungai Meriam", "Kampung Sungai Reba", "Kampung Sungai Yu", "Kampung Telaga Batu", "Kampung Telok Amboi", "Kampung Telok Bayu", "Kampung Telok Bilik", "Kampung Telok Nipah", "Kampung Tepi Sungai", "Kota Kuala Muda", "Kuala Sungai Muda", "Pulau Sayak", "Seberang Terus", "Simpor", "Kota Kuala Muda - Peti surat", "Kota Kuala Muda - Beg berkunci", "Kampung Baru Simpor", "Kampung Baru Tikam Batu", "Kampung Berapit", "Kampung Bukit Lalang", "Kampung Masjid", "Kampung Matang Durian", "Kampung Padang", "Kampung Padang Buluh", "Kampung Padang Penghulu", "Kampung Paya Kerchut", "Kampung Pokok Kabu", "Kampung Pulau Sepom"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5400": {
+    "05400": {
         "area": ["Kampung Hutan Buluh", "Kampung Sekolah", "Kampung Titi Merdeka", "Jeneri", "Jeniang", "Kampung Berona", "Kampung Berona Kanan", "Kampung Berona Kiri", "Kampung Bigia", "Kampung Bukit Minyak", "Kampung Chemara", "Kampung Kalai", "Kampung Kuala Bigia", "Kampung Mambong", "Kampung Padang Ragut", "Kampung Shanghai", "Batu 20 Jalan Yan", "Guar Chempedak", "Gurun (Km 27)", "Kampung Batu 16", "Kampung Batu 17 (Jalan Sungai Petani)", "Kampung Batu 18", "Kampung Batu 20", "Kampung Belinda", "Kampung Belinga Siam", "Kampung Bendang", "Kampung Guar Stesen", "Kampung Kepala 30", "Kampung Kepala Bukit", "Kampung Kubur", "Kampung Manggol Lalang", "Kampung Masjid", "Kampung Padang Lumat", "Kampung Pasir", "Kampung Sungai Baru", "Kampung Sungai Pasir", "Kampung Sungai Saberang", "Kampung Sungai Tok Rama", "Kampung Titi Batu", "Kampung Titi Bom", "Kampung Titi Teras", "Kampung Tok Kau", "Kampung Ulu Teroi", "Padang Lumat", "Pekan Terai", "Pondok Haji Majid", "Taman Desa Aman 1", "Taman Desa Aman 2", "Taman Lambaian Jerai", "Terai Bukit", "Bandar Baru Kulim", "Bandar Putra Kulim", "Batu 4 Sungai Ular", "Junjung", "Kampung Air Merah", "Kampung Ayer Puteh (Kulim)", "Kampung Baru Air Merah", "Kampung Batu 3 (Jalan Lunas)", "Kampung Batu 4 (Sungai Ular)", "Kampung Binjal", "Kampung Bukit Besar", "Kampung Darulaman", "Kampung Dusun", "Kampung Haji Arshad", "Kampung Keladi", "Kampung Kilang Sago", "Kampung Padang Kulim", "Kampung Padang Penyangga", "Kampung Padang Tembak", "Kampung Paya Tok Betuk", "Kampung Permatang Janggus", "Kampung Permatang Tiong", "Kampung Pondok Labu", "Kampung Sungai Badak", "Kampung Syed Shekh", "Kampung Tok Rasul", "Kampung Tunku Putra (A - C)", "Kawasan Industri Hi-Tech", "Kelang Lama", "Kem Junjung", "Kota Kenari", "Kulim", "Lebuh Bandar", "Padang Buluh", "Padang Janggus", "Pusat Perniagaan Putra", "Simpang Tiga Keladi", "Sungai Ular", "Taman Aman", "Taman Angerik", "Taman Angsana", "Taman Badlishah", "Taman Bandar Putra", "Taman Bayam (1 & 2)", "Taman Bayan", "Taman Bendi", "Taman Beringin", "Taman Berjaya", "Taman Berlian", "Taman Bersatu", "Taman Bidara", "Taman Bistari", "Taman Budiman", "Taman Bukit Awi", "Taman Bukit Kulim", "Taman Bunga Mawar", "Taman Camar", "Taman Candrawasih"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5460": {
+    "05460": {
         "area": ["Kampung Hutan Melintang", "Taman Cekor Manis", "Taman Cempaka", "Taman Cempakasari", "Taman Cendana", "Taman Cengal", "Taman Ceri", "Taman Dahlia", "Taman Desa Impian", "Taman Desa Kasturi", "Taman Desa Makmur", "Taman Desa Melati", "Taman Desa Penaga", "Taman Desa Permai", "Taman Desa Sentosa", "Taman Ehsan (2 & 3)", "Taman Emas", "Taman Gemilang", "Taman Harmoni", "Taman Haruan", "Taman Helang Perdana", "Taman High Tech Avenue", "Taman High Tech Utama", "Taman Impian", "Taman Indah", "Taman Industri Waja", "Taman Jati", "Taman Jelutung", "Taman Kancil", "Taman Kangkong (1 & 2)", "Taman Kejora", "Taman Kekwa", "Taman Keladi", "Taman Kempas (1 & 2)", "Taman Kemuning", "Taman Kemunting", "Taman Kenari", "Taman Kenyalang", "Taman Keranji (1 - 3)", "Taman Khir Johari", "Taman Kijang", "Taman Kobis", "Taman KTC 1 & 2 (Hi-Tech)", "Taman Kucai", "Taman Kulim", "Taman Kulim Baru", "Taman Kulim Golf", "Taman Kulim Hegiht", "Taman Kulim Perdana", "Taman Kulim Square", "Taman Lembah Impiana", "Taman Lobak", "Taman Lobak 2", "Taman Mahkota"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5500": {
+    "05500": {
         "area": ["Kampung Jarak"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5502": {
+    "05502": {
         "area": ["Kampung Jejawi Dalam", "Taman Makmur"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5503": {
+    "05503": {
         "area": ["Kampung Jejawi Sematang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5504": {
+    "05504": {
         "area": ["Kampung Kechor"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5505": {
+    "05505": {
         "area": ["Kampung Keranji"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5506": {
+    "05506": {
         "area": ["Kampung Kota"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5508": {
+    "05508": {
         "area": ["Kampung Kota Keran"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5512": {
+    "05512": {
         "area": ["Kampung Kota Ulu"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5514": {
+    "05514": {
         "area": ["Kampung Kubang Arang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5516": {
+    "05516": {
         "area": ["Kampung Kubang Badak"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5517": {
+    "05517": {
         "area": ["Kampung Kubang Cekuang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5518": {
+    "05518": {
         "area": ["Kampung Kubang Gajah"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5520": {
+    "05520": {
         "area": ["Kampung Kurung Batang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5532": {
+    "05532": {
         "area": ["Kampung Lin"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5534": {
+    "05534": {
         "area": ["Kampung Masjid (Kangar)"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5536": {
+    "05536": {
         "area": ["Kampung Mengkuang Layar"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5538": {
+    "05538": {
         "area": ["Kampung Nissam"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5550": {
+    "05550": {
         "area": ["Kampung Nyak Adam"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5551": {
+    "05551": {
         "area": ["Kampung Padang Behor"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5552": {
+    "05552": {
         "area": ["Kampung Padang Jawa Seriab"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5556": {
+    "05556": {
         "area": ["Kampung Padang Katong"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5558": {
+    "05558": {
         "area": ["Kampung Padang Kedepiang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5560": {
+    "05560": {
         "area": ["Kampung Padang Machang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5564": {
+    "05564": {
         "area": ["Kampung Padang Nyaring"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5576": {
+    "05576": {
         "area": ["Kampung Padang Pauh"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5578": {
+    "05578": {
         "area": ["Kampung Padang Petani"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5580": {
+    "05580": {
         "area": ["Kampung Padang Seberang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5582": {
+    "05582": {
         "area": ["Kampung Panggau"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5586": {
+    "05586": {
         "area": ["Kampung Parit Jari"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5590": {
+    "05590": {
         "area": ["Kampung Penghulu Bakar"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5592": {
+    "05592": {
         "area": ["Kampung Pengkalan Asam", "Taman Maktab"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5594": {
+    "05594": {
         "area": ["Kampung Peseri"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5600": {
+    "05600": {
         "area": ["Kampung Petai"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5604": {
+    "05604": {
         "area": ["Kampung Petai Hilir"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5610": {
+    "05610": {
         "area": ["Kampung Pokok Jawi"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5612": {
+    "05612": {
         "area": ["Kampung Pondok"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5614": {
+    "05614": {
         "area": ["Kampung Pulau"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5620": {
+    "05620": {
         "area": ["Kampung Repoh"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5621": {
+    "05621": {
         "area": ["Kampung Repoh Dagang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5622": {
+    "05622": {
         "area": ["Kampung Salang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5626": {
+    "05626": {
         "area": ["Kampung Santan"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5628": {
+    "05628": {
         "area": ["Kampung Santan Aur"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5630": {
+    "05630": {
         "area": ["Kampung Santan Belat"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5632": {
+    "05632": {
         "area": ["Kampung Santan Enam"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5644": {
+    "05644": {
         "area": ["Kampung Santan Masjid"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5660": {
+    "05660": {
         "area": ["Kampung Sempering"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5661": {
+    "05661": {
         "area": ["Kampung Sena"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5664": {
+    "05664": {
         "area": ["Kampung Sena Sematang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5670": {
+    "05670": {
         "area": ["Kampung Sentang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5672": {
+    "05672": {
         "area": ["Kampung Sentua"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5673": {
+    "05673": {
         "area": ["Kampung Seriab"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5674": {
+    "05674": {
         "area": ["Kampung Sungai Bakong"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5675": {
+    "05675": {
         "area": ["Kampung Sungai Baru"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5676": {
+    "05676": {
         "area": ["Kampung Sungai Santan"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5680": {
+    "05680": {
         "area": ["Kampung Sungai Siran"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5690": {
+    "05690": {
         "area": ["Kampung Surau"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5696": {
+    "05696": {
         "area": ["Kampung Syed Umar"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5700": {
+    "05700": {
         "area": ["Kampung Tanjung"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5710": {
+    "05710": {
         "area": ["Kampung Tanjung Buluh"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5720": {
+    "05720": {
         "area": ["Kampung Tanjung Gorah"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "5990": {
+    "05990": {
         "area": ["Kampung Tanjung Sila"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6000": {
+    "06000": {
         "area": ["Kampung Tebing Tinggi", "Taman Manggis", "Taman Melor", "Taman Melor Indah", "Taman Merak", "Taman Meranti", "Taman Merbok", "Taman Merpati", "Taman Mewah (1 - 3)", "Taman Nenas", "Taman Nenas Indah", "Taman Nilam Baiduri", "Taman Nuri", "Taman Okid", "Taman Pandan Indah", "Taman Pegaga", "Taman Pelangi", "Taman Perak", "Taman Peria", "Taman Perusahaan Saujana", "Taman Petaling", "Taman Petaling Indah", "Taman Petaling Indah (1 & 2)", "Taman Petaling Jaya", "Taman PKNK", "Taman Pondok Labu", "Taman Pudina", "Taman Putra", "Taman Rambai", "Taman Ru", "Taman Rusa", "Taman Saderi", "Taman Saga", "Taman Sago", "Taman Salad", "Taman Sawi", "Taman Sejahtera", "Taman Sejahtera 2", "Taman Seladang", "Taman Selasih", "Taman Selasih Lima", "Taman Seluang", "Taman Semarak", "Taman Senangin", "Taman Sentosa", "Taman Seraya Indah", "Taman Seri Kulim", "Taman Seri Liman", "Taman Serindik", "Taman Seri Petaling", "Taman Seri Pinang", "Taman Seri Tanjung", "Taman Seroja", "Taman Sri Abadi", "Taman Sri Kenanga", "Taman Sri Sentosa", "Taman Suasa", "Taman Sulaiman", "Taman Tanjung Indah", "Taman Technocity", "Taman Tengku Putra", "Taman Teratai", "Taman Tiong (1 & 2)", "Taman Tiram", "Taman Tiram Indah", "Taman Tunku Putera", "Taman Waja", "Kampung Pong Ah Yong", "Ladang Bagan Sena", "Ladang BMR Batu Tuteh", "Teroi", "Kulim - Peti surat", "Kulim - Beg berkunci", "Kampung Bagan Sena", "Kampung Banggol Berangan", "Kampung Bikan", "Kampung Bikan Atas", "Kampung Bukit Chempedak", "Kampung Jubai Atas", "Kampung Jubai Bawah", "Kampung Jubai SC", "Kampung Keda Bagan Sena", "Kampung Padang Bola", "Kampung Padang Patong", "Kampung Padang Ubi", "Kampung Petani", "Kampung Selarong", "Labu Besar", "Kampung Ayer Merah", "Bukit Hijau", "Kampung Ayer Kepar", "Kampung Banggol Enggok", "Kampung Baru Kuala Nau", "Kampung Jernang", "Kampung Keda Malau", "Kampung Kuala Nau", "Kampung Machang Bubuk", "Kampung Seratus", "Kampung Terus Gading", "Kampung Ulu Bakai", "Taman Sena", "Baling", "Bongor", "Jalan Baling (Batu 36 1/4)", "Kampung Ambing", "Kampung Asam Jawa", "Kampung Ayer Kembai", "Kampung Bakar Arang", "Kampung Bakar Bata", "Kampung Bakong", "Kampung Baling Lubok Pedati", "Kampung Bandar", "Kampung Banggol", "Kampung Banggol Bongor", "Kampung Banggol Glugor", "Kampung Banggol Lada", "Kampung Banggol Leban", "Kampung Banggol Petai", "Kampung Banggol Saga / Setol", "Kampung Banggol Setang", "Kampung Banggol Wan Mat", "Kampung Bangsan", "Kampung Baru", "Kampung Batu 7", "Kampung Batu Lapan", "Kampung Bawah Gunong", "Kampung Becah Sawa", "Kampung Belangga Kuala", "Kampung Bendang Darat", "Kampung Bendang Sera", "Kampung Benggali", "Kampung Berjaya", "Kampung Bonggol Berangan", "Kampung Bukit Badak", "Kampung Bukit Berangan", "Kampung Bukit Datuk Harun", "Kampung Bukit Hilir", "Kampung Bukit Hitam", "Kampung Bukit Ijok", "Kampung Bukit Ketil", "Kampung Bukit Palong", "Kampung Bukit Payang", "Kampung Bukit Puyuh (Batu 47 1/4)", "Kampung Bukit Sebelah", "Kampung Bukit Tengiling", "Kampung Bukit Tok Giling", "Kampung Bukit Tok Kaya", "Kampung Cerok Sotong", "Kampung Charok Akar", "Kampung Charok Bakong", "Kampung Charok Bunting", "Kampung Charok Gorok", "Kampung Charok Juan", "Kampung Charok Kapas", "Kampung Charok Kelian", "Kampung Charok Kelian Ulu", "Kampung Charok Putih", "Kampung Charok Salang", "Kampung Charok Sik", "Kampung Charok Tilam", "Kampung Chegar Tok Bandar", "Kampung Chenarai (Kuala Pegang)", "Kampung Chenerai", "Kampung Cherok Nau", "Kampung Cherok Sotong", "Kampung Che Wan Jusoh", "Kampung Chorok Kapas", "Kampung Chorok Ker (Batu 7)", "Kampung Chorok Saling", "Kampung Dalam Rimau", "Kampung Dato (Batu 43)", "Kampung Dusun Besar", "Kampung Dusun Gani", "Kampung Dusun Raja", "Kampung Gabus", "Kampung Gertak Serong", "Kampung Haji Abas", "Kampung Haji Yunus", "Kampung Jalan Jenalik", "Kampung Jenalik", "Kampung Kaki Bukit", "Kampung Kebun Ubi", "Kampung Keledang Dalam", "Kampung Kelian Dalam", "Kampung Ketemba", "Kampung Ketemba Kememeh", "Kampung Ketemba Masjid", "Kampung Kijang", "Kampung Kota", "Kampung Kuala Balok", "Kampung Kuala Kedua", "Kampung Kuala Kijang", "Kampung Kubor Tok Ali", "Kampung Lahar", "Kampung Lalang", "Kampung Lanai", "Kampung Legong", "Kampung Lela", "Kampung Luar", "Kampung Lubok Badak", "Kampung Lubok Batu", "Kampung Lubok Batu (Kuala Pegang)", "Kampung Lubok Kabu", "Kampung Lubok Pedati", "Kampung Makliah", "Kampung Mali", "Kampung Masjid (Batu 48 1/4)", "Kampung Masjid (Km 77)", "Kampung Masjid Lama", "Kampung Masjid Pulai", "Kampung Masjid Sera", "Kampung Mengkuang", "Kampung Mengkuang Hujong", "Kampung Mengkuang Masjid", "Kampung Mengkuang Tengah", "Kampung Murni", "Kampung Nering", "Kampung Padang", "Kampung Padang Chik Mas", "Kampung Padang Ketemba", "Kampung Pajak", "Kampung Pantai", "Kampung Pantai Lubuk Pedati", "Kampung Pantai Raja", "Kampung Parit Pandang", "Kampung Paya", "Kampung Paya Gua Kelambu", "Kampung Paya Pulai", "Kampung Pecah Tok Bulan", "Kampung Pokok Sena", "Kampung Pokok Setol", "Kampung Raja", "Kampung Rambong", "Kampung Rambong Padang", "Kampung Rambong Tengah", "Kampung Rumah Besi", "Kampung Sekolah Bonggor", "Kampung Seladang Rebah", "Kampung Sera", "Kampung Sera Ulu", "Kampung Seri Bulan", "Kampung Seri Ketengga", "Kampung Setol", "Kampung Simpang Ampat", "Kampung Siput"],
         "city": "Jitra",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6007": {
+    "06007": {
         "area": ["Kampung Telaga Idi"],
         "city": "Jitra",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6009": {
+    "06009": {
         "area": ["Kampung Telaga Nyiur Manis"],
         "city": "Jitra",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6010": {
+    "06010": {
         "area": ["Kampung Telok Epa", "Kampung Sirako", "Kampung Sungai Batu", "Kampung Sungai Limau", "Kampung Sungai Tas", "Kampung Sungai Tebak", "Kampung Sungai Tembak"],
         "city": "Changloon",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6050": {
+    "06050": {
         "area": ["Kampung Telok Gelam", "Kampung Surau", "Kampung Tandop", "Kampung Tanjong Langsat", "Kampung Tanjong Merbau", "Kampung Tanjong Pari", "Kampung Tanjung (Batu 44 1/2)", "Kampung Tas", "Kampung Telok", "Kampung Telok Kangar", "Kampung Telok Pendiat", "Kampung Telok Perah", "Kampung Telok Perah Hulu", "Kampung Telok Rambong", "Kampung Telok Sanau", "Kampung Telok Sungai Durian", "Kampung Telok Teduri", "Kampung Telok Temelah", "Kampung Telok Tok Patah", "Kampung Temusu", "Kampung Terbak", "Kampung Titi Mentaling", "Kampung Titi Merbau", "Kampung Titi Teduri", "Kampung Tok Diah", "Kampung Tok Golok", "Kampung Tok Lipan", "Kampung Tok Saban", "Kampung Tok Seri"],
         "city": "Bukit Kayu Hitam",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6100": {
+    "06100": {
         "area": ["Kampung Telok Jambu", "Kampung Tok Sonan", "Kampung Tok Weng", "Kampung Tualang", "Kampung Tualang Bok", "Kampung Wat Siam", "Kampung Weng", "Kampung Weng Dalam", "Ketemba (Batu 35)", "Kuala Pegang", "Malau", "Padang Temu", "Pokok Sena (Batu 45)", "Pulai", "Taman Abadi", "Taman Baiduri", "Taman Bayu Indah", "Taman Bersatu", "Taman Bukit", "Taman Desa Anggerik", "Taman Hajah Halimah", "Taman Harmoni", "Taman Impian", "Taman Kota Baling Jaya", "Taman Kota Jaya", "Taman Mahmud", "Taman Semarak", "Taman Sepakat", "Taman Sri Aman", "Taman Sri Baling", "Kampung Batu Kuala Pegang", "Kampung Berjaya", "Kampung Bukit Badak", "Kampung Bukit Hilir", "Kampung Bukit Hitam", "Kampung Cerok Kapas", "Kampung Cerok Tilan", "Kampung Keledang", "Kampung Ketemba Keminis", "Kampung Kuala Balut", "Kampung Kuala Cenerai", "Kampung Kuala Cenerai Bat", "Kampung Kuala Pegang", "Kampung Lela", "Kampung Lubuk Kabu", "Kampung Murni", "Kampung Padang", "Kampung Padang Ketumba", "Kampung Padang Toi", "Kampung Seberang Titi", "Kampung Telok Perah", "Kampung Temusu", "Kampung Terbak"],
         "city": "Kodiang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6150": {
+    "06150": {
         "area": ["Kampung Telok Kacang", "Kampung Titi Melintang", "Kampung Titi Merbau", "Kampung Titi Teduri", "Kampung Tok Diah", "Kampung Tok Golok", "Kampung Tok Seri", "Kampung Wat Siam", "Kampung Weng Dalam", "Ketemba (Batu 35)", "Ketemba Masjid", "Taman Intan", "Banggol Lahar", "Bukit Terabak", "Gua Rebah", "Kampung Bendang Becah", "Kampung Bendang Padang", "Kampung Bokbak", "Kampung Bubang Panjang", "Kampung Bukit Iboi", "Kampung Bukit Tinggi", "Kampung Charok Kapas", "Kampung Charok Sikin", "Kampung Charuk Bemban", "Kampung Gua Reban", "Kampung Hangus", "Kampung Iboi", "Kampung Jerai", "Kampung Kuala Kuang", "Kampung Kubang Panjang", "Kampung Landak", "Kampung Landak Batu 39", "Kampung Landak Bukit", "Kampung Landak Hilir", "Kampung Landak Paya", "Kampung Padang China", "Kampung Padang Dan", "Kampung Pak Bong", "Kampung Pisang", "Kampung Raja", "Kampung Rambong", "Kampung Sadik", "Kampung Seniyek", "Kampung Seri Aman", "Kampung Tanah Periok", "Kampung Tanjong"],
         "city": "Ayer Hitam",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6200": {
+    "06200": {
         "area": ["Kampung Telok Tui", "Kampung Tanjong Merbau", "Kampung Telok Charok Bemban", "Kampung Telok Durian", "Kampung Telok Jamal", "Kampung Tengah", "Kampung Tiak", "Kampung Tok Saba", "Kupang", "Padang Lengkuas", "Parit Panjang", "Taman Bemban", "Taman Desa Cempa", "TamanDesa Mawar", "Taman Harapan", "Taman Mas", "Taman Mesra", "Taman Permai", "Taman Seri Mawar", "Taman Sri Landak", "Taman Wawasan", "Tebing Tinggi", "Felcra Bukit Hijau", "Felda Teloi Kanan", "Felda Teloi Timur", "Kampung Batu", "Kampung Batu 1", "Kampung Jawa", "Kampung Kuala Bakong", "Kampung Tanjong Puteri", "Kampung Teloi Kanan", "Kampung Teloi Timur", "Kampung Tembak", "Kejai", "Kuala Ketil", "Merbau Pulas", "Teluk Petata", "Kampung Baru Tawar"],
         "city": "Kepala Batas",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6207": {
+    "06207": {
         "area": ["Kampung Temak"],
         "city": "Kepala Batas",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6209": {
+    "06209": {
         "area": ["Kampung Tengah Abi"],
         "city": "Kepala Batas",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6250": {
+    "06250": {
         "area": ["Kampung Titi Teras", "Kampung Binjoi Luar", "Kampung Charok Akar", "Kampung Surau Bakai", "Teloi Kanan", "Kampung Banggol", "Kampung Bukit Sidam", "Kampung Deka", "Kampung Ekor Kucing", "Kampung Gajah Merangkak", "Kampung Guar Lobak", "Kampung Keda (Mukim Naga Lilit)", "Kampung Kemumbong", "Kampung Kong Kedah", "Kampung Kuala Jerong", "Kampung Kuala Sedim", "Kampung Kubang Sapi", "Kampung Ladang Bukit Selarong", "Kampung Ladang Padang Meiha", "Kampung Lesong Tujuh", "Kampung Lubok Saga", "Kampung Naga Lilit", "Kampung Padang Buluh", "Kampung Pantai Ali", "Kampung Pantai Edau", "Kampung Pantai Perai", "Kampung Paya Jemerli", "Kampung Paya Union", "Kampung Permatang Durian", "Kampung Permatang Tok Dik", "Kampung Seberang Paya", "Kampung Siam", "Kampung Sidam (Kiri & Kanan)", "Kampung Tanjong Belit", "Kampung Telok Binu", "Kampung Telok Sera", "Kampung Terat Batu", "Kampung Tesong Tujuh", "Kampung Tok Iman", "Kampung Ujung Padang", "Kampung Ujung Tanjong", "Padang Serai", "Sidam Kiri", "Taman Damai", "Taman Lagenda", "Taman Mahsuri", "Taman Melor Indah", "Taman Raya Indah", "Taman Serai Ria", "Taman Serai Setia", "Tawar", "Kampung Baru Bukit Karangan", "Kampung Kuala Bunut", "Kampung Kuala Sidim", "Kampung Ladang Bukit Karangan", "Kampung Paya Kelubi", "Kampung Titi Karangan", "Sungai Karangan", "Taman Desa Aman (Sungai Karangan)", "Taman Kenangan (Sungai Karangan)", "Taman Serai Wangi", "Flat Kulim Square", "Industri Makmur", "Kampung Balik Bukit", "Kampung Batu 6", "Kampung Batu 8 1/2", "Kampung Bukit Kukus", "Kampung Bukit Lada", "Kampung Bukit Sarang Ayam", "Kampung Jalan Ara Kuda", "Kampung Matang", "Kampung Padang China", "Kampung Paya Besar", "Kampung Paya Serdang", "Kampung Siam", "Kampung Sungai Limau", "Lunas", "Sungai Seluang", "Taman Cili", "Taman Delima", "Taman Desa Permai 2", "Taman Desa Seni"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6300": {
+    "06300": {
         "area": ["Kampung Titi Tok Bandar", "Taman Halia", "Taman Kangkong 3", "Taman Kempas Merah", "Taman Kota Kenari", "Taman Melor Indah 2", "Taman Merawan", "Taman Murni Indah", "Taman Perusahaan Saujana", "Taman Sejahtera", "Taman Sejahtera Jaya", "Taman Seri Mahkota", "Taman Seri Mesra", "Taman Simponi", "Taman Sutera", "Titi Karangan", "Banggol Penyengat", "Bukit Sang", "Felda Gunung Bongsu", "Jalan Baru Sedim", "Kampung Badang", "Kampung Baru Batu Puteh", "Kampung Baru Karangan", "Kampung Baru Lubok Gajah", "Kampung Baru Mahang", "Kampung Baru Padang Patong", "Kampung Baru Sungai Kob", "Kampung Baru Ulu Krian", "Kampung Batu Karangan", "Kampung Batu Puteh", "Kampung BMR Kilang Baru", "Kampung Bukit Bertam", "Kampung Bukit Kubu", "Kampung Bukit Kubur", "Kampung Bukit Rawa", "Kampung Cherok Kedah", "Kampung Chetty", "Kampung Dingin", "Kampung Gelugor", "Kampung Gunong Bongsu", "Kampung Haji Samad", "Kampung Jangkang", "Kampung Kemunting", "Kampung Kilang Baru", "Kampung Kuala Tawar", "Kampung Lindongan Raja", "Kampung LOBAK", "Kampung Lubok Gajah", "Kampung Merbok", "Kampung Padang Belon", "Kampung Padang China", "Kampung Padang Keriang", "Kampung Pagar Nuseh", "Kampung Paya", "Kampung Rantau Panjang", "Kampung Seberang Jaya", "Kampung Selarong", "Kampung Selarong Panjang", "Kampung Sidim", "Kampung Sungai Badak", "Kampung Sungai Buluh", "Kampung Sungai Kob", "Kampung Sungai Pasir Dalam", "Kampung Sungai Pasir Luar", "Kampung Sungai Pasu", "Kampung Tebok", "Kampung Tebuan", "Kampung Tengah Ulu Tawar", "Kampung Ulu Kerian", "Kampung Ulu Mahang", "Karangan", "Kepala Titi", "Ladang Dublin", "Ladang Erico", "Ladang Guthrie Dublin", "Ladang Jongkong", "Ladang Lean Seng", "Mahang", "Maryland Estate", "Padang Janggus", "Padang Limau", "Pagar Museh", "Pahau", "Seberang Jaya", "Simpang Tiga", "Simpang Tiga Pokok Glugor", "Sungai Kob", "Taman Mutiara", "Taman Sepakat", "Taman Sungai Kob", "Kampung Badlishah", "Kampung Banggol Durian", "Kampung Banggol Limau", "Kampung Baru Serdang", "Kampung Batu 10", "Kampung Batu 12", "Kampung Batu 16", "Kampung Batu Ayer Putih", "Kampung Batu Hampar", "Kampung Batu Lintang", "Kampung Bendang Sera", "Kampung Bukit Aping", "Kampung Bukit Buluh", "Kampung Chelong", "Kampung Durian Burong", "Kampung Jermai", "Kampung Kuala Ayer Putih", "Kampung Kuala Dingin", "Kampung Leret", "Kampung Medan", "Kampung Paya Salak", "Kampung Pekan Lama", "Kampung Setali", "Kampung Sungai Buluh", "Kampung Sungai Kasai", "Kampung Sungai Salleh", "Kampung Sungai Setol", "Kampung Sungai Taka", "Kampung Sungai Tegas", "Kampung Sungai Tegas Terap", "Kampung Telok Kelian", "Kampung Telok Sera", "Kampung Tengah"],
         "city": "Kuala Nerang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6350": {
+    "06350": {
         "area": ["Kampung Tok Dewa", "Kampung Terap", "Kampung Titi Akar", "Ladang Chim Khoon", "Ladang Somme", "Lubuk Buntar", "Perumahan Awam 1 & 2", "Serdang", "Sungai Batu", "Taman Aked", "Taman Cempaka"],
         "city": "Pokok Sena",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6400": {
+    "06400": {
         "area": ["Kampung Tok Gong", "Taman Kenanga", "Taman Melor", "Ulu Riau", "Kampung Chong Meng", "Kampung Kuala Selama", "Kampung Masjid", "Kampung Permatang Buluh", "Kampung Sembilan Relong", "Kampung Seribu Relong", "Kampung Sungai Itam", "Kampung Sungai Terap", "Kampung Terap Dalam", "Selama", "Sungai Itam Dalam", "Taman Serdang", "Bangunan Komtar", "Jalan Gladstone", "Jalan Magazine (No Genap)", "Jalan Maxwell", "Jalan Penang", "Jalan Ria", "Kompleks Tun Abdul Razak", "Lebuh Tek Soon", "Prangin Mall", "Jalan Argyll", "Jalan Ariffin", "Jalan Arratoon", "Jalan Bawasah", "Jalan Burma (1 - 237 & 2 - 184)", "Jalan Chow Thye", "Jalan Clove Hall", "Jalan Dato Koyah", "Jalan Dinding", "Jalan Gudwara", "Jalan Hutton", "Jalan Irawadi", "Jalan Kedah", "Jalan Kelantan", "Jalan Khoo Sian Ewe", "Jalan Larut", "Jalan Nagore", "Jalan Pangkor", "Jalan Phee Choon", "Jalan Phuah Hin Leong", "Jalan Salween", "Jalan Sekerat", "Jalan Service", "Jalan SP Cheeliah", "Jalan Sri Bahari", "Jalan Sultan Ahmad Shah", "Jalan Tavoy", "Jalan Transfer", "Lebuh Clarke", "Lebuh Dickens", "Lorong Amoy", "Lorong Ceylon", "Lorong Hutton", "Lorong Popus", "Lorong Swatow", "Menara BHLB", "Menara KWSP", "Menara Liang Court", "Menara MBF", "Menara Northem", "Menara Penang Garden", "Menara PSCI", "Mesbol Tower", "Pragin Mall", "Solok Tavoy", "Halaman Khoo Cheow Teong", "Jalan Cheong Fatt Tze", "Jalan Chowrasta", "Jalan Dr Lim Chwee Leong", "Jalan Kuala Kangsar", "Jalan Pintal Tali", "Jalan Sungai Ujong", "Kampung Malabar", "Lebuh Campbell", "Lebuh Carnarvon", "Lebuh Cintra"],
         "city": "Pokok Sena",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6500": {
+    "06500": {
         "area": ["Kampung Tok Jawa", "Lebuh Hong Kong", "Lebuh Keng Kwee", "Lebuh Kimberley", "Lebuh Melayu", "Lebuh Tamil", "Lorong Carnarvon", "Lorong Dury", "Lorong Ikan", "Lorong Ngah Aboo", "Lorong Prangin", "Lorong Tok Aka", "Pesara Claimant", "Wisma Hutton", "Flat Baharol Alam", "Halaman Damai", "Jalan Brani", "Jalan Bukom", "Jalan Cheah Choo You", "Jalan Che Rose", "Jalan Dato Keramat (1 - 493)", "Jalan Dato Keramat (2 - 414)", "Jalan Haji Hashim Imam", "Jalan Kajang", "Jalan Kampung Dodol", "Jalan Kampung Jawa Baru", "Jalan'Kampung Jawa Baru", "Jalan Kampung Jawa Lama", "Jalan'Kampung Jawa Lama", "Jalan Kuantan", "Jalan Makloom", "Jalan Maqbul", "Jalan Osman Kadir Lit", "Jalan Patani", "Jalan Perak (1 - 309)", "Jalan Samak", "Jalan Singapura", "Jalan S.P. Cheeliah", "Jalan Sungai", "Jalan Sungai Pinang", "Jalan Tekong", "Jalan Timah", "Jalan Tongkah", "Jalan Trang", "Jalan Trusan", "Jalan Ubin", "Jalan Veterinari", "Kampung Dodol", "Kampung Jalan Perak", "Kampung Makam", "Kampung Rawa", "Lengkok Sungai Pinang", "Lilitan Stadium", "Lintang Kampung Rawa 2", "Lintang Sungai Pinang", "Lorong Seremban"],
         "city": "Langgar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6507": {
+    "06507": {
         "area": ["Kampung Tok Jepun"],
         "city": "Langgar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6509": {
+    "06509": {
         "area": ["Kampung Tok Kandang"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6550": {
+    "06550": {
         "area": ["Kampung Tok Kembong", "Lorong Singgora", "Lorong Sungai Pinang", "Lorong Tampin", "Medan Chin Ho", "Persiaran Perak", "Pintasan Maklum", "Taman Abidin", "Taman Boon Kee", "Taman Cemerlang", "Taman Kilangin", "Taman Lembah Sungai", "Taman Nusantara", "Taman Perak", "Taman Pinang", "Taman Sing Chor Chit", "Taman Soon Boon Kee", "Tingkat Nusantara", "Bangunan Bank Negara Biro Bantuan Guaman"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6570": {
+    "06570": {
         "area": ["Kampung Tok Larak", "Bangunan Bank Negara Penasihat Undang-undang Negeri", "Bangunan Dewan Bandaran", "Bangunan Mara", "Cannon Square", "Gat Lebuh Leith", "Green Hall", "Jalan Masjid Kapitan Keling", "Jalan Padang Kota Lama", "Jalan Tun Syed Sheh Barakbah", "Kampung Kaka"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6600": {
+    "06600": {
         "area": ["Kampung Tok Peduka", "Kampung Kolam", "Kompleks Pitt", "Lebuh Acheen", "Lebuh Ah Quee", "Lebuh Armenian", "Lebuh Bishop", "Lebuh Buckingham", "Lebuh Cannon", "Lebuh China", "Lebuh Chulia", "Lebuh Duke", "Lebuh Farquhar", "Lebuh Gereja", "Lebuh King", "Lebuh Klang", "Lebuh Leith", "Lebuh Light", "Lebuh Masjid", "Lebuh Masjid Kapitan Keling", "Lebuh Muntri", "Lebuh Pasar", "Lebuh Penang", "Lebuh Queen", "Lebuh Union", "Lorong Argus", "Lorong Che Em", "Lorong Chulia", "Lorong Lumut", "Lorong Muda", "Lorong Pasar", "Lorong Pitt", "Lorong Seck Chuan", "Lorong Soo Hong", "Lorong Stewart", "Love Lane", "Medan Cannon", "Menara AHP2", "Wisma Sri Pinang", "Acardia Apartment", "Belleview Apartment", "Bellisa Court", "Desa Mas", "Gerbang Edgecumbe", "Gerbang Midlands", "Gurney Beach", "Gurney Park", "Gurney Plaza", "Gurney Tower", "Gurney Villa", "Jalan Bagan Jermal", "Jalan Birch", "Jalan Cantonment (37 - 87)", "Jalan Cantonment (54A - 86)", "Jalan CO Lim", "Jalan Concordia", "Jalan Edgecumbe", "Jalan Jones", "Jalan Kelawei", "Jalan Lim Chin Guan", "Jalan Lunas", "Jalan Mano", "Jalan Midlands", "Jalan Pemenang", "Jermal Court", "Jermal Jaya", "Kampung Herriot", "Lebuh Midlands", "Lebuhraya Maktab", "Lintang Burmah", "Lorong Bangkok", "Lorong Birch", "Lorong Burmah"],
         "city": "Kuala Kedah",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6650": {
+    "06650": {
         "area": ["Kampung Tok Pong", "Lorong Edgecumbe", "Lorong Kelawei", "Lorong Leandros", "Lorong Maktab", "Lorong Midlands", "Medan Lim Cheng Teik", "Medan Maktab", "Menara Yayasan", "Midlands Court", "Mutiara Villa", "Persiaran Gurney", "Persiaran Maktab", "Persiaran Midlands", "Persiaran Sunrise", "Regency Tower", "Silverton Condo", "Solok Bagan Jermal", "Solok Birch", "Solok Burmah", "Solok Concordia", "Solok Gurney", "Solok Jones", "Solok Kelawai (1 - 2)", "Solok Leandros", "Solok Mano", "Solok Midlands", "Sri Pangkor", "Sunrise Tower", "Taman Festival", "Tingkat Jones"],
         "city": "Simpang Empat",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6660": {
+    "06660": {
         "area": ["Kampung Tok Sumbing"],
         "city": "Alor Setar",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6700": {
+    "06700": {
         "area": ["Kampung Ujung Bukit", "Tingkat Kelawei", "Tingkat Midlands", "Wisma Predential", "Adorna Gold", "Bangunan Dewan Perniagaan Melayu", "Bangunan Jabatan Kastam & Eksais Di Raja", "Bangunan PPC", "Bangunan TSP Pendaftar Kesatuan Sekerja", "Bangunan Tuanku Syed Putra", "Chen Jetty", "Chew Jetty", "Church Street Pier", "Gat Jalan Magazine", "Gat Lebuh Acheen", "Gat Lebuh Acheh", "Gat Lebuh Armenian", "Gat Lebuh Cecil", "Gat Lebuh China", "Gat Lebuh Chulia", "Gat Lebuh Gereja", "Gat Lebuh Macallum", "Gat Lebuh Melayu", "Gat Lebuh Noordin", "Gat Lebuh Pasar", "Gat Lebuh Prangin", "Gat Lebuh Presgrave", "Gat Lebuh Sandilands", "Goay Jetty", "Halaman Seh Tan", "Jalan Brick Klin", "Jalan CY Choy", "Jalan Magazine", "Jalan Nanking", "Jalan SS Barakabah", "Jalan Syed Sheikh Barakabah", "Jalan Victoria", "Jalan Weld Quey", "Koay Jetty off Pengkalan Weld", "Lebuh Cecil", "Lebuh Church Pier", "Lebuh Downing", "Lebuh Herriot", "Lebuh Katz", "Lebuh Mc Callum", "Lebuh Mc Nair", "Lebuh Noordin", "Lebuh Pantai", "Lebuh Peking", "Lebuh Presgrave", "Lebuh Sandilands", "Lebuh Tye Kee Yoon", "Lebuh Tye Sin", "Lebuh Victoria", "Lee Jetty off Pengkalan Weld", "Lim Jetty off Pengkalan Weld", "Lintang Macallum", "Lorong Chetty", "Menara Perdana", "New Jetty off Pengkalan Weld", "New Wembly Park", "Pasar Borong Mutiara", "Peng Aun Jetty", "Pengkalan Lebuh Gereja", "Pengkalan Raja Tun Uda", "Pengkalan Weld", "Pesara King Edward", "Pintasan Cecil (1 - 3)", "Pintasan Pengkalan(1 - 4)", "Prangin Estate", "Rec. Area Weld Quay", "Taman Harbour View", "Tan Jetty", "Tan Jetty off Pengkalan Weld", "Wisma Kilangin", "Wisma Kwong Pin", "Yeoh Jetty", "Halaman Burma", "Halaman Pulau Tikus", "Jalan Air Terjun", "Jalan Bell", "Jalan Berjaya", "Jalan Biggs", "Jalan Brother James", "Jalan Burma (186 - 384)", "Jalan Burma (239 - 475)", "Jalan Cantonment", "Jalan Cantonment (1 - 33)", "Jalan Cantonment (2 - 54)", "Jalan D.S. Ramanathan", "Jalan Dunn", "Jalan Gottlieb", "Jalan Kebun Bunga", "Jalan Moulmein", "Jalan Nunn", "Jalan Park", "Jalan Pasar (Pulau Tikus)", "Jalan Pierce", "Jalan Raja Gopal", "Jalan Tunku Abdul Rahman", "Jalan Wright", "Jalan Yeoh Guan Seok", "Kampung Sireh", "Kampung Syed", "Lebuhraya Cantonment", "Lebuhraya Codrington", "Lebuhraya Peel", "Lebuhraya Rose", "Lebuhraya Scott", "Lengkok Berjaya", "Lengkok Burma", "Lengkok Moulmein", "Lengkok Nunn", "Lorong Air Terjun", "Lorong Aman", "Lorong Bell", "Lorong Berjaya", "Lorong Kuching", "Lorong Pierce", "Lorong Pulau Tikus", "Lorong Thaton", "Solok Ayer Rajah"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6707": {
+    "06707": {
         "area": ["Kampung Utan Aji"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6709": {
+    "06709": {
         "area": ["Kampung Utan Temak"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6710": {
+    "06710": {
         "area": ["Kampung Wang Belimbing", "Solok Bell", "Solok Cantonment", "Solok Merican", "Solok Moulmein", "Solok Pierce", "Solok Scott", "Solok Thaton", "Taman Ayer Rajah"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6720": {
+    "06720": {
         "area": ["Kampung Wang Besar", "Taman Berjaya", "Taman Gottlieb", "Tingkat Burma", "Halaman Ariffin", "Jalan Anson", "Jalan Devapada", "Jalan Dharma", "Jalan Dunlop", "Jalan Ho Tiang Wan", "Jalan Imigresen", "Jalan Irving", "Jalan Johor", "Jalan Kek Chuan", "Jalan Khaw Sim Bee", "Jalan Kim Bian Aik", "Jalan Krian", "Jalan Lim Eow Thoon", "Jalan Logan", "Jalan Loh Boon Siew", "Jalan Macalister (1 - 191C)", "Jalan Macalister (2 - 280)", "Jalan Mandalay", "Jalan Merican", "Jalan Nanning", "Jalan Nirvana", "Jalan Padang Victoria", "Jalan Pahang", "Jalan Perlis", "Jalan Ranggon", "Jalan Seang Teik", "Jalan Selangor", "Jalan Siam", "Jalan Talipon", "Jalan Westlands", "Jalan Yeoh Cheang Aun", "Jalan Zainal Abidin", "Kampung Deli", "Lebuh Melaka", "Lebuh Ong Chong Keng", "Lebuhraya Bodhi", "Lebuhraya Pykett", "Lorong Abu Siti", "Lorong Baru", "Lorong Bertam", "Lorong Brunei", "Lorong Kinta", "Lorong Macalister", "Lorong Madras", "Lorong Merican", "Lorong Pykett", "Lorong Selamat"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6750": {
+    "06750": {
         "area": ["Kampung Wang Ulu", "Lorong Seratus Tahun", "Lorong Susu", "Solok Dunlop", "Solok Merican", "Tingkat Nirvana", "Halaman Macalister", "Halaman York", "Jalan Adams", "Jalan Barnett", "Jalan Barrack", "Jalan Batu Gantong", "Jalan Brook", "Jalan Hogan", "Jalan Jesselton", "Jalan Lahat", "Jalan Lim Mah Chye", "Jalan Macalister(193 - 225)", "Jalan Macalister (284 - 362)", "Jalan Piggot", "Jalan Residensi", "Jalan Ross", "Jalan Scotland", "Jalan Sepoy Line", "Jalan Skipton", "Jalan Tull", "Jalan Utama (78 - 166)", "Jalan Vermont", "Jalan York", "Kampung Batu Gantung", "Lebuhraya Babington", "Lebuhraya Jesselton", "Lebuh Western", "Lebuh Western (Western Avenue)"],
         "city": "Pendang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6800": {
+    "06800": {
         "area": ["Kangar", "Lengkok Barat", "Lengkok Jesselton", "Lengkok York", "Lorong York", "Medan Lumba Kuda", "Medan York", "Persiaran Kuari", "Solok Barrack", "Solok Brook", "Solok Jesselton", "Solok Ross", "Solok Scotland", "Solok Vermont", "Solok Western", "Solok York", "Taman Barat (Western Garden)", "Taman Belia", "Taman Jesselton", "Taman Western", "Jalan Abdullah Munshi", "Jalan Ayer Itam (1 - 121A)", "Jalan Ayer Itam (2 - 260)", "Jalan Dato Keramat (416 - 682A", "Jalan Dato Keramat (517 - 739)", "Jalan Gaol", "Jalan Gemas", "Jalan Gopeng", "Jalan Gunaratana", "Jalan Hospital", "Jalan Ismail Che Mat", "Jalan Kampar", "Jalan Kebun Nyor", "Jalan Kemaman", "Jalan Langkawi", "Jalan Lim Khoon Huat", "Jalan P. Ramlee", "Jalan Rawana", "Jalan Rawang", "Jalan Sungkai", "Jalan Tan lu Ghee", "Jalan Terengganu", "Jalan Tramway", "Jalan Utama (1 - 77)", "Lebuh Nambyar", "Lengkok Caunter", "Lengkok P. Ramlee", "Lorong Ayer Itam", "Lorong Kebun Nyor", "Lorong Kulit", "Market Cross", "Medan Sungkai", "Persiaran Stadium", "Solok Kebun Nyior", "Solok Rawana", "Solok Terengganu", "Taman Free School", "Tingkat Rawana", "Changkat Halia Satu", "Denai Bayu (2 - 22)", "Denai Endau (1,2,3,5,6,7,8,9,10,11,12,18,20,22)", "Denai Pinang (2,6,8,10,12,16,18,20,22,26,28,30,32,36)", "Elseidale Estate", "Gerbang Erskine", "Hong Seng Estate", "Jalan Baru Tanjong Tokong", "Jalan Batu Bukit", "Jalan Bayu", "Jalan Bayu (1 & 2)", "Jalan Choong Lye Hin", "Jalan Choong Lye Hock", "Jalan Erskrine", "Jalan Evergreen (4 - 7)", "Jalan Haji Noor", "Jalan Halia", "Jalan Lama (Tanjong Tokong)", "Jalan Lengkuas", "Jalan Mt Erskine", "Jalan Pantai Molek", "Jalan Satu Tanjong Tokong", "Jalan Seri Tanjung Pinang", "Jalan Seri Tanjung Pinang (1,2,6,8)", "Jalan Shaik Ibrahim", "Jalan Siput Kepah"],
         "city": "Kota Sarang Semut",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6900": {
+    "06900": {
         "area": ["Kubang Arang", "Jalan Siput Lala", "Jalan Siput Remis", "Jalan Tanjong Tokong", "Jalan Tua Peh Kong", "Kampung Belakang Bomba Tanjong Tokong", "Kampung Cina Tanjong Tokong", "Kampung Haji Hassim", "Kampung Kebun Sayur", "Kampung Lembu", "Kampung Tanjong Tokong", "Lebuhraya Halia", "Lengkok Endau", "Lengkok Erskine", "Lengkok Halia", "Lorong Bagan Jermal", "Lorong Erskine", "Lorong Halia", "Lorong Lengkuas", "Lorong Seri Tanjung Pinang", "Medan Bayu", "Mount Erskine", "Persiaran Halia (1 - 2)", "Persiaran Lengkuas", "Solok Batu Bukit", "Solok Choong Lye Hin", "Solok Denai (2 - 36)", "Taman Hong Seng (Hong Seng Estate)", "Tanjong Tokong", "Tingkat Halia", "Tingkat Hock Hin", "Tingkat Lengkuas", "TYT Yang Di Pertua Negeri Pulau Pinang", "YAB Ketua Menteri Pulau Pinang", "Setiasusaha Kerajaan Negeri", "Unit Penyelarasan Penyertaan Bumiputera", "Biro Bantuan Guaman", "Biro Pengaduan Awam", "Mahkamah Tinggi", "Amanah Raya Berhad", "Penasihat Undang-Undang Negeri", "Jabatan Perangkaan", "Jabatan Pemegang Harta", "Jabatan Audit Negeri", "Setiausaha Keselamatan Negeri", "Jabatan Kilang & Jentera", "Jabatan Keselamatan Sosial (Perkeso)", "Jabatan Tenaga Rakyat", "Pendaftar Kesatuan Sekerja", "Pejabat Rela Negeri", "Unit Penerbitan- Kementerian Dalam Negeri", "Jabatan Imigresen", "Jabatan Pendaftaran Negara", "Jabatan Pendaftar Pertubuhan", "Jabatan Penjara", "Ketua Polis Negeri", "Jabatan Kebajikan Masyarakat", "Muzium & Balai Seni Lukis", "Jabatan Belia & Sukan", "Jabatan Tanah & Galian", "Jabatan Ukur & Pemetaan", "Jabatan Kerja Raya", "Jabatan Kesihatan", "Jabatan Penilaian Harta", "Jabatan Penilaian Harta", "Akauntan Negeri", "Jabatan Kastam & Eksais Di Raja", "Lembaga Hasil Dalam Negeri", "Jabatan Pendidikan", "Pejabat Mara Negeri", "Bahagian Pelesenan - Kementerian Penerangan", "Jabatan Penerangan", "Jabatan Pengangkutan Jalan", "Jabatan Pendaftar Perniagaan", "Penguatkuasa Kementerian Perdagangan Dalam Negeri", "Jabatan Pengairan & Saliran", "Jabatan Perikanan", "Markas II Divisyen", "Jabatan Perancang Bandar & Desa", "Jabatan Bomba & Penyelamat"],
         "city": "Yan",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "6910": {
+    "06910": {
         "area": ["Lorong Haji Seman", "Jabatan Perhutanan", "Padi & Beras Nasional (Bernas)", "Jabatan Kimia", "Pos Malaysia Berhad", "Telekom Malaysia Berhad", "Tenaga Nasional Berhad", "Pegawai Kemajuan Negeri", "Jabatan Agama Islam Pulau Pinang", "Suruhanjaya Pilihanraya Negeri", "Pulau Pinang - Peti surat 1 - 80", "Pulau Pinang - Peti surat 81 - 160", "Pulau Pinang - Peti surat 161 - 240", "Pulau Pinang - Peti surat 241 - 320", "Pulau Pinang - Peti surat 1137 & ke atas", "Pulau Pinang - Peti surat 321 - 368", "Pulau Pinang - Peti surat 369 - 437"],
         "city": "Yan",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "7000": {
+    "07000": {
         "area": ["Lorong Kampung Sena", "Pulau Pinang - Peti surat 439 - 528", "Pulau Pinang - Peti surat 529 - 608", "Pulau Pinang - Peti surat 609 - 659", "Pulau Pinang - Peti surat 661 - 688", "Pulau Pinang - Peti surat 689 - 768", "Pulau Pinang - Peti surat 769 - 848", "Pulau Pinang - Peti surat 849 - 928", "Pulau Pinang - Peti surat 929 - 1008", "Pulau Pinang - Peti surat 1009 - 1056", "Pulau Pinang - Peti surat 1057 - 1064", "Pulau Pinang - Peti surat 660", "Pulau Pinang - Peti surat 1066 - 1136", "Pulau Pinang - Peti surat 438", "Pulau Pinang - Peti surat 1065", "Pulau Pinang - Beg berkunci", "Ayer Puteh", "Ayer Puteh Mk. 4", "Ayer Puteh Mk. C", "Ayer Puteh Mk. E", "Balik Pulau", "Batu Itam", "Bukit Cengkeh", "Bukit Penara", "Focus Heights", "Genting", "Hilir Sungai Burong", "Jalan Air Putih", "Jalan Balik Pulau", "Jalan Baru Mk. D", "Jalan Baru Mk. H", "Jalan Baru Mk. I", "Jalan Besar", "Jalan Bukit Penara", "Jalan Chai", "Jalan Genting", "Jalan Kampung Air Putih 1", "Jalan Nelayan", "Jalan Pasar", "Jalan Pinang Nirai", "Jalan Pondok Upeh", "Jalan Pondok Upeh Mk. 6", "Jalan Pulau Betong", "Jalan Pulau Betong Mk. 7", "Jalan Pulau Betong Mk. G", "Jalan Pulau Betong Mk. J", "Jalan Quah Sin Kheng", "Jalan Relau", "Jalan Relau Balik Pulau", "Jalan Sungai Air Putih", "Jalan Sungai Air Putih (1/1 - 2/3)", "Jalan Sungai Nipah", "Jalan Sungai Nipah (1 - 7)", "Jalan Sungai Pinang", "Jalan Telok Kumbar Mk.6", "Jalan Tun Sardon", "Kampung Genting", "Kampung Jalan Baru", "Kampung Kebun Besar", "Kampung Kuala Muda", "Kampung Paya", "Kampung Paya Genting", "Kampung Paya Mk. 6", "Kampung Permatang Tengah Mk.G", "Kampung Permatang Tepi Mk.H", "Kampung Permatang Timbul", "Kampung Pondok Upeh", "Kampung Sungai Nipah", "Kampung Terang", "Kampung Terang Mk. J", "Kebun Besar", "Komplek Balik Pulau", "Kuala Jalan Baru", "Kuala Jalan Baru Mk. C", "Kuala Jalan Baru Mk. D", "Kuala Muda", "Lebuh Seri Genting (1 - 6)", "Lebuh Sungai Burung (1 - 4)", "Lintang Bukit Penara 6", "Lintang Bukit Penara 8", "Lintang Pondok Upih", "Lintang Sungai Burong", "Lintang Sungai Burung", "Lorong Pondok Upih", "Lorong Pondok Upih (1 - 3)", "Lorong Seri Genting", "Lorong Seri Genting (1 - 14)", "Lorong Sungai Acheh", "Lorong Sungai Nipah (1 - 6)", "Padang Kemunting", "Padang Kemunting Mk. E", "Paya Kongsi", "Pekan Kongsi", "Permatang Tengah", "Permatang Tepi", "Pokok Manggis", "Pondok Upeh Mk. 6", "Solok Kampung Air Putih", "Solok Nelayan", "Solok Pondok Upih", "Solok Titi Teras (1 - 4)", "Sungai Burong", "Taman Balik Pulau", "Taman Desa Genting", "Taman Desa Mutiara", "Taman Jelita", "Taman Mutiara", "Taman Nyaman Indah", "Taman Pondok Upeh", "Taman Seri Emas", "Taman Seri Genting", "Taman Seri Genting 1", "Taman Seri Indah", "Taman Simpang Jaya (1 - 5)", "Tingkat Seri Genting", "Tingkat Seri Genting (1 - 3)", "Tingkat Titi Teras (3 - 9)", "Titi Kerawang", "Titi Serong", "Titi Serong Mk. 5", "Titi Teras", "Titi Teras Mk. E", "Bandar Baru Air Puteh", "Bukit Kecil", "Jalan Kampung Air Putih (1 - 4)", "Jalan Sungai Rusa", "Jalan Sungai Rusa (1 - 3)", "Kampung Pokok Manggis", "Kuala Sungai Pinang", "Lengkok Nelayan", "Lintang Nelayan", "Lorong Permatang Pasir 1", "Lorong Permatang Pasir (1,8,9,10)", "Lorong Permatang Pasir 8 - 10", "Lorong Sungai Pinang (1 - 6)", "Lorong Sungai Rusa", "Pantai Acheh", "Pantai Acheh Mk,1", "Pantai Acheh Mk. 1", "Pekan Sungai Pinang", "Permatang Pasir", "Permatang Pasir Mk.C", "Permatang Timbul", "Pulau Betong", "Solok Kuala Sungai Pinang", "Solok Nelayan", "Solok Nelayan (1 - 9)", "Sungai Nipah", "Sungai Pinang", "Sungai Pinang Mk. 3", "Sungai Pinang Mk. B", "Sungai Rusa", "Sungai Rusa Mk. 3", "Sungai Rusa Mk. B", "Taman Donaldson", "Taman Jelita", "Taman Permatang Pasir", "Taman Seri Sayang", "Titi Kerawang", "Bagan Pulau Betong", "Jalan Pulau Betong", "Kampung Perlis", "Kuala Pulau Betong", "Pasir Panjang", "Pekan Pulau Betong", "Pondok Upeh", "Pulau Betong", "Aseania Court", "Desa Marina", "Jalan Hassan Abbas", "Jalan Taman Rimba", "Jalan Teluk Bahang", "Kampung Bangsal Rawai", "Kampung Haji Dak", "Kampung Masjid", "Kampung Sekolah"],
         "city": "Langkawi",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "7007": {
+    "07007": {
         "area": ["Lorong Nisam"],
         "city": "Langkawi",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "7009": {
+    "07009": {
         "area": ["Lorong Sekolah"],
         "city": "Langkawi",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8000": {
+    "08000": {
         "area": ["Lukuk Gajah", "Kampung Teluk Awak", "Kampung Teluk Awak Mukim 1", "Lorong Hassan Abbas (2,3,4,7)", "Lorong Hj. Hassan Abbas", "Lorong Nelayan", "Medan Nelayan", "Pekan Teluk Bahang", "Akva Marine", "Awana", "Beauty Park", "Bukit Awana", "Bukit Saujana", "Desa Baiduri", "Desa Permata", "Emerald Heights", "Fairy Height", "GL Garden", "Gold Hill", "Grand View", "Jalan Buah jambu", "Jalan Buah Limau", "Jalan Bukit Kukus", "Jalan Oriental (1 - 6)", "Jalan Paya Terubung", "Jalan Rambai", "Jalan Rambai (1 - 6)", "Jalan Rambutan", "Jalan Rambutan 3", "Jalan Ru 1", "Jalan Taman Thean Teik (1 - 4)", "Kiara Indah Opal", "Ladang Thean Teik", "Lebuh Paya Terubung", "Lebuh Rambai (1 - 17)", "Lebuhraya Thean Teik", "Lengkok Paya Terubung", "Lintang Paya Terubung", "Lintang Paya Terubung (3 - 6)", "Lorong Bukit Kukus", "Lorong Rambai", "Lorong Rambutan (1 - 3)", "Lorong Terubong Ria (1 - 2)", "Lorong Terubung Ria (1 - 2)", "Paya Terubong", "Solok Bukit Kukus (1 - 4)", "Solok Paya Terubung", "Solok Paya Terubung (7 - 8)", "Solok Rambai", "Taman Bukit Ayer Itam", "Taman Indah", "Taman Jaya", "Taman Oriental", "Taman Paya Terubong", "Taman Savoy", "Taman Sri Timur", "Taman Terubung Indah", "Teluk Bahang", "Tingkat Lintang", "Tingkat Paya Terubong", "Tingkat Paya Terubung (1 - 5)", "Topaz", "Touquise", "Wayton/Summon City", "Wisma Indah", "Batu Feringghi", "Bukit Mewah", "Bukit Ria", "Changkat Ria", "Eden Fairway Condo", "Eden Feringghi Delima Condo", "Eden Parade", "Eden Seaview", "Feringghi Mutiara Appartment", "Jalan Batu Ferringhi", "Jalan Ferringhi Indah", "Jalan Ferringhi Indah (1,2,3,5,7)", "Jalan Low Yat", "Jalan Pantai Batu", "Jalan Pantai Miami", "Jalan Sungai Emas", "Jalan Sungai Emas (1,2,2A,3,4,5,5A,5B,5C,5D)", "Jalan Sungai Satu", "Kampung Belacan", "Kampung Chetty", "Kampung Hailam", "Kampung Mutiara", "Lengkok Ferringhi", "Lengkok Sungai Emas", "Lengkok Sungai Emas (1 - 4)", "Lengkok Sungai Emas 4", "Lengkok Sungai Emas 5", "Lilitan Sungai Emas", "Lintang Ferringhi (1 - 4)", "Lorong Sungai Emas", "Miami Garden", "Mount Pleasure", "Pantai Miami", "Persiaran Sungai Emas", "Persiaran Sungai Emas 1", "Pinang Emas Aparment", "Puncak Ria", "Sea Range Tower", "Sea View Garden", "Solok Ferringhi (1 - 2)", "Solok Pantai Batu (1 - 2)", "Sungai Emas 1", "The Reef Appartment", "Tingkat Pantai Miami", "Casa Lagenda Mutiara", "Fettes Park", "Hillside", "Jalan Abbas", "Jalan Ahmad Bin Kasa", "Jalan Azyze", "Jalan Baba Ahmad", "Jalan Bahaudin", "Jalan Batu Bukit", "Jalan Batu Ferringhi", "Jalan Bintang", "Jalan Bulan", "Jalan Bunga Bakawali", "Jalan Bunga Cempaka Putih", "Jalan Bunga Ciku Dangan", "Jalan Bunga Hinai", "Jalan Bunga Kacang Piring", "Jalan Bunga Matahari", "Jalan Bunga Mawar", "Jalan Bunga Melati", "Jalan Bunga Orchid", "Jalan Bunga Orkid", "Jalan Bunga Pakawali", "Jalan Bunga Pisang", "Jalan Bunga Pudak", "Jalan Bunga Rampai", "Jalan Bunga Sangka", "Jalan Bunga Tanjung", "Jalan Bunga Telang", "Jalan Bunga Tongkeng", "Jalan Cengai", "Jalan Chan Siew Teong", "Jalan Cheah Phee Cheok", "Jalan Cheah Sim Khim", "Jalan Chee Seng (1 - 13)", "Jalan Chempa Putih", "Jalan Chong Cheng Kean", "Jalan Concord", "Jalan Concord (8 - 15)", "Jalan Evergreen", "Jalan Fettes", "Jalan Gajah", "Jalan Geh Chong Keat", "Jalan Green Hill Drive", "Jalan Haji Rafie", "Jalan Haji Sudin", "Jalan Hashim", "Jalan Heah Joo Seang", "Jalan Jati", "Jalan Kaca Piring", "Jalan Kebun Sangka", "Jalan Lembah Permai", "Jalan Lim Huck Aik", "Jalan Lim Liew Saik", "Jalan Loh Poh Heng", "Jalan Loh Poh Heng 3", "Jalan Marie Pitchay", "Jalan Meranti", "Jalan Merbau", "Jalan Nyior Chabang", "Jalan Oldham", "Jalan Osman Abdul Rahman", "Jalan Pakawali", "Jalan Pantai Miami", "Jalan Pelangi", "Jalan Pelata", "Jalan Puncak Bukit Mutiara", "Jalan Puncak Bukit Mutiara 1", "Jalan Rusa", "Jalan Sam Ah Chow", "Jalan Sateria", "Jalan Sea Home", "Jalan Sentosa", "Jalan Seri Bunga", "Jalan Sungai Kelian", "Jalan Syed Abdullah Al-Sagoff", "Jalan Taman Bunga", "Jalan Tanggavelu", "Jalan Tan Jit Seng", "Jalan Tanjong Bungah", "Jalan Tanjong Tokong", "Jalan Telaga Air", "Jalan Tingkat Laut (Sea Home)", "Jalan Warburton", "Jalan Wee Hein Tze", "Kampung Cina", "Kampung Cina Tanjong Bungah", "Kampung Evergreen", "Kampung Hablour", "Kampung Melayu", "Kampung Poh Wah", "Kampung Solok Lembah Permai", "Kondominium Infiniti", "Lebuh Lembah Permai (1, 3, 4)", "Lebuh Orchard", "Lebuhraya Barat", "Lebuhraya Fettes", "Lebuhraya Fettes (1 - 3)", "Lebuhraya Selatan", "Lebuhraya Timur", "Lebuhraya Utara", "Lintang Fettes", "Lintang Lembah Permai", "Lintang Lembah Permai (3 - 16)", "Lintang Tanjong Bungah", "Lorong Abbas", "Lorong Abbas (1 - 2)", "Lorong Bintang", "Lorong Bintang (1 - 3)", "Lorong Bunga Kaca Piring", "Lorong Bunga Pudak", "Lorong Gajah", "Lorong Geh Chong Keat", "Lorong Kejora", "Lorong Lembah Permai", "Lorong Lembah Permai (1 - 9)", "Lorong Sekerat", "Lorong Sungai Kelian", "Lorong Sungai Kelian (1 - 10)", "Lorong Tanjong Bungah", "Lorong Tanjong Bungah 1", "Medan Fettes", "Medan Lembah Pantai", "Pepper Estate", "Permai Jaya", "Persiaran Green Brook", "Persiaran Green Hill", "Persiaran Hablor", "Persiaran Lembah Permai", "Persiaran New Spring", "Persiaran Pekeliling", "Persiaran Tanjong Bungah", "Persiaran Tanjong Bungah (1 - 3)", "Pesara Lembah Permai (1 - 2)", "Puncak Bukit Mutiara Dua", "Puncak Bukit Mutiara Satu", "Puncak Mutiara", "Sea Home (Jalan Tingkat Laut)", "Solok Bunga Pudak", "Solok Evergreen (1 - 2)", "Solok Kejora (1 - 2)", "Solok Lembah Permai", "Solok Lembah Permai (3 - 6)", "Solok Tan Jit Seng", "Solok Wee Hein Tze", "Taman Chee Seng", "Tanjong Bungah Park", "Tanjong Park", "Tanjung Bungah", "Tanjung Bungah Park", "Tanjung Park (1 - 2)", "Tingkat Fettes", "Tingkat Lembah Permai", "Tingkat Lembah Permai (1 - 3)", "Jalan Chee Swee Ee", "Bukit Bendera", "Jalan Summit", "Jalan Tunnel", "Jalan Waterfall", "Middle Station", "Penang Hill", "Boundry Court", "Desa Mawar", "Jalan Abdullah Ariff", "Jalan Air Itam", "Jalan Ayer Itam (129 - 173)", "Jalan Ayer Itam (262 - 584)", "Jalan Ayer Itam Mk13 (1 - 18H)", "Jalan Ayer Itam (Mukim 13)", "Jalan Dua (Ayer Itam)", "Jalan Goh Guan Ho", "Jalan Grove", "Jalan Ibbetson", "Jalan Joki", "Jalan Kuda", "Jalan Lumba Kuda", "Jalan Padang Tembak", "Jalan Pekeliling Sempadan", "Jalan Satu Ayer Itam", "Jalan Sekolah La Salle", "Jalan Sempadan", "Jalan Sempadan Enam", "Jalan Sempadan Lima", "Jalan Sheik Eusoff", "Jalan Thean Teik (1 - 23)", "Jalan Thean Teik Mk 13 (1G - 3E)", "Jalan Tunggal", "Jalan Ulong", "Kampung Baru Air Hitam", "Kampung Baru (Ayer Itam)", "Kampung Paya", "Kampung Seberang Paya", "Kastella Court", "Lebuh Padang Tembak", "Lengkok Lumba KUda", "Lengkok Padang Tembak", "Lengkok Sekolah La Salle", "Lintang Abdullah Ariff", "Lintang Kampung Melayu", "Lintang Lumba Kuda", "Lintang Lumba Kuda 1", "Lintang Sempadan", "Lorong Air Puteh", "Lorong Batu Lancang", "Lorong Batu Lancang (79 - 143)", "Lorong Boundary 5", "Lorong Lumba Kuda", "Lorong Padang Tembak", "Lorong Sempadan", "Lorong Sempadan (1 - 5)", "Lorong Sheikh Eusoff", "Medan Goh Guan Ho", "Medan Lumba KUda", "Padang Tembak", "Persiaran Abdullah Ariff", "Polis Simpanan Persekutuan (FRU)", "Riffle Court", "Riffle Garden", "Solok Goh Guan Ho", "Solok Goh Guan Ho (1 - 2)", "Solok Padang Tembak", "Solok Sekolah La Salle", "Solok Sempadan", "Taman Air Hitam", "Taman Air Itam", "Taman Boundry", "Taman David Chen", "Taman Harmoni", "Taman Lengkok", "Taman Lumba Kuda", "Taman Mahsuri", "Taman Manik", "Taman Sri Indah", "Villa Sri Melati", "Padang Tembak - Beg berkunci", "Ayer Itam", "Bandar Baru Ayer Itam", "Bukit Saujana", "Cangkat Lembah Ria", "Desa Bendera", "Desa Cantik", "Desa Delima", "Desa Intan", "Desa Ivory", "Desa Ixora", "Desa Mawar", "Fairy Heights", "Flat Desa Mawar", "Flat Kampung Melayu", "Fortune Court", "Grand View Heights", "Halaman Zoo", "Halaman Zoo 1", "Happy Garden", "Hill Railway Road", "Hye Keat Estate", "Jalan Air Puteh", "Jalan Angsana", "Jalan Ayer Itam (Mk 13 & 16)", "Jalan Batu Jantan", "Jalan Batu Perempuan", "Jalan Beriksa", "Jalan Beriksa (1 - 4)", "Jalan Bukit Bendera", "Jalan Chor Sin Kheng", "Jalan Kampung Melayu", "Jalan Kampung Pisang", "Jalan Khoo Hye Keat", "Jalan Lembah Ria", "Jalan Lintang", "Jalan Mata Kucing", "Jalan Pasar", "Jalan Paya Terubong", "Jalan Pisang Emas", "Jalan Pisang Embun", "Jalan Pisang Nangka", "Jalan Pisang Raja", "Jalan Pisang Rastali", "Jalan Pisang Tanduk", "Jalan Pokok Cheri", "Jalan Pokok Sena", "Jalan Rambutan", "Jalan Ru", "Jalan Ru (1 - 3)", "Jalan Savoy", "Jalan Semarak Api", "Jalan Semarak Api 1", "Jalan Seri Bendera", "Jalan Shaik Madar", "Jalan Stesen Bukit Bendera", "Jalan Taman Cantik", "Jalan Taman Ria", "Jalan Taman Ria (1 - 3)", "Jalan Teo Chew"],
         "city": "Sungai Petani",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8007": {
+    "08007": {
         "area": ["Mengkuang Layar"],
         "city": "Sungai Petani",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8009": {
+    "08009": {
         "area": ["Padang Bohor"],
         "city": "Sungai Petani",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8010": {
+    "08010": {
         "area": ["Pengkalan Asam", "Jalan Teo Chew (1 - 2)", "Jalan Thean Teik", "Jalan Tingkat Lintang", "Jalan Tun Mohd Salleh", "Jalan Zoo", "Kampung Lembah Ria", "Kampung Melayu", "Kampung Pisang", "Kampung Shaik Madar", "Kiara Indah Condo", "Komplek Farlim", "Ladang Hye Keat", "Lebuh Paya Terubung", "Lebuh Rambai", "Lebuhraya Thean Teik", "Lembah Ria", "Lintang Angsana", "Lintang Kampung Melayu (1 - 2)", "Lintang Zoo", "Lorong Kampung Melayu", "Lorong Lapan", "Lorong Lembah Ria (1- 2)", "Lorong Rambai", "Lorong Rambutan", "Lorong Semarak Api", "Lorong Semarak Api (1 - 5)", "Lorong Taman Cantik", "Lorong Zoo"],
         "city": "Sungai Petani",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8100": {
+    "08100": {
         "area": ["Perumahan Awam Bohor Lateh", "Lorong Zoo (1 - 7)", "Medan Angsana", "Medan Angsana (1, 2, 4)", "Medan Chor Sin Kheng", "Medan Kolam Air", "Paya Terubong Hill", "Reservoir Cresent", "Reservoir Garden (1st - 9th Avenue)", "Solok Lintang", "Solok Semarak Api", "Solok Thean Teik", "Solok Thean Tek", "Solok Zoo", "Solok Zoo Satu", "Sri Impian", "Swarna", "Taman Cantik", "Taman Green Field", "Taman Hui Aun", "Taman Kim", "Taman Lintang", "Taman Lone Pine", "Taman Paya Terubong", "Taman Pisang Awak", "Taman Reservoir", "Taman Saukat", "Taman Savoy", "Taman Seri Hye Keat", "Taman Seri Idaman", "Taman Seri Indah", "Taman Seri Timur", "Taman Terubong Jaya", "Taman Thean Teik", "Tanjung Court Condo"],
         "city": "Bedong",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8110": {
+    "08110": {
         "area": ["Perumahan Awam Santan", "Thean Teik Estate", "Tingkat Lembah Ria", "Tingkat Lembah Ria (1 - 4)", "Treasure Ville", "Batu Hijau", "Batu Lancang", "Bukit Dumbar", "Cangkat Dumbar", "Changkat Tembaga", "Gelugor Hijau"],
         "city": "Bedong",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8200": {
+    "08200": {
         "area": ["Repoh", "Gerbang Batu Lancang", "Gerbang Heah Swee Lee", "Green Drive (Persiaran Hijau)", "Green Garden Estate", "Greenlane Height", "Halaman Bakau", "Halaman FreeSchool", "Halaman Hargreaves", "Halaman Tembaga", "Hala Sungai Pinang", "Hargreaves Circus", "Hilir Sungai Pinang", "Jalan Bagan Serai", "Jalan Batu Gajah", "Jalan Batu Lanchang", "Jalan Berseh", "Jalan Besi", "Jalan Bukit Dumber", "Jalan Cheeseman", "Jalan Dungun", "Jalan Free School", "Jalan Gangsa", "Jalan Gelugor (2 - 10)", "Jalan Grik", "Jalan Haji Ahmad", "Jalan Haji Ali", "Jalan Hajjah Rehmah", "Jalan Hamilton", "Jalan Han Chiang", "Jalan Hargreaves", "Jalan Hijau", "Jalan Hijau (1 - 4)", "Jalan Hikmat", "Jalan Jelutong", "Jalan Jeti Jelutong", "Jalan JKR", "Jalan Kampung Masjid", "Jalan Kennedy", "Jalan Kota Giam", "Jalan Kurau"],
         "city": "Sik",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8210": {
+    "08210": {
         "area": ["Sena Rendang", "Jalan Lenggong", "Jalan Lim Lean Teng", "Jalan Madrasah", "Jalan Mas", "Jalan Masjid Jelutong Timur", "Jalan Masjid Negeri (Dahulu Jalan Greenlane)", "Jalan Md Taib", "Jalan Ong Joo San", "Jalan Ooi Thiam Siew", "Jalan Panchor", "Jalan Penaga", "Jalan Penawar", "Jalan Penawar 1", "Jalan Perak (302 - 420)", "Jalan Perak (313 - 421)", "Jalan Perusahaan Jelutong", "Jalan Perusahaan Jelutong (1 - 3)", "Jalan Philips", "Jalan Pinhorn", "Jalan Selama", "Jalan Selendang", "Jalan Sir Hussain", "Jalan Sir Ibrahim", "Jalan Sitiawan", "Jalan Taiping", "Jalan Taman Green View"],
         "city": "Sik",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8300": {
+    "08300": {
         "area": ["Taman Abu Bakar Munir", "Jalan Tapah", "Jalan Taylor", "Jalan Tembaga", "Jalan Tengku", "Jalan Thorpe", "Jalan Tokong Batu", "Jalan Van Praagh", "Jalan Western", "Jelutong", "Jelutong Barat", "Jelutong Timur", "Kampung Hijau", "Kampung Jalan Perak", "Kampung Madrasah", "Kampung Masjid", "Kampung Pisang Awak", "Kampung Pulau (Jelutong)", "Kampung Tokong Siam", "Lebuh Bakau", "Lebuh Batu Gajah", "Lebuh Gelugor", "Lebuhraya Batu Lanchang", "Lebuhraya Besi", "Lebuhraya Gelugor", "Lebuhraya Jelutong", "Lebuhraya Mas", "Lebuhraya Tembaga", "Lebuhraya Tun Dr. Hamdan", "Lebuh Sungai Pinang", "Lebuh Sungai Pinang (1 - 8)", "Lengkok Ariff", "Lengkok Batu Lanchang", "Lengkok Dumbar", "Lengkok Gelugor", "Lengkok Haji Ahmad", "Lengkok Hijau", "Lengkok Tembaga", "Lilitan Hargreaves", "Lintang Bakau", "Lintang Batu"],
         "city": "Gurun",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8320": {
+    "08320": {
         "area": ["Taman Aman", "Lintang Batu Lanchang", "Lintang Besi", "Lintang Gelugor", "Lintang Hajjah Rehmah", "Lintang Hijau", "Lintang Jelutong", "Lintang Madrasah", "Lintang Mas", "Lintang Penawar", "Lintang Penawar (1 - 3)", "Lintang Tembaga", "Lorong Bakau", "Lorong Batu", "Lorong Batu Lanchang", "Lorong Bidor", "Lorong Cantik", "Lorong Chemor", "Lorong Dumbar", "Lorong Free School", "Lorong Gangsa", "Lorong Gelugor", "Lorong Gemang", "Lorong Haji Ahmad", "Lorong Hijau (1 - 8)", "Lorong Ipoh", "Lorong Jelutong", "Lorong Juru", "Lorong Kaya", "Lorong Madrasah", "Lorong Parit Buntar", "Lorong Penaga", "Lorong Penawar 2", "Lorong Perak"],
         "city": "Jeniang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8330": {
+    "08330": {
         "area": ["Taman Bakau Emas", "Lorong Sekolah", "Lorong Slim", "Lorong Tembaga", "Lorong Tenang", "Medan Penaga", "Medan Tembaga", "Medan Terengganu", "Persiaran Besi", "Persiaran Hijau", "Persiaran Mas", "Persiaran Tembaga"],
         "city": "Gurun",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8340": {
+    "08340": {
         "area": ["Taman Behor Indah", "Pintasan Sungai Pinang", "Solok Batu Gajah", "Solok Batu Lanchang", "Solok Besi", "Solok Dumbar", "Solok Free School", "Solok Gangsa", "Solok Gangsa 1", "Solok Gelugor", "Solok Jelutong", "Solok Mas", "Solok Perak", "Solok Slim", "Solok Slim 1"],
         "city": "Sik",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8400": {
+    "08400": {
         "area": ["Taman Bintong Maju", "Solok Sungai Pinang", "Solok Sungai Pinang (3 - 6)", "Solok Tembaga", "Solok Tembaga (1 - 4)", "Solok Tengku", "Solok Van Praagh", "Taman Besi", "Taman Gelugor", "Taman Green View", "Taman Guan Joo Seng", "Taman Haji Ahmad", "Taman Hijau (1 - 3)", "Taman Hutchings"],
         "city": "Merbok",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8407": {
+    "08407": {
         "area": ["Taman Bintong Setia"],
         "city": "Merbok",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8409": {
+    "08409": {
         "area": ["Taman Bintong Utama"],
         "city": "Merbok",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8500": {
+    "08500": {
         "area": ["Taman Bukit Kaya", "Taman Island", "Taman Jelutong", "Taman Kennedy", "Taman Mutiara Vista", "Taman Pelangi Indah", "Taman Sinar Pelangi", "Taman Sir Hussein", "Taman Wu Lien The", "Tapak Pokok Asam", "Tapak Sungai Pinang", "Tingkat Bakau", "Tingkat Besi", "Tingkat Haji Ahmad", "Tingkat Jelutong", "Tingkat Mas", "Tingkat Tembaga", "Tingkat Tengku", "Wayton Flat", "Jelutong - Beg berkunci", "Batu Uban", "Bukit Gambier", "Bukit Gelugor", "Cangkat Bukit Gambir", "Cangkat Bukit Gambir (1 - 2)", "Cangkat Delima", "Cangkat Minden Jalan (1 - 17)", "Cangkat Minden Lorong (1 - 14)", "Gelugor", "Gerbang Minden", "Gerbang Minden 1", "Halaman Bukit Gambir", "Halaman Bukit Gambir (1 - 11)", "Hilir Pemancar", "Islan Glades", "Jalan Akuarium", "Jalan Batu Uban (1 - 4)", "Jalan Batu Uban 5", "Jalan Bukit Dumbar", "Jalan Bukit Gambir", "Jalan Bunga Cempaka", "Jalan Bunga Raya", "Jalan Cathrop", "Jalan Delima", "Jalan Endah", "Jalan Faraday", "Jalan Gelugor", "Jalan Helang", "Jalan Ismail Nagore", "Jalan Kaki Bukit", "Jalan Kampung Kastam", "Jalan Ketitir", "Jalan Ketitir (1 - 4)", "Jalan Khemah", "Jalan Molek", "Jalan Murai", "Jalan Pantai Jerejak 1", "Jalan Pekaka (1 - 2)", "Jalan Pekeliling", "Jalan Pemancar", "Jalan Permai", "Jalan Selatan", "Jalan Sultan Azlan Shah (Gelugor)", "Jalan Sungai Dua", "Jalan Thomas", "Jalan Tunku Kudin", "Jalan Udini", "Jalan Utara", "Jalan Williams", "Jalan Yeap Chor Ee", "Kampung Gelugor", "Kampung Kastam", "Kampung Keling"],
         "city": "Kota Kuala Muda",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8507": {
+    "08507": {
         "area": ["Taman Bukit Kayangan"],
         "city": "Kota Kuala Muda",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8509": {
+    "08509": {
         "area": ["Taman Bumita"],
         "city": "Kota Kuala Muda",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8600": {
+    "08600": {
         "area": ["Taman Bunga Kemboja RPA", "Kampung Sungai Dua", "Kampung Tengah", "Komplek Perdagangan LKK Nipah", "Lebuh Bukit Gambir (2 - 3)", "Lebuh Minden (1 - 2)", "Lebuh Pekaka (1 - 2)", "Lebuhraya Bingham", "Lebuhraya Pantai Bayan Lepas", "Lebuhraya Pantai Gelugor", "Lebuhraya Tuanku Syed Sirajuddin", "Lebuh Tunku Kudin 2", "Lengkok Atas", "Lengkok Bawah"],
         "city": "Sungai Petani",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8700": {
+    "08700": {
         "area": ["Taman Bunga Raya", "Lengkok Minden", "Lengkok Nipah", "Lengkok Nipah (2 - 5)", "Lengkok Pekaka", "Lengkok Pemancar", "Lengkok Sungai Dua", "Lengkok Sungai Gelugor (1 - 2)", "Lintang Delima", "Lintang Delima (1 - 15)", "Lintang Merak", "Lintang Minden (1 - 3)", "Lintang Pantai Jerejak"],
         "city": "Jeniang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "8800": {
+    "08800": {
         "area": ["Taman Cahaya", "Lintang Pantai Jerejak (2 - 6)", "Lintang Pekaka (1 - 9)", "Lintang Permai (1 - 4)", "Lorong Batu Uban (1 - 5)", "Lorong Buah Pala", "Lorong Bukit Gambir (2 - 3)", "Lorong Bunga Raya", "Lorong Delima", "Lorong Delima (1 - 20)", "Lorong Endah (1 - 7)", "Lorong Helang (1 - 3)", "Lorong Merak (1 - 2)", "Lorong Pekaka (1 - 6)", "Lorong Permai (1 - 3)", "Lorong Tunku Kudin 2", "Medan Murai (1 - 2)", "Minden Heights", "Persiaran Batu Uban", "Persiaran Bukit Gambir", "Persiaran Minden", "Persiaran Minden (1 - 3)", "Persiaran Nipah", "Pintasan Pemancar (3 - 4)", "Solok Batu Uban (3 - 4)", "Solok Bunga Raya", "Solok Minden", "Solok Pekaka (1 - 2)", "Solok Pemancar", "Solok Permai", "Sungai Dua", "Sungai Dua Mk.13", "Taman Brown", "Taman Bukit Dumbar"],
         "city": "Gurun",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9000": {
+    "09000": {
         "area": ["Taman Cergas", "Taman Century", "Taman Pekaka", "Taman Sentosa", "Taman Tun Sardon", "The View Condo", "Tingkat Batu Uban (1 - 4)", "Tingkat Bukit Dumbar", "Tingkat Jerejak", "Tingkat Pekaka (2, 4)", "Tingkat Pemancar", "Tingkat Permai", "Tingkat Sungai Gelugor (8 - 9)", "Universiti Sains Malaysia", "Akasia", "Alamanda", "Asoka", "Ayu Height", "Bayan Bay", "Bayan Lepas", "Bayan Permai", "Begonia", "Bukit Ayon", "Bukit Huma", "Bukit Huma Sungai Ara Mk. 12", "Bukit Kecil Sungai Nibong Besar", "Cangkat Kenari", "Cangkat Kenari (1 - 3)", "Cangkat Kenari Desaria Sungai Ara", "Cangkat Sungai Ara", "Cangkat Sungai Ara (1 - 10)", "Cangkat Sungai Ara 1A", "Cempaka", "Dafe Court", "Dahlia", "Daisi", "Desa Alor Vista", "Desa Aman", "Desa Bayan", "Desa Clarissa", "Desa Golf", "Desa Iswara", "Desa Jaya", "Desa Madura", "Desa Mas Melor", "Desa May", "Desa Putra", "Desa Rahmat", "Desaria Sungai Ara", "Desa Widuri", "Diamond Valley", "Fairway", "Free Industrial Zone Phase (1 - 4)", "Gerbang Bukit Kecil 2", "Gerbang Sungai Ara (1 - 7)", "Gerbang Sungai Ara 2A", "Hala Kampung Jawa (1 - 2)", "Halaman Bukit Jambul", "Halaman Kampung Jawa", "Halaman Kampung Jawa 1", "Halaman Murni", "Halaman Paya Terubung", "Halaman Sungai Keluang", "Halaman Teratai", "Hilir Paya Terubong", "Hilir Paya Terubong (1 - 3)", "Hilir Sungai", "Hilir Sungai 2", "Hilir Sungai Keluang", "Hilir Sungai Keluang 2", "Hilir Sungai Keluang 3", "Inai", "Jalan Aziz Ibrahim", "Jalan Ban Batu Maung", "Jalan Besar Bayan Lepas", "Jalan Bukit Kecil (1 - 2)", "Jalan Datok Ismail Hashim", "Jalan Garuda", "Jalan Kampung Bukit", "Jalan Kampung Perlis", "Jalan Kampung Relau", "Jalan Kedidi", "Jalan Kenari", "Jalan Kenyalang", "Jalan Kolam Ikan", "Jalan Mahkamah", "Jalan Medan Bayan", "Jalan Merbah", "Jalan Nipah", "Jalan Nuri (1 - 11)", "Jalan Pantai Aziz Ibrahim", "Jalan Pantai Jerejak", "Jalan Pantai Jerejak (1 - 18)", "Jalan Paya Terubong", "Jalan Relau", "Jalan Rumbia", "Jalan Sultan Azlan Shah", "Jalan Sungai Ara", "Jalan Sungai Ara (1 - 9)", "Jalan Sungai Dua", "Jalan Sungai Keluang 1", "Jalan Sungai Tiram", "Jalan Sungai Tiram (2,3,6)", "Jalan Tengah", "Jalan Tengah Blok B", "Jalan Tengah Blok D", "Jalan Tun Dr Awang", "Jambul Court", "Jambul View", "Kampung Bakit", "Kampung Baruh", "Kampung Baru Sungai Ara", "Kampung Batak", "Kampung Batak Mk. 13", "Kampung Bukit Ayon Blok G", "Kampung Bukit Bayan Lepas", "Kampung Bukit Kecil", "Kampung Jawa", "Kampung Manggis", "Kampung Manggis Bayan Lepas", "Kampung Masjid Bayan Lepas", "Kampung Masjid Blok D Sungai Ara", "Kampung Padang", "Kampung Padang Asam Blok G", "Kampung Padang Bayan Lepas", "Kampung Pagar Buluh", "Kampung Pagar Buluh Sungai Ara Mk.10", "Kampung Perlis", "Kampung Perlis Blok G", "Kampung Relau", "Kampung Relau Mk. 10", "Kampung Sepuluh Kongsi Blok G", "Kampung Seronok", "Kampung Sungai Tiram Blok G", "Kampung Sungai Tiram Blok H", "Kampung Tersusun", "Kampung Tersusun Sungai Ara", "Kem Sungai Ara", "Kompleks Bukit Jambul", "Komplek Sri Relau", "Kompleks Tabung Haji", "Kondo Putra Marina", "Kota Nibong", "Kristal Corporate", "Kristal Court", "Kristal Idaman", "Kristal Villa", "Krystal Point", "Lantana", "Lapangan Terbang Antarabangsa Bayan Lepas", "Lavina Aparment", "Lebuh Bukit Jambul", "Lebuh Bukit Kecil (1 - 6)", "Lebuh Kampung Jawa", "Lebuh Mas", "Lebuh Nipah (1 - 5)", "Lebuh Nipah Emas", "Lebuh Pantai Jerejak 2", "Lebuh Paya Terubung 3", "Lebuhraya Kampung Jawa", "Lebuhraya Nipah", "Lebuhraya Pantai Bayan Lepas", "Lebuhraya Tuanku Syed Sirajuddin", "Lebuh Relau", "Lebuh Relau (2 - 8)", "Lebuh Sungai Ara", "Lebuh Sungai Ara 1", "Lebuh Sungai Tiram (1 - 2)", "Lembaga Kemajuan Ikan Malaysia", "Lengkok Bukit Jambul", "Lengkok Kampung Jawa 2", "Lengkok Kelicap", "Lengkok Kenari (1 - 3)", "Lengkok Merbah", "Lengkok Nipah", "Lengkok Nuri", "Lilitan Bayan", "Lintang Batu Maung 2", "Lintang Bayan", "Lintang Bayan (1 - 14)", "Lintang Bayan Indah (1 - 4)", "Lintang Bayan Lepas", "Lintang Bayan Lepas (1 - 11)"],
         "city": "Kulim",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9007": {
+    "09007": {
         "area": ["Taman Ceria"],
         "city": "Kulim",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9009": {
+    "09009": {
         "area": ["Taman Choo Kee"],
         "city": "Kulim",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9010": {
+    "09010": {
         "area": ["Taman Datuk Jaafar Hassan", "Lintang Beringin", "Lintang Bukit Jambul", "Lintang Bukit Kecil (1 - 6)", "Lintang Kampung Jawa", "Lintang Nipah", "Lintang Relau 1", "Lintang Sungai Ara (1 - 5)", "Lintang Sungai Tiram (4,5)", "Lorong Aziz Ibrahim", "Lorong Batu Nilam", "Lorong Batu Nilam (2, 4, 6)", "Lorong Bayan Indah (1 - 4)", "Lorong Bukit Jambul", "Lorong Bukit Jambul 1"],
         "city": "Kulim",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9020": {
+    "09020": {
         "area": ["Taman Datuk Setia", "Lorong Bukit Kecil", "Lorong Kampung Jawa", "Lorong Kelicap", "Lorong Kenari", "Lorong Kenari (1 - 15)", "Lorong Kolam Ikan (1 - 3)", "Lorong Nipah (1 - 15)", "Lorong Pantai Jerejak", "Lorong Relau (1 - 3)", "Lorong Rumbia (1 - 2)", "Lorong Sungai Ara", "Lorong Sungai Ara 2"],
         "city": "Kulim",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9100": {
+    "09100": {
         "area": ["Taman Datuk Wan Ahmad", "Lorong Sungai Tiram", "Lorong Sungai Tiram (1 - 5)", "Lucky Garden", "Marina Towers", "Mawar", "Mawar Apartment", "Medan Bayan Indah", "Medan Bayan Lepas", "Medan Kampung Relau", "Medan Kampung Relau 1", "Medan Mayang Pasir", "Medan Nipah", "Medan Nuri", "Medan Pantai Jerejak", "Medan Suri", "Melati", "Melati Apartment", "MSSPP Kem Sungai Ara", "Mutiara Perdana", "None Free Industrial Zone", "Orkid", "Padang Asam", "Pagar Buloh", "Pantai Jerjak", "Pearl Island Condominium", "Pearl Island Country Club", "Pekan Relau", "Penang Development Corporation", "PerKampungan Polis Bayan Indah", "Persara Mahsuri", "Persiaran Bayan", "Persiaran Bayan Bay", "Persiaran Bayan Indah (1 - 3)", "Persiaran Bukit Jambul (1 - 9)", "Persiaran Bukit Kecil", "Persiaran Bukit Kecil (1 - 9)", "Persiaran Kelicap (1 - 3)", "Persiaran Mahsuri", "Persiaran Nuri (1 - 3)", "Persiaran Pantai Jerejak (1 - 11)", "Persiaran Paya Terubong", "Persiaran Paya Terubong(1 - 3)", "Persiaran Paya Terubung (5 - 9)", "Persiaran Relau", "Pesara Kampung Jawa", "Pesara Nipah", "Pintasan Kampung Jawa (1 - 2)", "Pintasan Kenari", "Pintasan Pasir Belanda", "Pintasan Sungai Ara (1 - 6)", "Prima View", "Pulau Jerejak", "Pusat Bayan", "Queen Bay Mall", "Raya", "Regency Height", "Relau", "Relau Estate", "Relau Indah", "Relau Intan", "Relau Vista", "Sepuloh Kongsi", "Seroja", "Setia Pulau Mutiara", "Solok Bayan Indah", "Solok Bayan Lepas", "Solok Bukit Jambul", "Solok Bukit Jambul (1 - 5)", "Solok Kampung Perlis", "Solok Kampung Relau", "Solok Kampung Relau 1", "Solok Kelicap", "Solok Kenari", "Solok Nuri", "Solok Pantai Jerejak", "Solok Relau (1 - 3)", "Solok Sungai Ara 2", "Springfield Apartment", "Springfield Condominium", "Sri Abadi", "Sri Merbah", "Sri Nipah", "Sungai Ara", "Sungai Ara Blok B", "Sungai Ara Blok D", "Sungai Keluang", "Sungai Nibong", "Sungai Nibong Besar", "Sungai Nibong Besar Blok A", "Sungai Nibong Kecil", "Sungai Nipah", "Sungai Tiram", "Sunrise Garden", "Suria Kenari", "Taman Alor Vista", "Taman Ara Indah", "Taman Ara Mas", "Taman Bendera", "Taman Bukit Jambul", "Taman Cahaya", "Taman Desa Ara", "Taman Desa Permai Indah", "Taman Desa Rahmat", "Taman Desa Relau", "Taman Fairway View", "Taman Jasmine", "Taman Jublee", "Taman Kumbar Permai", "Taman Lip Sin", "Taman Makmur Jaya", "Taman Mas", "Taman Relau Intan", "Taman Relau Jaya", "Taman Sawkit", "Taman Segar", "Taman Sri Acres", "Taman Sri Aman", "Taman Sri Angsana", "Taman Sri Ara", "Taman Sri Merpati", "Taman Sri Nibong", "Taman Sri Relau", "Taman Sungai Ara", "Taman Tunas Damai", "Tingkat Bukit Jambul", "Tingkat Bukit Jambul 1", "Tingkat Bukit Kecil (1,2,4)", "Tingkat Kenari", "Tingkat Kenari (1 - 6)", "Tingkat Kenari 8", "Tingkat Nipah", "Tingkat Sungai Ara", "Tingkat Sungai Ara (1 - 4)", "Victoria Height", "Villa Emas", "Vista Ria Condominium", "Wisma Pahlawan", "Zon Perdagangan Bebas Bayan Lepas", "Gertak Sanggul", "Jalan Gertak Sanggul", "Jalan Gertak Sanggul 2", "Kampung Sulup", "Lorong Gertak Sanggul (1 - 2)", "Pasir Belanda", "Solok Gertak Sanggul", "Solok Gertak Sanggul 1", "Bagan Pasir Belanda", "Bagan Teluk Kumbar", "Bandar Baru Perda", "Bandar Baru Teluk Kumbar", "Bandar Perda Teluk Kumbar", "Bukit Gemeruh", "Bukit Gemuruh", "Cangkat Bukit Belah", "Gertak Sanggul", "Jalan Bukit Belah", "Jalan Kampung Masjid", "Jalan Pasir Belanda", "Jalan Permatang Damar Laut", "Jalan Sungai Batu", "Jalan Sungai Batu (1, 4, 5)", "Jalan Teluk Kumbar", "Kampung Bukit", "Kampung Bukit Belah", "Kampung Masjid", "Kampung Masjid (Gertak Sanggol)", "Kampung Matahari Jatuh", "Kampung Matahari Naik", "Kampung Nelayan", "Kampung Nelayan Teluk Kumbar", "Kampung Paya Teluk Kumbar", "Kampung Sepakat", "Kampung Suluh", "Kampung Sulup Teluk Kumbar", "Kampung Sungai Batu", "Kampung Sungai Batu Mk. 11", "Kampung Sungai Batu Mk. 9", "Krystal Country Homes", "Lengkok Kampung Masjid", "Lengkok Telok Kumbar (1 - 4)", "Lintang Kampung Masjid", "Lintang Sungai Batu", "Lintang Teluk Kumbar (1 - 3)", "Lorong Sinar", "Lorong Sungai Batu", "Lorong Sungai Batu (1-6)", "Pekan Teluk Kumbar", "Persiaran Sungai Ara (1 - 4)", "Pintasan Kampung Masjid", "Pintasan Pasir Belanda (1 - 5)", "Saujana Heights", "Simpang Tiga Teluk Kumbar", "Solok Bukit Belah (2 - 5)", "Solok Pasir Belanda", "Solok Sungai Batu", "Solok Sungai Batu (1 - 2)", "Solok Teluk Kumbar", "Taman Desa", "Taman Sahabat", "Taman Sri Gemuruh", "Taman Sungai Batu", "Taman Teluk Indah", "Taman Teluk Kumbar", "Taman Widuri", "Teluk Kumbar", "Teluk Kumbar Mukim 9"],
         "city": "Baling",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9110": {
+    "09110": {
         "area": ["Taman Desa Bintong", "Tingkat Pasir Belanda (1 - 8)", "Tingkat Sungai Batu", "Tingkat Sungai Batu (1,2,3,5)", "Tingkat Teluk Kumbar", "Tingkat Teluk Kumbar (1 - 4)", "Astaka Bukit Gedong", "Bandar Bayan Baru", "Bayan Baru", "Bukit Gedong", "Cangkat Mayang Pasir", "Giant Hypermarket", "Halaman Cendana", "Halaman Mahsuri", "Halaman Mayang Pasir (1 - 9)", "Hala Nibong", "Hilir Nibong (1 - 2)", "Jalan Bahagia", "Jalan Mahsuri", "Jalan Mayang Pasir", "Jalan Mayang Pasir 2", "Jalan Nibong", "Jalan Relau", "Jalan Sultan Azlan Shah", "Jalan Teluk Tempoyak Mk.12", "Jalan Tengah", "Jalan Tun Dr. Awang", "Kampung Paya (Teluk Kumbar)", "Kampung Pulau Blok B", "Kampung Sungai Nibong Kecil", "Kampung Tengah Sungai Nibong Kecil", "Komplek Desa Mayang", "Komplek Mayang Mall", "Komplek PISA"],
         "city": "Kuala Pegang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9200": {
+    "09200": {
         "area": ["Taman Desa Jarak", "Lebuh Mahsuri", "Lebuh Mayang Pasir", "Lebuh Nibong", "Lebuhraya Mayang Pasir", "Lebuhraya Nibong", "Lengkok Mahsuri", "Lengkok Mayang Pasir (1 - 2)", "Lintang Mahsuri", "Lintang Mayang Pasir", "Lintang Mayang Pasir (1 - 5)", "Lintang Nibong", "Lorong Bahagia", "Lorong Mahsuri (1 - 12)", "Lorong Mayang Paisr (1 - 5)", "Medan Mahsuri", "Medan Mahsuri 1", "Medan Mayang Pasir", "Penang International Sports Arena (PISA)", "Persiaran Mahsuri", "Persiaran Mahsuri 1", "Persiaran Mahsuri (1/1 - 1/3)", "Persiaran Mahsuri 2", "Persiaran Mahsuri (2/1 - 2/6)", "Persiaran Mayang Pasir", "Persiaran Mayang Pasir (2 - 8)", "Pesara Mahsuri", "Pesara Mahsuri (3 - 5)", "Pintasan Bahagia (3 - 14)", "Pintasan Mayang (1 - 7)", "Puteri Indah Apartment", "Solok Kampung Jawa (1 - 8)", "Solok Mahsuri", "Solok Mahsuri (1 - 5)", "Solok Nibong Kecil", "Sunshine Square Market", "Taman Bukit Gedong", "Taman Nibong", "Taman Sri Tunas", "Taman Tunas Muda", "Tingkat Mayang Pasir", "Tingkat Nibong (1 - 2)", "Batu Maung", "Batu Maung Blok H", "Batu Maung Blok J", "Batu Maung Blok K", "Batu Maung Blok K Mk. 12", "Batu Maung Slipway", "Bukit Batu Maung Blok K", "Desa Jelita", "Desa Wangsa", "Dynaview", "Gerbang Batu Maung", "Halaman Batu Maung", "Institut Penyelidikan Perikanan"],
         "city": "Kupang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9300": {
+    "09300": {
         "area": ["Taman Desa Katong", "Jalan Baru Batu Maung", "Jalan Batu Maung", "Jalan Beringin", "Jalan Bukit Jambul", "Jalan Damar", "Jalan Damar (1 - 4)", "Jalan Jeliti", "Jalan Jeliti (1 - 2)", "Jalan Kekabu", "Jalan Kekabu (1 - 3)", "Jalan Permatang Damar Laut", "Jalan Permatang Damar Laut Blok J Mk.12", "Jalan Permatang Tepi Bukit", "Jalan Telok Tempoyak Mk.12"],
         "city": "Kuala Ketil",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9310": {
+    "09310": {
         "area": ["Taman Desa Kayangan", "Kampung Baru Batu Maung Blok H", "Kampung Binjai", "Kampung Seronok", "Lebuh Batu Maung"],
         "city": "Kuala Ketil",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9400": {
+    "09400": {
         "area": ["Taman Desa Pulai", "Lebuh Batu Maung (1 - 13)", "Lebuhraya Batu Maung", "Lebuhraya Tuanku Syed Sirajuddin", "Lengkok Batu Maung", "Lengkok Permatang Damar Laut", "Lengkok Permatang Damar Laut 1", "Lilitan Batu Maung", "Lintang Batu Maung (1 - 8)", "Lintang Beringin (1 - 7)", "Lorong Batu Maung (1 - 2)", "Lorong Damar", "Lorong Damar (1 - 5)", "Lorong Jeliti (1 - 2)", "Lorong Kekabu (1 - 2)", "Permatang Damar Laut", "Solok Batu Maung", "Solok Beringin", "Solok Kekabu (1 - 2)", "Sungai Nipah", "Taman Gembira", "Taman Iping", "Taman Jelita", "Taman Seri Mewah", "Taman Seri Orkid", "Teluk Tempoyak", "Terminal Kargo", "Tingkat Batu Maung", "Tingkat Batu Maung 1", "Halaman Selat", "Jalan Acham", "Jalan Allen", "Jalan Bagan Baru (1 - 10)", "Jalan Bagan Luar", "Jalan Bagan Sena", "Jalan Cheah Sai Hwa", "Jalan Datuk Haji Ahmad Said", "Jalan Heah Seng What", "Jalan Heng Choon Thian", "Jalan Kampung Acham", "Jalan Kampung Jawa", "Jalan Loader", "Jalan Mewah", "Jalan Mewah (2, 4)", "Jalan Mitchell", "Jalan Pantai"],
         "city": "Padang Serai",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9410": {
+    "09410": {
         "area": ["Taman Desa Putra", "Jalan Pasar", "Jalan Pier", "Jalan Selat", "Jalan Steward", "Jalan St Mark", "Jalan Talikom", "Kampung Acam", "Kampung Balai Pukat", "Kampung Jawa"],
         "city": "Padang Serai",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9600": {
+    "09600": {
         "area": ["Taman Desa Sentua", "Kampung Sungai Nyoir", "Lintang Bagan Baru", "Lintang Kampung Jawa", "Lintang Selat", "Lorong Bagan Luar (1 - 4)", "Lorong Jawa (1 - 8)", "Lorong Kampung Jawa", "Meriam Timbul", "Solok Bagan Baru", "Sungai Nyior", "Taman Bagan Baru", "Taman Bagan Sena", "Taman Selara Pantai (1 - 28)", "Taman Selat", "Tingkat Bagan Baru", "Tingkat Bagan Baru (1 - 22)", "Butterworth", "Dermaga Pelabuhan Butterworth", "Flat Seri Bagan", "Flat Taman Mewah (Blk A,B)", "Jalan Assumption", "Jalan Bagan Dalam", "Jalan Chain Ferry", "Jalan Harbour Place", "Jalan Heng Choon Thian", "Jalan Kapal", "Jalan Kubur", "Jalan Limbungan", "Jalan Mewah", "Jalan Mewah (1 - 2)", "Jalan New Ferry", "Jalan Siram", "Jalan Sungai Nyior", "Kampung Bagan Dalam", "Kampung Baru Kuala Perai"],
         "city": "Lunas",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9700": {
+    "09700": {
         "area": ["Taman Fauziah", "Kampung Belacak", "Kampung Musang", "Kampung Nipah", "Kampung Perlis", "Kampung Serani", "Kampung Siram", "Lebuhraya Kapal", "Lebuh Sungai Nyior", "Lengkok Kapal", "Lengkok Limbungan", "Lintang Kapal", "Lorong Kapal", "Lorong Siram", "Lorong Sungai Nyior", "Lorong Sungai Nyior Indah", "Lot 287 Sek.3", "Medan Limbongan", "Ocean View Residences", "Pangsapuri Harbour View", "Pangsapuri Suria", "Pangsapuri Suria Jaya", "Park View Tower", "Sea View Tower", "Taman Mewah", "Taman Siram", "Taman Sungai Nyior", "Tingkat Limbungan (1 - 2)", "Tingkat Siram", "Tingkat Siram 3", "Ujong Batu Bagan Dalam", "Bagan Tuan Kechil", "Gerbang Riang", "Jalan Ceri", "Jalan Jeti Lama", "Jalan Kampung Bengali", "Jalan Kampung Gajah", "Jalan Kampung Paya", "Jalan Market", "Jalan Mengkuang", "Jalan Pak Abu", "Jalan Paul", "Jalan Telaga Air", "Jalan Wisma Pantai", "Jalan Yeok Keow", "Kampung Bagan Tuan Kechil", "Kampung Benggali", "Kampung Gajah", "Kampung Paya", "Kampung Raja Uda", "Lebuh Kampung Benggali", "Lintang Kampung Bengali", "Lorong Bagan Vista", "Lorong Chempa", "Lorong Kampung Bengali", "Lorong Kubor", "Lorong Seri Cemerlang 1", "Lorong Tokong", "Lorong Widuri (1, 2, 3)", "Pangsapuri Bagan Sena (Blk A, B)", "Pangsapuri Bagan Vista", "Pangsapuri Cemerlang", "Pangsapuri Widuri Blk A, B, C, D", "Taman Aman", "Taman Cemerlang", "Tingkat Kampung Benggali", "Villa Palma", "Bagan Jermal", "Gerbang Melor", "Gerbang Riang", "Hala Riang", "Jalan Anggerik", "Jalan Bagan Jermal", "Jalan Bayu"],
         "city": "Karangan",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9800": {
+    "09800": {
         "area": ["Taman Firdaus", "Jalan Bintang", "Jalan Bunga Tanjung (1 - 7)", "Jalan Chempaka", "Jalan Jermal", "Jalan Kampung Kastam", "Jalan Kemuning", "Jalan Kilat", "Jalan Mawar", "Jalan Melur", "Jalan Mohd Saad", "Jalan Pusat Perniagaan Raja Uda (1 - 2)", "Jalan Raja Uda", "Jalan Riang", "Jalan Sinar", "Jalan Tanjung Indah", "Jalan Tanjung Jaya 1", "Kampung Bagan Jermal", "Kampung Gajah Tepi Laut", "Kampung Kastam", "Kampung Simpah", "Kondominium Cassia (Blok B)", "Kubang Buaya", "Kubang Buaya Tepi Laut", "Lebuh Melur", "Lebuh Riang (1 - 2)", "Lintang Dahlia", "Lintang Mawar (1 - 3)", "Lintang Melor", "Lintang Riang", "Lorong Berani (1 - 5)", "Lorong Bintang", "Lorong Bunga Tanjong (2 - 4)", "Lorong Ceri (1 - 11)", "Lorong Dahlia (1 - 20)", "Lorong Jermal Indah", "Lorong Kastam", "Lorong Kemuning", "Lorong Matahari", "Lorong Mawar (1 - 2)", "Lorong Melur", "Lorong Melur (1 - 16)", "Lorong Perniagaan Melur", "Lorong Perniagaan Melur (1 - 2)", "Lorong Riang", "Lorong Tanjung Jaya"],
         "city": "Serdang",
         "district": "Kangar",
         "state": "Kedah"
     },
-    "9810": {
+    "09810": {
         "area": ["Taman Gasing", "Medan Kemuning", "Medan Melor Selatan", "Medan Melor Utara", "Medan Riang", "Pangsapuri Seri Melur", "Persiaran Riang", "Pintas Berani (1 - 5)", "Pusat Perniagaan Raja Uda", "Solok Berani", "Solok Riang", "Taman Abdul Aziz"],
         "city": "Serdang",
         "district": "Kangar",

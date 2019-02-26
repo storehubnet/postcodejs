@@ -2,6 +2,31 @@
 
 const postcode = require('../index');
 
+describe('postcodejs:Errors:jest', () => {
+    test('postcodejs:cannotFindPostcode', () => {
+        const countryCode = 'MY';
+        const postcodeToSearch = 'LS29AU';
+        expect(() => {
+            postcode.postcode(countryCode, postcodeToSearch);
+        }).toThrow(Error(`Cannot find ${postcodeToSearch} in ${countryCode}`))
+    });
+
+    test('postcodejs:countryNotSupport', () => {
+        const countryCode = 'UK';
+        const postcodeToSearch = 'LS29AU';
+        expect(() => {
+            postcode.postcode(countryCode, postcodeToSearch);
+        }).toThrow(Error(`Did not support ${countryCode}`))
+    });
+
+    test('postcodejs:countryNotSupportDistrict', () => {
+        const countryCode = 'PH';
+        expect(() => {
+            postcode.districtPostcodes(countryCode, 'a', true, true);
+        }).toThrow(Error(`${countryCode} did not support district`))
+    });
+});
+
 describe('postcodejs:MY:jest', () => {
     test('Func:postcode:String', () => {
         const res = postcode.postcode('MY', '96507');
@@ -57,17 +82,17 @@ describe('postcodejs:MY:jest', () => {
     });
 
     test('search postcode to match multiple', () => {
-        const result = postcode.search('MY', "1000");
+        const result = postcode.search('MY', "100");
 
         expect(result.length).toBe(2);
 
-        expect(result[0].city).toBe('Kangar');
-        expect(result[0].state).toBe('Perlis');
-        expect(result[0].postcode).toBe('1000');
+        expect(result[0].city).toBe('Pulau Pinang');
+        expect(result[0].state).toBe('Penang');
+        expect(result[0].postcode).toBe('10000');
 
         expect(result[1].city).toBe('Pulau Pinang');
         expect(result[1].state).toBe('Penang');
-        expect(result[1].postcode).toBe('10000');
+        expect(result[1].postcode).toBe('10050');
     });
 
     test('search postcode to match multiple', () => {
