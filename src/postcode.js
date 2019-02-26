@@ -98,7 +98,7 @@ function postcodesByFilter(countryCode, filterType, filter, hasInfo, infoInclude
     const filteredPostcodes = [];
     for (const postcode in postcodes[countryCode]) {
         if (postcodes[countryCode].hasOwnProperty(postcode)) {
-            const postcodeInfo = postcodes[countryCode][postcode];
+            const postcodeInfo = { ...postcodes[countryCode][postcode]};
             if (
                 postcodeInfo[filterType] === filter || 
                 (filter.length > 0 && filter.indexOf(postcodeInfo[filterType]) !== -1)

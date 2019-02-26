@@ -95,6 +95,22 @@ describe('postcodejs:MY:jest', () => {
         expect(result[1].postcode).toBe('10050');
     });
 
+    test('search postcode start with 0 to match multiple', () => {
+        const result = postcode.search('MY', "0152");
+
+        expect(result.length).toBe(2);
+
+        expect(result[0].area).toContain('Jalan Masjid Lama');
+        expect(result[0].city).toBe('Kangar');
+        expect(result[0].state).toBe('Perlis');
+        expect(result[0].postcode).toBe('01524');
+
+        expect(result[1].area).toContain('Jalan Medan Kangar');
+        expect(result[1].city).toBe('Kangar');
+        expect(result[1].state).toBe('Perlis');
+        expect(result[1].postcode).toBe('01529');
+    });
+
     test('search postcode to match multiple', () => {
         const result = postcode.search('MY', "12");
         expect(result.length).toBe(8);
