@@ -4582,15 +4582,15 @@ Array [
 
 exports[`postcodejs:PH:jest Func:postcode:Number 1`] = `
 Object {
-  "city": "Buli/Cupang",
-  "state": "Muntinlupa City",
+  "city": "Buli/Cupang, Muntinlupa City",
+  "state": "Metro Manila",
 }
 `;
 
 exports[`postcodejs:PH:jest Func:postcode:String 1`] = `
 Object {
-  "city": "Buli/Cupang",
-  "state": "Muntinlupa City",
+  "city": "Buli/Cupang, Muntinlupa City",
+  "state": "Metro Manila",
 }
 `;
 
@@ -5025,23 +5025,7 @@ Array [
 
 exports[`postcodejs:PH:jest Func:states 1`] = `
 Array [
-  "San Juan City",
-  "Valenzuela City",
-  "Makati City",
-  "Quezon City",
-  "Manila",
-  "Pasay City",
-  "Parañaque City",
-  "Caloocan City",
-  "Navotas City",
-  "Malabon City",
-  "Mandaluyong City",
-  "Pasig City",
-  "Pateros",
-  "Taguig City",
-  "Las Piñas City",
-  "Muntinlupa City",
-  "Marikina City",
+  "Metro Manila",
   "Rizal",
   "Pampanga",
   "Bataan",
