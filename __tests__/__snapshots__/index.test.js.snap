@@ -4582,14 +4582,20 @@ Array [
 
 exports[`postcodejs:PH:jest Func:postcode:Number 1`] = `
 Object {
-  "city": "Buli/Cupang, Muntinlupa City",
+  "area": Array [
+    "Buli/Cupang",
+  ],
+  "city": "Muntinlupa City",
   "state": "Metro Manila",
 }
 `;
 
 exports[`postcodejs:PH:jest Func:postcode:String 1`] = `
 Object {
-  "city": "Buli/Cupang, Muntinlupa City",
+  "area": Array [
+    "Buli/Cupang",
+  ],
+  "city": "Muntinlupa City",
   "state": "Metro Manila",
 }
 `;

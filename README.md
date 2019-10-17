@@ -45,7 +45,7 @@
 ```
 
 ## Version
-1.1.2
+1.1.3
 
 ## What's new?
 Added Philippines zipcodes!

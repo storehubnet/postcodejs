@@ -1,2114 +1,3698 @@
 {
     "400": {
-        "city": "International Correspondence School, San Juan City",
+        "area": [
+            "International Correspondence School"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "401": {
-        "city": "Asian Development Bank, San Juan City",
+        "area": [
+            "Asian Development Bank"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "410": {
-        "city": "Radio Bible Class, San Juan City",
+        "area": [
+            "Radio Bible Class"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "420": {
-        "city": "Bible School on the Air, San Juan City",
+        "area": [
+            "Bible School on the Air"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "550": {
-        "city": "Febias College of Bible, Valenzuela City",
+        "area": [
+            "Febias College of Bible"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "560": {
-        "city": "Far East Broadcasting Corporation, Valenzuela City",
+        "area": [
+            "Far East Broadcasting Corporation"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "700": {
-        "city": "Plain-Truth, Makati City",
+        "area": [
+            "Plain-Truth"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "701": {
-        "city": "Colgate Palmolive Philippines, Makati City",
+        "area": [
+            "Colgate Palmolive Philippines"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "702": {
-        "city": "Citibank, Makati City",
+        "area": [
+            "Citibank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "703": {
-        "city": "Sarmiento Enterprises, Makati City",
+        "area": [
+            "Sarmiento Enterprises"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "704": {
-        "city": "Producers Bank, Makati City",
+        "area": [
+            "Producers Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "705": {
-        "city": "Union Ajinomoto, Makati City",
+        "area": [
+            "Union Ajinomoto"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "706": {
-        "city": "Faith Embassy, Makati City",
+        "area": [
+            "Faith Embassy"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "707": {
-        "city": "Canadian Embassy, Makati City",
+        "area": [
+            "Canadian Embassy"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "708": {
-        "city": "Philippine National Oil Company, Makati City",
+        "area": [
+            "Philippine National Oil Company"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "709": {
-        "city": "A-Z Direct Marketing, Makati City",
+        "area": [
+            "A-Z Direct Marketing"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "710": {
-        "city": "American Express, Makati City",
+        "area": [
+            "American Express"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "711": {
-        "city": "Land Bank of the Philippines, Makati City",
+        "area": [
+            "Land Bank of the Philippines"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "712": {
-        "city": "Prudential Bank, Makati City",
+        "area": [
+            "Prudential Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "713": {
-        "city": "BPI Family Savings Bank, Makati City",
+        "area": [
+            "BPI Family Savings Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "714": {
-        "city": "Philippine Manila Mission, Makati City",
+        "area": [
+            "Philippine Manila Mission"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "715": {
-        "city": "Marcopper Mining Corporation, Makati City",
+        "area": [
+            "Marcopper Mining Corporation"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "716": {
-        "city": "Allied Bank, Makati City",
+        "area": [
+            "Allied Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "717": {
-        "city": "Diners Club, Makati City",
+        "area": [
+            "Diners Club"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "718": {
-        "city": "International Center for Aquatic Resources, Makati City",
+        "area": [
+            "International Center for Aquatic Resources"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "719": {
-        "city": "Security Bank, Makati City",
+        "area": [
+            "Security Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "720": {
-        "city": "Bank of the Philippine Islands, Makati City",
+        "area": [
+            "Bank of the Philippine Islands"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "721": {
-        "city": "Philippine Long Distance Telephone Company, Makati City",
+        "area": [
+            "Philippine Long Distance Telephone Company"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "722": {
-        "city": "World Executive Digest, Makati City",
+        "area": [
+            "World Executive Digest"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "723": {
-        "city": "Japanese Embassy, Makati City",
+        "area": [
+            "Japanese Embassy"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "724": {
-        "city": "Sun Life Financial, Makati City",
+        "area": [
+            "Sun Life Financial"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "725": {
-        "city": "Insular Life Assurance Company, Makati City",
+        "area": [
+            "Insular Life Assurance Company"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "726": {
-        "city": "Equitable PCI Bank, Makati City",
+        "area": [
+            "Equitable PCI Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "727": {
-        "city": "Rizal Commercial Banking Corporation, Makati City",
+        "area": [
+            "Rizal Commercial Banking Corporation"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "728": {
-        "city": "United Coconut Planters Bank, Makati City",
+        "area": [
+            "United Coconut Planters Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "729": {
-        "city": "Not used, Makati City",
+        "area": [
+            "Not used"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "730": {
-        "city": "Zuellig Pharma, Makati City",
+        "area": [
+            "Zuellig Pharma"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "731": {
-        "city": "BCD Direct Marketing, Makati City",
+        "area": [
+            "BCD Direct Marketing"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "732": {
-        "city": "Export and Industry Bank, Makati City",
+        "area": [
+            "Export and Industry Bank"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "740": {
-        "city": "Sycip, Gorres and Velayo, Makati City",
+        "area": [
+            "Sycip"
+        ],
+        "city": "Gorres and Velayo",
         "state": "Metro Manila"
     },
     "750": {
-        "city": "Philippine Airlines, Makati City",
+        "area": [
+            "Philippine Airlines"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "760": {
-        "city": "Pilipinas Shell (subsidiary of Royal Dutch Shell), Makati City",
+        "area": [
+            "Pilipinas Shell (subsidiary of Royal Dutch Shell)"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "770": {
-        "city": "ACCRA Law Offices, Makati City",
+        "area": [
+            "ACCRA Law Offices"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "780": {
-        "city": "Mead Johnson Philippines, Makati City",
+        "area": [
+            "Mead Johnson Philippines"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "788": {
-        "city": "Directories Pilipinas Corporation, Makati City",
+        "area": [
+            "Directories Pilipinas Corporation"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "790": {
-        "city": "Atlantic, Gulf and Pacific, Makati City",
+        "area": [
+            "Atlantic"
+        ],
+        "city": "Gulf and Pacific",
         "state": "Metro Manila"
     },
     "800": {
-        "city": "Social Security System, Quezon City",
+        "area": [
+            "Social Security System"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "801": {
-        "city": "Camp Crame, Quezon City",
+        "area": [
+            "Camp Crame"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "802": {
-        "city": "Camp Aguinaldo, Quezon City",
+        "area": [
+            "Camp Aguinaldo"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "810": {
-        "city": "Araneta Center, Quezon City",
+        "area": [
+            "Araneta Center"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "820": {
-        "city": "Bureau of Internal Revenue, Quezon City",
+        "area": [
+            "Bureau of Internal Revenue"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "830": {
-        "city": "National Irrigation Administration, Quezon City",
+        "area": [
+            "National Irrigation Administration"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "840": {
-        "city": "V. Luna Hospital, Quezon City",
+        "area": [
+            "V. Luna Hospital"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "850": {
-        "city": "Philippine Heart Center, Quezon City",
+        "area": [
+            "Philippine Heart Center"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "860": {
-        "city": "Quezon City Hall, Quezon City",
+        "area": [
+            "Quezon City Hall"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "870": {
-        "city": "Veterans Hospital, Quezon City",
+        "area": [
+            "Veterans Hospital"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "880": {
-        "city": "Commission on Audit, Quezon City",
+        "area": [
+            "Commission on Audit"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "900": {
-        "city": "Manila Bulletin, Manila",
+        "area": [
+            "Manila Bulletin"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "901": {
-        "city": "Adventist University of the Philippines, Manila",
+        "area": [
+            "Adventist University of the Philippines"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "902": {
-        "city": "Far East Broadcasting Corporation, Manila",
+        "area": [
+            "Far East Broadcasting Corporation"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "903": {
-        "city": "Manila Hilton, Manila",
+        "area": [
+            "Manila Hilton"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "904": {
-        "city": "Midland Hotel, Manila",
+        "area": [
+            "Midland Hotel"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "905": {
-        "city": "The Philippine Star, Manila",
+        "area": [
+            "The Philippine Star"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "906": {
-        "city": "Manila Medical Center, Manila",
+        "area": [
+            "Manila Medical Center"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "907": {
-        "city": "San Miguel Corporation, Manila",
+        "area": [
+            "San Miguel Corporation"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "908": {
-        "city": "Pan-Filipino Shipping, Manila",
+        "area": [
+            "Pan-Filipino Shipping"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "909": {
-        "city": "Summer Institute of Linguistics, Manila",
+        "area": [
+            "Summer Institute of Linguistics"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "910": {
-        "city": "Department of Labor and Employment, Manila",
+        "area": [
+            "Department of Labor and Employment"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "911": {
-        "city": "National Statistics Office, Manila",
+        "area": [
+            "National Statistics Office"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "912": {
-        "city": "Bureau of Plant Industry, Manila",
+        "area": [
+            "Bureau of Plant Industry"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "913": {
-        "city": "Manila Hotel, Manila",
+        "area": [
+            "Manila Hotel"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "914": {
-        "city": "Philippine Refining Company and Unilever Philippines, Manila",
+        "area": [
+            "Philippine Refining Company and Unilever Philippines"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "915": {
-        "city": "International Correspondence Institute, Manila",
+        "area": [
+            "International Correspondence Institute"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "916": {
-        "city": "Radio Veritas, Manila",
+        "area": [
+            "Radio Veritas"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "917": {
-        "city": "Ateneo de Manila University, Manila",
+        "area": [
+            "Ateneo de Manila University"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "918": {
-        "city": "Fil-Japan Shipping Company, Manila",
+        "area": [
+            "Fil-Japan Shipping Company"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "919": {
-        "city": "Manila Police District, Manila",
+        "area": [
+            "Manila Police District"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "920": {
-        "city": "Sunbursts Publications, Manila",
+        "area": [
+            "Sunbursts Publications"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "921": {
-        "city": "Philippine Plaza Hotel, Manila",
+        "area": [
+            "Philippine Plaza Hotel"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "922": {
-        "city": "De La Salle University, Manila",
+        "area": [
+            "De La Salle University"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "923": {
-        "city": "Don Stewart Evangelistic Association, Manila",
+        "area": [
+            "Don Stewart Evangelistic Association"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "924": {
-        "city": "World Map, Manila",
+        "area": [
+            "World Map"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "925": {
-        "city": "Chinabank, Manila",
+        "area": [
+            "Chinabank"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "926": {
-        "city": "Caltex Philippines, Manila",
+        "area": [
+            "Caltex Philippines"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "927": {
-        "city": "Philippine Veterans Affairs Office, Manila",
+        "area": [
+            "Philippine Veterans Affairs Office"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "928": {
-        "city": "Philippine Campus Crusade, Manila",
+        "area": [
+            "Philippine Campus Crusade"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "929": {
-        "city": "Not used, Manila",
+        "area": [
+            "Not used"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "930": {
-        "city": "United States Embassy, Manila",
+        "area": [
+            "United States Embassy"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "940": {
-        "city": "Philippine National Bank, Manila",
+        "area": [
+            "Philippine National Bank"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "950": {
-        "city": "Manila Midtown Hotel, Manila",
+        "area": [
+            "Manila Midtown Hotel"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "960": {
-        "city": "International Rice Research Institute, Manila",
+        "area": [
+            "International Rice Research Institute"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "970": {
-        "city": "Department of Justice, Manila",
+        "area": [
+            "Department of Justice"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "980": {
-        "city": "Asian Development Bank, Manila",
+        "area": [
+            "Asian Development Bank"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "990": {
-        "city": "Philamlife, Manila",
+        "area": [
+            "Philamlife"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1000": {
-        "city": "Manila Central Post Office, Manila",
+        "area": [
+            "Manila Central Post Office"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1001": {
-        "city": "Quiapo, Manila",
+        "area": [
+            "Quiapo"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1002": {
-        "city": "Intramuros, Manila",
+        "area": [
+            "Intramuros"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1003": {
-        "city": "Santa Cruz South, Manila",
+        "area": [
+            "Santa Cruz South"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1004": {
-        "city": "Malate, Manila",
+        "area": [
+            "Malate"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1005": {
-        "city": "San Miguel, Manila",
+        "area": [
+            "San Miguel"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1006": {
-        "city": "Binondo, Manila",
+        "area": [
+            "Binondo"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1007": {
-        "city": "Paco, Manila",
+        "area": [
+            "Paco"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1008": {
-        "city": "Sampaloc East, Manila",
+        "area": [
+            "Sampaloc East"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1009": {
-        "city": "Santa Ana, Manila",
+        "area": [
+            "Santa Ana"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1010": {
-        "city": "San Nicolas, Manila",
+        "area": [
+            "San Nicolas"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1011": {
-        "city": "Pandacan, Manila",
+        "area": [
+            "Pandacan"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1012": {
-        "city": "Tondo South, Manila",
+        "area": [
+            "Tondo South"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1013": {
-        "city": "Tondo North, Manila",
+        "area": [
+            "Tondo North"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1014": {
-        "city": "Santa Cruz North, Manila",
+        "area": [
+            "Santa Cruz North"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1015": {
-        "city": "Sampaloc West, Manila",
+        "area": [
+            "Sampaloc West"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1016": {
-        "city": "Santa Mesa, Manila",
+        "area": [
+            "Santa Mesa"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1017": {
-        "city": "San Andres, Manila",
+        "area": [
+            "San Andres"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1018": {
-        "city": "Port Area South, Manila",
+        "area": [
+            "Port Area South"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1035": {
-        "city": "Santa Mesa P.O. Box, Manila",
+        "area": [
+            "Santa Mesa P.O. Box"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1040": {
-        "city": "Santa Cruz P.O. Box, Manila",
+        "area": [
+            "Santa Cruz P.O. Box"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1045": {
-        "city": "Ermita P.O. Box, Manila",
+        "area": [
+            "Ermita P.O. Box"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1050": {
-        "city": "Manila CPO-PO Box# 1000 to 1099, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1000 to 1099"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1051": {
-        "city": "Manila CPO-PO Box# 1100 to 1199, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1100 to 1199"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1052": {
-        "city": "Manila CPO-PO Box# 1200 to 1299, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1200 to 1299"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1053": {
-        "city": "Manila CPO-PO Box# 1300 to 1399, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1300 to 1399"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1054": {
-        "city": "Manila CPO-PO Box# 1400 to 1499, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1400 to 1499"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1055": {
-        "city": "Manila CPO-PO Box# 1500 to 1599, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1500 to 1599"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1056": {
-        "city": "Manila CPO-PO Box# 1600 to 1699, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1600 to 1699"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1057": {
-        "city": "Manila CPO-PO Box# 1700 to 1799, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1700 to 1799"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1058": {
-        "city": "Manila CPO-PO Box# 1800 to 1899, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1800 to 1899"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1059": {
-        "city": "Manila CPO-PO Box# 1900 to 1999, Manila",
+        "area": [
+            "Manila CPO-PO Box# 1900 to 1999"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1060": {
-        "city": "Manila CPO-PO Box# 2000 to 2099, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2000 to 2099"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1061": {
-        "city": "Manila CPO-PO Box# 2100 to 2199, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2100 to 2199"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1062": {
-        "city": "Manila CPO-PO Box# 2200 to 2299, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2200 to 2299"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1063": {
-        "city": "Manila CPO-PO Box# 2300 to 2399, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2300 to 2399"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1064": {
-        "city": "Manila CPO-PO Box# 2400 to 2499, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2400 to 2499"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1065": {
-        "city": "Manila CPO-PO Box# 2500 to 2599, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2500 to 2599"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1066": {
-        "city": "Manila CPO-PO Box# 2600 to 2699, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2600 to 2699"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1067": {
-        "city": "Manila CPO-PO Box# 2700 to 2799, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2700 to 2799"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1068": {
-        "city": "Manila CPO-PO Box# 2800 to 2899, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2800 to 2899"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1069": {
-        "city": "Manila CPO-PO Box# 2900 to 2999, Manila",
+        "area": [
+            "Manila CPO-PO Box# 2900 to 2999"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1070": {
-        "city": "Manila CPO-PO Box# 3000 to 3099, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3000 to 3099"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1071": {
-        "city": "Manila CPO-PO Box# 3100 to 3199, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3100 to 3199"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1072": {
-        "city": "Manila CPO-PO Box# 3200 to 3299, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3200 to 3299"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1073": {
-        "city": "Manila CPO-PO Box# 3300 to 3399, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3300 to 3399"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1074": {
-        "city": "Manila CPO-PO Box# 3400 to 3499, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3400 to 3499"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1075": {
-        "city": "Manila CPO-PO Box# 3500 to 3599, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3500 to 3599"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1076": {
-        "city": "Manila CPO-PO Box# 3600 to 3699, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3600 to 3699"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1077": {
-        "city": "Manila CPO-PO Box# 3700 to 3799, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3700 to 3799"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1078": {
-        "city": "Manila CPO-PO Box# 3800 to 3899, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3800 to 3899"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1079": {
-        "city": "Manila CPO-PO Box# 3900 to 3999, Manila",
+        "area": [
+            "Manila CPO-PO Box# 3900 to 3999"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1080": {
-        "city": "Manila CPO-PO Box# 4000 to 4099, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4000 to 4099"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1081": {
-        "city": "Manila CPO-PO Box# 4100 to 4199, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4100 to 4199"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1082": {
-        "city": "Manila CPO-PO Box# 4200 to 4299, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4200 to 4299"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1083": {
-        "city": "Manila CPO-PO Box# 4300 to 4399, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4300 to 4399"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1084": {
-        "city": "Manila CPO-PO Box# 4400 to 4499, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4400 to 4499"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1085": {
-        "city": "Manila CPO-PO Box# 4500 to 4599, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4500 to 4599"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1086": {
-        "city": "Manila CPO-PO Box# 4600 to 4699, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4600 to 4699"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1087": {
-        "city": "Manila CPO-PO Box# 4700 to 4799, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4700 to 4799"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1088": {
-        "city": "Manila CPO-PO Box# 4800 to 4899, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4800 to 4899"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1089": {
-        "city": "Manila CPO-PO Box# 4900 to 4999, Manila",
+        "area": [
+            "Manila CPO-PO Box# 4900 to 4999"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1090": {
-        "city": "Manila CPO-PO Box# 5000 to 5099, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5000 to 5099"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1091": {
-        "city": "Manila CPO-PO Box# 5100 to 5199, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5100 to 5199"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1092": {
-        "city": "Manila CPO-PO Box# 5200 to 5299, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5200 to 5299"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1093": {
-        "city": "Manila CPO-PO Box# 5300 to 5399, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5300 to 5399"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1094": {
-        "city": "Manila CPO-PO Box# 5400 to 5499, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5400 to 5499"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1095": {
-        "city": "Manila CPO-PO Box# 5500 to 5599, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5500 to 5599"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1096": {
-        "city": "Manila CPO-PO Box# 5600 to 5699, Manila",
+        "area": [
+            "Manila CPO-PO Box# 5600 to 5699"
+        ],
+        "city": "Manila",
         "state": "Metro Manila"
     },
     "1100": {
-        "city": "Quezon City CPO, Quezon City",
+        "area": [
+            "Quezon City CPO"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1101": {
-        "city": "University of the Philippines Village, Quezon City",
+        "area": [
+            "University of the Philippines Village"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1102": {
-        "city": "Silangan, Quezon City",
+        "area": [
+            "Silangan"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1103": {
-        "city": "South Triangle, Quezon City",
+        "area": [
+            "South Triangle"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1104": {
-        "city": "West Triangle, Quezon City",
+        "area": [
+            "West Triangle"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1105": {
-        "city": "Veterans Village, Quezon City",
+        "area": [
+            "Veterans Village"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1106": {
-        "city": "Unang Sigaw, Quezon City",
+        "area": [
+            "Unang Sigaw"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1107": {
-        "city": "Pasong Tamo, Quezon City",
+        "area": [
+            "Pasong Tamo"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1108": {
-        "city": "Pansol, Quezon City",
+        "area": [
+            "Pansol"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1109": {
-        "city": "Villa Maria Clara, Quezon City",
+        "area": [
+            "Villa Maria Clara"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1110": {
-        "city": "White Plains, Quezon City",
+        "area": [
+            "White Plains"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1111": {
-        "city": "St. Martin de Porres, Quezon City",
+        "area": [
+            "St. Martin de Porres"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1112": {
-        "city": "Valencia, Quezon City",
+        "area": [
+            "Valencia"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1113": {
-        "city": "Tatalon, Quezon City",
+        "area": [
+            "Tatalon"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1114": {
-        "city": "St. Peter, Quezon City",
+        "area": [
+            "St. Peter"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1115": {
-        "city": "San Jose, Quezon City",
+        "area": [
+            "San Jose"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1116": {
-        "city": "Tandang Sora, Quezon City",
+        "area": [
+            "Tandang Sora"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1117": {
-        "city": "Santa Monica, Quezon City",
+        "area": [
+            "Santa Monica"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1118": {
-        "city": "Pasong Putik, Quezon City",
+        "area": [
+            "Pasong Putik"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1119": {
-        "city": "Payatas, Quezon City",
+        "area": [
+            "Payatas"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1120": {
-        "city": "Violago Homes, Quezon City",
+        "area": [
+            "Violago Homes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1121": {
-        "city": "Fairview [North], Quezon City",
+        "area": [
+            "Fairview [North]"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1122": {
-        "city": "Fairview [South], Quezon City",
+        "area": [
+            "Fairview [South]"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1123": {
-        "city": "Novaliches Proper, Quezon City",
+        "area": [
+            "Novaliches Proper"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1124": {
-        "city": "Kaligayahan, Quezon City",
+        "area": [
+            "Kaligayahan"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1125": {
-        "city": "Nagkaisang Nayon, Quezon City",
+        "area": [
+            "Nagkaisang Nayon"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1126": {
-        "city": "Capitol Hills/Park, Quezon City",
+        "area": [
+            "Capitol Hills/Park"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1127": {
-        "city": "Holy Spirit, Quezon City",
+        "area": [
+            "Holy Spirit"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1128": {
-        "city": "Vasra, Quezon City",
+        "area": [
+            "Vasra"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1135": {
-        "city": "Araneta Center P.O. Boxes, Quezon City",
+        "area": [
+            "Araneta Center P.O. Boxes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1138": {
-        "city": "Murphy District P.O. Boxes, Quezon City",
+        "area": [
+            "Murphy District P.O. Boxes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1141": {
-        "city": "Broadway Center P.O. Boxes, Quezon City",
+        "area": [
+            "Broadway Center P.O. Boxes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1144": {
-        "city": "University of the Philippines P.O. Boxes, Quezon City",
+        "area": [
+            "University of the Philippines P.O. Boxes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1147": {
-        "city": "Novaliches P.O. Boxes, Quezon City",
+        "area": [
+            "Novaliches P.O. Boxes"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1150": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1000 to 1099, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1000 to 1099"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1151": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1100 to 1199, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1100 to 1199"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1152": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1200 to 1299, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1200 to 1299"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1153": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1300 to 1399, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1300 to 1399"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1154": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1400 to 1499, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1400 to 1499"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1155": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1500 to 1599, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1500 to 1599"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1156": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1600 to 1699, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1600 to 1699"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1157": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1700 to 1799, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1700 to 1799"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1158": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1800 to 1899, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1800 to 1899"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1159": {
-        "city": "Quezon City CPO - P.O. Box Nos. 1900 to 1999, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 1900 to 1999"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1160": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2000 to 2099, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2000 to 2099"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1161": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2100 to 2199, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2100 to 2199"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1162": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2200 to 2299, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2200 to 2299"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1163": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2300 to 2399, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2300 to 2399"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1164": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2400 to 2499, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2400 to 2499"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1165": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2500 to 2599, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2500 to 2599"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1166": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2600 to 2699, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2600 to 2699"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1167": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2700 to 2799, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2700 to 2799"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1168": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2800 to 2899, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2800 to 2899"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1169": {
-        "city": "Quezon City CPO - P.O. Box Nos. 2900 to 2999, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 2900 to 2999"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1170": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3000 to 3099, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3000 to 3099"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1171": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3100 to 3199, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3100 to 3199"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1172": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3200 to 3299, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3200 to 3299"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1173": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3300 to 3399, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3300 to 3399"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1174": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3400 to 3499, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3400 to 3499"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1175": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3500 to 3599, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3500 to 3599"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1176": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3600 to 3699, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3600 to 3699"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1177": {
-        "city": "Quezon City CPO - P.O. Box Nos. 3700 to 3799, Quezon City",
+        "area": [
+            "Quezon City CPO - P.O. Box Nos. 3700 to 3799"
+        ],
+        "city": "Quezon City",
         "state": "Metro Manila"
     },
     "1200": {
-        "city": "Makati Central Post Office, Makati City",
+        "area": [
+            "Makati Central Post Office"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1201": {
-        "city": "Fort Bonifacio (now part of Taguig City), Makati City",
+        "area": [
+            "Fort Bonifacio (now part of Taguig City)"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1202": {
-        "city": "Fort Bonifacio Naval Station, Makati City",
+        "area": [
+            "Fort Bonifacio Naval Station"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1203": {
-        "city": "San Antonio Village, Makati City",
+        "area": [
+            "San Antonio Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1204": {
-        "city": "La Paz, Singkamas, and Tejeros, Makati City",
+        "area": [
+            "La Paz"
+        ],
+        "city": "Singkamas",
         "state": "Metro Manila"
     },
     "1205": {
-        "city": "Santa Cruz, Makati City",
+        "area": [
+            "Santa Cruz"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1206": {
-        "city": "Kasilawan, Makati City",
+        "area": [
+            "Kasilawan"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1207": {
-        "city": "Carmona and Olympia, Makati City",
+        "area": [
+            "Carmona and Olympia"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1208": {
-        "city": "Valenzuela (includes Rizal, San Miguel, and Santiago Villages), Makati City",
+        "area": [
+            "Valenzuela (includes Rizal"
+        ],
+        "city": "San Miguel",
         "state": "Metro Manila"
     },
     "1209": {
-        "city": "Bel-Air, Makati City",
+        "area": [
+            "Bel-Air"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1210": {
-        "city": "Poblacion, Makati City",
+        "area": [
+            "Poblacion"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1211": {
-        "city": "Guadalupe Viejo (includes Palm Village), Makati City",
+        "area": [
+            "Guadalupe Viejo (includes Palm Village)"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1212": {
-        "city": "Guadalupe Nuevo (includes Visayan Village), Makati City",
+        "area": [
+            "Guadalupe Nuevo (includes Visayan Village)"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1213": {
-        "city": "Pinagkaisahan - Pitogo, Makati City",
+        "area": [
+            "Pinagkaisahan - Pitogo"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1214": {
-        "city": "Cembo, Makati City",
+        "area": [
+            "Cembo"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1215": {
-        "city": "West Rembo, Makati City",
+        "area": [
+            "West Rembo"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1216": {
-        "city": "East Rembo and Malapad na Bato, Makati City",
+        "area": [
+            "East Rembo and Malapad na Bato"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1217": {
-        "city": "Comembo, Makati City",
+        "area": [
+            "Comembo"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1218": {
-        "city": "Pembo, Makati City",
+        "area": [
+            "Pembo"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1219": {
-        "city": "Forbes Park North, Makati City",
+        "area": [
+            "Forbes Park North"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1220": {
-        "city": "Forbes Park South, Makati City",
+        "area": [
+            "Forbes Park South"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1221": {
-        "city": "Dasmariñas Village North, Makati City",
+        "area": [
+            "Dasmariñas Village North"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1222": {
-        "city": "Dasmariñas Village South, Makati City",
+        "area": [
+            "Dasmariñas Village South"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1223": {
-        "city": "San Lorenzo Village, Makati City",
+        "area": [
+            "San Lorenzo Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1224": {
-        "city": "Makati Commercial Center, Makati City",
+        "area": [
+            "Makati Commercial Center"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1225": {
-        "city": "Urdaneta Village, Makati City",
+        "area": [
+            "Urdaneta Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1226": {
-        "city": "Ayala Avenue-Paseo de Roxas, Makati City",
+        "area": [
+            "Ayala Avenue-Paseo de Roxas"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1227": {
-        "city": "Salcedo Village, Makati City",
+        "area": [
+            "Salcedo Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1228": {
-        "city": "Greenbelt, Makati City",
+        "area": [
+            "Greenbelt"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1229": {
-        "city": "Legaspi Village, Makati City",
+        "area": [
+            "Legaspi Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1230": {
-        "city": "Pio del Pilar, Makati City",
+        "area": [
+            "Pio del Pilar"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1231": {
-        "city": "Pasong Tamo and Ecology Village, Makati City",
+        "area": [
+            "Pasong Tamo and Ecology Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1232": {
-        "city": "Magallanes Village, Makati City",
+        "area": [
+            "Magallanes Village"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1233": {
-        "city": "Bangkal, Makati City",
+        "area": [
+            "Bangkal"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1234": {
-        "city": "San Isidro, Makati City",
+        "area": [
+            "San Isidro"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1235": {
-        "city": "Palanan, Makati City",
+        "area": [
+            "Palanan"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1250": {
-        "city": "Makati CPO-PO Box# 1000 to 1099, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1000 to 1099"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1251": {
-        "city": "Makati CPO-PO Box# 1100 to 1199, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1100 to 1199"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1252": {
-        "city": "Makati CPO-PO Box# 1200 to 1299, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1200 to 1299"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1253": {
-        "city": "Makati CPO-PO Box# 1300 to 1399, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1300 to 1399"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1254": {
-        "city": "Makati CPO-PO Box# 1400 to 1499, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1400 to 1499"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1255": {
-        "city": "Makati CPO-PO Box# 1500 to 1599, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1500 to 1599"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1256": {
-        "city": "Makati CPO-PO Box# 1600 to 1699, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1600 to 1699"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1257": {
-        "city": "Makati CPO-PO Box# 1700 to 1799, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1700 to 1799"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1258": {
-        "city": "Makati CPO-PO Box# 1800 to 1899, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1800 to 1899"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1259": {
-        "city": "Makati CPO-PO Box# 1900 to 1999, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 1900 to 1999"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1260": {
-        "city": "Makati CPO-PO Box# 2000 to 2099, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2000 to 2099"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1261": {
-        "city": "Makati CPO-PO Box# 2100 to 2199, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2100 to 2199"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1262": {
-        "city": "Makati CPO-PO Box# 2200 to 2299, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2200 to 2299"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1263": {
-        "city": "Makati CPO-PO Box# 2300 to 2399, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2300 to 2399"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1264": {
-        "city": "Makati CPO-PO Box# 2400 to 2499, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2400 to 2499"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1265": {
-        "city": "Makati CPO-PO Box# 2500 to 2599, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2500 to 2599"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1266": {
-        "city": "Makati CPO-PO Box# 2600 to 2699, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2600 to 2699"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1267": {
-        "city": "Makati CPO-PO Box# 2700 to 2799, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2700 to 2799"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1268": {
-        "city": "Makati CPO-PO Box# 2800 to 2899, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2800 to 2899"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1269": {
-        "city": "Makati CPO-PO Box# 2900 to 2999, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 2900 to 2999"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1270": {
-        "city": "Makati CPO-PO Box# 3000 to 3099, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3000 to 3099"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1271": {
-        "city": "Makati CPO-PO Box# 3100 to 3199, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3100 to 3199"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1272": {
-        "city": "Makati CPO-PO Box# 3200 to 3299, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3200 to 3299"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1273": {
-        "city": "Makati CPO-PO Box# 3300 to 3399, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3300 to 3399"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1274": {
-        "city": "Makati CPO-PO Box# 3400 to 3499, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3400 to 3499"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1275": {
-        "city": "Makati CPO-PO Box# 3500 to 3599, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3500 to 3599"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1276": {
-        "city": "Makati CPO-PO Box# 3600 to 3699, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3600 to 3699"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1277": {
-        "city": "Makati CPO-PO Box# 3700 to 3799, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3700 to 3799"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1278": {
-        "city": "Makati CPO-PO Box# 3800 to 3899, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3800 to 3899"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1279": {
-        "city": "Makati CPO-PO Box# 3900 to 3999, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 3900 to 3999"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1280": {
-        "city": "Makati CPO-PO Box# 4000 to 4099, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4000 to 4099"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1281": {
-        "city": "Makati CPO-PO Box# 4100 to 4199, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4100 to 4199"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1282": {
-        "city": "Makati CPO-PO Box# 4200 to 4299, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4200 to 4299"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1283": {
-        "city": "Makati CPO-PO Box# 4300 to 4399, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4300 to 4399"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1284": {
-        "city": "Makati CPO-PO Box# 4400 to 4499, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4400 to 4499"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1285": {
-        "city": "Makati CPO-PO Box# 4500 to 4599, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4500 to 4599"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1286": {
-        "city": "Makati CPO-PO Box# 4600 to 4699, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4600 to 4699"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1287": {
-        "city": "Makati CPO-PO Box# 4700 to 4799, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4700 to 4799"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1288": {
-        "city": "Makati CPO-PO Box# 4800 to 4899, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4800 to 4899"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1289": {
-        "city": "Makati CPO-PO Box# 4900 to 4999, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 4900 to 4999"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1290": {
-        "city": "Makati CPO-PO Box# 5000 to 5099, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5000 to 5099"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1291": {
-        "city": "Makati CPO-PO Box# 5100 to 5199, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5100 to 5199"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1292": {
-        "city": "Makati CPO-PO Box# 5200 to 5299, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5200 to 5299"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1293": {
-        "city": "Makati CPO-PO Box# 5300 to 5399, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5300 to 5399"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1294": {
-        "city": "Makati CPO-PO Box# 5400 to 5499, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5400 to 5499"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1295": {
-        "city": "Makati CPO-PO Box# 5500 to 5599, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5500 to 5599"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1296": {
-        "city": "Makati CPO-PO Box# 5600 to 5699, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5600 to 5699"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1297": {
-        "city": "Makati CPO-PO Box# 5700 to 5799, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5700 to 5799"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1298": {
-        "city": "Makati CPO-PO Box# 5800 to 5899, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5800 to 5899"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1299": {
-        "city": "Makati CPO-PO Box# 5900 to 5999, Makati City",
+        "area": [
+            "Makati CPO-PO Box# 5900 to 5999"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1300": {
-        "city": "Pasay City Central Post Office, Pasay City",
+        "area": [
+            "Pasay City Central Post Office"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1301": {
-        "city": "Domestic Airport P.O., Pasay City",
+        "area": [
+            "Domestic Airport P.O."
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1302": {
-        "city": "San Rafael, Pasay City",
+        "area": [
+            "San Rafael"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1303": {
-        "city": "San Roque, Pasay City",
+        "area": [
+            "San Roque"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1304": {
-        "city": "Santa Clara, Pasay City",
+        "area": [
+            "Santa Clara"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1305": {
-        "city": "San Jose, Pasay City",
+        "area": [
+            "San Jose"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1306": {
-        "city": "San Isidro, Pasay City",
+        "area": [
+            "San Isidro"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1307": {
-        "city": "Philippine International Convention Center, Pasay City",
+        "area": [
+            "Philippine International Convention Center"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1308": {
-        "city": "Bay City, Pasay City",
+        "area": [
+            "Bay City"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1309": {
-        "city": "Villamor Airbase, Pasay City",
+        "area": [
+            "Villamor Airbase"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1350": {
-        "city": "Pasay City CPO - P.O. Box Nos. 1000 to 1099, Pasay City",
+        "area": [
+            "Pasay City CPO - P.O. Box Nos. 1000 to 1099"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1351": {
-        "city": "Pasay City CPO - P.O. Box Nos. 1100 to 1199, Pasay City",
+        "area": [
+            "Pasay City CPO - P.O. Box Nos. 1100 to 1199"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1352": {
-        "city": "Pasay City CPO - P.O. Box Nos. 1200 to 1299, Pasay City",
+        "area": [
+            "Pasay City CPO - P.O. Box Nos. 1200 to 1299"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1353": {
-        "city": "Pasay City CPO - P.O. Box Nos. 1300 to 1399, Pasay City",
+        "area": [
+            "Pasay City CPO - P.O. Box Nos. 1300 to 1399"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1354": {
-        "city": "Pasay City CPO - P.O. Box Nos. 1400 to 1499, Pasay City",
+        "area": [
+            "Pasay City CPO - P.O. Box Nos. 1400 to 1499"
+        ],
+        "city": "Pasay City",
         "state": "Metro Manila"
     },
     "1375": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1000 to 1099, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1000 to 1099"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1376": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1100 to 1199, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1100 to 1199"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1377": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1200 to 1299, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1200 to 1299"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1378": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1300 to 1399, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1300 to 1399"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1379": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1400 to 1499, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1400 to 1499"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1380": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1500 to 1599, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1500 to 1599"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1381": {
-        "city": "Domestic Airport P.O. - P.O. Box Nos. 1600 to 1699, Parañaque City",
+        "area": [
+            "Domestic Airport P.O. - P.O. Box Nos. 1600 to 1699"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1400": {
-        "city": "Caloocan City Central Post Office, Caloocan City",
+        "area": [
+            "Caloocan City Central Post Office"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1401": {
-        "city": "Baesa, Caloocan City",
+        "area": [
+            "Baesa"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1402": {
-        "city": "Santa Quiteria, Caloocan City",
+        "area": [
+            "Santa Quiteria"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1403": {
-        "city": "Grace Park East, Caloocan City",
+        "area": [
+            "Grace Park East"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1404": {
-        "city": "San Jose, Caloocan City",
+        "area": [
+            "San Jose"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1405": {
-        "city": "First Avenue to Seventh Avenue West, Caloocan City",
+        "area": [
+            "First Avenue to Seventh Avenue West"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1406": {
-        "city": "Grace Park West, Caloocan City",
+        "area": [
+            "Grace Park West"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1407": {
-        "city": "University Hills, Caloocan City",
+        "area": [
+            "University Hills"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1408": {
-        "city": "Sangandaan, Caloocan City",
+        "area": [
+            "Sangandaan"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1409": {
-        "city": "Kaunlaran Village, Navotas City",
+        "area": [
+            "Kaunlaran Village"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1410": {
-        "city": "Maypajo, Caloocan City",
+        "area": [
+            "Maypajo"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1411": {
-        "city": "Fish Market, Navotas City",
+        "area": [
+            "Fish Market"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1412": {
-        "city": "Isla de Cocomo, Navotas City",
+        "area": [
+            "Isla de Cocomo"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1413": {
-        "city": "Kapitbahayan [East], Navotas City",
+        "area": [
+            "Kapitbahayan [East]"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1420": {
-        "city": "Kaybiga/Deparo, Caloocan City",
+        "area": [
+            "Kaybiga/Deparo"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1421": {
-        "city": "Bagumbong/Pag-asa, Caloocan City",
+        "area": [
+            "Bagumbong/Pag-asa"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1422": {
-        "city": "Novaliches North, Caloocan City",
+        "area": [
+            "Novaliches North"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1423": {
-        "city": "Lilles Ville Subdivision, Caloocan City",
+        "area": [
+            "Lilles Ville Subdivision"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1424": {
-        "city": "Captol Parkland Subdivision, Caloocan City",
+        "area": [
+            "Captol Parkland Subdivision"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1425": {
-        "city": "Amparo Subdivision, Caloocan City",
+        "area": [
+            "Amparo Subdivision"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1426": {
-        "city": "Bankers Village, Caloocan City",
+        "area": [
+            "Bankers Village"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1427": {
-        "city": "Tala Leprosarium and Victory Heights, Caloocan City",
+        "area": [
+            "Tala Leprosarium and Victory Heights"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1428": {
-        "city": "Bagong Silang, Caloocan City",
+        "area": [
+            "Bagong Silang"
+        ],
+        "city": "Caloocan City",
         "state": "Metro Manila"
     },
     "1440": {
-        "city": "Valenzuela Central Post Office - Malinta, Valenzuela City",
+        "area": [
+            "Valenzuela Central Post Office - Malinta"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1441": {
-        "city": "Karuhatan, Valenzuela City",
+        "area": [
+            "Karuhatan"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1442": {
-        "city": "Paso de Blas, Valenzuela City",
+        "area": [
+            "Paso de Blas"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1443": {
-        "city": "Dalandanan - West Canumay, Valenzuela City",
+        "area": [
+            "Dalandanan - West Canumay"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1444": {
-        "city": "Rincon, Valenzuela City",
+        "area": [
+            "Rincon"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1445": {
-        "city": "Balangkas - Caloong, Valenzuela City",
+        "area": [
+            "Balangkas - Caloong"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1446": {
-        "city": "Lingunan, Valenzuela City",
+        "area": [
+            "Lingunan"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1447": {
-        "city": "East Canumay - Lawang Bato Punturin, Valenzuela City",
+        "area": [
+            "East Canumay - Lawang Bato Punturin"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1448": {
-        "city": "Mapulang Lupa, Valenzuela City",
+        "area": [
+            "Mapulang Lupa"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1469": {
-        "city": "Valenzuela P.O. Boxes, Valenzuela City",
+        "area": [
+            "Valenzuela P.O. Boxes"
+        ],
+        "city": "Valenzuela City",
         "state": "Metro Manila"
     },
     "1470": {
-        "city": "Tinajeros, Malabon City",
+        "area": [
+            "Tinajeros"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1471": {
-        "city": "Flores, Malabon City",
+        "area": [
+            "Flores"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1472": {
-        "city": "Longos, Malabon City",
+        "area": [
+            "Longos"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1473": {
-        "city": "Tonsuya, Malabon City",
+        "area": [
+            "Tonsuya"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1474": {
-        "city": "Acacia, Malabon City",
+        "area": [
+            "Acacia"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1475": {
-        "city": "Potrero, Malabon City",
+        "area": [
+            "Potrero"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1476": {
-        "city": "Araneta Subdivision, Malabon City",
+        "area": [
+            "Araneta Subdivision"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1477": {
-        "city": "Maysilo, Malabon City",
+        "area": [
+            "Maysilo"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1478": {
-        "city": "Santolan, Malabon City",
+        "area": [
+            "Santolan"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1479": {
-        "city": "Muzon, Malabon City",
+        "area": [
+            "Muzon"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1480": {
-        "city": "Dampalit, Malabon City",
+        "area": [
+            "Dampalit"
+        ],
+        "city": "Malabon City",
         "state": "Metro Manila"
     },
     "1485": {
-        "city": "Navotas, Navotas City",
+        "area": [
+            "Navotas"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1489": {
-        "city": "Tangos, Navotas City",
+        "area": [
+            "Tangos"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1490": {
-        "city": "Tanza, Navotas City",
+        "area": [
+            "Tanza"
+        ],
+        "city": "Navotas City",
         "state": "Metro Manila"
     },
     "1500": {
-        "city": "San Juan Central Post Office, San Juan City",
+        "area": [
+            "San Juan Central Post Office"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1502": {
-        "city": "Greenhills Post Office, San Juan City",
+        "area": [
+            "Greenhills Post Office"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1503": {
-        "city": "Greenhills [North], San Juan City",
+        "area": [
+            "Greenhills [North]"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1504": {
-        "city": "Eisenhower - Crame, San Juan City",
+        "area": [
+            "Eisenhower - Crame"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1530": {
-        "city": "Greenhills P.O. Box Nos. 1000 to 1099, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1000 to 1099"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1531": {
-        "city": "Greenhills P.O. Box Nos. 1100 to 1199, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1100 to 1199"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1532": {
-        "city": "Greenhills P.O. Box Nos. 1200 to 1299, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1200 to 1299"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1533": {
-        "city": "Greenhills P.O. Box Nos. 1300 to 1399, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1300 to 1399"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1534": {
-        "city": "Greenhills P.O. Box Nos. 1400 to 1499, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1400 to 1499"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1535": {
-        "city": "Greenhills P.O. Box Nos. 1500 to 1599, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1500 to 1599"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1536": {
-        "city": "Greenhills P.O. Box Nos. 1600 to 1699, San Juan City",
+        "area": [
+            "Greenhills P.O. Box Nos. 1600 to 1699"
+        ],
+        "city": "San Juan City",
         "state": "Metro Manila"
     },
     "1550": {
-        "city": "Mandaluyong Central Post Office, Mandaluyong City",
+        "area": [
+            "Mandaluyong Central Post Office"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1551": {
-        "city": "Vergara, Mandaluyong City",
+        "area": [
+            "Vergara"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1552": {
-        "city": "Shaw Boulevard, Mandaluyong City",
+        "area": [
+            "Shaw Boulevard"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1553": {
-        "city": "National Center for Mental Health, Mandaluyong City",
+        "area": [
+            "National Center for Mental Health"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1554": {
-        "city": "East EDSA, Mandaluyong City",
+        "area": [
+            "East EDSA"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1555": {
-        "city": "Wack Wack, Mandaluyong City",
+        "area": [
+            "Wack Wack"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1556": {
-        "city": "Greenhills South, Mandaluyong City",
+        "area": [
+            "Greenhills South"
+        ],
+        "city": "Mandaluyong City",
         "state": "Metro Manila"
     },
     "1600": {
-        "city": "Pasig Central Post Office, Pasig City",
+        "area": [
+            "Pasig Central Post Office"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1601": {
-        "city": "San Joaquin, Pasig City",
+        "area": [
+            "San Joaquin"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1602": {
-        "city": "Pinagbuhatan, Pasig City",
+        "area": [
+            "Pinagbuhatan"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1603": {
-        "city": "Kapitolyo, Pasig City",
+        "area": [
+            "Kapitolyo"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1604": {
-        "city": "Ugong, Pasig City",
+        "area": [
+            "Ugong"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1605": {
-        "city": "Ortigas Post Office, Pasig City",
+        "area": [
+            "Ortigas Post Office"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1606": {
-        "city": "Caniogan, Pasig City",
+        "area": [
+            "Caniogan"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1607": {
-        "city": "Maybunga, Pasig City",
+        "area": [
+            "Maybunga"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1608": {
-        "city": "Santa Lucia, Pasig City",
+        "area": [
+            "Santa Lucia"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1609": {
-        "city": "Rosario, Pasig City",
+        "area": [
+            "Rosario"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1610": {
-        "city": "Santolan, Pasig City",
+        "area": [
+            "Santolan"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1611": {
-        "city": "Manggahan, Pasig City",
+        "area": [
+            "Manggahan"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1612": {
-        "city": "Green Park, Pasig City",
+        "area": [
+            "Green Park"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1620": {
-        "city": "Aguho, Pateros",
+        "area": [
+            "Aguho"
+        ],
+        "city": "Pateros",
         "state": "Metro Manila"
     },
     "1621": {
-        "city": "Santa Ana, Pateros",
+        "area": [
+            "Santa Ana"
+        ],
+        "city": "Pateros",
         "state": "Metro Manila"
     },
     "1630": {
-        "city": "Western Bicutan (including Food Terminal, Inc. complex), Taguig City",
+        "area": [
+            "Western Bicutan (including Food Terminal"
+        ],
+        "city": "Inc. complex)",
         "state": "Metro Manila"
     },
     "1631": {
-        "city": "Bicutan, Taguig City",
+        "area": [
+            "Bicutan"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1632": {
-        "city": "ususan, Taguig City",
+        "area": [
+            "ususan"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1633": {
-        "city": "Upper Bicutan, Taguig City",
+        "area": [
+            "Upper Bicutan"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1634": {
-        "city": "Nichols - McKinley, Taguig City",
+        "area": [
+            "Nichols - McKinley"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1636": {
-        "city": "Bay Breeze Executive Village, Taguig City",
+        "area": [
+            "Bay Breeze Executive Village"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1637": {
-        "city": "Tuktukan, Taguig City",
+        "area": [
+            "Tuktukan"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1638": {
-        "city": "Ligid, Taguig City",
+        "area": [
+            "Ligid"
+        ],
+        "city": "Taguig City",
         "state": "Metro Manila"
     },
     "1650": {
-        "city": "Pasig Ortigas CTR-PO Box# 1000 to 1099, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1000 to 1099"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1651": {
-        "city": "Pasig Ortigas CTR-PO Box# 1100 to 1199, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1100 to 1199"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1652": {
-        "city": "Pasig Ortigas CTR-PO Box# 1200 to 1299, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1200 to 1299"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1653": {
-        "city": "Pasig Ortigas CTR-PO Box# 1300 to 1399, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1300 to 1399"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1654": {
-        "city": "Pasig Ortigas CTR-PO Box# 1400 to 1499, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1400 to 1499"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1655": {
-        "city": "Pasig Ortigas CTR-PO Box# 1500 to 1599, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1500 to 1599"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1656": {
-        "city": "Pasig Ortigas CTR-PO Box# 1600 to 1699, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1600 to 1699"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1657": {
-        "city": "Pasig Ortigas CTR-PO Box# 1700 to 1799, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1700 to 1799"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1658": {
-        "city": "Pasig Ortigas CTR-PO Box# 1800 to 1899, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1800 to 1899"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1659": {
-        "city": "Pasig Ortigas CTR-PO Box# 1900 to 1999, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 1900 to 1999"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1660": {
-        "city": "Pasig Ortigas CTR-PO Box# 2000 to 2099, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2000 to 2099"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1661": {
-        "city": "Pasig Ortigas CTR-PO Box# 2100 to 2199, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2100 to 2199"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1662": {
-        "city": "Pasig Ortigas CTR-PO Box# 2200 to 2299, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2200 to 2299"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1663": {
-        "city": "Pasig Ortigas CTR-PO Box# 2300 to 2399, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2300 to 2399"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1664": {
-        "city": "Pasig Ortigas CTR-PO Box# 2400 to 2499, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2400 to 2499"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1665": {
-        "city": "Pasig Ortigas CTR-PO Box# 2500 to 2599, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2500 to 2599"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1666": {
-        "city": "Pasig Ortigas CTR-PO Box# 2600 to 2699, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2600 to 2699"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1667": {
-        "city": "Pasig Ortigas CTR-PO Box# 2700 to 2799, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2700 to 2799"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1668": {
-        "city": "Pasig Ortigas CTR-PO Box# 2800 to 2899, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2800 to 2899"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1669": {
-        "city": "Pasig Ortigas CTR-PO Box# 2900 to 2999, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 2900 to 2999"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1670": {
-        "city": "Pasig Ortigas CTR-PO Box# 3000 to 3099, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3000 to 3099"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1671": {
-        "city": "Pasig Ortigas CTR-PO Box# 3100 to 3199, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3100 to 3199"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1672": {
-        "city": "Pasig Ortigas CTR-PO Box# 3200 to 3299, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3200 to 3299"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1673": {
-        "city": "Pasig Ortigas CTR-PO Box# 3300 to 3399, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3300 to 3399"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1674": {
-        "city": "Pasig Ortigas CTR-PO Box# 3400 to 3499, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3400 to 3499"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1675": {
-        "city": "Pasig Ortigas CTR-PO Box# 3500 to 3599, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3500 to 3599"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1676": {
-        "city": "Pasig Ortigas CTR-PO Box# 3600 to 3699, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3600 to 3699"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1677": {
-        "city": "Pasig Ortigas CTR-PO Box# 3700 to 3799, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3700 to 3799"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1678": {
-        "city": "Pasig Ortigas CTR-PO Box# 3800 to 3899, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3800 to 3899"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1679": {
-        "city": "Pasig Ortigas CTR-PO Box# 3900 to 3999, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 3900 to 3999"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1680": {
-        "city": "Pasig Ortigas CTR-PO Box# 4000 to 4099, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4000 to 4099"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1681": {
-        "city": "Pasig Ortigas CTR-PO Box# 4100 to 4199, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4100 to 4199"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1682": {
-        "city": "Pasig Ortigas CTR-PO Box# 4200 to 4299, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4200 to 4299"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1683": {
-        "city": "Pasig Ortigas CTR-PO Box# 4300 to 4399, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4300 to 4399"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1684": {
-        "city": "Pasig Ortigas CTR-PO Box# 4400 to 4499, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4400 to 4499"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1685": {
-        "city": "Pasig Ortigas CTR-PO Box# 4500 to 4599, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4500 to 4599"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1686": {
-        "city": "Pasig Ortigas CTR-PO Box# 4600 to 4699, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4600 to 4699"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1687": {
-        "city": "Pasig Ortigas CTR-PO Box# 4700 to 4799, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4700 to 4799"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1688": {
-        "city": "Pasig Ortigas CTR-PO Box# 4800 to 4899, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4800 to 4899"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1689": {
-        "city": "Pasig Ortigas CTR-PO Box# 4900 to 4999, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 4900 to 4999"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1690": {
-        "city": "Pasig Ortigas CTR-PO Box# 5000 to 5099, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5000 to 5099"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1691": {
-        "city": "Pasig Ortigas CTR-PO Box# 5100 to 5199, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5100 to 5199"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1692": {
-        "city": "Pasig Ortigas CTR-PO Box# 5200 to 5299, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5200 to 5299"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1693": {
-        "city": "Pasig Ortigas CTR-PO Box# 5300 to 5399, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5300 to 5399"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1694": {
-        "city": "Pasig Ortigas CTR-PO Box# 5400 to 5499, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5400 to 5499"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1695": {
-        "city": "Pasig Ortigas CTR-PO Box# 5500 to 5599, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5500 to 5599"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1696": {
-        "city": "Pasig Ortigas CTR-PO Box# 5600 to 5699, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5600 to 5699"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1697": {
-        "city": "Pasig Ortigas CTR-PO Box# 5700 to 5799, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5700 to 5799"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1698": {
-        "city": "Pasig Ortigas CTR-PO Box# 5800 to 5899, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5800 to 5899"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1699": {
-        "city": "Pasig Ortigas CTR-PO Box# 5900 to 5999, Pasig City",
+        "area": [
+            "Pasig Ortigas CTR-PO Box# 5900 to 5999"
+        ],
+        "city": "Pasig City",
         "state": "Metro Manila"
     },
     "1700": {
-        "city": "Parañaque CPO, Parañaque City",
+        "area": [
+            "Parañaque CPO"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1701": {
-        "city": "Tambo, Parañaque City",
+        "area": [
+            "Tambo"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1702": {
-        "city": "Baclaran, Parañaque City",
+        "area": [
+            "Baclaran"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1703": {
-        "city": "Marina Subdivision (Reclamation), Parañaque City",
+        "area": [
+            "Marina Subdivision (Reclamation)"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1704": {
-        "city": "Santo Niño, Parañaque City",
+        "area": [
+            "Santo Niño"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1705": {
-        "city": "Ninoy Aquino International Airport, Parañaque City",
+        "area": [
+            "Ninoy Aquino International Airport"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1706": {
-        "city": "Pulo, Parañaque City",
+        "area": [
+            "Pulo"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1707": {
-        "city": "San Antonio Valley 11 & 12, Parañaque City",
+        "area": [
+            "San Antonio Valley 11 & 12"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1708": {
-        "city": "Multinational Village, Parañaque City",
+        "area": [
+            "Multinational Village"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1709": {
-        "city": "South Admiral Village, Merville Park & Moonwalk Subdivision, Parañaque City",
+        "area": [
+            "South Admiral Village"
+        ],
+        "city": "Merville Park & Moonwalk Subdivision",
         "state": "Metro Manila"
     },
     "1710": {
-        "city": "Executive Heights Subdivision, Parañaque City",
+        "area": [
+            "Executive Heights Subdivision"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1711": {
-        "city": "Better Living Subdivision, Parañaque City",
+        "area": [
+            "Better Living Subdivision"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1712": {
-        "city": "Miramar Subdivision, Parañaque City",
+        "area": [
+            "Miramar Subdivision"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1713": {
-        "city": "United Parañaque Subdivision, Parañaque City",
+        "area": [
+            "United Parañaque Subdivision"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1714": {
-        "city": "Ireneville Subdivision II, Parañaque City",
+        "area": [
+            "Ireneville Subdivision II"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1715": {
-        "city": "San Antonio Valley 1, Parañaque City",
+        "area": [
+            "San Antonio Valley 1"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1716": {
-        "city": "Maywood Village II, Parañaque City",
+        "area": [
+            "Maywood Village II"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1717": {
-        "city": "Manila Memorial Park, Parañaque City",
+        "area": [
+            "Manila Memorial Park"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1718": {
-        "city": "BF Homes 2, Parañaque City",
+        "area": [
+            "BF Homes 2"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1719": {
-        "city": "Maywood Village I, Parañaque City",
+        "area": [
+            "Maywood Village I"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1720": {
-        "city": "BF Homes 1, Parañaque City",
+        "area": [
+            "BF Homes 1"
+        ],
+        "city": "Parañaque City",
         "state": "Metro Manila"
     },
     "1740": {
-        "city": "Las Piñas Central Post Office, Las Piñas City",
+        "area": [
+            "Las Piñas Central Post Office"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1741": {
-        "city": "Greymarville Subdivision, Las Piñas City",
+        "area": [
+            "Greymarville Subdivision"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1742": {
-        "city": "Pulang Lupa and Zapote, Las Piñas City",
+        "area": [
+            "Pulang Lupa and Zapote"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1743": {
-        "city": "Cut-cut, Las Piñas City",
+        "area": [
+            "Cut-cut"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1744": {
-        "city": "Manuyo, Las Piñas City",
+        "area": [
+            "Manuyo"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1745": {
-        "city": "Gatchalian Subdivision, Las Piñas City",
+        "area": [
+            "Gatchalian Subdivision"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1746": {
-        "city": "Verdant Acres Subdivision, Las Piñas City",
+        "area": [
+            "Verdant Acres Subdivision"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1747": {
-        "city": "Moonwalk Subdivision and Talon, Las Piñas City",
+        "area": [
+            "Moonwalk Subdivision and Talon"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1748": {
-        "city": "Manila Doctors Village, Las Piñas City",
+        "area": [
+            "Manila Doctors Village"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1749": {
-        "city": "Angela Village, Las Piñas City",
+        "area": [
+            "Angela Village"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1750": {
-        "city": "Almanza, Las Piñas City",
+        "area": [
+            "Almanza"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1751": {
-        "city": "T.S. Cruz Subdivision, Las Piñas City",
+        "area": [
+            "T.S. Cruz Subdivision"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1752": {
-        "city": "Soldiers Hills Subdivision, Las Piñas City",
+        "area": [
+            "Soldiers Hills Subdivision"
+        ],
+        "city": "Las Piñas City",
         "state": "Metro Manila"
     },
     "1770": {
-        "city": "Muntinlupa Central Post Office, Muntinlupa City",
+        "area": [
+            "Muntinlupa Central Post Office"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1771": {
-        "city": "Buli/Cupang, Muntinlupa City",
+        "area": [
+            "Buli/Cupang"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1772": {
-        "city": "Soldiers' Hills, Muntinlupa City",
+        "area": [
+            "Soldiers' Hills"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1773": {
-        "city": "Tunasan, Muntinlupa City",
+        "area": [
+            "Tunasan"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1774": {
-        "city": "Susana Heights, Muntinlupa City",
+        "area": [
+            "Susana Heights"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1775": {
-        "city": "Pearl Heights, Muntinlupa City",
+        "area": [
+            "Pearl Heights"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1776": {
-        "city": "Poblacion, Muntinlupa City",
+        "area": [
+            "Poblacion"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1777": {
-        "city": "Pleasant Village, Muntinlupa City",
+        "area": [
+            "Pleasant Village"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1780": {
-        "city": "Ayala Alabang Subdivision, Muntinlupa City",
+        "area": [
+            "Ayala Alabang Subdivision"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1799": {
-        "city": "Ayala Alabang P.O. Boxes, Muntinlupa City",
+        "area": [
+            "Ayala Alabang P.O. Boxes"
+        ],
+        "city": "Muntinlupa City",
         "state": "Metro Manila"
     },
     "1800": {
-        "city": "Marikina Central Post Office, Marikina City",
+        "area": [
+            "Marikina Central Post Office"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1801": {
-        "city": "San Roque-Calumpang, Marikina City",
+        "area": [
+            "San Roque-Calumpang"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1802": {
-        "city": "Industrial Valley, Marikina City",
+        "area": [
+            "Industrial Valley"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1803": {
-        "city": "Barangka and Tañong, Marikina City",
+        "area": [
+            "Barangka and Tañong"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1804": {
-        "city": "J. De La Peña, Marikina City",
+        "area": [
+            "J. De La Peña"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1805": {
-        "city": "Malanday, Marikina City",
+        "area": [
+            "Malanday"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1806": {
-        "city": "Northern and Western Marikina River, Marikina City",
+        "area": [
+            "Northern and Western Marikina River"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1807": {
-        "city": "Concepcion tarlac, Marikina City",
+        "area": [
+            "Concepcion tarlac"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1808": {
-        "city": "Nangka, Marikina City",
+        "area": [
+            "Nangka"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1809": {
-        "city": "Parang, Marikina City",
+        "area": [
+            "Parang"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1810": {
-        "city": "Marikina Heights, Marikina City",
+        "area": [
+            "Marikina Heights"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1811": {
-        "city": "Concepcion 2, Marikina City",
+        "area": [
+            "Concepcion 2"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     },
     "1820": {
-        "city": "Bagong Nayon, Cupang, Mambagat, and Mayamot, Marikina City",
+        "area": [
+            "Bagong Nayon"
+        ],
+        "city": "Cupang",
         "state": "Metro Manila"
     },
     "1850": {
@@ -8504,11 +10088,17 @@
         "state": "Sultan Kudarat"
     },
     "0733-0739": {
-        "city": "Not used, Makati City",
+        "area": [
+            "Not used"
+        ],
+        "city": "Makati City",
         "state": "Metro Manila"
     },
     "1812-1819": {
-        "city": "Not used, Marikina City",
+        "area": [
+            "Not used"
+        ],
+        "city": "Marikina City",
         "state": "Metro Manila"
     }
 }
