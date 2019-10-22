@@ -1,26 +1,38 @@
 {
+    "10001": {
+        "district": "Don Muang",
+        "state": "Bangkok"
+    },
+    "10002": {
+        "district": "Don Muang",
+        "state": "Bangkok"
+    },
+    "10003": {
+        "district": "Don Muang",
+        "state": "Bangkok"
+    },
+    "10010": {
+        "district": "Lak Si",
+        "state": "Bangkok"
+    },
     "10100": {
-        "district": "Pom Prap Sattru Phai",
+        "district": "Khet Samphanthawong",
         "state": "Bangkok"
     },
     "10110": {
-        "district": "Wattana",
+        "district": "Watthana",
         "state": "Bangkok"
     },
     "10120": {
-        "district": "Yannawa",
+        "district": "Sathon",
         "state": "Bangkok"
     },
-    "10130": {
-        "district": "Phra Pradaeng",
-        "state": "Samut Prakan"
-    },
     "10140": {
-        "district": "Thung Khru",
+        "district": "Rat Burana",
         "state": "Bangkok"
     },
     "10150": {
-        "district": "Bang Khun Thian",
+        "district": "Bang Bon",
         "state": "Bangkok"
     },
     "10160": {
@@ -28,7 +40,7 @@
         "state": "Bangkok"
     },
     "10170": {
-        "district": "Taling Chan",
+        "district": "Thawi Watthana",
         "state": "Bangkok"
     },
     "10200": {
@@ -40,59 +52,51 @@
         "state": "Bangkok"
     },
     "10220": {
-        "district": "Bang Khen",
+        "district": "Sai Mai",
         "state": "Bangkok"
     },
     "10230": {
-        "district": "Khanna Yao",
+        "district": "Lat Phrao",
         "state": "Bangkok"
     },
     "10240": {
-        "district": "Saphan Sung B39",
+        "district": "Saphan Sung",
         "state": "Bangkok"
     },
     "10250": {
-        "district": "Pra Vet",
+        "district": "Saphan Sung",
         "state": "Bangkok"
     },
     "10260": {
-        "district": "Phra Khanong",
+        "district": "Watthana",
         "state": "Bangkok"
-    },
-    "10270": {
-        "district": "Muang Samut Prakan",
-        "state": "Samut Prakan"
-    },
-    "10290": {
-        "district": "Phra Samut Chedi",
-        "state": "Samut Prakan"
     },
     "10300": {
         "district": "Dusit",
         "state": "Bangkok"
     },
-    "10310": {
-        "district": "Wangthong Lang",
+    "10303": {
+        "district": "Dusit",
         "state": "Bangkok"
     },
-    "10320": {
+    "10310": {
         "district": "Huai Khwang",
         "state": "Bangkok"
     },
     "10330": {
-        "district": "Pahtum Wan",
+        "district": "Pathum Wan",
         "state": "Bangkok"
     },
     "10400": {
-        "district": "Ding Daeng",
+        "district": "Ratchathewi",
         "state": "Bangkok"
     },
     "10500": {
-        "district": "Bang Rak",
+        "district": "Sathon",
         "state": "Bangkok"
     },
     "10510": {
-        "district": "Khlong Samwa",
+        "district": "Min Buri",
         "state": "Bangkok"
     },
     "10520": {
@@ -103,6 +107,38 @@
         "district": "Nong Chok",
         "state": "Bangkok"
     },
+    "10600": {
+        "district": "Noi",
+        "state": "Bangkok"
+    },
+    "10700": {
+        "district": "Bang Phlat",
+        "state": "Bangkok"
+    },
+    "10800": {
+        "district": "Bang Sue",
+        "state": "Bangkok"
+    },
+    "10900": {
+        "district": "Chatuchak",
+        "state": "Bangkok"
+    },
+    "10130": {
+        "district": "Phra Pradaeng",
+        "state": "Samut Prakan"
+    },
+    "10270": {
+        "district": "Muang Samut Prakan",
+        "state": "Samut Prakan"
+    },
+    "10290": {
+        "district": "Phra Samut Chedi",
+        "state": "Samut Prakan"
+    },
+    "10320": {
+        "district": "Huai Khwang",
+        "state": "Bangkok"
+    },
     "10540": {
         "district": "Bang Phli",
         "state": "Samut Prakan"
@@ -110,18 +146,6 @@
     "10560": {
         "district": "Bang Bo",
         "state": "Samut Prakan"
-    },
-    "10600": {
-        "district": "Bangkok Yai",
-        "state": "Bangkok"
-    },
-    "10700": {
-        "district": "Bangkok Noi",
-        "state": "Bangkok"
-    },
-    "10800": {
-        "district": "Bang Su",
-        "state": "Bangkok"
     },
     "11000": {
         "district": "Muang Nonthaburi",
