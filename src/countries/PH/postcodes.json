@@ -2128,7 +2128,7 @@
         "state": "Rizal"
     },
     "1900": {
-        "city": "Jalajala",
+        "city": "Cainta",
         "state": "Rizal"
     },
     "1910": {
@@ -2161,6 +2161,10 @@
     },
     "1980": {
         "city": "Tanay",
+        "state": "Rizal"
+    },
+    "1990": {
+        "city": "Jalajala",
         "state": "Rizal"
     },
     "2000": {
