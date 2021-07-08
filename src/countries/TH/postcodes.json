@@ -27,6 +27,10 @@
         "district": "Sathon",
         "state": "Bangkok"
     },
+    "10130": {
+        "district": "Phra Pradaeng",
+        "state": "Samut Prakan"
+    },
     "10140": {
         "district": "Rat Burana",
         "state": "Bangkok"
@@ -71,6 +75,18 @@
         "district": "Watthana",
         "state": "Bangkok"
     },
+    "10270": {
+        "district": "Muang Samut Prakan",
+        "state": "Samut Prakan"
+    },
+    "10280": {
+        "district": "Samut Prakarn (Bang Pu)",
+        "state": "Samut Prakan"
+    },
+    "10290": {
+        "district": "Phra Samut Chedi",
+        "state": "Samut Prakan"
+    },
     "10300": {
         "district": "Dusit",
         "state": "Bangkok"
@@ -80,6 +96,10 @@
         "state": "Bangkok"
     },
     "10310": {
+        "district": "Huai Khwang",
+        "state": "Bangkok"
+    },
+    "10320": {
         "district": "Huai Khwang",
         "state": "Bangkok"
     },
@@ -95,6 +115,10 @@
         "district": "Sathon",
         "state": "Bangkok"
     },
+    "10501": {
+        "district": "Bang Rak (Central Post Office)",
+        "state": "Bangkok"
+    },
     "10510": {
         "district": "Min Buri",
         "state": "Bangkok"
@@ -106,6 +130,22 @@
     "10530": {
         "district": "Nong Chok",
         "state": "Bangkok"
+    },
+    "10540": {
+        "district": "Bang Phli",
+        "state": "Samut Prakan"
+    },
+    "10550": {
+        "district": "Samut Prakarn (Khlong Daan)",
+        "state": "Samut Prakan"
+    },
+    "10560": {
+        "district": "Bang Bo",
+        "state": "Samut Prakan"
+    },
+    "10570": {
+        "district": "Bang Saotong",
+        "state": "Samut Prakan"
     },
     "10600": {
         "district": "Noi",
@@ -122,30 +162,6 @@
     "10900": {
         "district": "Chatuchak",
         "state": "Bangkok"
-    },
-    "10130": {
-        "district": "Phra Pradaeng",
-        "state": "Samut Prakan"
-    },
-    "10270": {
-        "district": "Muang Samut Prakan",
-        "state": "Samut Prakan"
-    },
-    "10290": {
-        "district": "Phra Samut Chedi",
-        "state": "Samut Prakan"
-    },
-    "10320": {
-        "district": "Huai Khwang",
-        "state": "Bangkok"
-    },
-    "10540": {
-        "district": "Bang Phli",
-        "state": "Samut Prakan"
-    },
-    "10560": {
-        "district": "Bang Bo",
-        "state": "Samut Prakan"
     },
     "11000": {
         "district": "Muang Nonthaburi",
@@ -182,6 +198,14 @@
     "12120": {
         "district": "Khlong Luang",
         "state": "Pathum Thani"
+    },
+    "12121": {
+        "district": "Phathum Thani (Thammasart U.)",
+        "state": "Phathum Thani"
+    },
+    "12130": {
+        "district": "Phathum Thani (Rangsit)",
+        "state": "Phathum Thani"
     },
     "12140": {
         "district": "Lat Lum Kaeo",
@@ -231,6 +255,10 @@
         "district": "Wang Noi",
         "state": "Phranakhon Si Ayutthaya"
     },
+    "13180": {
+        "district": "Phathum Thani (Pratu Nam Pra-in)",
+        "state": "Phathum Thani"
+    },
     "13190": {
         "district": "Bang Sai",
         "state": "Phranakhon Si Ayutthaya"
@@ -262,6 +290,14 @@
     "13270": {
         "district": "Bang Sai",
         "state": "Phranakhon Si Ayutthaya"
+    },
+    "13280": {
+        "district": "Phranakhon Si Ayutthaya (Lad Chado)",
+        "state": "Phranakhon Sie Ayutthaya"
+    },
+    "13290": {
+        "district": "Phranakhon Si Ayutthaya (Bang Sai Support Center)",
+        "state": "Phranakhon Sie Ayutthaya"
     },
     "14000": {
         "district": "Muang ANG THONG",
@@ -315,12 +351,32 @@
         "district": "Tha Wung",
         "state": "Lopburi"
     },
+    "15160": {
+        "district": "Lopburi (Khok Gra Tiam)",
+        "state": "Lopburi"
+    },
     "15170": {
         "district": "Nong Muang",
         "state": "Lopburi"
     },
+    "15180": {
+        "district": "Lopburi (Tha Khlong)",
+        "state": "Lopburi"
+    },
     "15190": {
         "district": "Lum Sunthi",
+        "state": "Lopburi"
+    },
+    "15210": {
+        "district": "Lopburi (Khoh Toom)",
+        "state": "Lopburi"
+    },
+    "15220": {
+        "district": "Lopburi (Dee Lung)",
+        "state": "Lopburi"
+    },
+    "15230": {
+        "district": "Lopburi (Tha Luang)",
         "state": "Lopburi"
     },
     "15240": {
@@ -355,6 +411,10 @@
         "district": "Khai Bang Rachan",
         "state": "Singburi"
     },
+    "16160": {
+        "district": "Singburi (Pak Bang)",
+        "state": "Singburi"
+    },
     "17000": {
         "district": "Muang Chainat",
         "state": "Chainat"
@@ -381,6 +441,14 @@
     },
     "17150": {
         "district": "Sanphaya",
+        "state": "Chainat"
+    },
+    "17160": {
+        "district": "Chainat",
+        "state": "Chainat"
+    },
+    "17170": {
+        "district": "Chainat",
         "state": "Chainat"
     },
     "18000": {
@@ -431,6 +499,26 @@
         "district": "Wang Muang",
         "state": "Saraburi"
     },
+    "18230": {
+        "district": "Saraburi (Hin Kong)",
+        "state": "Saraburi"
+    },
+    "18240": {
+        "district": "Saraburi (Pu Kae)",
+        "state": "Saraburi"
+    },
+    "18250": {
+        "district": "Phranakhon Si Ayutthaya (Kotchasit)",
+        "state": "Phranakhon Sie Ayutthaya"
+    },
+    "18260": {
+        "district": "Saraburi (Tub Kwang)",
+        "state": "Saraburi"
+    },
+    "18270": {
+        "district": "Phranakhon Si Ayutthaya (Tha Laan)",
+        "state": "Phranakhon Sie Ayutthaya"
+    },
     "20000": {
         "district": "Muang Chonburi",
         "state": "Chonburi"
@@ -442,6 +530,14 @@
     "20120": {
         "district": "Ko Sichang",
         "state": "Chonburi"
+    },
+    "20130": {
+        "district": "Chonburi (Bang Saen)",
+        "state": "Chonburi"
+    },
+    "20131": {
+        "district": "Chonburi (For Burapha U.)",
+        "state": "Chon Buri"
     },
     "20140": {
         "district": "Phanat Nikhom",
@@ -467,8 +563,20 @@
         "district": "Nong Yai",
         "state": "Chonburi"
     },
+    "20220": {
+        "district": "Chonburi (Hua Gunjae)",
+        "state": "Chonburi"
+    },
+    "20230": {
+        "district": "Chonburi (Ao Udom)",
+        "state": "Chonburi"
+    },
     "20240": {
         "district": "Ko Chan",
+        "state": "Chonburi"
+    },
+    "20250": {
+        "district": "Chonburi (Baan Aumphue)",
         "state": "Chonburi"
     },
     "20270": {
@@ -477,6 +585,10 @@
     },
     "21000": {
         "district": "Muang Rayong",
+        "state": "Rayong"
+    },
+    "21100": {
+        "district": "Rayong (Ka Ched)",
         "state": "Rayong"
     },
     "21110": {
@@ -495,8 +607,24 @@
         "district": "Pluak Daeng",
         "state": "Rayong"
     },
+    "21150": {
+        "district": "Rayong (Mab Tapud)",
+        "state": "Rayong"
+    },
+    "21160": {
+        "district": "Rayong (Pe)",
+        "state": "Rayong"
+    },
+    "21170": {
+        "district": "Rayong (Pak Nam Prasae)",
+        "state": "Rayong"
+    },
     "21180": {
         "district": "Nikhom Pattana",
+        "state": "Rayong"
+    },
+    "21190": {
+        "district": "Rayong (Krum)",
         "state": "Rayong"
     },
     "21210": {
@@ -531,8 +659,16 @@
         "district": "Na Yai Am",
         "state": "Chanthaburi"
     },
+    "22170": {
+        "district": "Chanthaburi",
+        "state": "Chanthaburi"
+    },
     "22180": {
         "district": "Soi Dao",
+        "state": "Chanthaburi"
+    },
+    "22190": {
+        "district": "Chanthaburi",
         "state": "Chanthaburi"
     },
     "22210": {
@@ -557,6 +693,14 @@
     },
     "23140": {
         "district": "Bo Rai",
+        "state": "Trat"
+    },
+    "23150": {
+        "district": "Trat (San Dung)",
+        "state": "Trat"
+    },
+    "23170": {
+        "district": "Trat (Ko Chang)",
         "state": "Trat"
     },
     "24000": {
@@ -585,6 +729,14 @@
     },
     "24160": {
         "district": "Sanam Chai Khet",
+        "state": "Chachoengsao"
+    },
+    "24170": {
+        "district": "Chachoengsao",
+        "state": "Chachoengsao"
+    },
+    "24180": {
+        "district": "Chachoengsao",
         "state": "Chachoengsao"
     },
     "24190": {
@@ -619,8 +771,20 @@
         "district": "Na Di",
         "state": "Prachinburi"
     },
+    "25230": {
+        "district": "Prachinburi (Baan Phra)",
+        "state": "Prachinburi"
+    },
+    "25240": {
+        "district": "Prachinburi (Krabin Kao)",
+        "state": "Prachinburi"
+    },
     "26000": {
         "district": "Muang Nakhon Nayok",
+        "state": "Nakhon Nayok"
+    },
+    "26001": {
+        "district": "Nakhon Nayok (Military Academy)",
         "state": "Nakhon Nayok"
     },
     "26110": {
@@ -649,6 +813,10 @@
     },
     "27180": {
         "district": "Ta Phraya",
+        "state": "Sa Kaeo"
+    },
+    "27210": {
+        "district": "Wang Nam Yen",
         "state": "Sa Kaeo"
     },
     "27250": {
@@ -735,8 +903,16 @@
         "district": "Kham Sakae Saeng",
         "state": "Nakhon Ratchasima"
     },
+    "30310": {
+        "district": "Nakhon Ratchasima (Jor Hor)",
+        "state": "Nakhon Ratchasima"
+    },
     "30330": {
         "district": "Soeng Sang",
+        "state": "Nakhon Ratchasima"
+    },
+    "30340": {
+        "district": "Nakhon Ratchasima (Khlong Phai)",
         "state": "Nakhon Ratchasima"
     },
     "30350": {
@@ -751,8 +927,16 @@
         "district": "Wang Nam Khyo",
         "state": "Nakhon Ratchasima"
     },
+    "30380": {
+        "district": "Nakhon Ratchasima (Kud Jik)",
+        "state": "Nakhon Ratchasima"
+    },
     "30410": {
         "district": "Nong Bunnak",
+        "state": "Nakhon Ratchasima"
+    },
+    "30420": {
+        "district": "Nakhon Ratchasima (Talad Kae)",
         "state": "Nakhon Ratchasima"
     },
     "30430": {
@@ -826,6 +1010,58 @@
     "31260": {
         "district": "Non Dindaeng",
         "state": "Burirum"
+    },
+    "32000": {
+        "district": "Surin",
+        "state": "Surin"
+    },
+    "32110": {
+        "district": "Surin (Sikharabhumi)",
+        "state": "Surin"
+    },
+    "32120": {
+        "district": "Surin (Tha Toom)",
+        "state": "Surin"
+    },
+    "32130": {
+        "district": "Surin (Non Narai)",
+        "state": "Surin"
+    },
+    "32140": {
+        "district": "Surin (Prasart)",
+        "state": "Surin"
+    },
+    "32150": {
+        "district": "Surin (SungKha)",
+        "state": "Surin"
+    },
+    "32160": {
+        "district": "Surin (Sanom)",
+        "state": "Surin"
+    },
+    "32170": {
+        "district": "Surin (Sumrongtaab)",
+        "state": "Surin"
+    },
+    "32180": {
+        "district": "Surin (Jom Phra)",
+        "state": "Surin"
+    },
+    "32190": {
+        "district": "Surin (Chum Phol Buri)",
+        "state": "Surin"
+    },
+    "32210": {
+        "district": "Surin (Kaab Cheng)",
+        "state": "Surin"
+    },
+    "32220": {
+        "district": "Surin (Lumduan)",
+        "state": "Surin"
+    },
+    "32230": {
+        "district": "Surin (Bua Ched)",
+        "state": "Surin"
     },
     "33000": {
         "district": "Muang Sisaket",
@@ -947,6 +1183,10 @@
         "district": "Na Chaluai",
         "state": "Ubon Ratchathani"
     },
+    "34320": {
+        "district": "Ubon Ratchathani (Baan Kok)",
+        "state": "Ubon Ratchathani"
+    },
     "34330": {
         "district": "Tan Sum",
         "state": "Na Tan"
@@ -995,6 +1235,10 @@
         "district": "Sai Mun",
         "state": "Yasothon"
     },
+    "35180": {
+        "district": "Yasothon (Dong Kaen Yai)",
+        "state": "Yasothon"
+    },
     "36000": {
         "district": "Muang Chaiyaphum",
         "state": "Chaiyaphum"
@@ -1039,8 +1283,16 @@
         "district": "Nong Bua Daeng",
         "state": "Chaiyaphum"
     },
+    "36220": {
+        "district": "Nakhon Ratchasima (Nong Bua Kok)",
+        "state": "Nakhon Ratchasima"
+    },
     "36230": {
         "district": "Thep Satthit",
+        "state": "Chaiyaphum"
+    },
+    "36240": {
+        "district": "Chaiyaphum",
         "state": "Chaiyaphum"
     },
     "36250": {
@@ -1074,6 +1326,34 @@
     "37290": {
         "district": "Senangkhanikhorn",
         "state": "Amnat Charoen"
+    },
+    "38000": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38150": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38170": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38180": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38190": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38210": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
+    },
+    "38220": {
+        "district": "Bueng Kan",
+        "state": "Bueng Kan"
     },
     "39000": {
         "district": "Muang Nong Bua Lam Phu",
@@ -1147,8 +1427,16 @@
         "district": "Waeng Noi",
         "state": "Khon Kaen"
     },
+    "40240": {
+        "district": "Khon Kaen (Don Mong)",
+        "state": "Khon Kaen"
+    },
     "40250": {
         "district": "Ubolratana",
+        "state": "Khon Kaen"
+    },
+    "40260": {
+        "district": "Mueang Khon Kaen District",
         "state": "Khon Kaen"
     },
     "40270": {
@@ -1157,6 +1445,14 @@
     },
     "40280": {
         "district": "Khao Suan Kwang",
+        "state": "Khon Kaen"
+    },
+    "40290": {
+        "district": "Khon Kaen (Non Hun)",
+        "state": "Khon Kaen"
+    },
+    "40310": {
+        "district": "Khon Kaen (Nam Pong Gao)",
         "state": "Khon Kaen"
     },
     "40320": {
@@ -1191,6 +1487,10 @@
         "district": "Phen",
         "state": "Udon Thani"
     },
+    "41160": {
+        "district": "Udon Thani (Baan Pue)",
+        "state": "Udon Thani"
+    },
     "41190": {
         "district": "Ban Dung",
         "state": "Udon Thani"
@@ -1219,6 +1519,10 @@
         "district": "Sang Khom",
         "state": "Udon Thani"
     },
+    "41280": {
+        "district": "Udon Thani (Wang Sammo)",
+        "state": "Udon Thani"
+    },
     "41290": {
         "district": "Chaiwan",
         "state": "Udon Thani"
@@ -1227,8 +1531,20 @@
         "district": "Thung Fon",
         "state": "Udon Thani"
     },
+    "41320": {
+        "district": "Udon Thani (Baan Chiang)",
+        "state": "Udon Thani"
+    },
     "41340": {
         "district": "Nong Saeng",
+        "state": "Udon Thani"
+    },
+    "41360": {
+        "district": "Udon Thani (Mak Ya)",
+        "state": "Udon Thani"
+    },
+    "41370": {
+        "district": "Udon Thani (Pun Don)",
         "state": "Udon Thani"
     },
     "41380": {
@@ -1237,6 +1553,10 @@
     },
     "42000": {
         "district": "Muang Loei",
+        "state": "Loei"
+    },
+    "42100": {
+        "district": "Loei (Na Or)",
         "state": "Loei"
     },
     "42110": {
@@ -1269,6 +1589,10 @@
     },
     "42180": {
         "district": "Phu Kradung",
+        "state": "Loei"
+    },
+    "42190": {
+        "district": "Loei (Nhong Hin)",
         "state": "Loei"
     },
     "42210": {
@@ -1333,6 +1657,10 @@
     },
     "43220": {
         "district": "Bung Khong Long",
+        "state": "Nong Khai"
+    },
+    "43230": {
+        "district": "Fao Rai (updated)",
         "state": "Nong Khai"
     },
     "44000": {
@@ -1439,6 +1767,10 @@
         "district": "Moeiyawadi",
         "state": "Roi Et"
     },
+    "45280": {
+        "district": "Roi Et (Sok Chuek)",
+        "state": "Roi Et"
+    },
     "46000": {
         "district": "Muang Kalasin",
         "state": "Kalasin"
@@ -1495,6 +1827,10 @@
         "district": "Huai Phung",
         "state": "Kalasin"
     },
+    "46250": {
+        "district": "Na Ku",
+        "state": "Kalasin"
+    },
     "47000": {
         "district": "Muang Sakon Nakhon",
         "state": "Sakon Nakhon"
@@ -1539,8 +1875,16 @@
         "district": "Kusuman",
         "state": "Sakon Nakhon"
     },
+    "47220": {
+        "district": "Sakon Nakhon (Dong Mafai)",
+        "state": "Sakon Nakhon"
+    },
     "47230": {
         "district": "Pon Nakaew",
+        "state": "Sakon Nakhon"
+    },
+    "47240": {
+        "district": "Sakon Nakhon (Don Khuang)",
         "state": "Sakon Nakhon"
     },
     "47250": {
@@ -1635,6 +1979,10 @@
         "district": "Muang Chiang Mai",
         "state": "Chiang Mai"
     },
+    "50100": {
+        "district": "Chiang Mai",
+        "state": "Chiang Mai"
+    },
     "50110": {
         "district": "Fang",
         "state": "Chiang Mai"
@@ -1671,6 +2019,10 @@
         "district": "Phrao",
         "state": "Chiang Mai"
     },
+    "50200": {
+        "district": "Chaiyaphum",
+        "state": "Chaiyaphum"
+    },
     "50210": {
         "district": "San Sai",
         "state": "Chiang Mai"
@@ -1703,12 +2055,28 @@
         "district": "Mae Ai",
         "state": "Chiang Mai"
     },
+    "50290": {
+        "district": "Chiang Mai",
+        "state": "Chiang Mai"
+    },
+    "50300": {
+        "district": "Chiang Mai",
+        "state": "Chiang Mai"
+    },
     "50310": {
         "district": "Omkoi",
         "state": "Chiang Mai"
     },
     "50320": {
         "district": "Chai Prakarn",
+        "state": "Chiang Mai"
+    },
+    "50330": {
+        "district": "Chiang Mai",
+        "state": "Chiang Mai"
+    },
+    "50340": {
+        "district": "Chiang Mai",
         "state": "Chiang Mai"
     },
     "50350": {
@@ -1739,8 +2107,16 @@
         "district": "Mae Tha",
         "state": "Lamphun"
     },
+    "51150": {
+        "district": "Lamphun (U-Mong)",
+        "state": "Lamphun"
+    },
     "51160": {
         "district": "Thung Hua Chang",
+        "state": "Lamphun"
+    },
+    "51170": {
+        "district": "Lamphun (Tha Gas)",
         "state": "Lamphun"
     },
     "51180": {
@@ -1749,6 +2125,10 @@
     },
     "52000": {
         "district": "Muang Lampang",
+        "state": "Lampang"
+    },
+    "52100": {
+        "district": "Lampang (Sop Tui)",
         "state": "Lampang"
     },
     "52110": {
@@ -1795,6 +2175,10 @@
         "district": "Mae Mo",
         "state": "Lampang"
     },
+    "52230": {
+        "district": "Lampang (Mae Wa)",
+        "state": "Lampang"
+    },
     "52240": {
         "district": "Muang Pan",
         "state": "Lampang"
@@ -1827,8 +2211,24 @@
         "district": "Fak Tha",
         "state": "Uttaradit"
     },
+    "53170": {
+        "district": "Uttaradit (Wang Kapi)",
+        "state": "Uttaradit"
+    },
     "53180": {
         "district": "Ban Khok",
+        "state": "Uttaradit"
+    },
+    "53190": {
+        "district": "Uttaradit (Ruam Jit )",
+        "state": "Uttaradit"
+    },
+    "53210": {
+        "district": "Uttaradit (Thung Yung)",
+        "state": "Uttaradit"
+    },
+    "53220": {
+        "district": "Uttaradit (Tha Sak)",
         "state": "Uttaradit"
     },
     "53230": {
@@ -1837,6 +2237,10 @@
     },
     "54000": {
         "district": "Muang Phrae",
+        "state": "Phrae"
+    },
+    "54110": {
+        "district": "Den Chai",
         "state": "Phrae"
     },
     "54120": {
@@ -1903,6 +2307,10 @@
         "district": "Ban Luang",
         "state": "Nan"
     },
+    "55210": {
+        "district": "Nan (Doo Phong)",
+        "state": "Nan"
+    },
     "55220": {
         "district": "Bo Klua",
         "state": "Nan"
@@ -1937,6 +2345,10 @@
     },
     "57000": {
         "district": "Muang Chiang Rai",
+        "state": "Chiang Rai"
+    },
+    "57100": {
+        "district": "Chiang Rai",
         "state": "Chiang Rai"
     },
     "57110": {
@@ -1979,8 +2391,28 @@
         "district": "Wiang Chai",
         "state": "Chiang Rai"
     },
+    "57220": {
+        "district": "Chiang Rai",
+        "state": "Chiang Rai"
+    },
+    "57230": {
+        "district": "Chiang Rai",
+        "state": "Chiang Rai"
+    },
     "57250": {
         "district": "Mae Lao",
+        "state": "Chiang Rai"
+    },
+    "57260": {
+        "district": "Chiang Rai",
+        "state": "Chiang Rai"
+    },
+    "57270": {
+        "district": "Chiang Rai",
+        "state": "Chiang Rai"
+    },
+    "57280": {
+        "district": "Chiang Rai",
         "state": "Chiang Rai"
     },
     "57290": {
@@ -2059,12 +2491,28 @@
         "district": "Tak Fa",
         "state": "Nakhon Sawan"
     },
+    "60210": {
+        "district": "Nakhon Sawan (Chong Kae)",
+        "state": "Nakhon Sawan"
+    },
     "60220": {
         "district": "Phaisali",
         "state": "Nakhon Sawan"
     },
     "60230": {
         "district": "Kao Lieo",
+        "state": "Nakhon Sawan"
+    },
+    "60240": {
+        "district": "Nakhon Sawan (Nong Ben)",
+        "state": "Nakhon Sawan"
+    },
+    "60250": {
+        "district": "Nakhon Sawan (Tub Krit)",
+        "state": "Nakhon Sawan"
+    },
+    "60260": {
+        "district": "Nakhon Sawan (Jun Sen)",
         "state": "Nakhon Sawan"
     },
     "61000": {
@@ -2099,6 +2547,10 @@
         "district": "Huai Khot",
         "state": "Uthai Thani"
     },
+    "61180": {
+        "district": "Uthai Thani (Ga Rung)",
+        "state": "Uthai Thani"
+    },
     "62000": {
         "district": "Muang Kamphaeng Phet",
         "state": "Kamphaeng Phet"
@@ -2115,8 +2567,16 @@
         "district": "Khanu Woralaksaburi",
         "state": "Kamphaeng Phet"
     },
+    "62140": {
+        "district": "Kamphaeng Phet (Salok Batr)",
+        "state": "Kamphaeng Phet"
+    },
     "62150": {
         "district": "Sai Ngam",
+        "state": "Kamphaeng Phet"
+    },
+    "62160": {
+        "district": "Kamphaeng Phet (Pak Dong)",
         "state": "Kamphaeng Phet"
     },
     "62170": {
@@ -2167,6 +2627,10 @@
         "district": "Umphang",
         "state": "Tak"
     },
+    "63180": {
+        "district": "Wang Chaw",
+        "state": "Tak"
+    },
     "64000": {
         "district": "Muang Sukhothai",
         "state": "Sukhothai"
@@ -2203,6 +2667,22 @@
         "district": "Si Nakhon",
         "state": "Sukhothai"
     },
+    "64190": {
+        "district": "Sukhothai (Tha Chai)",
+        "state": "Sukhothai"
+    },
+    "64210": {
+        "district": "Sukhothai (Muang Kao)",
+        "state": "Sukhothai"
+    },
+    "64220": {
+        "district": "Sukhothai (Baan Suan)",
+        "state": "Sukhothai"
+    },
+    "64230": {
+        "district": "Sukhothai (Baan Mai Chaimongkhol)",
+        "state": "Sukhothai"
+    },
     "65000": {
         "district": "Muang Phitsanulok",
         "state": "Phitsanulok"
@@ -2235,8 +2715,28 @@
         "district": "Chat Trakan",
         "state": "Phitsanulok"
     },
+    "65180": {
+        "district": "Phitsanulok (Nong Tom)",
+        "state": "Phitsanulok"
+    },
     "65190": {
         "district": "Noen Maprang",
+        "state": "Phitsanulok"
+    },
+    "65210": {
+        "district": "Phitsanulok (Noen Kum)",
+        "state": "Phitsanulok"
+    },
+    "65220": {
+        "district": "Phitsanulok (Kaeng Sopha)",
+        "state": "Phitsanulok"
+    },
+    "65230": {
+        "district": "Phitsanulok (Wat Prik)",
+        "state": "Phitsanulok"
+    },
+    "65240": {
+        "district": "Phitsanulok (Chum Sang Songkram)",
         "state": "Phitsanulok"
     },
     "66000": {
@@ -2267,6 +2767,10 @@
         "district": "Sak Lek",
         "state": "Phichit"
     },
+    "66170": {
+        "district": "Phichit (Hua Dong)",
+        "state": "Phichit"
+    },
     "66180": {
         "district": "Wang Sai Phun",
         "state": "Phichit"
@@ -2277,6 +2781,14 @@
     },
     "66210": {
         "district": "Dong Charoen",
+        "state": "Phichit"
+    },
+    "66220": {
+        "district": "Phichit (Kum Pang Din)",
+        "state": "Phichit"
+    },
+    "66230": {
+        "district": "Phichit (Kao Sai)",
         "state": "Phichit"
     },
     "67000": {
@@ -2311,8 +2823,32 @@
         "district": "Si Thep",
         "state": "Phetchabun"
     },
+    "67180": {
+        "district": "Phetchabun (Pu Toei)",
+        "state": "Phetchabun"
+    },
+    "67190": {
+        "district": "Phetchabun (Dong Kui)",
+        "state": "Phetchabun"
+    },
+    "67210": {
+        "district": "Phetchabun (Wang Chompu)",
+        "state": "Phetchabun"
+    },
+    "67220": {
+        "district": "Phetchabun (Na Chaliang)",
+        "state": "Phetchabun"
+    },
+    "67230": {
+        "district": "Phetchabun (Wang Pikul)",
+        "state": "Phetchabun"
+    },
     "67240": {
         "district": "Wang Pong",
+        "state": "Phetchabun"
+    },
+    "67250": {
+        "district": "Phetchabun (Tha Phol)",
         "state": "Phetchabun"
     },
     "67260": {
@@ -2321,6 +2857,10 @@
     },
     "67270": {
         "district": "Khao Kho",
+        "state": "Phetchabun"
+    },
+    "67280": {
+        "district": "Phetchabun (Camp Son)",
         "state": "Phetchabun"
     },
     "70000": {
@@ -2359,6 +2899,14 @@
         "district": "Suan Phung",
         "state": "Ratchaburi"
     },
+    "70190": {
+        "district": "Ratchaburi (Huay Krabok)",
+        "state": "Ratchaburi"
+    },
+    "70210": {
+        "district": "Ban Phaeo (Lak Ha)",
+        "state": "Samut Sakhon"
+    },
     "71000": {
         "district": "Muang Kanchanaburi",
         "state": "Khanchanaburi"
@@ -2370,6 +2918,10 @@
     "71120": {
         "district": "Tha Maka",
         "state": "Khanchanaburi"
+    },
+    "71130": {
+        "district": "Khachanaburi (Tha Rue PhraThaen)",
+        "state": "Khachanaburi"
     },
     "71140": {
         "district": "Phanom Thuan",
@@ -2390,6 +2942,10 @@
     "71180": {
         "district": "Thong Phaphum",
         "state": "Khanchanaburi"
+    },
+    "71190": {
+        "district": "Khachanaburi (Lad Ya)",
+        "state": "Khachanaburi"
     },
     "71210": {
         "district": "Lao Khwan",
@@ -2447,8 +3003,28 @@
         "district": "Dan Chang",
         "state": "Suphanburi"
     },
+    "72190": {
+        "district": "Suphanburi (Tung Kok)",
+        "state": "Suphanburi"
+    },
+    "72210": {
+        "district": "Suphanburi (Suan Tang)",
+        "state": "Suphanburi"
+    },
+    "72220": {
+        "district": "Suphanburi (Sra Yai Som)",
+        "state": "Suphanburi"
+    },
+    "72230": {
+        "district": "Suphanburi (Tha Sedej)",
+        "state": "Suphanburi"
+    },
     "72240": {
         "district": "Nong Yasai",
+        "state": "Suphanburi"
+    },
+    "72250": {
+        "district": "Suphanburi (Sra GraJom)",
         "state": "Suphanburi"
     },
     "73000": {
@@ -2475,8 +3051,28 @@
         "district": "Don Tum",
         "state": "Nakhon Pathom"
     },
+    "73160": {
+        "district": "Nakhon Pathom (Aom Yai)",
+        "state": "Nakhon Pathom"
+    },
     "73170": {
         "district": "Phutha Monthon",
+        "state": "Nakhon Pathom"
+    },
+    "73180": {
+        "district": "Nakhon Pathom (Sra Pattana)",
+        "state": "Nakhon Pathom"
+    },
+    "73190": {
+        "district": "Nakhon Pathom (Bang Luang)",
+        "state": "Nakhon Pathom"
+    },
+    "73210": {
+        "district": "Nakhon Pathom (Rai Khing)",
+        "state": "Nakhon Pathom"
+    },
+    "73220": {
+        "district": "Nakhon Pathom (KraTum Lom)",
         "state": "Nakhon Pathom"
     },
     "74000": {
@@ -2489,6 +3085,10 @@
     },
     "74120": {
         "district": "Ban Phaeo",
+        "state": "Samut Sakhon"
+    },
+    "74130": {
+        "district": "Samut Sakhon (Aom Noi)",
         "state": "Samut Sakhon"
     },
     "75000": {
@@ -2505,6 +3105,10 @@
     },
     "76000": {
         "district": "Muang Phetchaburi",
+        "state": "Phetchaburi"
+    },
+    "76100": {
+        "district": "Mueng (Jao Sumran Beach)",
         "state": "Phetchaburi"
     },
     "76110": {
@@ -2559,12 +3163,32 @@
         "district": "Kui Buri",
         "state": "Prachuap Khirikhan"
     },
+    "77160": {
+        "district": "Pranburi (Thanaratch)",
+        "state": "Prachuap Khirikhan"
+    },
     "77170": {
         "district": "Bang Saphan Noi",
         "state": "Prachuap Khirikhan"
     },
     "77180": {
         "district": "Samaroiyod",
+        "state": "Prachuap Khirikhan"
+    },
+    "77190": {
+        "district": "Bang Saphan (Baan Krood)",
+        "state": "Prachuap Khirikhan"
+    },
+    "77210": {
+        "district": "Mueng (Ao Noi)",
+        "state": "Prachuap Khirikhan"
+    },
+    "77220": {
+        "district": "Pranburi",
+        "state": "Prachuap Khirikhan"
+    },
+    "77230": {
+        "district": "Bang Saphan (Ron Thong)",
         "state": "Prachuap Khirikhan"
     },
     "80000": {
@@ -2635,9 +3259,29 @@
         "district": "Phipun",
         "state": "Nakhon Sie Thammarat"
     },
+    "80280": {
+        "district": "Nakhon SiThammarat (Khao Mahachai)",
+        "state": "Nakhon Si Thammarat"
+    },
+    "80290": {
+        "district": "Nakhon Si Thammarat (Cha Mao)",
+        "state": "Nakhon Si Thammarat"
+    },
     "80320": {
         "district": "Phromkhiri",
         "state": "Nakhon Sie Thammarat"
+    },
+    "80330": {
+        "district": "Nakhon Si Thammarat (Bang Chak)",
+        "state": "Nakhon Si Thammarat"
+    },
+    "80340": {
+        "district": "Nakhon Si Thammarat (Sao Pao)",
+        "state": "Nakhon Si Thammarat"
+    },
+    "80350": {
+        "district": "Nakhon Si Thammarat (Mai Lha)",
+        "state": "Nakhon Si Thammarat"
     },
     "80360": {
         "district": "Bang Khan",
@@ -2671,6 +3315,14 @@
         "district": "Plai Phraya",
         "state": "Krabi"
     },
+    "81170": {
+        "district": "Krabi (Khlong Pohn)",
+        "state": "Krabi"
+    },
+    "81190": {
+        "district": "Lam Thap",
+        "state": "Krabi"
+    },
     "82000": {
         "district": "Muang Phang Nga",
         "state": "Phang Nga"
@@ -2685,6 +3337,10 @@
     },
     "82130": {
         "district": "Takua Thung",
+        "state": "Phang Nga"
+    },
+    "82140": {
+        "district": "Phang Nga (Kok Kloy)",
         "state": "Phang Nga"
     },
     "82150": {
@@ -2703,8 +3359,16 @@
         "district": "Thap Put",
         "state": "Phang Nga"
     },
+    "82190": {
+        "district": "Phang Nga (Bang Muang)",
+        "state": "Phang Nga"
+    },
     "83000": {
         "district": "Muang Phuket",
+        "state": "Phuket"
+    },
+    "83100": {
+        "district": "Phuket (Karon)",
         "state": "Phuket"
     },
     "83110": {
@@ -2715,8 +3379,20 @@
         "district": "Kathu",
         "state": "Phuket"
     },
+    "83130": {
+        "district": "Phuket (Rawai)",
+        "state": "Phuket"
+    },
+    "83150": {
+        "district": "Phuket (Patong)",
+        "state": "Phuket"
+    },
     "84000": {
         "district": "Muang Surat Thani",
+        "state": "Surat Thani"
+    },
+    "84100": {
+        "district": "Surat Thani (Khun Thale)",
         "state": "Surat Thani"
     },
     "84110": {
@@ -2779,8 +3455,40 @@
         "district": "Khian Sa",
         "state": "Surat Thani"
     },
+    "84270": {
+        "district": "Surat Thani (Parupi)",
+        "state": "Surat Thani"
+    },
     "84280": {
         "district": "Ko Phangan",
+        "state": "Surat Thani"
+    },
+    "84290": {
+        "district": "Surat Thani (Tha Tong Mai)",
+        "state": "Surat Thani"
+    },
+    "84310": {
+        "district": "Lamai Beach ",
+        "state": "Nakhon Si Thammarat"
+    },
+    "84320": {
+        "district": "Surat Thani (Cha Weng)",
+        "state": "Surat Thani"
+    },
+    "84330": {
+        "district": "Surat Thani (Mae Nam)",
+        "state": "Surat Thani"
+    },
+    "84340": {
+        "district": "Surat Thani (Pak Praek)",
+        "state": "Surat Thani"
+    },
+    "84350": {
+        "district": "Surat Thani (Chai Buri)",
+        "state": "Surat Thani"
+    },
+    "84370": {
+        "district": "Vibhavadi",
         "state": "Surat Thani"
     },
     "85000": {
@@ -2803,8 +3511,16 @@
         "district": "Muang Chumphon",
         "state": "Chumphon"
     },
+    "86100": {
+        "district": "Chumphon (Thung Ka)",
+        "state": "Chumphon"
+    },
     "86110": {
         "district": "Lang Suan",
+        "state": "Chumphon"
+    },
+    "86120": {
+        "district": "Chumphon (Pak Nam Chumphon)",
         "state": "Chumphon"
     },
     "86130": {
@@ -2813,6 +3529,10 @@
     },
     "86140": {
         "district": "Tha Sae",
+        "state": "Chumphon"
+    },
+    "86150": {
+        "district": "Chumphon (Pak Nam Lang Suan)",
         "state": "Chumphon"
     },
     "86160": {
@@ -2827,16 +3547,36 @@
         "district": "Phato",
         "state": "Chumphon"
     },
+    "86190": {
+        "district": "Chumphon (Pathomphon)",
+        "state": "Chumphon"
+    },
+    "86210": {
+        "district": "Chumphon (Maab Amarit)",
+        "state": "Chumphon"
+    },
     "86220": {
         "district": "Thung Tako",
+        "state": "Chumphon"
+    },
+    "86230": {
+        "district": "Chumphon (Sapli)",
         "state": "Chumphon"
     },
     "90000": {
         "district": "Muang Songkhla",
         "state": "Songkhla"
     },
+    "90100": {
+        "district": "Songkhla (Pa Wong)",
+        "state": "Songkhla"
+    },
     "90110": {
         "district": "Hat Yai",
+        "state": "Songkhla"
+    },
+    "90115": {
+        "district": "Songkhla (HDY airport)",
         "state": "Songkhla"
     },
     "90120": {
@@ -2859,6 +3599,10 @@
         "district": "Na Thawi",
         "state": "Songkhla"
     },
+    "90170": {
+        "district": "Songkhla (Khlong Ngae)",
+        "state": "Songkhla"
+    },
     "90180": {
         "district": "Rattapum",
         "state": "Songkhla"
@@ -2879,12 +3623,32 @@
         "district": "Khlong Hoykhong",
         "state": "Songkhla"
     },
+    "90240": {
+        "district": "Songkhla (Padung Besar)",
+        "state": "Songkhla"
+    },
+    "90250": {
+        "district": "Songkhla (Baan Pru)",
+        "state": "Songkhla"
+    },
+    "90260": {
+        "district": "Songkhla (Lum Plai)",
+        "state": "Songkhla"
+    },
     "90270": {
         "district": "Krasae Sin",
         "state": "Songkhla"
     },
+    "90280": {
+        "district": "Songkhla (Singha Nakorn)",
+        "state": "Songkhla"
+    },
     "90310": {
         "district": "Na Mom",
+        "state": "Songkhla"
+    },
+    "90320": {
+        "district": "Songkhla (Baan Daan Nok)",
         "state": "Songkhla"
     },
     "90330": {
@@ -2905,6 +3669,10 @@
     },
     "91130": {
         "district": "Manung",
+        "state": "Satun"
+    },
+    "91140": {
+        "district": "Satun (Cha Lung)",
         "state": "Satun"
     },
     "91150": {
@@ -2947,6 +3715,18 @@
         "district": "Na Yong",
         "state": "Trang"
     },
+    "92180": {
+        "district": "Trang (Thung Yao)",
+        "state": "Trang"
+    },
+    "92190": {
+        "district": "Trang (Lum Pura)",
+        "state": "Trang"
+    },
+    "92210": {
+        "district": "Trang (Na wong)",
+        "state": "Trang"
+    },
     "92220": {
         "district": "Wang Wiset",
         "state": "Trang"
@@ -2971,6 +3751,10 @@
         "district": "Bang Kaeo",
         "state": "Phatthalung"
     },
+    "93150": {
+        "district": "Phatthalung (Pak Khlong)",
+        "state": "Phatthalung"
+    },
     "93160": {
         "district": "Tamot",
         "state": "Phatthalung"
@@ -2985,6 +3769,10 @@
     },
     "93190": {
         "district": "Si Ban Phot",
+        "state": "Phatthalung"
+    },
+    "93210": {
+        "district": "Pa Payom (updated)",
         "state": "Phatthalung"
     },
     "94000": {
@@ -3023,6 +3811,10 @@
         "district": "Mae Lan",
         "state": "Pattani"
     },
+    "94190": {
+        "district": "Pattani (Pa Las)",
+        "state": "Pattani"
+    },
     "94220": {
         "district": "Mai Kaen",
         "state": "Pattani"
@@ -3053,6 +3845,10 @@
     },
     "95150": {
         "district": "Than To",
+        "state": "Yala"
+    },
+    "95160": {
+        "district": "Yala (Lum Mai)",
         "state": "Yala"
     },
     "96000": {
