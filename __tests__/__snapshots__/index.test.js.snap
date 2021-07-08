@@ -5124,11 +5124,7 @@ Array [
 ]
 `;
 
-exports[`postcodejs:TH:jest Func:districtPostcodes 1`] = `
-Array [
-  "10110",
-]
-`;
+exports[`postcodejs:TH:jest Func:districtPostcodes 1`] = `Array []`;
 
 exports[`postcodejs:TH:jest Func:postcode:Number 1`] = `
 Object {
@@ -5146,6 +5142,10 @@ Object {
 
 exports[`postcodejs:TH:jest Func:statePostcodes - state array 1`] = `
 Array [
+  "10001",
+  "10002",
+  "10003",
+  "10010",
   "10100",
   "10110",
   "10120",
@@ -5161,17 +5161,20 @@ Array [
   "10250",
   "10260",
   "10300",
+  "10303",
   "10310",
   "10320",
   "10330",
   "10400",
   "10500",
+  "10501",
   "10510",
   "10520",
   "10530",
   "10600",
   "10700",
   "10800",
+  "10900",
   "18000",
   "18110",
   "18120",
@@ -5184,11 +5187,18 @@ Array [
   "18190",
   "18210",
   "18220",
+  "18230",
+  "18240",
+  "18260",
 ]
 `;
 
 exports[`postcodejs:TH:jest Func:statePostcodes 1`] = `
 Array [
+  "10001",
+  "10002",
+  "10003",
+  "10010",
   "10100",
   "10110",
   "10120",
@@ -5204,44 +5214,67 @@ Array [
   "10250",
   "10260",
   "10300",
+  "10303",
   "10310",
   "10320",
   "10330",
   "10400",
   "10500",
+  "10501",
   "10510",
   "10520",
   "10530",
   "10600",
   "10700",
   "10800",
+  "10900",
 ]
 `;
 
 exports[`postcodejs:TH:jest Func:statePostcodes withInfo - state array 1`] = `
 Array [
   Object {
-    "district": "Pom Prap Sattru Phai",
+    "district": "Don Muang",
+    "postcode": "10001",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Don Muang",
+    "postcode": "10002",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Don Muang",
+    "postcode": "10003",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Lak Si",
+    "postcode": "10010",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Khet Samphanthawong",
     "postcode": "10100",
     "state": "Bangkok",
   },
   Object {
-    "district": "Wattana",
+    "district": "Watthana",
     "postcode": "10110",
     "state": "Bangkok",
   },
   Object {
-    "district": "Yannawa",
+    "district": "Sathon",
     "postcode": "10120",
     "state": "Bangkok",
   },
   Object {
-    "district": "Thung Khru",
+    "district": "Rat Burana",
     "postcode": "10140",
     "state": "Bangkok",
   },
   Object {
-    "district": "Bang Khun Thian",
+    "district": "Bang Bon",
     "postcode": "10150",
     "state": "Bangkok",
   },
@@ -5251,7 +5284,7 @@ Array [
     "state": "Bangkok",
   },
   Object {
-    "district": "Taling Chan",
+    "district": "Thawi Watthana",
     "postcode": "10170",
     "state": "Bangkok",
   },
@@ -5266,27 +5299,27 @@ Array [
     "state": "Bangkok",
   },
   Object {
-    "district": "Bang Khen",
+    "district": "Sai Mai",
     "postcode": "10220",
     "state": "Bangkok",
   },
   Object {
-    "district": "Khanna Yao",
+    "district": "Lat Phrao",
     "postcode": "10230",
     "state": "Bangkok",
   },
   Object {
-    "district": "Saphan Sung B39",
+    "district": "Saphan Sung",
     "postcode": "10240",
     "state": "Bangkok",
   },
   Object {
-    "district": "Pra Vet",
+    "district": "Prawet",
     "postcode": "10250",
     "state": "Bangkok",
   },
   Object {
-    "district": "Phra Khanong",
+    "district": "Watthana",
     "postcode": "10260",
     "state": "Bangkok",
   },
@@ -5296,7 +5329,12 @@ Array [
     "state": "Bangkok",
   },
   Object {
-    "district": "Wangthong Lang",
+    "district": "Dusit",
+    "postcode": "10303",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Huai Khwang",
     "postcode": "10310",
     "state": "Bangkok",
   },
@@ -5306,22 +5344,27 @@ Array [
     "state": "Bangkok",
   },
   Object {
-    "district": "Pahtum Wan",
+    "district": "Pathum Wan",
     "postcode": "10330",
     "state": "Bangkok",
   },
   Object {
-    "district": "Ding Daeng",
+    "district": "Ratchathewi",
     "postcode": "10400",
     "state": "Bangkok",
   },
   Object {
-    "district": "Bang Rak",
+    "district": "Sathon",
     "postcode": "10500",
     "state": "Bangkok",
   },
   Object {
-    "district": "Khlong Samwa",
+    "district": "Bang Rak (Central Post Office)",
+    "postcode": "10501",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Min Buri",
     "postcode": "10510",
     "state": "Bangkok",
   },
@@ -5336,18 +5379,23 @@ Array [
     "state": "Bangkok",
   },
   Object {
-    "district": "Bangkok Yai",
+    "district": "Noi",
     "postcode": "10600",
     "state": "Bangkok",
   },
   Object {
-    "district": "Bangkok Noi",
+    "district": "Bang Phlat",
     "postcode": "10700",
     "state": "Bangkok",
   },
   Object {
-    "district": "Bang Su",
+    "district": "Bang Sue",
     "postcode": "10800",
+    "state": "Bangkok",
+  },
+  Object {
+    "district": "Chatuchak",
+    "postcode": "10900",
     "state": "Bangkok",
   },
   Object {
@@ -5410,6 +5458,21 @@ Array [
     "postcode": "18220",
     "state": "Saraburi",
   },
+  Object {
+    "district": "Saraburi (Hin Kong)",
+    "postcode": "18230",
+    "state": "Saraburi",
+  },
+  Object {
+    "district": "Saraburi (Pu Kae)",
+    "postcode": "18240",
+    "state": "Saraburi",
+  },
+  Object {
+    "district": "Saraburi (Tub Kwang)",
+    "postcode": "18260",
+    "state": "Saraburi",
+  },
 ]
 `;
 
@@ -5451,6 +5514,16 @@ Array [
     "state": "Chachoengsao",
   },
   Object {
+    "district": "Chachoengsao",
+    "postcode": "24170",
+    "state": "Chachoengsao",
+  },
+  Object {
+    "district": "Chachoengsao",
+    "postcode": "24180",
+    "state": "Chachoengsao",
+  },
+  Object {
     "district": "Paeng Yao",
     "postcode": "24190",
     "state": "Chachoengsao",
@@ -5464,13 +5537,16 @@ Array [
   "Samut Prakan",
   "Nonthaburi",
   "Pathum Thani",
+  "Phathum Thani",
   "Phranakhon Si Ayutthaya",
+  "Phranakhon Sie Ayutthaya",
   "Ang Thong",
   "Lopburi",
   "Singburi",
   "Chainat",
   "Saraburi",
   "Chonburi",
+  "Chon Buri",
   "Rayong",
   "Chanthaburi",
   "Trat",
@@ -5480,12 +5556,14 @@ Array [
   "Sa Kaeo",
   "Nakhon Ratchasima",
   "Burirum",
+  "Surin",
   "Sisaket",
   "Ubon Ratchathani",
   "Na Tan",
   "Yasothon",
   "Chaiyaphum",
   "Amnat Charoen",
+  "Bueng Kan",
   "Non Bua Lam Phu",
   "Khon Kaen",
   "Udon Thani",
@@ -5515,14 +5593,16 @@ Array [
   "Phichit",
   "Phetchabun",
   "Ratchaburi",
+  "Samut Sakhon",
   "Khanchanaburi",
+  "Khachanaburi",
   "Suphanburi",
   "Nakhon Pathom",
-  "Samut Sakhon",
   "Samut Songkhram",
   "Phetchaburi",
   "Prachuap Khirikhan",
   "Nakhon Sie Thammarat",
+  "Nakhon Si Thammarat",
   "Krabi",
   "Phang Nga",
   "Phuket",
