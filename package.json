@@ -1,6 +1,6 @@
 {
   "name": "postcodejs",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "A worldwide postcode description library",
   "main": "index.js",
   "types": "index.d.ts",
