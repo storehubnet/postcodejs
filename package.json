@@ -8,6 +8,9 @@
   "author": "Fan Long <cctv1237@live.com>",
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage",
